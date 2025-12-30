@@ -23,7 +23,7 @@
   --border-radius: 9999px;
   --transition-default: all 0.2s ease;
   
-  --max-width-content: 600px;
+  --max-width-content: 700px;
 }
 
 /* Reset & Base */
@@ -278,9 +278,20 @@ p {
 }
 
 .article-list__title {
+  flex: 1;
   font-size: 1rem;
   font-weight: 500;
   color: var(--color-foreground);
+}
+
+.article-list__topic {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--color-gray-400);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  text-align: right;
 }
 
 .article-list__date {
@@ -288,6 +299,8 @@ p {
   color: var(--color-gray-400);
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
+  width: 6.5rem;
+  text-align: right;
 }
 
 .article-list__empty {
