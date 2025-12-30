@@ -398,6 +398,28 @@ p {
   color: var(--color-gray-600);
 }
 
+.article__content sup {
+  font-size: 0.75rem;
+  color: var(--color-gray-400);
+}
+
+.article__divider {
+  border: none;
+  border-top: 1px solid var(--color-gray-200);
+  margin: var(--spacing-lg) 0;
+}
+
+.article__references {
+  font-size: 0.875rem;
+  color: var(--color-gray-600);
+}
+
+.article__references p {
+  font-size: 0.875rem;
+  margin-bottom: var(--spacing-xs);
+  line-height: 1.5;
+}
+
 /* Responsive */
 @media (max-width: 480px) {
   h1 {
