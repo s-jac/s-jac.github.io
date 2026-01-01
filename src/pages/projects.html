@@ -17,14 +17,49 @@
 <body>
   <div class="page-container">
     <div class="content-wrapper">
-      <!-- Page Content -->
-      <main class="page-content animate-fade-in">
-        <h1 class="page-content__title">Projects</h1>
-        <p class="page-content__text">
-          This page is under construction. Check back soon to see my portfolio of work.
-        </p>
-        <a href="../../index.html" class="back-link">Back to Home</a>
-      </main>
+      <!-- Header -->
+      <header class="header animate-fade-in">
+        <h1 class="header__title">Projects</h1>
+      </header>
+
+      <!-- Project List -->
+      <nav class="project-list" aria-label="Projects">
+
+        <a href="projects/slushsort.html" class="project-item" data-project="slushsort">
+          <span class="project-item__title">SlushSort for Publishing Houses</span>
+          <span class="project-item__info" tabindex="0">
+            i
+            <span class="project-item__tooltip">A manuscript triage system for publishing houses that uses AI to efficiently sort through submissions and identify promising works.</span>
+          </span>
+        </a>
+
+        <a href="projects/ratemybook.html" class="project-item" data-project="ratemybook">
+          <span class="project-item__title">ratemybook for Authors</span>
+          <span class="project-item__info" tabindex="0">
+            i
+            <span class="project-item__tooltip">An AI-powered tool that provides authors with detailed feedback and scoring on their manuscripts to help improve their writing.</span>
+          </span>
+        </a>
+
+        <a href="projects/whatsapp-wrapped.html" class="project-item" data-project="whatsapp-wrapped">
+          <span class="project-item__title">WhatsApp Wrapped</span>
+          <span class="project-item__info" tabindex="0">
+            i
+            <span class="project-item__tooltip">Analyze your WhatsApp chat exports to generate personalized statistics and insights about your messaging habits.</span>
+          </span>
+        </a>
+
+        <a href="projects/train-game.html" class="project-item" data-project="train-game">
+          <span class="project-item__title">Train Game</span>
+          <span class="project-item__info" tabindex="0">
+            i
+            <span class="project-item__tooltip">A strategy-based board game simulation where players build railway networks and compete for the most efficient routes.</span>
+          </span>
+        </a>
+
+      </nav>
+
+      <a href="../../index.html" class="back-link">Back to Home</a>
     </div>
   </div>
 
@@ -34,6 +69,8 @@
       <span class="footer__copyright">© 2025 Sam Jacobs</span>
     </div>
   </footer>
+
+  <!-- Shared project data (updates content if available) -->
+  <script src="../js/projects-data.js"></script>
 </body>
 </html>
-
