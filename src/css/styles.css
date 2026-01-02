@@ -534,6 +534,140 @@ p {
 .project-item:nth-child(4) { animation-delay: 0.25s; }
 .project-item:nth-child(5) { animation-delay: 0.3s; }
 
+/* Book Review Pills */
+.review-list {
+  width: 100%;
+  max-width: var(--max-width-content);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-lg) 0;
+}
+
+.review-pill {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  text-decoration: none;
+  border: 2px solid var(--color-foreground);
+  border-radius: var(--border-radius);
+  transition: var(--transition-default);
+  text-align: left;
+}
+
+.review-pill:hover {
+  background-color: var(--color-foreground);
+  color: var(--color-background);
+}
+
+.review-pill:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-400);
+}
+
+.review-pill__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--spacing-sm);
+  width: 100%;
+}
+
+.review-pill__title {
+  font-size: 1rem;
+  font-weight: 500;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.review-pill__date {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--color-gray-400);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.review-pill:hover .review-pill__date {
+  color: var(--color-gray-200);
+}
+
+.review-pill__author {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--color-gray-600);
+  margin-top: 0.125rem;
+}
+
+.review-pill:hover .review-pill__author {
+  color: var(--color-gray-200);
+}
+
+/* Staggered animation for review pills */
+.review-pill {
+  animation: fade-in 0.4s ease-out backwards;
+}
+
+.review-pill:nth-child(1) { animation-delay: 0.1s; }
+.review-pill:nth-child(2) { animation-delay: 0.15s; }
+.review-pill:nth-child(3) { animation-delay: 0.2s; }
+.review-pill:nth-child(4) { animation-delay: 0.25s; }
+.review-pill:nth-child(5) { animation-delay: 0.3s; }
+.review-pill:nth-child(6) { animation-delay: 0.35s; }
+.review-pill:nth-child(7) { animation-delay: 0.4s; }
+.review-pill:nth-child(8) { animation-delay: 0.45s; }
+.review-pill:nth-child(9) { animation-delay: 0.5s; }
+.review-pill:nth-child(10) { animation-delay: 0.55s; }
+.review-pill:nth-child(11) { animation-delay: 0.6s; }
+.review-pill:nth-child(12) { animation-delay: 0.65s; }
+
+/* Book Review Article Styles */
+.book-review__meta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  margin-bottom: var(--spacing-xs);
+}
+
+.book-review__author {
+  font-size: 1.125rem;
+  color: var(--color-gray-600);
+  font-weight: 400;
+}
+
+.book-review__rating {
+  font-size: 1.25rem;
+  letter-spacing: 0.1em;
+  color: var(--color-foreground);
+}
+
+/* Read count link */
+.read-count-link {
+  color: var(--color-gray-600);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-size: 1.125rem;
+  font-weight: 400;
+  transition: var(--transition-default);
+}
+
+.read-count-link:hover {
+  color: var(--color-foreground);
+}
+
+/* Reviews note */
+.reviews-note {
+  text-align: center;
+  margin-top: var(--spacing-sm);
+}
+
 /* Responsive */
 @media (max-width: 480px) {
   h1 {
@@ -547,6 +681,20 @@ p {
   .footer__content {
     flex-direction: column;
     gap: var(--spacing-sm);
+  }
+  
+  .review-pill__header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+  
+  .review-pill__title {
+    white-space: normal;
+  }
+  
+  .review-pill__date {
+    font-size: 0.7rem;
   }
 }
 
