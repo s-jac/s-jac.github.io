@@ -17,12 +17,17 @@
 </head>
 <body data-project="ratemybook">
   <div class="page-container">
-    <div class="content-wrapper ratemybook-wrapper">
+    <div class="content-wrapper">
       
       <!-- Header -->
       <header class="ratemybook-header animate-fade-in">
         <h1 class="ratemybook-header__title">ratemybook</h1>
         <p class="ratemybook-header__subtitle">score and get feedback on your manuscript for free</p>
+        <p class="ratemybook-header__disclaimer">
+          By uploading, you agree that your file will be processed by Google Gemini. 
+          Your manuscript is subject to <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Gemini API Terms of Service</a>. 
+          We do not store your files.
+        </p>
       </header>
 
       <!-- Upload Section -->
@@ -43,7 +48,8 @@
           <p class="dropzone__formats">Supports TXT, PDF, and DOC files</p>
         </div>
         <div class="demo-section">
-          <button class="demo-button" onclick="runDemo()">Demo without uploading</button>
+          <button class="demo-button" onclick="runDemo()" title="See an example of what feedback looks like without uploading a file">Demo without uploading</button>
+          <span class="demo-tooltip">Preview sample feedback without uploading anything</span>
         </div>
       </section>
 

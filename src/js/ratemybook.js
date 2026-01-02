@@ -164,23 +164,29 @@ function resetUpload() {
 function runDemo() {
   const demoResult = {
     score: 72,
-    strengths: `**Strong narrative voice** that draws readers in from the first page. The protagonist's internal monologue feels authentic and relatable.
+    strengths: `**Evelyn's narrative voice is immediately compelling.** Her dry wit in the opening chapter—"The lighthouse had been dark for seventeen years, which was approximately how long I'd been avoiding my mother's phone calls"—establishes both character and tone effectively. This voice remains consistent throughout.
 
-**Well-developed setting** with vivid sensory details. The world-building is immersive without overwhelming the reader.
+**The coastal Maine setting comes alive through sensory details.** The descriptions of fog rolling in "like a slow exhale," the smell of salt and rotting seaweed, and the constant cry of gulls create an atmospheric backdrop that mirrors Evelyn's emotional state. Chapter 4's storm sequence is particularly visceral.
 
-**Compelling dialogue** that reveals character and advances plot simultaneously. Each character has a distinct voice.`,
-    weaknesses: `**Pacing issues in the middle act** — chapters 8-12 feel slower than the rest. Consider tightening scenes or adding more tension.
+**The central mystery is well-constructed.** The revelation about Evelyn's father's disappearance unfolds at a measured pace, with each clue building naturally on the last. The red herring involving the harbormaster was especially effective—most readers won't see the actual twist coming.
 
-**Secondary characters need more depth.** Sarah and Marcus feel like plot devices rather than fully realized people.
+**Dialogue between Evelyn and her estranged sister Margot crackles with tension.** Their conversations reveal years of resentment without resorting to exposition. The kitchen confrontation in Chapter 9 is a standout scene.`,
+    weaknesses: `**The pacing sags considerably in Chapters 8-12.** After the strong opening act, Evelyn's investigation stalls while she processes her feelings about returning home. Consider cutting the two flashback scenes to her college years—they don't add information we don't already have.
 
-**Some exposition dumps** in chapters 3 and 7 could be woven more naturally into action or dialogue.`,
-    next_steps: `1. **Revise the middle section** focusing on pacing. Cut or combine scenes that don't advance character or plot.
+**Margot needs more dimension.** Currently she functions primarily as an obstacle to Evelyn. We're told she stayed behind to care for their mother, but we never see her perspective on this sacrifice. Even one scene from her point of view could transform her from antagonist to complex sibling.
 
-2. **Give secondary characters their own goals** that sometimes conflict with the protagonist.
+**The romance subplot with the bookshop owner, Daniel, feels underdeveloped.** He appears in three scenes but has no arc of his own. Either expand his role or consider cutting it entirely—the story is strong enough without a romantic element.
 
-3. **Show don't tell** — convert exposition paragraphs into scenes where possible.
+**Some exposition in Chapters 3 and 7 disrupts the narrative flow.** The two-page history of the lighthouse reads like a Wikipedia article. This information could be woven into dialogue or discovered through Evelyn's investigation.`,
+    next_steps: `• **Tighten the middle act** by cutting or combining scenes in Chapters 8-12. Aim to reduce this section by 15-20%. Every scene should either advance the mystery or deepen a key relationship.
 
-4. **Consider beta readers** for the next draft to get fresh perspectives on pacing.`
+• **Add one POV chapter from Margot's perspective,** perhaps placed around Chapter 6. Show us the weight of the choices she's made and what she's sacrificed.
+
+• **Either develop Daniel into a full character or remove him.** If you keep him, give him a secret that connects to the main mystery—perhaps he knew something about Evelyn's father.
+
+• **Convert the lighthouse history into a discovered document**—maybe old newspaper clippings Evelyn finds in the attic, or stories told by an elderly neighbor. This makes the exposition active rather than passive.
+
+• **Consider adding a ticking clock element** to the middle act. Perhaps the lighthouse is scheduled for demolition, or Evelyn has a deadline to return to her life in Boston. External pressure will help maintain momentum.`
   };
 
   showResults(demoResult);
@@ -205,29 +211,73 @@ function formatMarkdown(text) {
   html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
   html = html.replace(/_(.*?)_/g, '<em>$1</em>');
   
-  // Line breaks to paragraphs
+  // Split into paragraphs
   const paragraphs = html.split(/\n\n+/);
-  html = paragraphs
-    .map(p => p.trim())
-    .filter(p => p.length > 0)
-    .map(p => {
-      // Check if it's a list item
-      if (p.match(/^[-•]\s/)) {
-        const items = p.split(/\n/).map(item => 
-          `<li>${item.replace(/^[-•]\s/, '')}</li>`
-        ).join('');
-        return `<ul>${items}</ul>`;
+  
+  // Group consecutive list items together
+  const processed = [];
+  let currentList = null;
+  let listType = null;
+  
+  paragraphs.forEach(p => {
+    p = p.trim();
+    if (!p) return;
+    
+    // Check if it starts with bullet
+    if (p.match(/^[-•]\s/)) {
+      if (listType !== 'ul') {
+        if (currentList) processed.push(currentList);
+        currentList = { type: 'ul', items: [] };
+        listType = 'ul';
       }
-      // Check if it's a numbered list
-      if (p.match(/^\d+\.\s/)) {
-        const items = p.split(/\n/).map(item => 
-          `<li>${item.replace(/^\d+\.\s/, '')}</li>`
-        ).join('');
-        return `<ol>${items}</ol>`;
+      // Split by newlines and add each line as item
+      p.split(/\n/).forEach(line => {
+        line = line.trim();
+        if (line.match(/^[-•]\s/)) {
+          currentList.items.push(line.replace(/^[-•]\s/, ''));
+        }
+      });
+    }
+    // Check if it starts with number
+    else if (p.match(/^[\d]+[\.\)]\s/) || p.match(/^•\s/)) {
+      if (listType !== 'ul') {
+        if (currentList) processed.push(currentList);
+        currentList = { type: 'ul', items: [] };
+        listType = 'ul';
       }
-      return `<p>${p.replace(/\n/g, '<br>')}</p>`;
-    })
-    .join('');
+      p.split(/\n/).forEach(line => {
+        line = line.trim();
+        if (line.match(/^[\d]+[\.\)]\s/)) {
+          currentList.items.push(line.replace(/^[\d]+[\.\)]\s/, ''));
+        } else if (line.match(/^•\s/)) {
+          currentList.items.push(line.replace(/^•\s/, ''));
+        }
+      });
+    }
+    // Regular paragraph
+    else {
+      if (currentList) {
+        processed.push(currentList);
+        currentList = null;
+        listType = null;
+      }
+      processed.push({ type: 'p', content: p.replace(/\n/g, '<br>') });
+    }
+  });
+  
+  // Don't forget the last list
+  if (currentList) processed.push(currentList);
+  
+  // Convert to HTML
+  html = processed.map(item => {
+    if (item.type === 'ul') {
+      return '<ul>' + item.items.map(i => `<li>${i}</li>`).join('') + '</ul>';
+    } else if (item.type === 'ol') {
+      return '<ol>' + item.items.map(i => `<li>${i}</li>`).join('') + '</ol>';
+    } else {
+      return `<p>${item.content}</p>`;
+    }
+  }).join('');
   
   return html;
 }

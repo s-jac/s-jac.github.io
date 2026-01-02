@@ -1,9 +1,10 @@
 /* ratemybook Specific Styles */
 
-/* Wrapper override for ratemybook */
-.ratemybook-wrapper {
-  max-width: 900px !important;
+/* Wrapper override for ratemybook - must override base styles */
+body[data-project="ratemybook"] .content-wrapper {
+  max-width: 1100px;
   width: 100%;
+  padding: 0 var(--spacing-md);
 }
 
 /* Utility */
@@ -30,6 +31,27 @@
   font-weight: 300;
 }
 
+.ratemybook-header__disclaimer {
+  font-size: 0.75rem;
+  color: var(--color-gray-400);
+  font-weight: 300;
+  margin-top: var(--spacing-sm);
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5;
+}
+
+.ratemybook-header__disclaimer a {
+  color: var(--color-gray-400);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.ratemybook-header__disclaimer a:hover {
+  color: var(--color-foreground);
+}
+
 /* Dropzone */
 .dropzone {
   position: relative;
@@ -37,14 +59,21 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  min-width: 100%;
+  box-sizing: border-box;
+  width: 900px !important;
+  max-width: 100vw !important;
   height: 400px;
   margin: var(--spacing-lg) auto;
   border: 2px dashed var(--color-gray-200);
-  border-radius: var(--border-radius);
+  border-radius: 12px;
   cursor: pointer;
   transition: var(--transition-default);
+}
+
+@media (max-width: 950px) {
+  .dropzone {
+    width: calc(100vw - 3rem) !important;
+  }
 }
 
 .dropzone:hover {
@@ -243,6 +272,7 @@
 .demo-section {
   text-align: center;
   margin-top: var(--spacing-md);
+  position: relative;
 }
 
 .demo-button {
@@ -261,5 +291,20 @@
 
 .demo-button:hover {
   color: var(--color-foreground);
+}
+
+.demo-button:hover + .demo-tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+.demo-tooltip {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--color-gray-400);
+  margin-top: var(--spacing-xs);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
 }
 
