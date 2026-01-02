@@ -1,14 +1,7 @@
 // SlushSort - Manuscript Triage for Publishing Houses
 // ====================================================
 
-// Config - detect environment from hostname
-const isLocalhost = ['localhost', '127.0.0.1', '[::]', '::1'].includes(window.location.hostname);
-
-const API_BASE = isLocalhost 
-  ? 'http://localhost:3000'
-  : 'https://portfolio-backend-8mav.onrender.com';
-
-const API_URL = `${API_BASE}/slushsort`;
+const API_URL = `${CONFIG.API_BASE}/slushsort`;
 
 // State
 let isUploading = false;
@@ -226,7 +219,7 @@ async function wakeServer() {
   btn.disabled = true;
   
   try {
-    await fetch(`${API_BASE}/health`, { method: 'GET' });
+    await fetch(`${CONFIG.API_BASE}/health`, { method: 'GET' });
     btn.textContent = 'Ready!';
     btn.classList.add('wake-button--success');
     setTimeout(() => {
