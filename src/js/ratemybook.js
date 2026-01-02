@@ -161,6 +161,31 @@ function resetUpload() {
   uploadSection.classList.remove('hidden');
 }
 
+// Wake up the backend server (handles Render cold starts)
+async function wakeServer() {
+  const btn = document.getElementById('wake-btn');
+  const originalText = btn.textContent;
+  btn.textContent = 'Waking...';
+  btn.disabled = true;
+  
+  try {
+    await fetch(`${API_URL}/health`, { method: 'GET' });
+    btn.textContent = 'Ready!';
+    btn.classList.add('wake-button--success');
+    setTimeout(() => {
+      btn.textContent = originalText;
+      btn.disabled = false;
+      btn.classList.remove('wake-button--success');
+    }, 3000);
+  } catch (err) {
+    btn.textContent = 'Failed';
+    setTimeout(() => {
+      btn.textContent = originalText;
+      btn.disabled = false;
+    }, 2000);
+  }
+}
+
 // Demo mode - shows example results without backend
 function runDemo() {
   const demoResult = {

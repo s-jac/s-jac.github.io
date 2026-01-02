@@ -308,3 +308,31 @@ body[data-project="ratemybook"] .content-wrapper {
   transition: opacity 0.2s ease, visibility 0.2s ease;
 }
 
+/* Wake Server Button */
+.wake-button {
+  padding: var(--spacing-xs) var(--spacing-md);
+  font-size: 0.875rem;
+  font-weight: 400;
+  font-family: var(--font-family);
+  color: var(--color-gray-400);
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: var(--transition-default);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.wake-button:hover {
+  color: var(--color-foreground);
+}
+
+.wake-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.wake-button--success {
+  color: #166534;
+}
+
