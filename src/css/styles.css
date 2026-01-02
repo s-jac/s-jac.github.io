@@ -586,15 +586,15 @@ p {
   white-space: nowrap;
 }
 
-.review-pill__date {
-  font-size: 0.75rem;
+.review-pill__rating {
+  font-size: 0.875rem;
   font-weight: 400;
-  color: var(--color-gray-400);
+  color: var(--color-gray-600);
   white-space: nowrap;
-  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.05em;
 }
 
-.review-pill:hover .review-pill__date {
+.review-pill:hover .review-pill__rating {
   color: var(--color-gray-200);
 }
 
@@ -660,6 +660,14 @@ p {
 
 .read-count-link:hover {
   color: var(--color-foreground);
+}
+
+/* Header description */
+.header__description {
+  font-size: 1rem;
+  color: var(--color-gray-600);
+  font-weight: 300;
+  margin-top: var(--spacing-sm);
 }
 
 /* Reviews note */
