@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="SlushSort for Publishing Houses - Sam Jacobs">
-  <title>SlushSort for Publishing Houses | Sam Jacobs</title>
+  <meta name="description" content="SlushSort - AI-powered manuscript triage for publishing houses">
+  <title>SlushSort | Sam Jacobs</title>
   
   <!-- Google Fonts - Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,23 +13,119 @@
   
   <!-- Styles -->
   <link rel="stylesheet" href="../../css/styles.css">
+  <link rel="stylesheet" href="../../css/slushsort.css">
 </head>
 <body data-project="slushsort">
   <div class="page-container">
     <div class="content-wrapper">
-      <!-- Article -->
-      <article class="article animate-fade-in">
-        <header class="article__header">
-          <h1 class="article__title"></h1>
-        </header>
+      
+      <!-- Header -->
+      <header class="slushsort-header animate-fade-in">
+        <h1 class="slushsort-header__title">SlushSort</h1>
+        <p class="slushsort-header__subtitle">AI-powered manuscript triage for publishing houses</p>
+        <p class="slushsort-header__disclaimer">
+          By uploading, you agree that your file will be processed by Google Gemini. 
+          Manuscripts are subject to <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Gemini API Terms of Service</a>. 
+          We do not store submitted files.
+        </p>
+      </header>
 
-        <div class="article__content">
-          <p class="article__description"></p>
-
-          <!-- Add more project-specific content below -->
-          
+      <!-- Upload Section -->
+      <section id="upload-section" class="animate-fade-in">
+        <div id="dropzone" class="dropzone">
+          <input 
+            type="file" 
+            id="file-input" 
+            class="dropzone__input"
+            accept=".txt,.pdf,.doc,.docx"
+          >
+          <svg class="dropzone__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                  d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+          </svg>
+          <p class="dropzone__text">Drop manuscript here for triage</p>
+          <p class="dropzone__subtext">or click to browse</p>
+          <p class="dropzone__formats">Supports TXT, PDF, and DOC files</p>
         </div>
-      </article>
+        <div class="demo-section">
+          <button class="demo-button" onclick="runDemo()" title="See an example triage report without uploading a file">Demo without uploading</button>
+          <span class="demo-tooltip">Preview sample triage report without uploading anything</span>
+        </div>
+      </section>
+
+      <!-- Loading Section -->
+      <section id="loading-section" class="loading hidden">
+        <div class="loading__spinner"></div>
+        <p class="loading__text">Analyzing manuscript...</p>
+      </section>
+
+      <!-- Error Section -->
+      <section id="error-section" class="error hidden">
+        <p class="error__message" id="error-message"></p>
+      </section>
+
+      <!-- Results Section -->
+      <section id="results-section" class="results hidden">
+        
+        <!-- Overall Score & Recommendation -->
+        <div class="results__overall">
+          <div class="results__overall-score" id="overall-score">--</div>
+          <div class="results__overall-label">Overall Score</div>
+          <div class="results__recommendation results__recommendation--request" id="recommendation">--</div>
+        </div>
+
+        <!-- Metadata -->
+        <div class="results__metadata">
+          <div class="metadata-item">
+            <span class="metadata-item__label">Word Count</span>
+            <span class="metadata-item__value" id="word-count">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Approx. Pages</span>
+            <span class="metadata-item__value" id="page-count">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Genre(s)</span>
+            <span class="metadata-item__value" id="genres">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Key Themes</span>
+            <span class="metadata-item__value" id="themes">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Target Audience</span>
+            <span class="metadata-item__value" id="target-audience">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Comp Titles</span>
+            <span class="metadata-item__value" id="comp-titles">--</span>
+          </div>
+        </div>
+
+        <!-- Scores Grid -->
+        <div class="results__scores">
+          <h2 class="results__scores-title">Detailed Scoring</h2>
+          <div class="scores-grid" id="scores-grid">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+
+        <!-- Recommendation Details -->
+        <div class="results__recommendation-section">
+          <h2 class="results__recommendation-title">Acquisition Notes</h2>
+          <div class="results__recommendation-content" id="recommendation-text"></div>
+        </div>
+
+        <!-- Summary -->
+        <div class="results__summary">
+          <h2 class="results__summary-title">Manuscript Summary</h2>
+          <div class="results__summary-content" id="summary-content"></div>
+        </div>
+
+        <div class="results__reset">
+          <button class="reset-button" onclick="resetUpload()">Analyze Another</button>
+        </div>
+      </section>
 
       <a href="../projects.html" class="back-link">Back to Projects</a>
     </div>
@@ -42,8 +138,7 @@
     </div>
   </footer>
 
-  <!-- Shared project data -->
-  <script src="../../js/projects-data.js"></script>
+  <!-- SlushSort JS -->
+  <script src="../../js/slushsort.js"></script>
 </body>
 </html>
-
