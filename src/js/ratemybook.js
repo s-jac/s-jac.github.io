@@ -7,19 +7,22 @@ const API_URL = 'https://portfolio-backend-8mav.onrender.com/ratemybook';
 let isUploading = false;
 let currentResult = null;
 
-// DOM Elements
-const uploadSection = document.getElementById('upload-section');
-const resultsSection = document.getElementById('results-section');
-const loadingSection = document.getElementById('loading-section');
-const errorSection = document.getElementById('error-section');
-const dropzone = document.getElementById('dropzone');
-const fileInput = document.getElementById('file-input');
-const errorMessage = document.getElementById('error-message');
+// DOM Elements (initialized on DOMContentLoaded)
+let uploadSection, resultsSection, loadingSection, errorSection, dropzone, fileInput, errorMessage;
 
 // Initialize
 document.addEventListener('DOMContentLoaded', init);
 
 function init() {
+  // Get DOM elements after page loads
+  uploadSection = document.getElementById('upload-section');
+  resultsSection = document.getElementById('results-section');
+  loadingSection = document.getElementById('loading-section');
+  errorSection = document.getElementById('error-section');
+  dropzone = document.getElementById('dropzone');
+  fileInput = document.getElementById('file-input');
+  errorMessage = document.getElementById('error-message');
+  
   setupDropzone();
   setupFileInput();
 }
