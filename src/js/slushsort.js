@@ -33,7 +33,7 @@ function setupDropzone() {
   dropzone.addEventListener('dragleave', handleDragOut);
   dropzone.addEventListener('dragover', handleDragOver);
   dropzone.addEventListener('drop', handleDrop);
-  dropzone.addEventListener('click', () => fileInput.click());
+  // Note: File input already covers dropzone, so no click handler needed
 }
 
 function handleDragOver(e) {
