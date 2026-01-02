@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="ratemybook for Authors - Sam Jacobs">
-  <title>ratemybook for Authors | Sam Jacobs</title>
+  <meta name="description" content="ratemybook - Score and get feedback on your manuscript for free">
+  <title>ratemybook | Sam Jacobs</title>
   
   <!-- Google Fonts - Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,23 +13,74 @@
   
   <!-- Styles -->
   <link rel="stylesheet" href="../../css/styles.css">
+  <link rel="stylesheet" href="../../css/ratemybook.css">
 </head>
 <body data-project="ratemybook">
   <div class="page-container">
-    <div class="content-wrapper">
-      <!-- Article -->
-      <article class="article animate-fade-in">
-        <header class="article__header">
-          <h1 class="article__title"></h1>
-        </header>
+    <div class="content-wrapper" style="max-width: 1000px;">
+      
+      <!-- Header -->
+      <header class="ratemybook-header animate-fade-in">
+        <h1 class="ratemybook-header__title">ratemybook</h1>
+        <p class="ratemybook-header__subtitle">score and get feedback on your manuscript for free</p>
+      </header>
 
-        <div class="article__content">
-          <p class="article__description"></p>
-
-          <!-- Add more project-specific content below -->
-          
+      <!-- Upload Section -->
+      <section id="upload-section" class="animate-fade-in">
+        <div id="dropzone" class="dropzone">
+          <input 
+            type="file" 
+            id="file-input" 
+            class="dropzone__input"
+            accept=".txt,.pdf,.doc,.docx"
+          >
+          <svg class="dropzone__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                  d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+          </svg>
+          <p class="dropzone__text">Drag and drop your manuscript here</p>
+          <p class="dropzone__subtext">or click to browse</p>
+          <p class="dropzone__formats">Supports TXT, PDF, and DOC files</p>
         </div>
-      </article>
+      </section>
+
+      <!-- Loading Section -->
+      <section id="loading-section" class="loading hidden">
+        <div class="loading__spinner"></div>
+        <p class="loading__text">Analyzing your manuscript...</p>
+      </section>
+
+      <!-- Error Section -->
+      <section id="error-section" class="error hidden">
+        <p class="error__message" id="error-message"></p>
+      </section>
+
+      <!-- Results Section -->
+      <section id="results-section" class="results hidden">
+        <div class="results__score">
+          <div class="results__score-value" id="score-value">--</div>
+          <div class="results__score-label">out of 100</div>
+        </div>
+
+        <div class="results__columns">
+          <div class="results__column">
+            <h2 class="results__column-title">Strengths</h2>
+            <div class="results__column-content" id="strengths-content"></div>
+          </div>
+          <div class="results__column">
+            <h2 class="results__column-title">Areas for Improvement</h2>
+            <div class="results__column-content" id="weaknesses-content"></div>
+          </div>
+          <div class="results__column">
+            <h2 class="results__column-title">Next Steps</h2>
+            <div class="results__column-content" id="nextsteps-content"></div>
+          </div>
+        </div>
+
+        <div class="results__reset">
+          <button class="reset-button" onclick="resetUpload()">Upload Another</button>
+        </div>
+      </section>
 
       <a href="../projects.html" class="back-link">Back to Projects</a>
     </div>
@@ -42,8 +93,7 @@
     </div>
   </footer>
 
-  <!-- Shared project data -->
-  <script src="../../js/projects-data.js"></script>
+  <!-- ratemybook JS -->
+  <script src="../../js/ratemybook.js"></script>
 </body>
 </html>
-
