@@ -1,20 +1,20 @@
 // Shared project data - edit descriptions here to update everywhere
 const PROJECTS = {
-  'train-game': {
-    title: 'Train Game Solver',
-    description: "JS-based UI generating all possible solutions to the popular Sydney 'train game'."
-  },
-  'whatsapp-wrapped': {
-    title: 'WhatsApp Wrapped',
-    description: 'Analyze your WhatsApp chat exports to generate personalized statistics and insights about your messaging habits.'
+  'slushsort': {
+    title: 'SlushSort for Publishing Houses',
+    description: 'A manuscript triage system for publishing houses that uses AI to efficiently sort through submissions and identify promising works.'
   },
   'ratemybook': {
     title: 'ratemybook for Authors',
     description: 'An AI-powered tool that provides authors with detailed feedback and scoring on their manuscripts to help improve their writing.'
   },
-  'slushsort': {
-    title: 'SlushSort for Publishing Houses',
-    description: 'A manuscript triage system for publishing houses that uses AI to efficiently sort through submissions and identify promising works.'
+  'whatsapp-wrapped': {
+    title: 'WhatsApp Wrapped',
+    description: 'Analyze your WhatsApp chat exports to generate personalized statistics and insights about your messaging habits.'
+  },
+  'train-game': {
+    title: 'Train Game Solver',
+    description: "JS-based UI generating all possible solutions to the popular Sydney 'train game'."
   }
 };
 
