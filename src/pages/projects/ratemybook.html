@@ -17,7 +17,7 @@
 </head>
 <body data-project="ratemybook">
   <div class="page-container">
-    <div class="content-wrapper" style="max-width: 1000px;">
+    <div class="content-wrapper ratemybook-wrapper">
       
       <!-- Header -->
       <header class="ratemybook-header animate-fade-in">
@@ -42,6 +42,9 @@
           <p class="dropzone__subtext">or click to browse</p>
           <p class="dropzone__formats">Supports TXT, PDF, and DOC files</p>
         </div>
+        <div class="demo-section">
+          <button class="demo-button" onclick="runDemo()">Demo without uploading</button>
+        </div>
       </section>
 
       <!-- Loading Section -->
@@ -62,18 +65,20 @@
           <div class="results__score-label">out of 100</div>
         </div>
 
-        <div class="results__columns">
-          <div class="results__column">
-            <h2 class="results__column-title">Strengths</h2>
-            <div class="results__column-content" id="strengths-content"></div>
+        <div class="results__feedback">
+          <div class="results__section">
+            <h2 class="results__section-title">Strengths</h2>
+            <div class="results__section-content" id="strengths-content"></div>
           </div>
-          <div class="results__column">
-            <h2 class="results__column-title">Areas for Improvement</h2>
-            <div class="results__column-content" id="weaknesses-content"></div>
+          
+          <div class="results__section">
+            <h2 class="results__section-title">Areas for Improvement</h2>
+            <div class="results__section-content" id="weaknesses-content"></div>
           </div>
-          <div class="results__column">
-            <h2 class="results__column-title">Next Steps</h2>
-            <div class="results__column-content" id="nextsteps-content"></div>
+          
+          <div class="results__section">
+            <h2 class="results__section-title">Next Steps</h2>
+            <div class="results__section-content" id="nextsteps-content"></div>
           </div>
         </div>
 

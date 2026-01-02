@@ -160,6 +160,32 @@ function resetUpload() {
   uploadSection.classList.remove('hidden');
 }
 
+// Demo mode - shows example results without backend
+function runDemo() {
+  const demoResult = {
+    score: 72,
+    strengths: `**Strong narrative voice** that draws readers in from the first page. The protagonist's internal monologue feels authentic and relatable.
+
+**Well-developed setting** with vivid sensory details. The world-building is immersive without overwhelming the reader.
+
+**Compelling dialogue** that reveals character and advances plot simultaneously. Each character has a distinct voice.`,
+    weaknesses: `**Pacing issues in the middle act** — chapters 8-12 feel slower than the rest. Consider tightening scenes or adding more tension.
+
+**Secondary characters need more depth.** Sarah and Marcus feel like plot devices rather than fully realized people.
+
+**Some exposition dumps** in chapters 3 and 7 could be woven more naturally into action or dialogue.`,
+    next_steps: `1. **Revise the middle section** focusing on pacing. Cut or combine scenes that don't advance character or plot.
+
+2. **Give secondary characters their own goals** that sometimes conflict with the protagonist.
+
+3. **Show don't tell** — convert exposition paragraphs into scenes where possible.
+
+4. **Consider beta readers** for the next draft to get fresh perspectives on pacing.`
+  };
+
+  showResults(demoResult);
+}
+
 // Simple markdown to HTML converter
 function formatMarkdown(text) {
   if (!text) return '';
