@@ -1,9 +1,7 @@
 // SlushSort - Manuscript Triage for Publishing Houses
 // ====================================================
 
-// TODO: Update this URL when backend is deployed to Vercel
-// Example: 'https://slushsort-backend.vercel.app'
-const API_URL = 'http://localhost:8001';
+const API_URL = 'https://portfolio-backend-8mav.onrender.com/slushsort';
 
 // State
 let isUploading = false;

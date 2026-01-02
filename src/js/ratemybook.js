@@ -1,9 +1,7 @@
 // ratemybook - Manuscript Analysis Tool
 // =====================================
 
-// TODO: Update this URL when backend is deployed to Vercel
-// Example: 'https://your-backend.vercel.app'
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://portfolio-backend-8mav.onrender.com/ratemybook';
 
 // State
 let isUploading = false;
