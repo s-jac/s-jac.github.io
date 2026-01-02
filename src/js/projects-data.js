@@ -1,8 +1,8 @@
 // Shared project data - edit descriptions here to update everywhere
 const PROJECTS = {
   'train-game': {
-    title: 'Train Game',
-    description: 'A strategy-based board game simulation where players build railway networks and compete for the most efficient routes.'
+    title: 'Train Game Solver',
+    description: "JS-based UI generating all possible solutions to the popular Sydney 'train game'."
   },
   'whatsapp-wrapped': {
     title: 'WhatsApp Wrapped',
