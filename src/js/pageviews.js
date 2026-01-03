@@ -16,8 +16,9 @@
     const path = window.location.pathname;
     
     try {
+      // Note: GoatCounter expects the path without encoding slashes
       const response = await fetch(
-        `https://${GOATCOUNTER_SITE}/counter/${encodeURIComponent(path)}.json`
+        `https://${GOATCOUNTER_SITE}/counter/${path}.json`
       );
       
       if (!response.ok) return null;
