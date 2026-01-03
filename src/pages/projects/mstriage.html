@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MsTriage - AI-powered manuscript triage for publishing houses">
+  <title>MsTriage | Sam Jacobs</title>
+  
+  <!-- Google Fonts - Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="../../css/styles.css">
+  <link rel="stylesheet" href="../../css/mstriage.css">
+</head>
+<body data-project="mstriage">
+  <div class="page-container">
+    <div class="content-wrapper">
+      
+      <!-- Header -->
+      <header class="mstriage-header animate-fade-in">
+        <h1 class="mstriage-header__title">Manuscript Triage</h1>
+        <p class="mstriage-header__subtitle">Manuscript triage for publishing houses</p>
+        <p class="mstriage-header__disclaimer">
+          By uploading, you agree that your file will be processed by Google Gemini. 
+          Manuscripts are subject to <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Gemini API Terms of Service</a>. 
+          We do not store submitted files.
+        </p>
+      </header>
+
+      <!-- Upload Section -->
+      <section id="upload-section" class="animate-fade-in">
+        <div id="dropzone" class="dropzone">
+          <input 
+            type="file" 
+            id="file-input" 
+            class="dropzone__input"
+            accept=".txt,.pdf,.doc,.docx"
+          >
+          <svg class="dropzone__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                  d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+          </svg>
+          <p class="dropzone__text">Drop manuscript here for triage</p>
+          <p class="dropzone__subtext">or click to browse</p>
+          <p class="dropzone__formats">Supports TXT, PDF, and DOC files</p>
+        </div>
+        <div class="demo-section">
+          <button class="demo-button" onclick="runDemo()" title="See an example triage report without uploading a file">Demo without uploading</button>
+          <button id="wake-btn" class="wake-button" onclick="wakeServer()" title="Pre-warm the server to reduce wait time">Wake server</button>
+          <span class="demo-tooltip">Preview sample triage report without uploading anything</span>
+        </div>
+      </section>
+
+      <!-- Loading Section -->
+      <section id="loading-section" class="loading hidden">
+        <div class="loading__spinner"></div>
+        <p class="loading__text">Analyzing manuscript...</p>
+      </section>
+
+      <!-- Error Section -->
+      <section id="error-section" class="error hidden">
+        <p class="error__message" id="error-message"></p>
+      </section>
+
+      <!-- Results Section -->
+      <section id="results-section" class="results hidden">
+        
+        <!-- Overall Score & Recommendation -->
+        <div class="results__overall">
+          <div class="results__overall-score" id="overall-score">--</div>
+          <div class="results__overall-label">Overall Score</div>
+          <div class="results__recommendation results__recommendation--request" id="recommendation">--</div>
+        </div>
+
+        <!-- Metadata -->
+        <div class="results__metadata">
+          <div class="metadata-item">
+            <span class="metadata-item__label">Word Count</span>
+            <span class="metadata-item__value" id="word-count">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Approx. Pages</span>
+            <span class="metadata-item__value" id="page-count">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Genre(s)</span>
+            <span class="metadata-item__value" id="genres">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Key Themes</span>
+            <span class="metadata-item__value" id="themes">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Target Audience</span>
+            <span class="metadata-item__value" id="target-audience">--</span>
+          </div>
+          <div class="metadata-item">
+            <span class="metadata-item__label">Comp Titles</span>
+            <span class="metadata-item__value" id="comp-titles">--</span>
+          </div>
+        </div>
+
+        <!-- Scores Grid -->
+        <div class="results__scores">
+          <h2 class="results__scores-title">Detailed Scoring</h2>
+          <div class="scores-grid" id="scores-grid">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+
+        <!-- Recommendation Details -->
+        <div class="results__recommendation-section">
+          <h2 class="results__recommendation-title">Acquisition Notes</h2>
+          <div class="results__recommendation-content" id="recommendation-text"></div>
+        </div>
+
+        <!-- Summary -->
+        <div class="results__summary">
+          <h2 class="results__summary-title">Manuscript Summary</h2>
+          <div class="results__summary-content" id="summary-content"></div>
+        </div>
+
+        <div class="results__reset">
+          <button class="reset-button" onclick="resetUpload()">Analyze Another</button>
+        </div>
+      </section>
+
+      <a href="../projects.html" class="back-link">Back to Projects</a>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer__content">
+      <span class="footer__copyright">© 2025 Sam Jacobs</span>
+    </div>
+  </footer>
+
+  <!-- JS -->
+  <script src="../../js/config.js"></script>
+  <script src="../../js/mstriage.js"></script>
+</body>
+</html>
