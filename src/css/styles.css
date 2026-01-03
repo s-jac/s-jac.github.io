@@ -364,6 +364,32 @@ p {
   color: var(--color-gray-400);
 }
 
+/* Article Meta (date + views) */
+.article__meta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xs);
+  flex-wrap: wrap;
+  margin-top: 0.25rem;
+}
+
+.article__meta-separator {
+  color: var(--color-gray-400);
+  font-size: 0.875rem;
+}
+
+.article__views {
+  font-size: 0.875rem;
+  color: var(--color-gray-400);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.article__views--loaded {
+  opacity: 1;
+}
+
 .article__content {
   line-height: 1.8;
 }
