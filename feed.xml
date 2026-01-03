@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Jacobs Blog</title>
+    <link>https://s-jac.github.io/src/pages/blog.html</link>
+    <description>Blog posts by Sam Jacobs</description>
+    <language>en-us</language>
+    <!-- UPDATE THIS DATE whenever you add a new blog post (format: Day, DD Mon YYYY HH:MM:SS GMT) -->
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://s-jac.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <!-- 
+      HOW TO ADD A NEW BLOG POST:
+      1. Copy an <item> block below
+      2. Update the <title>, <link>, <guid>, <pubDate>, and <description>
+      3. Update <lastBuildDate> above to today's date
+      4. Place newest posts at the top
+    -->
+    
+    <item>
+      <title>Beating Bilateral IT Band Syndrome after 5 Years</title>
+      <link>https://s-jac.github.io/src/pages/blog/itband.html</link>
+      <guid>https://s-jac.github.io/src/pages/blog/itband.html</guid>
+      <pubDate>Sat, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <description>A personal account of overcoming bilateral IT band syndrome.</description>
+    </item>
+    
+    <item>
+      <title>Failures of the English Language</title>
+      <link>https://s-jac.github.io/src/pages/blog/language.html</link>
+      <guid>https://s-jac.github.io/src/pages/blog/language.html</guid>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+      <description>Exploring quirks and failures of the English language.</description>
+    </item>
+    
+    <item>
+      <title>Why do we use shampoo?</title>
+      <link>https://s-jac.github.io/src/pages/blog/shampoo.html</link>
+      <guid>https://s-jac.github.io/src/pages/blog/shampoo.html</guid>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
+      <description>A look at the history and necessity of shampoo in modern hygiene.</description>
+    </item>
+    
+  </channel>
+</rss>
+
