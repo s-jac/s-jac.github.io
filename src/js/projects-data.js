@@ -1,7 +1,7 @@
 // Shared project data - edit descriptions here to update everywhere
 const PROJECTS = {
-  'slushsort': {
-    title: 'SlushSort for Publishing Houses',
+  'mstriage': {
+    title: 'Manuscript Triage for Publishing Houses',
     description: 'A manuscript triage system for publishing houses that uses AI to efficiently sort through submissions and identify promising works.'
   },
   'ratemybook': {
