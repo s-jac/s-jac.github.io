@@ -1,0 +1,34 @@
+---
+layout: default
+title: "Book Reviews"
+description: "Book reviews by Sam Jacobs - a few reviews from some of my favourite books."
+permalink: /reviews/
+---
+<!-- Header -->
+<header class="header animate-fade-in">
+  <h1 class="header__title">Book Reviews</h1>
+  <p class="header__description">A few reviews from some of my favourite books.</p>
+</header>
+
+<!-- Book Review Pills -->
+<nav class="review-list" aria-label="Book reviews">
+  {% assign sorted_reviews = site.reviews | sort: 'date' | reverse %}
+  {% for review in sorted_reviews %}
+  <a href="{{ review.url | relative_url }}" class="review-pill">
+    <div class="review-pill__header">
+      <span class="review-pill__title">{{ review.title }}</span>
+      <span class="review-pill__rating">{{ review.rating }}</span>
+    </div>
+    <span class="review-pill__author">{{ review.book_author }}</span>
+  </a>
+  {% endfor %}
+</nav>
+
+<p class="header__subtitle">
+  <a href="https://www.goodreads.com/review/list/30778505-sjac?order=d&sort=review&view=reviews" target="_blank" rel="noopener" class="read-count-link">
+    View all<span class="external">↗</span>
+  </a>
+</p>
+
+<a href="{{ '/' | relative_url }}" class="back-link">Back to Home</a>
+

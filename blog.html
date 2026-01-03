@@ -1,0 +1,61 @@
+---
+layout: default
+title: "Blog"
+description: "Essays on technology, culture, health, and language by Sam Jacobs."
+permalink: /blog/
+---
+<!-- Header -->
+<header class="header animate-fade-in">
+  <h1 class="header__title">Blog</h1>
+  <a href="{{ '/feed.xml' | relative_url }}" class="rss-link" title="Subscribe via RSS">
+    <svg class="rss-icon" viewBox="0 0 24 24" fill="currentColor" width="18" height="18">
+      <circle cx="6.18" cy="17.82" r="2.18"/>
+      <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+    </svg>
+    RSS
+  </a>
+</header>
+
+<nav class="article-list" aria-label="Blog posts">
+  
+  <a href="{{ '/blog/itband/' | relative_url }}" class="article-list__item">
+    <span class="article-list__title">Beating Bilateral IT Band Syndrome after 5 Years</span>
+    <span class="article-list__topic">Health</span>
+    <span class="article-list__date">???, 2026</span>
+  </a>
+
+  <a href="https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/" class="article-list__item" target="_blank" rel="noopener">
+    <span class="article-list__title">Image Replacement in Canva Designs Using Reverse Image Search <span class="external">↗ canva.dev</span></span>
+    <span class="article-list__topic">Engineering</span>
+    <span class="article-list__date">Jan 28, 2025</span>
+  </a>
+
+  {% for post in site.posts %}
+  {% unless post.title contains "IT Band" %}
+  <a href="{{ post.url | relative_url }}" class="article-list__item">
+    <span class="article-list__title">{{ post.title }}</span>
+    <span class="article-list__topic">{{ post.topic | default: "Essay" }}</span>
+    <span class="article-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  </a>
+  {% endunless %}
+  {% endfor %}
+  
+</nav>
+
+<a href="{{ '/' | relative_url }}" class="back-link">Back to Home</a>
+
+<!-- Structured Data for Blog -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Sam Jacobs Blog",
+  "description": "Essays on technology, culture, health, and language by Sam Jacobs.",
+  "url": "{{ '/blog/' | absolute_url }}",
+  "author": {
+    "@type": "Person",
+    "name": "Sam Jacobs"
+  }
+}
+</script>
+

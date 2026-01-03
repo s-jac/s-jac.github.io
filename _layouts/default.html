@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}{% if page.body_data %} {{ page.body_data }}{% endif %}>
+  <div class="page-container">
+    <div class="content-wrapper">
+      {{ content }}
+    </div>
+  </div>
+
+  {% include footer.html %}
+  
+  {% if page.extra_js %}
+  {% for js in page.extra_js %}
+  <script src="{{ js | relative_url }}"></script>
+  {% endfor %}
+  {% endif %}
+</body>
+</html>
+

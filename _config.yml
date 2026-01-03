@@ -1,0 +1,52 @@
+# Site settings
+title: Sam Jacobs
+description: Personal portfolio and blog by Sam Jacobs
+url: "https://s-jac.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: Sam Jacobs
+  url: https://s-jac.github.io
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks - clean URLs without .html
+permalink: /blog/:title/
+
+# Collections for reviews
+collections:
+  reviews:
+    output: true
+    permalink: /reviews/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "reviews"
+    values:
+      layout: "review"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  - src  # Old folder structure
+

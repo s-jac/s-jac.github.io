@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="article animate-fade-in">
+  <header class="article__header">
+    <h1 class="article__title">{{ page.title }}</h1>
+    <time class="article__date" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    <div class="article__meta">
+      <span class="article__meta-separator">·</span>
+      <span class="article__views" id="page-views">— views</span>
+    </div>
+  </header>
+
+  <div class="article__content">
+    {{ content }}
+  </div>
+</article>
+
+{% include comments.html %}
+
+<a href="{{ '/blog/' | relative_url }}" class="back-link">Back to Blog</a>
+
+<!-- Page Views -->
+<script src="{{ '/assets/js/pageviews.js' | relative_url }}"></script>
+

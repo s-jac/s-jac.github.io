@@ -1,50 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Personal portfolio and links">
-  <title>Sam Jacobs</title>
-  <link rel="icon" type="image/png" href="assets/images/favicon.png">
-  
-  <!-- Google Fonts - Inter -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  
-  <!-- Styles -->
-  <link rel="stylesheet" href="src/css/styles.css">
-</head>
-<body>
-  <div class="page-container">
-    <div class="content-wrapper">
-      <!-- Header -->
-      <header class="header">
-        <h1 class="header__title">Sam Jacobs</h1>
-      </header>
+---
+layout: default
+title: null
+description: "Personal portfolio and links"
+---
+<!-- Header -->
+<header class="header">
+  <h1 class="header__title">Sam Jacobs</h1>
+</header>
 
-      <!-- Navigation Pills -->
-      <nav class="nav-pills" aria-label="Main navigation">
-        <a href="src/pages/blog.html" class="nav-pill">Blog</a>
-        <a href="src/pages/projects.html" class="nav-pill">Projects</a>
-        <a href="src/pages/reviews.html" class="nav-pill">Book Reviews</a>
-        <a href="src/pages/resume.html" class="nav-pill">Resume</a>
-        <a href="https://github.com/s-jac" class="nav-pill" target="_blank" rel="noopener">GitHub <span class="external">↗</span></a>
-        <a href="https://www.linkedin.com/in/s-jac" class="nav-pill" target="_blank" rel="noopener">LinkedIn <span class="external">↗</span></a>
-      </nav>
-    </div>
-  </div>
-
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="footer__content">
-      <span class="footer__copyright">© 2025 Sam Jacobs</span>
-    </div>
-  </footer>
-
-  <!-- GoatCounter Analytics -->
-  <script data-goatcounter="https://s-jac.goatcounter.com/count"
-          async src="//gc.zgo.at/count.js"></script>
-</body>
-</html>
-
+<!-- Navigation Pills -->
+<nav class="nav-pills" aria-label="Main navigation">
+  <a href="{{ '/blog/' | relative_url }}" class="nav-pill">Blog</a>
+  <a href="{{ '/projects/' | relative_url }}" class="nav-pill">Projects</a>
+  <a href="{{ '/reviews/' | relative_url }}" class="nav-pill">Book Reviews</a>
+  <a href="{{ '/resume/' | relative_url }}" class="nav-pill">Resume</a>
+  <a href="https://github.com/s-jac" class="nav-pill" target="_blank" rel="noopener">GitHub <span class="external">↗</span></a>
+  <a href="https://www.linkedin.com/in/s-jac" class="nav-pill" target="_blank" rel="noopener">LinkedIn <span class="external">↗</span></a>
+</nav>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Jacobs Blog</title>
+    <link>http://localhost:4000/blog/</link>
+    <description>Blog posts by Sam Jacobs</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 17:29:32 +1100</lastBuildDate>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      <title>Overcoming Bilateral IT Band Syndrome after 5 Years</title>
+      <link>http://localhost:4000/blog/itband/</link>
+      <guid isPermaLink="true">http://localhost:4000/blog/itband/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +1100</pubDate>
+      <description>After 5 years of chronic knee pain, I finally found what worked to overcome bilateral IT band syndrome. Here&apos;s my complete recovery journey.</description>
+    </item>
+    
+    <item>
+      <title>Failures of the English Language</title>
+      <link>http://localhost:4000/blog/language/</link>
+      <guid isPermaLink="true">http://localhost:4000/blog/language/</guid>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +1100</pubDate>
+      <description>How the ambiguous word &apos;vaccine&apos; contributed to widespread confusion during the COVID-19 pandemic, and why English needs more precise medical terminology.</description>
+    </item>
+    
+    <item>
+      <title>Why do we use shampoo?</title>
+      <link>http://localhost:4000/blog/shampoo/</link>
+      <guid isPermaLink="true">http://localhost:4000/blog/shampoo/</guid>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +1000</pubDate>
+      <description>The surprising 100-year history of modern shampoo and how 1970s advertising campaigns changed how we think about hair hygiene forever.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

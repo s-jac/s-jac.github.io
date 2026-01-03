@@ -1,0 +1,88 @@
+---
+layout: default
+title: "ratemybook"
+description: "ratemybook - Score and get feedback on your manuscript for free"
+permalink: /projects/ratemybook/
+extra_css: /assets/css/ratemybook.css
+extra_js:
+  - /assets/js/config.js
+  - /assets/js/ratemybook.js
+body_data: 'data-project="ratemybook"'
+---
+<!-- Header -->
+<header class="ratemybook-header animate-fade-in">
+  <h1 class="ratemybook-header__title">ratemybook</h1>
+  <p class="ratemybook-header__subtitle">score and get feedback on your manuscript for free</p>
+  <p class="ratemybook-header__disclaimer">
+    By uploading, you agree that your file will be processed by Google Gemini. 
+    Your manuscript is subject to <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Gemini API Terms of Service</a>. 
+    We do not store your files.
+  </p>
+</header>
+
+<!-- Upload Section -->
+<section id="upload-section" class="animate-fade-in">
+  <div id="dropzone" class="dropzone">
+    <input 
+      type="file" 
+      id="file-input" 
+      class="dropzone__input"
+      accept=".txt,.pdf,.doc,.docx"
+    >
+    <svg class="dropzone__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+            d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+    </svg>
+    <p class="dropzone__text">Drag and drop your manuscript here</p>
+    <p class="dropzone__subtext">or click to browse</p>
+    <p class="dropzone__formats">Supports TXT, PDF, and DOC files</p>
+  </div>
+  <div class="demo-section">
+    <button class="demo-button" onclick="runDemo()" title="See an example of what feedback looks like without uploading a file">Demo without uploading</button>
+    <button id="wake-btn" class="wake-button" onclick="wakeServer()" title="Pre-warm the server to reduce wait time">Wake server</button>
+    <span class="demo-tooltip">Preview sample feedback without uploading anything</span>
+  </div>
+</section>
+
+<!-- Loading Section -->
+<section id="loading-section" class="loading hidden">
+  <div class="loading__spinner"></div>
+  <p class="loading__text">Analyzing your manuscript...</p>
+</section>
+
+<!-- Error Section -->
+<section id="error-section" class="error hidden">
+  <p class="error__message" id="error-message"></p>
+</section>
+
+<!-- Results Section -->
+<section id="results-section" class="results hidden">
+  <div class="results__score">
+    <div class="results__score-value" id="score-value">--</div>
+    <div class="results__score-label">out of 100</div>
+  </div>
+
+  <div class="results__feedback">
+    <div class="results__section">
+      <h2 class="results__section-title">Strengths</h2>
+      <div class="results__section-content" id="strengths-content"></div>
+    </div>
+    
+    <div class="results__section">
+      <h2 class="results__section-title">Areas for Improvement</h2>
+      <div class="results__section-content" id="weaknesses-content"></div>
+    </div>
+    
+    <div class="results__section">
+      <h2 class="results__section-title">Next Steps</h2>
+      <div class="results__section-content" id="nextsteps-content"></div>
+    </div>
+  </div>
+
+  <div class="results__reset">
+    <button class="reset-button" onclick="resetUpload()">Upload Another</button>
+  </div>
+</section>
+
+<a href="{{ '/projects/' | relative_url }}" class="back-link">Back to Projects</a>
+
