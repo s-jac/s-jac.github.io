@@ -25,7 +25,8 @@
       const data = await response.json();
       return data.count;
     } catch (error) {
-      console.error('Failed to fetch page views:', error);
+      // Silently fail - likely blocked by ad blocker or network issue
+      // This is expected for many users and not a real error
       return null;
     }
   }
