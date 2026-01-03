@@ -1,0 +1,127 @@
+---
+layout: default
+title: "Page Not Found"
+description: "The page you're looking for doesn't exist"
+permalink: /404.html
+---
+
+<div class="error-page">
+  <div class="error-page__code">404</div>
+  <h1 class="error-page__title">Page not found</h1>
+  <p class="error-page__message">The page you're looking for doesn't exist or has been moved.</p>
+  
+  <nav class="error-page__nav">
+    <a href="{{ '/' | relative_url }}" class="nav-pill">Back to Home</a>
+  </nav>
+  
+  <div class="error-page__suggestions">
+    <p class="error-page__suggestions-title">Or try one of these:</p>
+    <div class="error-page__links">
+      <a href="{{ '/blog/' | relative_url }}" class="error-page__link">Blog</a>
+      <a href="{{ '/projects/' | relative_url }}" class="error-page__link">Projects</a>
+      <a href="{{ '/reviews/' | relative_url }}" class="error-page__link">Book Reviews</a>
+    </div>
+  </div>
+</div>
+
+<style>
+/* Error Page Styles */
+.error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 70vh;
+  padding: var(--spacing-lg);
+  animation: fade-in 0.4s ease-out;
+}
+
+.error-page__code {
+  font-size: clamp(6rem, 20vw, 12rem);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--color-gray-200);
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.error-page__title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: var(--spacing-sm);
+  margin-bottom: var(--spacing-xs);
+}
+
+.error-page__message {
+  font-size: 1.125rem;
+  color: var(--color-gray-600);
+  max-width: 400px;
+  margin-bottom: var(--spacing-lg);
+}
+
+.error-page__nav {
+  margin-bottom: var(--spacing-xl);
+}
+
+.error-page__nav .nav-pill {
+  display: inline-block;
+  min-width: 200px;
+}
+
+.error-page__suggestions {
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-gray-200);
+}
+
+.error-page__suggestions-title {
+  font-size: 0.875rem;
+  color: var(--color-gray-400);
+  font-weight: 400;
+  margin-bottom: var(--spacing-sm);
+}
+
+.error-page__links {
+  display: flex;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.error-page__link {
+  color: var(--color-gray-600);
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius);
+  transition: var(--transition-default);
+}
+
+.error-page__link:hover {
+  color: var(--color-foreground);
+  background-color: var(--color-gray-100);
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .error-page__title {
+    font-size: 1.5rem;
+  }
+  
+  .error-page__links {
+    flex-direction: column;
+    gap: var(--spacing-xs);
+  }
+}
+</style>
+
