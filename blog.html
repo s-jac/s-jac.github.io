@@ -18,19 +18,43 @@ permalink: /blog/
 
 <nav class="article-list" aria-label="Blog posts">
 
-  <!-- External article on Canva Engineering Blog -->
-  <a href="https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/" class="article-list__item" target="_blank" rel="noopener">
-    <span class="article-list__title">Image Replacement in Canva Designs Using Reverse Image Search <span class="external">↗ canva.dev</span></span>
-    <span class="article-list__topic">Machine Learning</span>
-    <span class="article-list__date">Jan 28, 2025</span>
-  </a>
-
+  {% assign all_articles = site.posts | map: "url" | join: "," %}
+  {% assign combined = "" | split: "" %}
+  
   {% for post in site.posts %}
-  <a href="{{ post.url | relative_url }}" class="article-list__item">
-    <span class="article-list__title">{{ post.title }}</span>
-    <span class="article-list__topic">{{ post.topic | default: "Essay" }}</span>
-    <span class="article-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% assign item = "" | split: "" %}
+    {% capture post_data %}{{ post.date | date: "%Y%m%d" }}|internal|{{ post.url }}|{{ post.title }}|{{ post.topic | default: "Essay" }}|{{ post.date | date: "%b %-d, %Y" }}{% endcapture %}
+    {% assign combined = combined | push: post_data %}
+  {% endfor %}
+  
+  {% for article in site.data.external_articles %}
+    {% capture article_data %}{{ article.date | date: "%Y%m%d" }}|external|{{ article.url }}|{{ article.title }}|{{ article.topic }}|{{ article.date | date: "%b %-d, %Y" }}|{{ article.external }}{% endcapture %}
+    {% assign combined = combined | push: article_data %}
+  {% endfor %}
+  
+  {% assign sorted = combined | sort | reverse %}
+  
+  {% for item in sorted %}
+    {% assign parts = item | split: "|" %}
+    {% assign type = parts[1] %}
+    {% assign url = parts[2] %}
+    {% assign title = parts[3] %}
+    {% assign topic = parts[4] %}
+    {% assign date = parts[5] %}
+    {% if type == "external" %}
+      {% assign external_site = parts[6] %}
+  <a href="{{ url }}" class="article-list__item" target="_blank" rel="noopener">
+    <span class="article-list__title">{{ title }} <span class="external">↗ {{ external_site }}</span></span>
+    <span class="article-list__topic">{{ topic }}</span>
+    <span class="article-list__date">{{ date }}</span>
   </a>
+    {% else %}
+  <a href="{{ url | relative_url }}" class="article-list__item">
+    <span class="article-list__title">{{ title }}</span>
+    <span class="article-list__topic">{{ topic }}</span>
+    <span class="article-list__date">{{ date }}</span>
+  </a>
+    {% endif %}
   {% endfor %}
   
 </nav>
