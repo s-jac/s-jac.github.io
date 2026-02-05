@@ -16,11 +16,14 @@ highlighter: rouge
 # Permalinks - clean URLs without .html
 permalink: /blog/:title/
 
-# Collections for reviews
+# Collections for reviews and drafts
 collections:
   reviews:
     output: true
     permalink: /reviews/:title/
+  drafts:
+    output: true
+    permalink: /drafts/:title/
 
 # Default front matter
 defaults:

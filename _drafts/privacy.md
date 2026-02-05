@@ -6,7 +6,6 @@ description: "Normalising the upload of government-issued identification to thir
 image: /assets/images/blog/privacy-preview.png
 topic: Privacy
 comments: true
-published: true
 ---
 
 Just a few weeks ago, while communicating with a major Australian health insurance provider (which I'm not naming for my own safety), they accidentally sent me a document containing another customer's personal and medical information, including details about their minor child. I informed them that they were legally required to notify the affected person about this privacy breach. However, the representative I spoke with dismissed my concerns and didn't take the issue seriously. I've since filed a formal complaint with the Office of the Australian Information Commissioner (OAIC).
