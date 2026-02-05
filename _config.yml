@@ -16,12 +16,12 @@ highlighter: rouge
 # Permalinks - clean URLs without .html
 permalink: /blog/:title/
 
-# Collections for reviews and drafts
+# Collections for reviews and wip (shareable drafts)
 collections:
   reviews:
     output: true
     permalink: /reviews/:title/
-  drafts:
+  wip:
     output: true
     permalink: /drafts/:title/
 
