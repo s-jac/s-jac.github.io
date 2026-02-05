@@ -53,7 +53,7 @@ Identity theft can serve as an index for tracking the pervasiveness of data brea
 
 For many of us, obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier criminals need to commit identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
 
-Identity theft cases have reached record highs, with U.S. losses topping $12.7 billion in 2024<sup>[[14]][14]</sup><sup>[[15]][15]</sup><sup>[[16]][16]</sup><sup>[[17]][17]</sup>. Data breaches are also at an all-time high, with a 72% increase over previous records<sup>[[18]][18]</sup><sup>[[19]][19]</sup>.
+Fraud cases have reached record highs, with U.S. losses topping $12.5 billion in 2024<sup>[[14]][14]</sup><sup>[[15]][15]</sup><sup>[[16]][16]</sup><sup>[[17]][17]</sup>. Data breaches are also at an all-time high, with a 72% increase over previous records<sup>[[18]][18]</sup><sup>[[19]][19]</sup>.
 
 I have had to email privacy@substackinc.com with my request and rely on my right to data deletion, covered under Australian law.
 
