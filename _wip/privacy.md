@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The barrier to identity theft is crumbling"
-date: 2026-01-06
+date: 2026-02-05
 description: "Normalising the upload of government-issued identification to third parties will lead to an increase in identity theft."
 image: /assets/images/blog/privacy-preview.png
 topic: Privacy
@@ -22,7 +22,7 @@ And in February 2026, the AI social network [MoltBook][4] leaked 1.5 million API
 
 ## The breaches we don't know about
 
-These are just the incidents we know about. These days, hackers will ransom company data out, threatening to leak it if a fee is not paid.
+These are just the incidents we know about. These days, hackers will ransom company data, threatening to leak it if a fee is not paid.
 
 This affected Garmin in 2020, whose fitness trackers are worn by millions. [Garmin reportedly paid $10 million to ransomware hackers][6] who rendered their systems useless.
 
@@ -30,7 +30,7 @@ When companies pay the ransom, the data isn't posted publicly, but it remains in
 
 **How many companies have been ransomed that we don't know about?**
 
-Data breaches have been increasing over time, and the recent trend of applications being productionised without review will only accelerate their frequency<sup>[[7]][7]</sup><sup>[[8]][8]</sup><sup>[[9]][9]</sup><sup>[[10]][10]</sup>.
+Data breaches have been increasing over time, and the recent trend of applications being deployed without review will only accelerate their frequency<sup>[[7]][7]</sup><sup>[[8]][8]</sup><sup>[[9]][9]</sup><sup>[[10]][10]</sup>.
 
 ## Age verification and the normalisation of ID uploads
 
@@ -59,7 +59,7 @@ I have had to email privacy@substackinc.com with my request and rely on my right
 
 Some other changes I've made include setting up a new email address under a fake name, and making a habit of handing it out, including the fake name alongside it, to any form that doesn't strictly require my real details. 
 
-Meanwhile, I've set up a personal blog at [s-jac.github.io/blog][20], and this is first article.
+Finally, I've set up a personal blog at [s-jac.github.io/blog][20], and you are on it right now.
 
 [1]: https://haveibeenpwned.com/
 [2]: https://en.wikipedia.org/wiki/Tea_(app)
