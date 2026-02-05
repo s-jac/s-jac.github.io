@@ -8,13 +8,21 @@ topic: Privacy
 comments: true
 ---
 
-Just a few weeks ago, while communicating with a major Australian health insurance provider (which I'm not naming for my own safety), they accidentally sent me a document containing another customer's personal and medical information, including details about their minor child. I informed them that they were legally required to notify the affected person about this privacy breach. However, the representative I spoke with dismissed my concerns and didn't take the issue seriously. I've since filed a formal complaint with the Office of the Australian Information Commissioner (OAIC).
+Just a few weeks ago, while communicating with a major Australian health insurance provider, they accidentally sent me a document containing a minor's personal and medical information. I informed them that they were legally required to notify the affected person about this privacy breach. However, the representative I spoke with dismissed my concerns and didn't take the issue seriously. I've since filed a formal complaint with the Office of the Australian Information Commissioner (OAIC).
 
 The Hotmail email I created as a child has been involved in 8 data breaches, leaking my real name, date of birth, phone number, physical address and geographic location amongst other things (credit to [Have I Been Pwned](https://haveibeenpwned.com/)).
 
 In 2025, the app '[Tea](https://en.wikipedia.org/wiki/Tea_(app))' experienced a data breach, exposing tens of thousands of user selfies and government IDs (like driver's licenses), along with over a million private messages containing personal details. This led to severe privacy violations, online shaming on platforms like 4chan, and physical safety fears<sup>[[1]](https://www.bbc.com/news/articles/ce87rer52k3o)</sup> for users.
 
 Last week, when I learnt that photos of a woman on the toilet, taken by her Roomba vacuum cleaner, ended up on Facebook in 2020, I wasn't surprised.
+
+And just 2 days ago, the AI social network [MoltBook](https://www.moltbook.com/) leaked 1.5 million API keys, right after the creator posted [a tweet](https://x.com/MattPRD/status/2017386365756072376) bragging: 
+
+> "I didn't write one line of code for @moltbook.
+>
+> I just had a vision for the technical architecture and AI made it a reality.
+>
+> We're in the golden ages. How can we not give AI a place to hang out."
 
 ## The breaches we don't know about
 
@@ -26,7 +34,7 @@ When companies pay the ransom, the data isn't posted publicly, but it remains in
 
 **How many companies have been ransomed that we don't know about?**
 
-Data breaches have been increasing over time, and the recent trend of no-coders productionising applications<sup>[[1]](https://www.endorlabs.com/learn/the-most-common-security-vulnerabilities-in-ai-generated-code)[[2]](https://dzone.com/articles/security-risks-in-ai-generated-code)[[3]](https://www.darkreading.com/application-security/ai-generated-code-leading-expanded-technical-security-debt)[[4]](https://www.veracode.com/blog/genai-code-security-report/)</sup> will only accelerate their frequency.
+Data breaches have been increasing over time, and the recent trend of applications being productionised without review will only accelerate their frequency<sup>[[1]](https://www.endorlabs.com/learn/the-most-common-security-vulnerabilities-in-ai-generated-code)[[2]](https://dzone.com/articles/security-risks-in-ai-generated-code)[[3]](https://www.darkreading.com/application-security/ai-generated-code-leading-expanded-technical-security-debt)[[4]](https://www.veracode.com/blog/genai-code-security-report/)</sup>.
 
 ## Age verification and the normalisation of ID uploads
 
@@ -45,7 +53,7 @@ My deserted blog, which I am planning on reviving, lived on Substack. The other 
 
 ## The crumbling barrier
 
-The rise of identity theft is an index for tracking the pervasiveness of data breaches. Since the crime itself requires so many disparate pieces of a person's information, which can often only be obtained from various places, rising identity theft indicates that data breaches have become both frequent and interconnected enough to enable systematic information assembly.
+Identity theft can serve as an index for tracking the pervasiveness of data breaches. Since the crime itself requires so many disparate pieces of a person's information, which can often only be obtained from various places, rising identity theft indicates that data breaches have become both frequent and interconnected enough to enable systematic information assembly.
 
 For many of us, obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier criminals need to commit identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
 
@@ -53,6 +61,6 @@ Identity theft cases have reached record highs, with U.S. losses topping $12.7 b
 
 I have had to email privacy@substackinc.com with my request and rely on my right to data deletion, covered under Australian law.
 
-Some other changes I've made include setting up a new email address under a fake name, and making a habit of handing it out, including the fake name alongside it, to any form that doesn't strictly require my real details.
+Some other changes I've made include setting up a new email address under a fake name, and making a habit of handing it out, including the fake name alongside it, to any form that doesn't strictly require my real details. 
 
-Meanwhile, I've set up a personal blog at [s-jac.github.io/blog/](https://s-jac.github.io/blog/), and have started to question my entire online presence. 
+Meanwhile, I've set up a personal blog at [s-jac.github.io/blog/](https://s-jac.github.io/blog/), and this is first article. 
