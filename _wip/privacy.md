@@ -16,13 +16,9 @@ In 2025, the app '[Tea][2]' experienced a data breach, exposing tens of thousand
 
 Last week, when I learnt that photos of a woman on the toilet, taken by her Roomba vacuum cleaner, ended up on Facebook in 2020, I wasn't surprised.
 
-And just 2 days ago, the AI social network [MoltBook][4] leaked 1.5 million API keys, right after the creator posted [a tweet][5] bragging: 
+And in February 2026, the AI social network [MoltBook][4] leaked 1.5 million API keys, right after the creator posted [a tweet][5] bragging: 
 
-> "I didn't write one line of code for @moltbook.
->
-> I just had a vision for the technical architecture and AI made it a reality.
->
-> We're in the golden ages. How can we not give AI a place to hang out."
+> I didn't write one line of code for @moltbook.
 
 ## The breaches we don't know about
 
@@ -38,7 +34,7 @@ Data breaches have been increasing over time, and the recent trend of applicatio
 
 ## Age verification and the normalisation of ID uploads
 
-As of 10 December 2025, in Australia, the country that I reside in, introduced a law enforcing that ["age-restricted social media platforms must take reasonable steps to prevent Australians under 16s from having accounts"][11].
+On December 10, 2025, Australia (where I reside) introduced a law enforcing that ["age-restricted social media platforms must take reasonable steps to prevent Australians under 16s from having accounts"][11].
 
 While the law explicitly states that platforms must not require government-issued ID and encourages low-friction age verification, many platforms are implementing ID or biometric verification anyway. This normalizes the practice of uploading highly sensitive identification to access the internet ([discussion on Hacker News][12]).
 
@@ -63,7 +59,7 @@ I have had to email privacy@substackinc.com with my request and rely on my right
 
 Some other changes I've made include setting up a new email address under a fake name, and making a habit of handing it out, including the fake name alongside it, to any form that doesn't strictly require my real details. 
 
-Meanwhile, I've set up a personal blog at [s-jac.github.io/blog][20], and this is first article. 
+Meanwhile, I've set up a personal blog at [s-jac.github.io/blog][20], and this is first article.
 
 [1]: https://haveibeenpwned.com/
 [2]: https://en.wikipedia.org/wiki/Tea_(app)
