@@ -14,7 +14,7 @@ The Hotmail email I created as a child has been involved in 8 data breaches, lea
 
 In 2025, the app '[Tea][2]' experienced a data breach, exposing tens of thousands of user selfies and government IDs (like driver's licenses), along with over a million private messages containing personal details. This led to severe privacy violations, online shaming on platforms like 4chan, and physical safety fears<sup>[[3]][3]</sup> for users.
 
-Last week, when I learnt that photos of a woman on the toilet, taken by her Roomba vacuum cleaner, ended up on Facebook in 2020, I wasn't surprised.
+A few months ago, Ian Carroll posted a [blog post][13] detailing how he obtained access to Max Verstappen's and a number of other F1 drivers' passports. The attack cost him just a few hours of work.
 
 And in February 2026, the AI social network [MoltBook][4] leaked 1.5 million API keys, right after the creator posted [a tweet][5] bragging: 
 
@@ -30,15 +30,13 @@ When companies pay the ransom, the data isn't posted publicly, but it remains in
 
 **How many companies have been ransomed that we don't know about?**
 
-Data breaches have been increasing over time, and the recent trend of applications being deployed without review will only accelerate their frequency<sup>[[7]][7]</sup><sup>[[8]][8]</sup><sup>[[9]][9]</sup><sup>[[10]][10]</sup>.
+Data breaches have been increasing over time. Thanks to AI coding tools, individuals are able to launch applications without reading or understanding their code, and this is likely to accelerate the frequency of data breaches<sup>[[7]][7]</sup><sup>[[8]][8]</sup><sup>[[9]][9]</sup><sup>[[10]][10]</sup>.
 
-## Age verification and the normalisation of ID uploads
+## Age verification 
 
-On December 10, 2025, Australia (where I reside) introduced a law enforcing that ["age-restricted social media platforms must take reasonable steps to prevent Australians under 16s from having accounts"][11].
+On December 10, 2025, Australia (where I reside) introduced a law requiring that ["age-restricted social media platforms must take reasonable steps to prevent Australians under 16s from having accounts"][11].
 
-While the law explicitly states that platforms must not require government-issued ID and encourages low-friction age verification, many platforms are implementing ID or biometric verification anyway. This normalizes the practice of uploading highly sensitive identification to access the internet ([discussion on Hacker News][12]).
-
-A few months ago, Ian Carroll posted a [blog post][13] detailing how he obtained access to Max Verstappen's and a number of other F1 drivers' passports. The attack cost him just a few hours of work.
+While the law explicitly states that platforms must not require government-issued ID and encourages low-friction age verification, many platforms are implementing ID or biometric verification anyway. This normalises the practice of uploading highly sensitive identification to access the internet ([discussion on Hacker News][12]).
 
 My deserted blog, which I am planning on reviving, lived on Substack. The other day, I found out that I was locked out of my account and don't even have the control to delete my content or account without uploading a 3D scan of my face.
 
@@ -57,9 +55,9 @@ Fraud cases have reached record highs, with U.S. losses topping $12.5 billion in
 
 I have had to email privacy@substackinc.com with my request and rely on my right to data deletion, covered under Australian law.
 
-Some other changes I've made include setting up a new email address under a fake name, and making a habit of handing it out, including the fake name alongside it, to any form that doesn't strictly require my real details. 
+Some other changes I've made include setting up a new email address under a fake name, and making a habit of handing it out, to any form that doesn't strictly require my real details. 
 
-Finally, I've set up a personal blog at [s-jac.github.io/blog][20], and you are on it right now.
+Finally, I've set up a personal blog at [s-jac.github.io/blog][20], and you are on it right now. 
 
 [1]: https://haveibeenpwned.com/
 [2]: https://en.wikipedia.org/wiki/Tea_(app)
