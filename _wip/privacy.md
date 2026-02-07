@@ -49,7 +49,7 @@ When I tried to revive my deserted blog on Substack, I found that I was locked o
 
 Identity theft can serve as an index for tracking the pervasiveness of data breaches. Since the crime itself requires so many disparate pieces of a person's information, which can often only be obtained from various places, rising identity theft indicates that data breaches have become both frequent and interconnected enough to enable systematic information assembly.
 
-Obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier keeping criminals from committing identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
+Obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier to identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
 
 Fraud cases have reached record highs, with U.S. losses topping $12.5 billion in 2024<sup>[[14]][14]</sup><sup>[[15]][15]</sup><sup>[[16]][16]</sup><sup>[[17]][17]</sup>. Data breaches are also at an all-time high, with a 72% increase over previous records<sup>[[18]][18]</sup><sup>[[19]][19]</sup>.
 
