@@ -38,7 +38,7 @@ On December 10, 2025, Australia (where I reside) introduced a law requiring that
 
 While the law explicitly states that platforms must not require government-issued ID and encourages low-friction age verification, many platforms are implementing ID or biometric verification anyway. This normalises the practice of uploading highly sensitive identification to access the internet ([discussion on Hacker News][12]).
 
-When I tried to revive my deserted blog on Substack, I found that I was locked out of my account. To log back in, I needed to upload a 3D scan of my face. 
+When I tried to revive my deserted blog on Substack, I found that I was locked out of my account. To log back in, I needed to upload a 3D scan of my face. According to online reports, if you make through this step, you are then required to upload a government issued ID<sup>[21][21]</sup><sup>[22][22]</sup>.
 
 <figure style="max-width: 400px; margin: 2rem auto;">
   <img src="/assets/images/blog/privacy-content.png" alt="Substack asking me to verify my identity with a 3D face scan" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -49,7 +49,7 @@ When I tried to revive my deserted blog on Substack, I found that I was locked o
 
 Identity theft can serve as an index for tracking the pervasiveness of data breaches. Since the crime itself requires so many disparate pieces of a person's information, which can often only be obtained from various places, rising identity theft indicates that data breaches have become both frequent and interconnected enough to enable systematic information assembly.
 
-For many of us, obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier criminals need to commit identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
+For many of us, obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier keeping criminals from committing identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
 
 Fraud cases have reached record highs, with U.S. losses topping $12.5 billion in 2024<sup>[[14]][14]</sup><sup>[[15]][15]</sup><sup>[[16]][16]</sup><sup>[[17]][17]</sup>. Data breaches are also at an all-time high, with a 72% increase over previous records<sup>[[18]][18]</sup><sup>[[19]][19]</sup>.
 
@@ -79,3 +79,5 @@ Finally, I've set up a personal blog at [s-jac.github.io/blog][20], and you are 
 [18]: https://www.idtheftcenter.org/post/2023-annual-data-breach-report-reveals-record-number-of-compromises-72-percent-increase-over-previous-high/
 [19]: https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime
 [20]: https://s-jac.github.io/blog/
+[21]: https://www.reddit.com/r/Substack/comments/1pqy2s8/age_verification_required_in_app/
+[22]: https://medium.com/@CelineL/substack-age-verification-in-australia-for-australians-c0a3512e198c
