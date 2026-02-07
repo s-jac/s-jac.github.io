@@ -38,7 +38,7 @@ On December 10, 2025, Australia (where I reside) introduced a law requiring that
 
 While the law explicitly states that platforms must not require government-issued ID and encourages low-friction age verification, many platforms are implementing ID or biometric verification anyway. This normalises the practice of uploading highly sensitive identification to access the internet ([discussion on Hacker News][12]).
 
-My deserted blog, which I am planning on reviving, lived on Substack. The other day, I found out that I was locked out of my account and don't even have the control to delete my content or account without uploading a 3D scan of my face.
+When I tried to revive my deserted blog on Substack, I found that I was locked out of my account. To log back in, I needed to upload a 3D scan of my face. 
 
 <figure style="max-width: 400px; margin: 2rem auto;">
   <img src="/assets/images/blog/privacy-content.png" alt="Substack asking me to verify my identity with a 3D face scan" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
