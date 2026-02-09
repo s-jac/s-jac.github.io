@@ -14,7 +14,7 @@ The Hotmail email I created as a child has been involved in 8 data breaches, lea
 
 In 2025, the app '[Tea][2]' experienced a data breach, exposing tens of thousands of user selfies and government IDs (like driver's licenses), along with over a million private messages containing personal details. This led to severe privacy violations, online shaming on platforms like 4chan, and physical safety fears<sup>[[3]][3]</sup> for users.
 
-A few months ago, Ian Carroll posted a [blog post][13] detailing how he obtained access to Max Verstappen's and a number of other F1 drivers' passports. The attack cost him just a few hours of work.
+A few months ago, Ian Carroll posted a [blog post][13] detailing how he obtained access to Max Verstappen's and a number of other F1 drivers' passports. Though clever, it was not a sophisticated attack. 
 
 And in February 2026, the AI social network [MoltBook][4] leaked 1.5 million API keys, right after the creator posted [a tweet][5] bragging: 
 
@@ -42,7 +42,7 @@ When I tried to revive my deserted blog on Substack, I found that I was locked o
 
 <figure style="max-width: 400px; margin: 2rem auto;">
   <img src="/assets/images/blog/privacy-content.png" alt="Substack asking me to verify my identity with a 3D face scan" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; color: #666; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">This is what I see when I try to visit Substack</figcaption>
+  <figcaption style="text-align: center; color: #666; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">This is what I saw when I tried to visit Substack</figcaption>
 </figure>
 
 ## The crumbling barrier
@@ -52,6 +52,8 @@ Identity theft can serve as an index for tracking the pervasiveness of data brea
 Obtaining a single additional form of physical identification, like a driver's license or passport scan, is the only remaining barrier to identity theft. As we're pressured to upload these documents to more and more services, that barrier crumbles.
 
 Fraud cases have reached record highs, with U.S. losses topping $12.5 billion in 2024<sup>[[14]][14]</sup><sup>[[15]][15]</sup><sup>[[16]][16]</sup><sup>[[17]][17]</sup>. Data breaches are also at an all-time high, with a 72% increase over previous records<sup>[[18]][18]</sup><sup>[[19]][19]</sup>.
+
+The barrier to identity theft is crumbling.
 
 I have had to email privacy@substackinc.com with my request and rely on my right to data deletion, covered under Australian law.
 
