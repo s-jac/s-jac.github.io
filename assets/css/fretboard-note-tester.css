@@ -1,0 +1,250 @@
+/* Fretboard Note Tester - mobile-first styles */
+
+.fretboard-tester__description {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.fretboard-tester-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: 0.8rem var(--spacing-md);
+  background: var(--color-gray-100);
+  border: 2px solid var(--color-foreground);
+  border-radius: 1rem;
+  margin-bottom: var(--spacing-sm);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.fretboard-tester-card__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.fretboard-tester-card__label {
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-gray-600);
+}
+
+.fretboard-tester-card__value {
+  font-size: 1.15rem;
+  line-height: 1.2;
+}
+
+.fretboard-tester-card .fretboard-button {
+  justify-self: end;
+  white-space: nowrap;
+}
+
+.fretboard-feedback {
+  margin-bottom: 0.2rem;
+  min-height: 1.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-gray-600);
+}
+
+.fretboard-progress {
+  margin-bottom: var(--spacing-sm);
+  font-size: 0.95rem;
+  color: var(--color-gray-600);
+}
+
+.fretboard-visual {
+  margin-bottom: var(--spacing-md);
+}
+
+.fretboard-visual__scroll {
+  overflow-x: auto;
+  border: 1px solid var(--color-gray-200);
+  border-radius: 0.75rem;
+  background: var(--color-background);
+}
+
+.fretboard-grid {
+  min-width: 34rem;
+  padding: 0.7rem;
+}
+
+.fretboard-grid__labels {
+  display: grid;
+  grid-template-columns: 2.6rem repeat(var(--fret-columns), minmax(1.9rem, 1fr));
+  gap: 0.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.fretboard-grid__fret-label {
+  font-size: 0.66rem;
+  color: var(--color-gray-600);
+  text-align: center;
+}
+
+.fretboard-grid__row {
+  display: grid;
+  grid-template-columns: 2.6rem repeat(var(--fret-columns), minmax(1.9rem, 1fr));
+  gap: 0.2rem;
+  align-items: center;
+  margin-bottom: 0.2rem;
+}
+
+.fretboard-grid__string-label {
+  font-size: 0.74rem;
+  color: var(--color-gray-600);
+  text-align: center;
+  font-weight: 600;
+}
+
+.fretboard-grid__cell {
+  border: 1px solid #8f5a34;
+  background: linear-gradient(180deg, #bf8a5b 0%, #a96f47 100%);
+  border-radius: 0.35rem;
+  min-height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fretboard-grid__button {
+  width: 1.15rem;
+  height: 1.15rem;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  background: rgba(17, 24, 39, 0.5);
+  cursor: pointer;
+  transition: transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.fretboard-grid__button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-300);
+}
+
+.fretboard-grid__button:hover {
+  transform: scale(1.08);
+}
+
+.fretboard-grid__button--hit {
+  background: rgba(34, 197, 94, 0.92);
+  border-color: rgba(255, 255, 255, 1);
+}
+
+.fretboard-controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-sm);
+}
+
+.fretboard-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.fretboard-control__label {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.fretboard-control__input {
+  font-family: var(--font-family);
+  font-size: 1rem;
+  color: var(--color-foreground);
+  background: var(--color-background);
+  border: 2px solid var(--color-foreground);
+  border-radius: 0.75rem;
+  padding: 0.65rem 0.75rem;
+}
+
+.fretboard-control__input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-200);
+}
+
+.fretboard-control__hint {
+  font-size: 0.85rem;
+  margin-bottom: 0;
+}
+
+.fretboard-button {
+  border: 2px solid var(--color-foreground);
+  background: var(--color-foreground);
+  color: var(--color-background);
+  border-radius: var(--border-radius);
+  padding: 0.6rem 1.1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: var(--font-family);
+  cursor: pointer;
+  transition: var(--transition-default);
+}
+
+.fretboard-button:hover {
+  background: var(--color-background);
+  color: var(--color-foreground);
+}
+
+.fretboard-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-400);
+}
+
+.fretboard-button--secondary {
+  border-radius: 0.75rem;
+  padding: 0.45rem 0.8rem;
+}
+
+.fretboard-tester-card--correct {
+  background: rgba(34, 197, 94, 0.16);
+}
+
+.fretboard-tester-card--wrong {
+  background: rgba(239, 68, 68, 0.16);
+  animation: fretboard-shake 0.28s linear;
+}
+
+.fretboard-feedback--good {
+  color: #15803d;
+}
+
+.fretboard-feedback--bad {
+  color: #b91c1c;
+}
+
+@keyframes fretboard-shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  50% { transform: translateX(6px); }
+  75% { transform: translateX(-4px); }
+  100% { transform: translateX(0); }
+}
+
+@media (min-width: 700px) {
+  .fretboard-controls {
+    grid-template-columns: 1fr 1fr;
+    align-items: end;
+  }
+
+  .fretboard-control__hint {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 680px) {
+  .fretboard-tester-card {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .fretboard-tester-card .fretboard-button {
+    grid-column: 1 / -1;
+    justify-self: end;
+  }
+
+  .fretboard-grid {
+    min-width: 28rem;
+  }
+}

@@ -1,0 +1,72 @@
+---
+layout: default
+title: "Fretboard Note Tester"
+description: "A mobile-first guitar game for mastering note positions by fret and octave sweeps."
+permalink: /projects/fretboard-note-tester/
+extra_css: /assets/css/fretboard-note-tester.css
+extra_js:
+  - /assets/js/projects-data.js
+  - /assets/js/fretboard-note-tester.js
+body_data: 'data-project="fretboard-note-tester"'
+---
+<article class="article animate-fade-in">
+  <header class="article__header">
+    <h1 class="article__title"></h1>
+    <p class="article__description fretboard-tester__description"></p>
+  </header>
+
+  <div class="article__content">
+    <section class="fretboard-tester-card" id="testerCard" aria-live="polite">
+      <div class="fretboard-tester-card__meta">
+        <span class="fretboard-tester-card__label">Target Note</span>
+        <strong class="fretboard-tester-card__value" id="targetNoteValue">-</strong>
+      </div>
+      <div class="fretboard-tester-card__meta">
+        <span class="fretboard-tester-card__label">Current Sweep</span>
+        <strong class="fretboard-tester-card__value" id="sweepValue">-</strong>
+      </div>
+      <button type="button" class="fretboard-button fretboard-button--secondary" id="replayButton">
+        Replay Target
+      </button>
+    </section>
+
+    <p class="fretboard-feedback" id="feedbackMessage">Tap all matching notes in the required order.</p>
+    <p class="fretboard-progress" id="progressMessage"></p>
+
+    <section class="fretboard-visual" aria-label="Interactive fretboard">
+      <div class="fretboard-visual__scroll">
+        <div class="fretboard-grid" id="fretboardGrid"></div>
+      </div>
+    </section>
+
+    <section class="fretboard-controls" aria-label="Game settings">
+      <label class="fretboard-control">
+        <span class="fretboard-control__label">Noise</span>
+        <select id="soundToggle" class="fretboard-control__input">
+          <option value="on" selected>On</option>
+          <option value="off">Muted</option>
+        </select>
+      </label>
+
+      <label class="fretboard-control">
+        <span class="fretboard-control__label">Highest Fret</span>
+        <select id="maxFret" class="fretboard-control__input" aria-describedby="fretHint">
+          <option value="3">3</option>
+          <option value="5">5</option>
+          <option value="7">7</option>
+          <option value="9">9</option>
+          <option value="12" selected>12</option>
+          <option value="15">15</option>
+          <option value="17">17</option>
+          <option value="19">19</option>
+          <option value="21">21</option>
+          <option value="24">24</option>
+        </select>
+      </label>
+      <p id="fretHint" class="fretboard-control__hint">Test range includes open strings through your selected fret.</p>
+    </section>
+  </div>
+</article>
+
+<script src="https://unpkg.com/tone@14.8.49/build/Tone.js"></script>
+<a href="{{ '/projects/' | relative_url }}" class="back-link">Back to Projects</a>
