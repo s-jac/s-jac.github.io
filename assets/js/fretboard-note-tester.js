@@ -18,9 +18,9 @@ const STRING_LABELS = {
   6: '6 (Low E)'
 };
 
-const SWEEPS = [
+const BASE_SWEEPS = [
   {
-    name: '1 of 3 - Neck top to bottom',
+    name: '1 of 4 - Neck top to bottom',
     shortName: 'Top to Bottom',
     buildGroups: function(positions) {
       return buildKeyGroups(positions, function(position) {
@@ -29,7 +29,7 @@ const SWEEPS = [
     }
   },
   {
-    name: '2 of 3 - Octave low to high',
+    name: '2 of 4 - Octave low to high',
     shortName: 'Low to High',
     buildGroups: function(positions) {
       return buildKeyGroups(positions, function(position) {
@@ -38,7 +38,7 @@ const SWEEPS = [
     }
   },
   {
-    name: '3 of 3 - Octave high to low',
+    name: '3 of 4 - Octave high to low',
     shortName: 'High to Low',
     buildGroups: function(positions) {
       return buildKeyGroups(positions, function(position) {
@@ -55,7 +55,7 @@ let toneDisabled = false;
 const state = {
   currentNote: null,
   positions: [],
-  sweepGroups: [],
+  sweeps: [],
   sweepIndex: 0,
   groupIndex: 0,
   groupRemaining: new Set(),
@@ -64,6 +64,17 @@ const state = {
 
 function randomItem(array) {
   return array[Math.floor(Math.random() * array.length)];
+}
+
+function shuffledCopy(array) {
+  const copy = array.slice();
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const temp = copy[i];
+    copy[i] = copy[j];
+    copy[j] = temp;
+  }
+  return copy;
 }
 
 function noteNameFromMidi(midiNote) {
@@ -192,13 +203,13 @@ function setProgress() {
     return;
   }
 
-  if (!state.currentNote || !state.sweepGroups.length) {
+  if (!state.currentNote || !state.sweeps.length) {
     progress.textContent = '';
     return;
   }
 
-  const currentSweep = SWEEPS[state.sweepIndex];
-  const groups = state.sweepGroups[state.sweepIndex];
+  const currentSweep = state.sweeps[state.sweepIndex];
+  const groups = currentSweep.groups;
   const totalGroups = groups.length;
   const completedGroups = state.groupIndex;
   const remainingThisGroup = state.groupRemaining.size;
@@ -268,10 +279,54 @@ function buildKeyGroups(positions, keyGetter, direction) {
   });
 }
 
-function buildSweepGroups(positions) {
-  return SWEEPS.map(function(sweep) {
-    return sweep.buildGroups(positions);
+function buildStringSweep(positions) {
+  const stringSet = new Set();
+  positions.forEach(function(position) {
+    stringSet.add(position.stringNumber);
   });
+
+  const stringOrder = shuffledCopy(Array.from(stringSet));
+  const groups = stringOrder.map(function(stringNumber) {
+    return positions.filter(function(position) {
+      return position.stringNumber === stringNumber;
+    }).map(function(position) {
+      return position.id;
+    });
+  });
+
+  return {
+    name: '4 of 4 - Random strings (' + stringOrder.join(' -> ') + ')',
+    shortName: 'Random Strings',
+    groups: groups
+  };
+}
+
+function buildSweepsForRound(positions) {
+  const sweeps = BASE_SWEEPS.map(function(sweep) {
+    return {
+      name: sweep.name,
+      shortName: sweep.shortName,
+      groups: sweep.buildGroups(positions)
+    };
+  });
+
+  sweeps.push(buildStringSweep(positions));
+  return sweeps;
+}
+
+function targetDisplayWithOctaveRange(note, positions) {
+  if (!positions.length) {
+    return note;
+  }
+
+  let minMidi = positions[0].midi;
+  let maxMidi = positions[0].midi;
+  positions.forEach(function(position) {
+    minMidi = Math.min(minMidi, position.midi);
+    maxMidi = Math.max(maxMidi, position.midi);
+  });
+
+  return note + ' (' + midiToNoteWithOctave(minMidi) + ' - ' + midiToNoteWithOctave(maxMidi) + ')';
 }
 
 function markTappedButton(positionId) {
@@ -288,7 +343,7 @@ function clearTappedButtons() {
 }
 
 function setCurrentGroupRemaining() {
-  const currentSweepGroups = state.sweepGroups[state.sweepIndex];
+  const currentSweepGroups = state.sweeps[state.sweepIndex].groups;
   const currentGroup = currentSweepGroups[state.groupIndex] || [];
   state.groupRemaining = new Set(currentGroup);
   setProgress();
@@ -299,12 +354,23 @@ function prepareSweep(index) {
   state.groupIndex = 0;
   clearTappedButtons();
   setCurrentGroupRemaining();
-  document.getElementById('sweepValue').textContent = SWEEPS[state.sweepIndex].name;
+  document.getElementById('sweepValue').textContent = state.sweeps[state.sweepIndex].name;
 }
 
 function getTargetReplayMidi() {
-  const targetIndex = CHROMATIC_NOTES.indexOf(state.currentNote);
-  return 48 + targetIndex;
+  if (!state.positions.length) {
+    const targetIndex = CHROMATIC_NOTES.indexOf(state.currentNote);
+    return 48 + targetIndex;
+  }
+
+  const sortedMidi = state.positions.map(function(position) {
+    return position.midi;
+  }).sort(function(a, b) {
+    return a - b;
+  });
+
+  const centerIndex = Math.floor(sortedMidi.length / 2);
+  return sortedMidi[centerIndex];
 }
 
 function chooseNextNote(previousNote) {
@@ -329,19 +395,19 @@ function startNewRound() {
 
   state.currentNote = note;
   state.positions = positions;
-  state.sweepGroups = buildSweepGroups(positions);
+  state.sweeps = buildSweepsForRound(positions);
   state.acceptingInput = true;
 
-  document.getElementById('targetNoteValue').textContent = note;
+  document.getElementById('targetNoteValue').textContent = targetDisplayWithOctaveRange(note, positions);
   prepareSweep(0);
   setFeedback('Sweep 1: tap every ' + note + ' from top of neck to bottom.', null);
 }
 
 function handleSweepCompletion() {
-  if (state.sweepIndex < SWEEPS.length - 1) {
+  if (state.sweepIndex < state.sweeps.length - 1) {
     const nextSweepIndex = state.sweepIndex + 1;
     prepareSweep(nextSweepIndex);
-    const nextSweep = SWEEPS[nextSweepIndex];
+    const nextSweep = state.sweeps[nextSweepIndex];
     setCardState('fretboard-tester-card--correct');
     setFeedback('Nice! Now sweep ' + nextSweep.shortName + '.', 'fretboard-feedback--good');
     return;
@@ -349,14 +415,14 @@ function handleSweepCompletion() {
 
   state.acceptingInput = false;
   setCardState('fretboard-tester-card--correct');
-  setFeedback('Brilliant — all three sweeps complete. Keep it going!', 'fretboard-feedback--good');
+  setFeedback('Brilliant — all four sweeps complete. Keep it going!', 'fretboard-feedback--good');
   window.setTimeout(startNewRound, 900);
 }
 
-function handleWrongTap() {
+function handleWrongTap(tappedMidi) {
   state.acceptingInput = false;
   setCardState('fretboard-tester-card--wrong');
-  setFeedback('Not this one yet — next note coming up.', 'fretboard-feedback--bad');
+  setFeedback('Not this one yet — you tapped ' + midiToNoteWithOctave(tappedMidi) + '. Next note coming up.', 'fretboard-feedback--bad');
   window.setTimeout(startNewRound, 900);
 }
 
@@ -382,7 +448,7 @@ function handleTap(button) {
 
   const inCorrectGroup = state.groupRemaining.has(positionId);
   if (!inCorrectGroup || noteName !== state.currentNote) {
-    handleWrongTap();
+    handleWrongTap(midi);
     return;
   }
 
@@ -397,7 +463,7 @@ function handleTap(button) {
   }
 
   state.groupIndex += 1;
-  const currentSweepGroups = state.sweepGroups[state.sweepIndex];
+  const currentSweepGroups = state.sweeps[state.sweepIndex].groups;
   if (state.groupIndex >= currentSweepGroups.length) {
     handleSweepCompletion();
     return;
