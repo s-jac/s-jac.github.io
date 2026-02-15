@@ -18,7 +18,11 @@ const PROJECTS = {
   },
   'fretboard-flash-cards': {
     title: 'Fretboard Flash Cards',
-    description: 'Mobile-first guitar note training game with Web Audio playback, configurable fret range, and streak scoring.'
+    description: 'Guitar note training game.'
+  },
+  'fretboard-note-tester': {
+    title: 'Fretboard Note Tester',
+    description: 'Tap each target note through three ordered fretboard sweeps.'
   }
 };
 
