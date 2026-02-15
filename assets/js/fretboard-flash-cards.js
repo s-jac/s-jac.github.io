@@ -23,8 +23,6 @@ let audioContext;
 let toneSynth = null;
 let toneDisabled = false;
 let currentRound = null;
-let currentStreak = 0;
-let bestStreak = 0;
 let canAnswer = true;
 
 function midiToFrequency(midiNote) {
@@ -154,11 +152,6 @@ function clearNoteHighlights() {
   document.querySelectorAll('.fretboard-note').forEach(function(button) {
     button.classList.remove('fretboard-note--correct', 'fretboard-note--wrong');
   });
-}
-
-function updateScore() {
-  document.getElementById('streakValue').textContent = String(currentStreak);
-  document.getElementById('bestValue').textContent = String(bestStreak);
 }
 
 function fretToPercent(fretNumber) {
@@ -325,11 +318,6 @@ function handleGuess(guessButton) {
 
   if (isCorrect) {
     canAnswer = false;
-    currentStreak += 1;
-    if (currentStreak > bestStreak) {
-      bestStreak = currentStreak;
-    }
-    updateScore();
     guessButton.classList.add('fretboard-note--correct');
     gameCard.classList.remove('fretboard-card--wrong');
     gameCard.classList.add('fretboard-card--correct');
@@ -337,8 +325,6 @@ function handleGuess(guessButton) {
     window.setTimeout(nextRound, 850);
   } else {
     canAnswer = true;
-    currentStreak = 0;
-    updateScore();
     guessButton.classList.add('fretboard-note--wrong');
     gameCard.classList.remove('fretboard-card--correct');
     gameCard.classList.add('fretboard-card--wrong');
@@ -375,6 +361,5 @@ function addEventListeners() {
 document.addEventListener('DOMContentLoaded', function() {
   buildFretboardNeck();
   addEventListeners();
-  updateScore();
   nextRound();
 });

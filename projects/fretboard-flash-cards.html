@@ -16,6 +16,14 @@ body_data: 'data-project="fretboard-flash-cards"'
   </header>
 
   <div class="article__content">
+    <section class="fretboard-visual" aria-label="Fretboard position preview">
+      <h2 class="fretboard-visual__title">Fretboard View</h2>
+      <p class="fretboard-visual__hint">The highlighted marker shows the exact spot being tested.</p>
+      <div class="fretboard-visual__scroll">
+        <div class="fretboard-neck" id="fretboardNeck"></div>
+      </div>
+    </section>
+
     <section class="fretboard-card" id="gameCard" aria-live="polite">
       <div class="fretboard-card__meta">
         <span class="fretboard-card__label">String</span>
@@ -28,19 +36,6 @@ body_data: 'data-project="fretboard-flash-cards"'
       <button type="button" class="fretboard-button fretboard-button--secondary" id="replayButton">
         Replay Note
       </button>
-    </section>
-
-    <section class="fretboard-visual" aria-label="Fretboard position preview">
-      <h2 class="fretboard-visual__title">Fretboard View</h2>
-      <p class="fretboard-visual__hint">The highlighted marker shows the exact spot being tested.</p>
-      <div class="fretboard-visual__scroll">
-        <div class="fretboard-neck" id="fretboardNeck"></div>
-      </div>
-    </section>
-
-    <section class="fretboard-score" aria-live="polite">
-      <p class="fretboard-score__item">Current streak: <strong id="streakValue">0</strong></p>
-      <p class="fretboard-score__item">Best streak: <strong id="bestValue">0</strong></p>
     </section>
 
     <p class="fretboard-feedback" id="feedbackMessage">Listen, then tap the matching note below.</p>

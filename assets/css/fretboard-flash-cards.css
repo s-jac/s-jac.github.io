@@ -7,9 +7,10 @@
 
 .fretboard-card {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto;
+  align-items: center;
   gap: var(--spacing-sm);
-  padding: var(--spacing-md);
+  padding: 0.8rem var(--spacing-md);
   background: var(--color-gray-100);
   border: 2px solid var(--color-foreground);
   border-radius: 1rem;
@@ -31,13 +32,13 @@
 }
 
 .fretboard-card__value {
-  font-size: 1.75rem;
-  line-height: 1.1;
+  font-size: 1.15rem;
+  line-height: 1.2;
 }
 
 .fretboard-card .fretboard-button {
-  grid-column: 1 / -1;
-  justify-self: center;
+  justify-self: end;
+  white-space: nowrap;
 }
 
 .fretboard-visual {
@@ -251,22 +252,6 @@
   margin-bottom: 0;
 }
 
-.fretboard-score {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--spacing-sm);
-  margin-bottom: var(--spacing-md);
-}
-
-.fretboard-score__item {
-  font-size: 1rem;
-  margin-bottom: 0;
-  padding: 0.7rem 0.75rem;
-  border: 1px solid var(--color-gray-200);
-  border-radius: 0.75rem;
-  text-align: center;
-}
-
 .fretboard-feedback {
   margin-bottom: var(--spacing-md);
   min-height: 1.8rem;
@@ -338,7 +323,7 @@
 
 .fretboard-button--secondary {
   border-radius: 0.75rem;
-  padding: 0.5rem 0.9rem;
+  padding: 0.45rem 0.8rem;
 }
 
 .fretboard-card--correct {
@@ -380,5 +365,16 @@
 
   .fretboard-note-grid {
     grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .fretboard-card {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .fretboard-card .fretboard-button {
+    grid-column: 1 / -1;
+    justify-self: end;
   }
 }
