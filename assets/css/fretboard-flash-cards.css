@@ -1,0 +1,384 @@
+/* Fretboard Flash Cards - mobile-first styles */
+
+.fretboard__description {
+  max-width: 36rem;
+  margin: 0 auto;
+}
+
+.fretboard-card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-md);
+  background: var(--color-gray-100);
+  border: 2px solid var(--color-foreground);
+  border-radius: 1rem;
+  margin-bottom: var(--spacing-md);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.fretboard-card__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.fretboard-card__label {
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-gray-600);
+}
+
+.fretboard-card__value {
+  font-size: 1.75rem;
+  line-height: 1.1;
+}
+
+.fretboard-card .fretboard-button {
+  grid-column: 1 / -1;
+  justify-self: center;
+}
+
+.fretboard-visual {
+  margin-bottom: var(--spacing-md);
+}
+
+.fretboard-visual__title {
+  font-size: 1.15rem;
+  margin-bottom: 0.25rem;
+}
+
+.fretboard-visual__hint {
+  font-size: 0.9rem;
+  margin-bottom: 0.6rem;
+}
+
+.fretboard-visual__scroll {
+  overflow-x: auto;
+  border: 1px solid var(--color-gray-200);
+  border-radius: 0.75rem;
+  background: var(--color-background);
+}
+
+.fretboard-neck {
+  min-width: 58rem;
+  padding: 0.65rem;
+}
+
+.fretboard-neck__fret-labels {
+  position: relative;
+  margin-left: 2.2rem;
+  margin-bottom: 0.4rem;
+  height: 1rem;
+}
+
+.fretboard-neck__fret-label {
+  position: absolute;
+  transform: translateX(-50%);
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--color-gray-600);
+}
+
+.fretboard-neck__board-wrap {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  align-items: center;
+}
+
+.fretboard-neck__string-labels {
+  position: relative;
+  height: 12rem;
+  margin-right: 0.1rem;
+}
+
+.fretboard-neck__string-label {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  align-items: center;
+  justify-content: center;
+  font-size: 0.68rem;
+  color: var(--color-gray-600);
+  display: flex;
+}
+
+.fretboard-neck__string-label:nth-child(1) { top: 0%; }
+.fretboard-neck__string-label:nth-child(2) { top: 20%; }
+.fretboard-neck__string-label:nth-child(3) { top: 40%; }
+.fretboard-neck__string-label:nth-child(4) { top: 60%; }
+.fretboard-neck__string-label:nth-child(5) { top: 80%; }
+.fretboard-neck__string-label:nth-child(6) { top: 100%; }
+
+.fretboard-neck__board {
+  position: relative;
+  height: 12rem;
+  border-radius: 0.6rem;
+  background: linear-gradient(180deg, #bf8a5b 0%, #a96f47 100%);
+  border: 1px solid #8f5a34;
+  overflow: hidden;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+
+.fretboard-neck__nut {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0.4rem;
+  background: #f4efe5;
+  border-right: 1px solid #ded4c4;
+}
+
+.fretboard-neck__fret-line {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(180deg, #f0f0f0 0%, #c8c8c8 100%);
+  box-shadow: 1px 0 0 rgba(0, 0, 0, 0.08);
+}
+
+.fretboard-neck__string-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: calc(1px + (var(--string-index) * 0.32px));
+  transform: translateY(-50%);
+  background: linear-gradient(90deg, #efefef 0%, #cfcfcf 100%);
+  opacity: 0.95;
+}
+
+.fretboard-neck__inlay {
+  position: absolute;
+  top: 50%;
+  width: 0.8rem;
+  height: 0.8rem;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: rgba(242, 233, 215, 0.75);
+}
+
+.fretboard-neck__inlay--double::before,
+.fretboard-neck__inlay--double::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  width: 0.75rem;
+  height: 0.75rem;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: rgba(242, 233, 215, 0.75);
+}
+
+.fretboard-neck__inlay--double {
+  background: transparent;
+}
+
+.fretboard-neck__inlay--double::before {
+  top: -2.6rem;
+}
+
+.fretboard-neck__inlay--double::after {
+  top: 1.9rem;
+}
+
+.fretboard-neck__range-mask {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.22);
+  pointer-events: none;
+}
+
+.fretboard-neck__target {
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  background: #16a34a;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.3);
+  transition: left 0.2s ease, top 0.2s ease;
+}
+
+.fretboard-neck__target::after {
+  content: '';
+  position: absolute;
+  inset: -0.35rem;
+  border-radius: 50%;
+  border: 1px solid rgba(22, 163, 74, 0.45);
+}
+
+.fretboard-controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-md);
+}
+
+.fretboard-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.fretboard-control__label {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.fretboard-control__input {
+  font-family: var(--font-family);
+  font-size: 1rem;
+  color: var(--color-foreground);
+  background: var(--color-background);
+  border: 2px solid var(--color-foreground);
+  border-radius: 0.75rem;
+  padding: 0.65rem 0.75rem;
+}
+
+.fretboard-control__input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-200);
+}
+
+.fretboard-control__hint {
+  font-size: 0.85rem;
+  margin-bottom: 0;
+}
+
+.fretboard-score {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.fretboard-score__item {
+  font-size: 1rem;
+  margin-bottom: 0;
+  padding: 0.7rem 0.75rem;
+  border: 1px solid var(--color-gray-200);
+  border-radius: 0.75rem;
+  text-align: center;
+}
+
+.fretboard-feedback {
+  margin-bottom: var(--spacing-md);
+  min-height: 1.8rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-gray-600);
+}
+
+.fretboard-feedback--good {
+  color: #15803d;
+}
+
+.fretboard-feedback--bad {
+  color: #b91c1c;
+}
+
+.fretboard-note-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+.fretboard-note {
+  width: 100%;
+  border: 2px solid var(--color-foreground);
+  background: var(--color-background);
+  color: var(--color-foreground);
+  border-radius: 0.75rem;
+  padding: 0.8rem 0.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: var(--font-family);
+  cursor: pointer;
+  transition: var(--transition-default);
+}
+
+.fretboard-note:hover {
+  background: var(--color-foreground);
+  color: var(--color-background);
+}
+
+.fretboard-note:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-400);
+}
+
+.fretboard-button {
+  border: 2px solid var(--color-foreground);
+  background: var(--color-foreground);
+  color: var(--color-background);
+  border-radius: var(--border-radius);
+  padding: 0.6rem 1.2rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: var(--font-family);
+  cursor: pointer;
+  transition: var(--transition-default);
+}
+
+.fretboard-button:hover {
+  background: var(--color-background);
+  color: var(--color-foreground);
+}
+
+.fretboard-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-gray-400);
+}
+
+.fretboard-button--secondary {
+  border-radius: 0.75rem;
+  padding: 0.5rem 0.9rem;
+}
+
+.fretboard-card--correct {
+  background: rgba(34, 197, 94, 0.16);
+}
+
+.fretboard-card--wrong {
+  background: rgba(239, 68, 68, 0.16);
+  animation: fretboard-shake 0.28s linear;
+}
+
+.fretboard-note--correct {
+  background: rgba(34, 197, 94, 0.2);
+  border-color: #22c55e;
+}
+
+.fretboard-note--wrong {
+  background: rgba(239, 68, 68, 0.2);
+  border-color: #ef4444;
+}
+
+@keyframes fretboard-shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  50% { transform: translateX(6px); }
+  75% { transform: translateX(-4px); }
+  100% { transform: translateX(0); }
+}
+
+@media (min-width: 700px) {
+  .fretboard-controls {
+    grid-template-columns: 1fr 1fr;
+    align-items: end;
+  }
+
+  .fretboard-control__hint {
+    grid-column: 1 / -1;
+  }
+
+  .fretboard-note-grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}

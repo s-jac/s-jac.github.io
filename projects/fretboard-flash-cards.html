@@ -1,0 +1,93 @@
+---
+layout: default
+title: "Fretboard Flash Cards"
+description: "A mobile-friendly guitar note trainer with audio playback and streak tracking."
+permalink: /projects/fretboard-flash-cards/
+extra_css: /assets/css/fretboard-flash-cards.css
+extra_js:
+  - /assets/js/projects-data.js
+  - /assets/js/fretboard-flash-cards.js
+body_data: 'data-project="fretboard-flash-cards"'
+---
+<article class="article animate-fade-in">
+  <header class="article__header">
+    <h1 class="article__title"></h1>
+    <p class="article__description fretboard__description"></p>
+  </header>
+
+  <div class="article__content">
+    <section class="fretboard-card" id="gameCard" aria-live="polite">
+      <div class="fretboard-card__meta">
+        <span class="fretboard-card__label">String</span>
+        <strong class="fretboard-card__value" id="stringValue">-</strong>
+      </div>
+      <div class="fretboard-card__meta">
+        <span class="fretboard-card__label">Fret</span>
+        <strong class="fretboard-card__value" id="fretValue">-</strong>
+      </div>
+      <button type="button" class="fretboard-button fretboard-button--secondary" id="replayButton">
+        Replay Note
+      </button>
+    </section>
+
+    <section class="fretboard-visual" aria-label="Fretboard position preview">
+      <h2 class="fretboard-visual__title">Fretboard View</h2>
+      <p class="fretboard-visual__hint">The highlighted marker shows the exact spot being tested.</p>
+      <div class="fretboard-visual__scroll">
+        <div class="fretboard-neck" id="fretboardNeck"></div>
+      </div>
+    </section>
+
+    <section class="fretboard-score" aria-live="polite">
+      <p class="fretboard-score__item">Current streak: <strong id="streakValue">0</strong></p>
+      <p class="fretboard-score__item">Best streak: <strong id="bestValue">0</strong></p>
+    </section>
+
+    <p class="fretboard-feedback" id="feedbackMessage">Listen, then tap the matching note below.</p>
+
+    <section class="fretboard-note-grid" id="noteGrid" aria-label="Chromatic note choices">
+      <button type="button" class="fretboard-note" data-note="C">C</button>
+      <button type="button" class="fretboard-note" data-note="C#">C#</button>
+      <button type="button" class="fretboard-note" data-note="D">D</button>
+      <button type="button" class="fretboard-note" data-note="D#">D#</button>
+      <button type="button" class="fretboard-note" data-note="E">E</button>
+      <button type="button" class="fretboard-note" data-note="F">F</button>
+      <button type="button" class="fretboard-note" data-note="F#">F#</button>
+      <button type="button" class="fretboard-note" data-note="G">G</button>
+      <button type="button" class="fretboard-note" data-note="G#">G#</button>
+      <button type="button" class="fretboard-note" data-note="A">A</button>
+      <button type="button" class="fretboard-note" data-note="A#">A#</button>
+      <button type="button" class="fretboard-note" data-note="B">B</button>
+    </section>
+
+    <section class="fretboard-controls" aria-label="Game settings">
+      <label class="fretboard-control">
+        <span class="fretboard-control__label">Noise</span>
+        <select id="soundToggle" class="fretboard-control__input">
+          <option value="on" selected>On</option>
+          <option value="off">Muted</option>
+        </select>
+      </label>
+
+      <label class="fretboard-control">
+        <span class="fretboard-control__label">Highest Fret</span>
+        <select id="maxFret" class="fretboard-control__input" aria-describedby="fretHint">
+          <option value="3">3</option>
+          <option value="5">5</option>
+          <option value="7">7</option>
+          <option value="9">9</option>
+          <option value="12" selected>12</option>
+          <option value="15">15</option>
+          <option value="17">17</option>
+          <option value="19">19</option>
+          <option value="21">21</option>
+          <option value="24">24</option>
+        </select>
+      </label>
+      <p id="fretHint" class="fretboard-control__hint">Questions include open strings through your selected fret.</p>
+    </section>
+  </div>
+</article>
+
+<script src="https://unpkg.com/tone@14.8.49/build/Tone.js"></script>
+<a href="{{ '/projects/' | relative_url }}" class="back-link">Back to Projects</a>
