@@ -141,6 +141,9 @@ function playCurrentNote() {
 
 function setFeedback(message, toneClass) {
   const feedback = document.getElementById('feedbackMessage');
+  if (!feedback) {
+    return;
+  }
   feedback.textContent = message;
   feedback.classList.remove('fretboard-feedback--good', 'fretboard-feedback--bad');
   if (toneClass) {
@@ -171,6 +174,11 @@ function positionPercentForFret(fretNumber) {
 
 function stringToPercent(stringNumber) {
   return ((stringNumber - 1) / 5) * 100;
+}
+
+function markerTopPercentForString(stringNumber) {
+  const raw = stringToPercent(stringNumber);
+  return Math.min(97, Math.max(3, raw));
 }
 
 function buildFretboardNeck() {
@@ -272,7 +280,7 @@ function updateFretboardVisual(maxFret) {
   const target = document.getElementById('fretboardTarget');
   if (target) {
     target.style.left = positionPercentForFret(currentRound.fretNumber) + '%';
-    target.style.top = stringToPercent(currentRound.stringNumber) + '%';
+    target.style.top = markerTopPercentForString(currentRound.stringNumber) + '%';
   }
 }
 
