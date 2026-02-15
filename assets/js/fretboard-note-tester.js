@@ -10,12 +10,12 @@ const OPEN_STRING_MIDI = {
 };
 
 const STRING_LABELS = {
-  1: '1 (High E)',
-  2: '2 (B)',
-  3: '3 (G)',
-  4: '4 (D)',
-  5: '5 (A)',
-  6: '6 (Low E)'
+  1: '1',
+  2: '2',
+  3: '3',
+  4: '4',
+  5: '5',
+  6: '6'
 };
 
 const BASE_SWEEPS = [
