@@ -15,6 +15,10 @@ const PROJECTS = {
   'train-game': {
     title: 'Train Game Solver',
     description: "JS-based UI generating all possible solutions to the popular Sydney 'train game'."
+  },
+  'fretboard-flash-cards': {
+    title: 'Fretboard Flash Cards',
+    description: 'Mobile-first guitar note training game with Web Audio playback, configurable fret range, and streak scoring.'
   }
 };
 
