@@ -420,10 +420,9 @@ function handleSweepCompletion() {
 }
 
 function handleWrongTap(tappedMidi) {
-  state.acceptingInput = false;
   setCardState('fretboard-tester-card--wrong');
-  setFeedback('Not this one yet — you tapped ' + midiToNoteWithOctave(tappedMidi) + '. Next note coming up.', 'fretboard-feedback--bad');
-  window.setTimeout(startNewRound, 900);
+  setFeedback('Not this one yet — you tapped ' + midiToNoteWithOctave(tappedMidi) + '. Keep going on this note.', 'fretboard-feedback--bad');
+  setProgress();
 }
 
 function handleTap(button) {
