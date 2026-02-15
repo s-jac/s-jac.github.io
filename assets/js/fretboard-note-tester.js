@@ -330,15 +330,19 @@ function targetDisplayWithOctaveRange(note, positions) {
 }
 
 function markTappedButton(positionId) {
-  const button = document.querySelector('.fretboard-grid__button[data-position-id="' + positionId + '"]');
-  if (button) {
-    button.classList.add('fretboard-grid__button--hit');
+  const target = document.querySelector('[data-position-id="' + positionId + '"]');
+  if (target) {
+    if (target.classList.contains('fretboard-grid__string-trigger')) {
+      target.classList.add('fretboard-grid__string-trigger--hit');
+      return;
+    }
+    target.classList.add('fretboard-grid__button--hit');
   }
 }
 
 function clearTappedButtons() {
-  document.querySelectorAll('.fretboard-grid__button--hit').forEach(function(button) {
-    button.classList.remove('fretboard-grid__button--hit');
+  document.querySelectorAll('.fretboard-grid__button--hit, .fretboard-grid__string-trigger--hit').forEach(function(button) {
+    button.classList.remove('fretboard-grid__button--hit', 'fretboard-grid__string-trigger--hit');
   });
 }
 
@@ -445,7 +449,7 @@ function handleTap(button) {
   const noteName = noteNameFromMidi(midi);
   playMidi(midi);
 
-  if (button.classList.contains('fretboard-grid__button--hit')) {
+  if (button.classList.contains('fretboard-grid__button--hit') || button.classList.contains('fretboard-grid__string-trigger--hit')) {
     return;
   }
 
@@ -500,20 +504,24 @@ function buildFretboardGrid() {
     label.textContent = String(fret);
     labels.appendChild(label);
   }
-  const openLabel = document.createElement('span');
-  openLabel.className = 'fretboard-grid__fret-label';
-  openLabel.textContent = 'Open';
-  labels.appendChild(openLabel);
   grid.appendChild(labels);
 
   for (let stringNumber = 1; stringNumber <= 6; stringNumber += 1) {
     const row = document.createElement('div');
     row.className = 'fretboard-grid__row';
 
-    const stringLabel = document.createElement('span');
-    stringLabel.className = 'fretboard-grid__string-label';
-    stringLabel.textContent = STRING_LABELS[stringNumber];
-    row.appendChild(stringLabel);
+    const stringLabelButton = document.createElement('button');
+    stringLabelButton.type = 'button';
+    stringLabelButton.className = 'fretboard-grid__string-trigger';
+    stringLabelButton.textContent = STRING_LABELS[stringNumber];
+    stringLabelButton.dataset.string = String(stringNumber);
+    stringLabelButton.dataset.fret = '0';
+    stringLabelButton.dataset.positionId = 's' + String(stringNumber) + 'f0';
+    stringLabelButton.setAttribute('aria-label', 'String ' + STRING_LABELS[stringNumber] + ', open');
+    stringLabelButton.addEventListener('click', function() {
+      handleTap(stringLabelButton);
+    });
+    row.appendChild(stringLabelButton);
 
     for (let fretNumber = 1; fretNumber <= maxFret; fretNumber += 1) {
       const cell = document.createElement('div');
@@ -533,22 +541,6 @@ function buildFretboardGrid() {
       cell.appendChild(button);
       row.appendChild(cell);
     }
-
-    const openCell = document.createElement('div');
-    openCell.className = 'fretboard-grid__cell';
-    const openButton = document.createElement('button');
-    openButton.type = 'button';
-    openButton.className = 'fretboard-grid__button fretboard-grid__button--open';
-    openButton.textContent = STRING_LABELS[stringNumber];
-    openButton.dataset.string = String(stringNumber);
-    openButton.dataset.fret = '0';
-    openButton.dataset.positionId = 's' + String(stringNumber) + 'f0';
-    openButton.setAttribute('aria-label', 'String ' + STRING_LABELS[stringNumber] + ', open');
-    openButton.addEventListener('click', function() {
-      handleTap(openButton);
-    });
-    openCell.appendChild(openButton);
-    row.appendChild(openCell);
 
     grid.appendChild(row);
   }
