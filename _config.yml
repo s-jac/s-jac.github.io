@@ -12,6 +12,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+future: true
 
 # Permalinks - clean URLs without .html
 permalink: /blog/:title/
