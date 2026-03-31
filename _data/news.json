@@ -1,5 +1,22 @@
 {
-  "date": null,
-  "generated_at": null,
-  "sections": []
+  "date": "31 March 2026",
+  "generated_at": "2026-03-31T03:50:26.825670+00:00",
+  "sections": [
+    {
+      "heading": "World",
+      "summary": "Spain has closed its airspace to US aircraft involved in Iran war efforts, while a new Israeli law allows the death penalty for Palestinians convicted of deadly attacks. King Charles is reportedly planning a US visit, and a US lawmaker suggests he meet Epstein victims. Meanwhile, a Gazan mother was reunited with her daughter, and social media firms face scrutiny over enforcing an under-16 ban in Australia."
+    },
+    {
+      "heading": "Tech",
+      "summary": "Social media companies are under pressure to enforce an under-16 ban in Australia, as tech CEOs increasingly attribute job cuts to AI. Chinese tech firms are expanding into Hong Kong, and Sony has hiked the price of the PS5 by £90 due to global pressures. Lloyds Bank experienced an IT glitch affecting nearly half a million customers, and the UK's competition watchdog is investigating firms like Just Eat and Autotrader for fake reviews."
+    },
+    {
+      "heading": "Australia",
+      "summary": "NSW Premier Chris Minns is advocating for an end to reliance on Middle Eastern oil and increased adoption of electric vehicles. The Northern Territory has revived a 1940s law to combat fuel price gouging, and a public hearing into the hiring of the new CIT CEO was cancelled amidst an ongoing probe. Additionally, efforts are underway to save an iconic frog species in Sydney, and young farmers are embracing drones for efficiency."
+    },
+    {
+      "heading": "Science",
+      "summary": "NASA's mission to the Moon and Mars continues, with a focus on lunar discoveries and a race with China. A consultation has begun in the UK, bringing a ban on trail hunting closer to reality. Sewage spills in England have nearly halved, largely due to drier weather and infrastructure investment, and new findings suggest dogs became man's best friend much earlier than previously thought. Concerns are also being raised over the decline in migratory fish populations."
+    }
+  ]
 }
