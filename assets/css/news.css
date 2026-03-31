@@ -1,0 +1,50 @@
+/* News digest page styles */
+
+.news__date {
+  font-size: 0.875rem;
+  color: var(--color-gray-400);
+  margin-top: var(--spacing-xs);
+}
+
+.news-sections {
+  width: 100%;
+}
+
+.news-section {
+  padding: var(--spacing-md) 0;
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.news-section:first-child {
+  border-top: 1px solid var(--color-gray-200);
+}
+
+.news-section__heading {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-gray-400);
+  margin-bottom: var(--spacing-xs);
+}
+
+.news-section__summary {
+  font-size: 1rem;
+  color: var(--color-foreground);
+  font-weight: 400;
+  line-height: 1.75;
+  margin-bottom: 0;
+}
+
+.news__updated {
+  font-size: 0.75rem;
+  color: var(--color-gray-400);
+  text-align: center;
+  margin-top: var(--spacing-lg);
+}
+
+.news__empty {
+  text-align: center;
+  color: var(--color-gray-400);
+  padding: var(--spacing-xl) 0;
+}

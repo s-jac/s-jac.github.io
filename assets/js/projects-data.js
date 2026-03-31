@@ -2,27 +2,38 @@
 const PROJECTS = {
   'mstriage': {
     title: 'Manuscript Triage for Publishing Houses',
-    description: 'A manuscript triage system for publishing houses that uses AI to efficiently sort through submissions and identify promising works.'
+    description: 'A manuscript triage system for publishing houses that uses AI to efficiently sort through submissions and identify promising works.',
+    date: 'Jan 2026'
   },
   'ratemybook': {
     title: 'ratemybook for Authors',
-    description: 'An AI-powered tool that provides authors with detailed feedback and scoring on their manuscripts to help improve their writing.'
+    description: 'An AI-powered tool that provides authors with detailed feedback and scoring on their manuscripts to help improve their writing.',
+    date: 'Jan 2026'
   },
   'whatsapp-wrapped': {
     title: 'WhatsApp Wrapped',
-    description: 'Analyze your WhatsApp chat exports to generate personalized statistics and insights about your messaging habits.'
+    description: 'Analyze your WhatsApp chat exports to generate personalized statistics and insights about your messaging habits.',
+    date: 'Jan 2026'
   },
   'train-game': {
     title: 'Train Game Solver',
-    description: "JS-based UI generating all possible solutions to the popular Sydney 'train game'."
+    description: "JS-based UI generating all possible solutions to the popular Sydney 'train game'.",
+    date: 'Jan 2026'
   },
   'fretboard-flash-cards': {
     title: 'Fretboard Flash Cards',
-    description: 'Guitar note training game.'
+    description: 'Guitar note training game.',
+    date: 'Feb 2026'
   },
   'fretboard-note-tester': {
     title: 'Fretboard Note Tester',
-    description: 'Tap each target note through three ordered fretboard sweeps.'
+    description: 'Tap each target note through three ordered fretboard sweeps.',
+    date: 'Feb 2026'
+  },
+  'news': {
+    title: 'News',
+    description: 'A daily scraped news digest, updated each morning by a Raspberry Pi cron job.',
+    date: 'Mar 2026'
   }
 };
 
@@ -32,14 +43,14 @@ document.addEventListener('DOMContentLoaded', function() {
   const projectId = document.body.dataset.project;
   if (projectId && PROJECTS[projectId]) {
     const project = PROJECTS[projectId];
-    
+
     const titleEl = document.querySelector('.article__title');
     const descEl = document.querySelector('.article__description');
-    
+
     if (titleEl) titleEl.textContent = project.title;
     if (descEl) descEl.textContent = project.description;
   }
-  
+
   // For projects list page (project items have data-project)
   const projectItems = document.querySelectorAll('.project-item[data-project]');
   projectItems.forEach(function(item) {
@@ -47,10 +58,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (PROJECTS[id]) {
       const titleEl = item.querySelector('.project-item__title');
       const tooltipEl = item.querySelector('.project-item__tooltip');
-      
+      const dateEl = item.querySelector('.project-item__date');
+
       if (titleEl) titleEl.textContent = PROJECTS[id].title;
       if (tooltipEl) tooltipEl.textContent = PROJECTS[id].description;
+      if (dateEl && PROJECTS[id].date) dateEl.textContent = PROJECTS[id].date;
     }
   });
 });
-

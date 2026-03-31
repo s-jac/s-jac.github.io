@@ -491,6 +491,19 @@ p {
   text-align: center;
 }
 
+.project-item__date {
+  font-size: 0.875rem;
+  color: var(--color-gray-400);
+  white-space: nowrap;
+  margin-right: var(--spacing-sm);
+  flex-shrink: 0;
+  transition: var(--transition-default);
+}
+
+.project-item:hover .project-item__date {
+  color: var(--color-gray-200);
+}
+
 .project-item__info {
   position: relative;
   display: flex;
