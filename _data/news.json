@@ -1,24 +1,24 @@
 {
   "date": "14 April 2026",
-  "generated_at": "2026-04-14T05:05:44.358745+00:00",
+  "generated_at": "2026-04-14T05:11:29.674159+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Lebanon has entered peace talks with Israel, though its government acknowledges having limited influence over the group.",
+          "text": "Lebanon is entering peace talks with Israel, though the Lebanese government acknowledges it has limited influence over the involved groups.",
           "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/world"
         },
         {
           "text": "The wife of Spanish Prime Minister Pedro Sánchez, Begoña Gómez, has been charged with corruption following a two-year investigation into allegations she used her relationship to advance her private career.",
           "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A treaty concerning the sovereignty of the Chagos Islands to Mauritius has become “impossible to agree at political level” due to the US withdrawal of support, according to a UK minister.",
+          "text": "A treaty to cede sovereignty of the Chagos Islands to Mauritius is now deemed \"impossible to agree at a political level\" by a UK minister, following the US withdrawal of support.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament"
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A man has been charged with the murder of his pregnant ex-partner, Hayley McClenahan-Ernst, nine years after her suspicious death in Sydney's west.",
+          "text": "Australia's largest private cattle feedlot, Mort & Co, is on the market amidst a surge in grain-fed beef demand, with the company putting the majority of its assets up for sale.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-04-14/nsw-pregnant-mother-hayley-mcclenahan-ernst-murder-charge/106562952"
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Qantas is implementing higher fares and fewer flights to mitigate the financial impact of increased jet fuel costs resulting from the Iran war.",
+          "text": "Sydney community radio station 2SER faces potential closure in July after over 45 years, following the withdrawal of its main funder, Macquarie University, and a failure to secure alternative financial backing.",
           "source": "SMH",
-          "url": "https://www.smh.com.au/business/companies/higher-fares-fewer-flights-qantas-goes-into-damage-control-20260414-p5znrc.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Hezbollah has urged Lebanon to withdraw from ongoing talks with Israel, while a blockade of the Strait of Hormuz has begun amid the Middle East crisis.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
+          "text": "Qantas is implementing higher fares and fewer flights in an effort to mitigate the financial impact of increased jet fuel costs, which have risen by hundreds of millions of dollars due to the Iran war.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Oil prices are retreating amid reports of renewed US-Iran talks, as President Masoud Pezeshkian states Tehran will accept discussions within international law.",
+          "text": "Oil prices have retreated amid reports of renewed talks between Iran and the US, with President Masoud Pezeshkian indicating Tehran will accept discussions within international law.",
           "source": "FT",
-          "url": "https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1"
+          "url": "https://www.ft.com"
         },
         {
-          "text": "China's export growth slowed sharply in March while imports surged, influenced by seasonal factors and the ongoing war in Iran impacting global energy supply.",
+          "text": "Stocks rose and oil declined on optimism for a potential Iran deal, as President Donald Trump signaled a willingness to resume talks, potentially easing Middle East tensions.",
           "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-14/china-s-export-growth-slowed-sharply-in-first-month-of-iran-war"
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The third Gulf war is expected to significantly impact energy markets for an extended period, with residual risks and damaged infrastructure keeping prices high.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics/2026/04/08/the-third-gulf-war-will-scar-energy-markets-for-a-long-time-yet"
+          "text": "The conflict in the Middle East is expected to prolong volatility, with Euroclear Group CEO Valerie Urbain noting it will be more sustained than previous crises.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
