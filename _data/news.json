@@ -1,29 +1,65 @@
 {
   "date": "14 April 2026",
-  "generated_at": "2026-04-14T04:41:53.219061+00:00",
+  "generated_at": "2026-04-14T05:11:29.674159+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
-        "Lebanon has begun peace talks with Israel, though the Lebanese government holds limited influence over the involved groups.",
-        "Pope Leo XIV has commenced an 11-day tour of Africa, starting with a papal visit to Algeria, signaling the continent's growing significance to the Catholic Church.",
-        "Spain's Prime Minister Pedro Sánchez's wife, Begoña Gómez, has been charged with corruption following a two-year investigation into her use of her relationship to advance her career."
+        {
+          "text": "Lebanon is entering peace talks with Israel, though the Lebanese government acknowledges it has limited influence over the involved groups.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "The wife of Spanish Prime Minister Pedro Sánchez, Begoña Gómez, has been charged with corruption following a two-year investigation into allegations she used her relationship to advance her private career.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "A treaty to cede sovereignty of the Chagos Islands to Mauritius is now deemed \"impossible to agree at a political level\" by a UK minister, following the US withdrawal of support.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
+        }
       ]
     },
     {
       "heading": "Australia",
       "bullets": [
-        "Colombian officials have approved a plan to cull up to 80 hippos, descendants of those brought to the country by drug lord Pablo Escobar.",
-        "A man has been charged with the murder of his pregnant ex-partner, Hayley McClenahan-Ernst, nine years after her suspicious death in Sydney's west.",
-        "The WA government is considering converting the unused Bullsbrook COVID quarantine facility into a prison due to an 'unprecedented' rise in inmate numbers."
+        {
+          "text": "Australia's largest private cattle feedlot, Mort & Co, is on the market amidst a surge in grain-fed beef demand, with the company putting the majority of its assets up for sale.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Sydney community radio station 2SER faces potential closure in July after over 45 years, following the withdrawal of its main funder, Macquarie University, and a failure to secure alternative financial backing.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
+        },
+        {
+          "text": "Qantas is implementing higher fares and fewer flights in an effort to mitigate the financial impact of increased jet fuel costs, which have risen by hundreds of millions of dollars due to the Iran war.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
+        }
       ]
     },
     {
       "heading": "Economics",
       "bullets": [
-        "OpenAI's investors are questioning its $852 billion valuation as CEO Sam Altman shifts the company's strategy amid competition.",
-        "China's economy is undergoing a significant transformation, with a surge in high-tech goods driven by intense competition, subsidies, and scale, impacting global advanced industries.",
-        "Oil prices have retreated following reports of renewed talks between Iran and the US, though Iran states it will only accept discussions within international law."
+        {
+          "text": "Oil prices have retreated amid reports of renewed talks between Iran and the US, with President Masoud Pezeshkian indicating Tehran will accept discussions within international law.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Stocks rose and oil declined on optimism for a potential Iran deal, as President Donald Trump signaled a willingness to resume talks, potentially easing Middle East tensions.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "The conflict in the Middle East is expected to prolong volatility, with Euroclear Group CEO Valerie Urbain noting it will be more sustained than previous crises.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        }
       ]
     }
   ]

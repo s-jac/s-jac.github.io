@@ -21,7 +21,7 @@ extra_css: /assets/css/news.css
         <h2 class="news-section__heading">{{ section.heading }}</h2>
         <ul class="news-bullets">
           {% for bullet in section.bullets %}
-          <li class="news-bullet">{{ bullet }}</li>
+          <li class="news-bullet">{{ bullet.text }} {% if bullet.url != "" %}<a href="{{ bullet.url }}" class="news-bullet__source" target="_blank" rel="noopener noreferrer">{{ bullet.source }}</a>{% else %}<span class="news-bullet__source">{{ bullet.source }}</span>{% endif %}</li>
           {% endfor %}
         </ul>
       </div>
