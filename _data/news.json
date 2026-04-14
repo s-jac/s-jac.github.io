@@ -1,29 +1,56 @@
 {
   "date": "14 April 2026",
-  "generated_at": "2026-04-14T04:41:53.219061+00:00",
+  "generated_at": "2026-04-14T05:00:56.330723+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
-        "Lebanon has begun peace talks with Israel, though the Lebanese government holds limited influence over the involved groups.",
-        "Pope Leo XIV has commenced an 11-day tour of Africa, starting with a papal visit to Algeria, signaling the continent's growing significance to the Catholic Church.",
-        "Spain's Prime Minister Pedro Sánchez's wife, Begoña Gómez, has been charged with corruption following a two-year investigation into her use of her relationship to advance her career."
+        {
+          "text": "Lebanon has begun peace talks with Israel, but the Lebanese government appears to have limited influence over the group, as reported by the BBC.",
+          "source": "BBC World"
+        },
+        {
+          "text": "The wife of Spanish Prime Minister Pedro Sánchez, Begoña Gómez, has been charged with corruption following a two-year investigation into allegations she used her relationship to advance her private career.",
+          "source": "BBC World"
+        },
+        {
+          "text": "A treaty to cede sovereignty of the Chagos Islands to Mauritius has become ",
+          "source": "The Guardian"
+        }
       ]
     },
     {
       "heading": "Australia",
       "bullets": [
-        "Colombian officials have approved a plan to cull up to 80 hippos, descendants of those brought to the country by drug lord Pablo Escobar.",
-        "A man has been charged with the murder of his pregnant ex-partner, Hayley McClenahan-Ernst, nine years after her suspicious death in Sydney's west.",
-        "The WA government is considering converting the unused Bullsbrook COVID quarantine facility into a prison due to an 'unprecedented' rise in inmate numbers."
+        {
+          "text": "A man wanted by NSW Police died in hospital from injuries sustained after being detained by two men near Murwillumbah.",
+          "source": "ABC News"
+        },
+        {
+          "text": "Colombian officials have approved a plan to cull dozens of hippos, years after drug lord Pablo Escobar introduced the first ones to the country.",
+          "source": "ABC News"
+        },
+        {
+          "text": "A man has been charged with the murder of his pregnant ex-partner, Hayley McClenahan-Ernst, nine years after her suspicious death in Sydney's west.",
+          "source": "ABC News"
+        }
       ]
     },
     {
       "heading": "Economics",
       "bullets": [
-        "OpenAI's investors are questioning its $852 billion valuation as CEO Sam Altman shifts the company's strategy amid competition.",
-        "China's economy is undergoing a significant transformation, with a surge in high-tech goods driven by intense competition, subsidies, and scale, impacting global advanced industries.",
-        "Oil prices have retreated following reports of renewed talks between Iran and the US, though Iran states it will only accept discussions within international law."
+        {
+          "text": "OpenAI's investors are questioning the company's $852bn valuation as CEO Sam Altman shifts the AI company's strategy, while China's export of high-tech goods is set to impact global industries.",
+          "source": "FT"
+        },
+        {
+          "text": "The war in Iran has led to a significant slowdown in China's export growth and a surge in imports, impacting global energy supply and causing prolonged volatility in energy markets.",
+          "source": "Bloomberg"
+        },
+        {
+          "text": "The conflict in the Middle East is causing shifts in financial markets, with Hong Kong dollar bond sales booming due to haven flows and Japan's 20-year bond auction seeing strong demand.",
+          "source": "Bloomberg"
+        }
       ]
     }
   ]
