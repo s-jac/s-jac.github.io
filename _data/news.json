@@ -1,24 +1,24 @@
 {
   "date": "16 April 2026",
-  "generated_at": "2026-04-16T04:50:40.784013+00:00",
+  "generated_at": "2026-04-16T12:01:46.222633+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "More than \nA31bn has been pledged for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis, though prospects for a ceasefire remain distant.",
+          "text": "Satellite images analyzed by BBC Verify show that over 1,400 buildings in Lebanese villages have been destroyed since March 2, revealing the scale of Israeli demolitions.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "South African opposition figure Julius Malema has been sentenced to five years in prison for a gun offence, with Malema appealing the decision.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Donors have pledged over £1 billion for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "A former US Marine pilot, Daniel Duggan, has lost his appeal against extradition from Australia. He was arrested in 2022 over allegations of illegally training the Chinese military in South Africa.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Nine people, including eight students and one teacher, were killed in a second Turkish school shooting within two days.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A massive crude oil tanker has docked in Newcastle, replenishing regional New South Wales diesel supplies amid ongoing Middle East unrest.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "A fire at the Viva oil refinery in Geelong has been extinguished after 13 hours, with concerns remaining about fuel supply and the full extent of damage.",
+          "text": "Chef José Andrés, founder of World Central Kitchen, has warned of a potential multi-year world famine resulting from the Iran war, predicting a 'silent' collapse of the global fertilizer trade.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "NSW nurses have secured pay rises of up to 28 per cent, bringing an end to a two-year dispute, with the government upholding the court's decision.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The UK government is developing contingency plans to address potential supermarket shelf gaps by summer, anticipating disruptions to CO2 supply if the Iran war persists.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Defence Minister Richard Marles stated that the US alliance remains indispensable for Australian national security, even as Australia aims to build a more self-reliant defence force.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Gulf states, including Abu Dhabi, Qatar, and Kuwait, are turning to private deals for wartime borrowing, avoiding public markets as the Iran conflict impacts their economies.",
+          "text": "Lebanese officials anticipate an imminent ceasefire with Israel, which could support broader efforts for a US-Iran peace accord.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "China's economic growth exceeded forecasts in the first quarter of 2026, suggesting limited immediate impact from the war in Iran on its economy, despite weak consumer spending.",
+          "text": "Pakistan is mediating to extend the US-Iran ceasefire beyond its upcoming expiry, aiming for more time to negotiate a lasting peace deal.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The conflict in Iran is expected to significantly deplete the Gulf's $6 trillion treasure chest, complicating financial management for custodians of Middle Eastern oil fortunes.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Gulf states are increasingly using private deals for fundraising, with over $10 billion raised, as the conflict with Iran impacts their economies.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
