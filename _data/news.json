@@ -1,24 +1,24 @@
 {
-  "date": "15 April 2026",
-  "generated_at": "2026-04-15T02:20:47.249852+00:00",
+  "date": "16 April 2026",
+  "generated_at": "2026-04-16T04:50:40.784013+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Hamas has rejected a Gaza disarmament plan, with a Palestinian official stating that the group will not proceed with talks until Israel fully complies with its commitments.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "The UK is set to advocate for an end to the Sudan bloodshed at Berlin talks, coinciding with the third anniversary of the war, while expressing concerns about the worsening humanitarian crisis and insufficient global efforts.",
+          "text": "More than \nA31bn has been pledged for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis, though prospects for a ceasefire remain distant.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "The Swiss National Bank has cut interest rates by a half point to 0.5%, while Federal Reserve Chair Powell indicated that a rate cut is 'on the table' as soon as September, noting that the labor market is not a significant source of inflation pressure.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "A former US Marine pilot, Daniel Duggan, has lost his appeal against extradition from Australia. He was arrested in 2022 over allegations of illegally training the Chinese military in South Africa.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Nine people, including eight students and one teacher, were killed in a second Turkish school shooting within two days.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "US President Donald Trump has stated that peace talks with Iran could resume within the next two days, potentially in Islamabad under the Pakistani army chief.",
+          "text": "A massive crude oil tanker has docked in Newcastle, replenishing regional New South Wales diesel supplies amid ongoing Middle East unrest.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "A fire at the Viva oil refinery in Geelong has been extinguished after 13 hours, with concerns remaining about fuel supply and the full extent of damage.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "King Charles is scheduled to have tea and a private meeting with US President Donald Trump during his upcoming state visit to the United States.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Latitude Financial has been fined millions of dollars for repeatedly breaching spam laws, including promoting credit cards without providing an opt-out option to recipients.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "NSW nurses have secured pay rises of up to 28 per cent, bringing an end to a two-year dispute, with the government upholding the court's decision.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Tankers have stopped or turned around in the Strait of Hormuz amid a US blockade, with the US military reporting no ships passing through its operation to seal off Iranian ports in the first 24 hours.",
+          "text": "Gulf states, including Abu Dhabi, Qatar, and Kuwait, are turning to private deals for wartime borrowing, avoiding public markets as the Iran conflict impacts their economies.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Gold prices have held gains on optimism that the US and Iran are seeking a negotiated settlement to the war, easing inflation concerns arising from an energy-supply shock.",
+          "text": "China's economic growth exceeded forecasts in the first quarter of 2026, suggesting limited immediate impact from the war in Iran on its economy, despite weak consumer spending.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The third Gulf war is expected to scar energy markets for a long time, with residual risks and ruined infrastructure anticipated to keep prices high.",
+          "text": "The conflict in Iran is expected to significantly deplete the Gulf's $6 trillion treasure chest, complicating financial management for custodians of Middle Eastern oil fortunes.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
