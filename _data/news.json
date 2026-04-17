@@ -1,24 +1,24 @@
 {
-  "date": "16 April 2026",
-  "generated_at": "2026-04-16T12:01:46.222633+00:00",
+  "date": "17 April 2026",
+  "generated_at": "2026-04-17T11:00:35.976161+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Satellite images analyzed by BBC Verify show that over 1,400 buildings in Lebanese villages have been destroyed since March 2, revealing the scale of Israeli demolitions.",
+          "text": "Finance ministers and top bankers have expressed serious concerns about the Mythos AI model, citing its unprecedented ability to identify and exploit cyber-security weaknesses.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "South African opposition figure Julius Malema has been sentenced to five years in prison for a gun offence, with Malema appealing the decision.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Donors have pledged over £1 billion for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis.",
+          "text": "More than £1 billion has been pledged for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "The Swiss National Bank has cut interest rates by half a point to 0.5%, a move that saw the dollar jump 0.5% against the franc.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Chef José Andrés, founder of World Central Kitchen, has warned of a potential multi-year world famine resulting from the Iran war, predicting a 'silent' collapse of the global fertilizer trade.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "The UK government is developing contingency plans to address potential supermarket shelf gaps by summer, anticipating disruptions to CO2 supply if the Iran war persists.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "Defence Minister Richard Marles stated that the US alliance remains indispensable for Australian national security, even as Australia aims to build a more self-reliant defence force.",
+          "text": "Parents of 16-year-old Jai Kalani Wright, who died after a collision with a police car, shared emotional testimonies in court as the sentencing hearing began.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Companies and directors were fined $7 million for operating a payday lending scheme that breached credit rules and generated over $91 million in fees and charges.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Australian soldiers have reportedly told prosecutors that former SAS corporal Ben Roberts-Smith ordered them to execute unarmed civilians, according to court documents.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Lebanese officials anticipate an imminent ceasefire with Israel, which could support broader efforts for a US-Iran peace accord.",
+          "text": "President Trump stated that the war in Iran \"should be ending pretty soon\" as a ceasefire in Lebanon began, suggesting potential US-Iran talks this weekend.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Pakistan is mediating to extend the US-Iran ceasefire beyond its upcoming expiry, aiming for more time to negotiate a lasting peace deal.",
+          "text": "French President Macron and UK Labour leader Starmer are expected to hold a summit to discuss a plan for securing the Strait of Hormuz, with a briefing to Donald Trump planned afterward.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "World leaders are reportedly turning to China's Xi Jinping as the Iran war continues, following stalled peace talks between the US and Iran.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Gulf states are increasingly using private deals for fundraising, with over $10 billion raised, as the conflict with Iran impacts their economies.",
-          "source": "FT",
-          "url": "https://www.ft.com"
         }
       ]
     }
