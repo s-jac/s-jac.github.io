@@ -1,22 +1,22 @@
 {
-  "date": "17 April 2026",
-  "generated_at": "2026-04-17T11:00:35.976161+00:00",
+  "date": "18 April 2026",
+  "generated_at": "2026-04-18T21:00:26.071869+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Finance ministers and top bankers have expressed serious concerns about the Mythos AI model, citing its unprecedented ability to identify and exploit cyber-security weaknesses.",
+          "text": "At least six people were killed in Kyiv after a gunman opened fire and took hostages inside a supermarket, with the attacker subsequently killed in a shoot-out with police.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "More than £1 billion has been pledged for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis.",
+          "text": "More than £1bn has been pledged for Sudan at a conference in Berlin, exceeding the funding target for the war-ravaged country as its humanitarian crisis deepens.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "The Swiss National Bank has cut interest rates by half a point to 0.5%, a move that saw the dollar jump 0.5% against the franc.",
+          "text": "The Swiss National Bank has cut interest rates by a half point to 0.5%, with the dollar jumping 0.5% against the franc.",
           "source": "MarketWatch",
           "url": "https://www.marketwatch.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Parents of 16-year-old Jai Kalani Wright, who died after a collision with a police car, shared emotional testimonies in court as the sentencing hearing began.",
+          "text": "Iran has reportedly opened fire on two Indian-flagged ships in the Strait of Hormuz, just one day after the foreign minister declared the strait open.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Companies and directors were fined $7 million for operating a payday lending scheme that breached credit rules and generated over $91 million in fees and charges.",
+          "text": "The prospect of sea mines in the Strait of Hormuz highlights a gap in US naval capabilities, reinforcing the need for NATO assistance.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australian soldiers have reportedly told prosecutors that former SAS corporal Ben Roberts-Smith ordered them to execute unarmed civilians, according to court documents.",
+          "text": "Suspiciously timed bets totaling over $1 billion on the Iran war are raising concerns among lawmakers, suggesting potential insider trading.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "President Trump stated that the war in Iran \"should be ending pretty soon\" as a ceasefire in Lebanon began, suggesting potential US-Iran talks this weekend.",
+          "text": "Iran has asserted 'strict control' over the Strait of Hormuz, indicating it will not be fully reopened, leading to warnings from Donald Trump against 'blackmailing' Washington.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "French President Macron and UK Labour leader Starmer are expected to hold a summit to discuss a plan for securing the Strait of Hormuz, with a briefing to Donald Trump planned afterward.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "World leaders are reportedly turning to China's Xi Jinping as the Iran war continues, following stalled peace talks between the US and Iran.",
+          "text": "The conflict in the Middle East is expected to revive stagflation dangers for the global economy, with cumulative impacts emerging in business surveys.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Economic pain from the Iran war is projected to disproportionately affect poor countries, with warnings at IMF/World Bank meetings that some developing nations may require additional lending.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
