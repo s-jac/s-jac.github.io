@@ -14,6 +14,8 @@ extra_css: /assets/css/news.css
   </header>
 
   <div class="article__content">
+    <p class="news__about">A daily digest generated each morning by a Raspberry Pi running a cron job — fetching headlines from RSS feeds across BBC, Guardian, FT, Bloomberg and others, then summarising with Gemini.</p>
+
     {% if site.data.news.sections.size > 0 %}
     <div class="news-sections">
       {% for section in site.data.news.sections %}

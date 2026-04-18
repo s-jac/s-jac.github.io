@@ -1,5 +1,11 @@
 /* News digest page styles */
 
+.news__about {
+  font-size: 0.875rem;
+  color: var(--color-gray-400);
+  margin-bottom: var(--spacing-lg);
+}
+
 .news__date {
   font-size: 0.875rem;
   color: var(--color-gray-400);
