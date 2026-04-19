@@ -1,22 +1,22 @@
 {
-  "date": "18 April 2026",
-  "generated_at": "2026-04-18T21:00:26.071869+00:00",
+  "date": "19 April 2026",
+  "generated_at": "2026-04-19T21:00:26.071130+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "At least six people were killed in Kyiv after a gunman opened fire and took hostages inside a supermarket, with the attacker subsequently killed in a shoot-out with police.",
+          "text": "Eight children, aged one to 14, were killed in a shooting in Shreveport, Louisiana, which police are investigating as a domestic disturbance.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "More than £1bn has been pledged for Sudan at a conference in Berlin, exceeding the funding target for the war-ravaged country as its humanitarian crisis deepens.",
+          "text": "More than \nA31bn has been pledged for Sudan at a conference in Berlin, exceeding the funding target, though prospects for a ceasefire remain distant as the humanitarian crisis deepens.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "The Swiss National Bank has cut interest rates by a half point to 0.5%, with the dollar jumping 0.5% against the franc.",
+          "text": "The Swiss National Bank has cut its interest rates by a half point to 0.5%, with the dollar subsequently jumping against the franc.",
           "source": "MarketWatch",
           "url": "https://www.marketwatch.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Iran has reportedly opened fire on two Indian-flagged ships in the Strait of Hormuz, just one day after the foreign minister declared the strait open.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "The prospect of sea mines in the Strait of Hormuz highlights a gap in US naval capabilities, reinforcing the need for NATO assistance.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Suspiciously timed bets totaling over $1 billion on the Iran war are raising concerns among lawmakers, suggesting potential insider trading.",
+          "text": "The Middle East crisis continues with Iran reportedly rejecting US peace talks, while US President Trump claims American marines took custody of an Iranian-flagged vessel.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "US President Donald Trump's unreliable diplomatic style is causing confusion in Iran talks, but Tehran remains clear on the strategic importance of the Strait of Hormuz.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "US officials are set to travel to Pakistan for a new round of peace talks, despite Tehran's rejection of initial US peace overtures and ongoing tensions in the Strait of Hormuz.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Iran has asserted 'strict control' over the Strait of Hormuz, indicating it will not be fully reopened, leading to warnings from Donald Trump against 'blackmailing' Washington.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "The conflict in the Middle East is expected to revive stagflation dangers for the global economy, with cumulative impacts emerging in business surveys.",
+          "text": "The US Navy seized an Iranian-flagged cargo ship in the Gulf of Oman after it breached a blockade, with President Trump stating the ship's engine room was damaged and US Marines are now in custody of the vessel.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Economic pain from the Iran war is projected to disproportionately affect poor countries, with warnings at IMF/World Bank meetings that some developing nations may require additional lending.",
+          "text": "President Trump announced he would send representatives to Pakistan for peace talks aimed at ending the Iran conflict, while also reiterating threats of striking civilian infrastructure if Tehran does not agree to terms.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Economists are warning that the economic impact of the war, particularly higher fuel prices, will lead to persistent inflation in the US even after the conflict concludes.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
