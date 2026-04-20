@@ -1,24 +1,24 @@
 {
-  "date": "19 April 2026",
-  "generated_at": "2026-04-19T21:00:26.071130+00:00",
+  "date": "20 April 2026",
+  "generated_at": "2026-04-20T21:01:57.484867+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Eight children, aged one to 14, were killed in a shooting in Shreveport, Louisiana, which police are investigating as a domestic disturbance.",
+          "text": "Japan is on high alert for a potentially 'huge' second earthquake after issuing a tsunami warning, with the meteorological agency warning a stronger earthquake may hit in the next week.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "More than \nA31bn has been pledged for Sudan at a conference in Berlin, exceeding the funding target, though prospects for a ceasefire remain distant as the humanitarian crisis deepens.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "More than 200 individuals, including a 14-year-old girl, were rescued from an IS-linked Allied Democratic Forces camp in the Democratic Republic of Congo by the Ugandan army.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Swiss National Bank has cut its interest rates by a half point to 0.5%, with the dollar subsequently jumping against the franc.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "An Iranian American woman has been arrested in Los Angeles on suspicion of trafficking weapons to Africa on behalf of the Iranian government, according to a federal prosecutor.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Middle East crisis continues with Iran reportedly rejecting US peace talks, while US President Trump claims American marines took custody of an Iranian-flagged vessel.",
+          "text": "Fears are rising over the potential collapse of a ceasefire between Iran and the US, with a 'yawning gulf' reported between the two nations as the truce nears its end.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Iran has sent mixed signals regarding peace talks, with an official stating positive review of negotiations after earlier reports of no plans for a new round of discussions; this comes as the US has seized a ship.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "US President Donald Trump's unreliable diplomatic style is causing confusion in Iran talks, but Tehran remains clear on the strategic importance of the Strait of Hormuz.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "US officials are set to travel to Pakistan for a new round of peace talks, despite Tehran's rejection of initial US peace overtures and ongoing tensions in the Strait of Hormuz.",
+          "text": "US-Iran negotiations are in doubt as US negotiators prepare for peace talks in Pakistan, while Australia's Treasurer warns the national economy is 'hostage' to the Iran conflict.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US Navy seized an Iranian-flagged cargo ship in the Gulf of Oman after it breached a blockade, with President Trump stating the ship's engine room was damaged and US Marines are now in custody of the vessel.",
+          "text": "US stocks declined and emerging market currencies traded mixed amid uncertainty over a potential extension of the ceasefire with Iran, following President Trump's statement that an extension is 'highly unlikely' if no deal is reached.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "President Trump announced he would send representatives to Pakistan for peace talks aimed at ending the Iran conflict, while also reiterating threats of striking civilian infrastructure if Tehran does not agree to terms.",
+          "text": "Gold prices fell due to renewed inflation risks stemming from an energy-supply shock in the Middle East and doubts surrounding peace talks to end the Iran war.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Economists are warning that the economic impact of the war, particularly higher fuel prices, will lead to persistent inflation in the US even after the conflict concludes.",
+          "text": "US oil refiners are experiencing a windfall from the Iran conflict, benefiting from soaring fuel prices and access to cheap North American crude oil.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
