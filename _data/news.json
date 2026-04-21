@@ -1,24 +1,24 @@
 {
-  "date": "20 April 2026",
-  "generated_at": "2026-04-20T21:01:57.484867+00:00",
+  "date": "21 April 2026",
+  "generated_at": "2026-04-21T21:00:45.641765+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Japan is on high alert for a potentially 'huge' second earthquake after issuing a tsunami warning, with the meteorological agency warning a stronger earthquake may hit in the next week.",
+          "text": "Israeli soldiers have been punished for vandalizing a Jesus statue in Lebanon, with two removed from combat duty and receiving 30 days of military detention.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "More than 200 individuals, including a 14-year-old girl, were rescued from an IS-linked Allied Democratic Forces camp in the Democratic Republic of Congo by the Ugandan army.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "An Iranian American woman has been arrested in Los Angeles on suspicion of trafficking weapons to Africa on behalf of the Iranian government, according to a federal prosecutor.",
+          "text": "Taiwan's president, Lai Ching-te, cancelled a trip to Eswatini after Seychelles, Mauritius, and Madagascar revoked overflight permission, which Taiwan blames on China.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Two US officials reportedly working for the CIA died in a car crash in Mexico following a Mexican-led operation to destroy a drug lab, prompting an investigation into the US's role.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Fears are rising over the potential collapse of a ceasefire between Iran and the US, with a 'yawning gulf' reported between the two nations as the truce nears its end.",
+          "text": "US President Donald Trump has extended a ceasefire with Iran, stating he will hold off on military action until Tehran presents a unified proposal for a peace deal.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Iran has sent mixed signals regarding peace talks, with an official stating positive review of negotiations after earlier reports of no plans for a new round of discussions; this comes as the US has seized a ship.",
+          "text": "Trump's decision to extend the ceasefire comes after an earlier threat to resume bombing, with Pakistani officials reportedly requesting the extension.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "US-Iran negotiations are in doubt as US negotiators prepare for peace talks in Pakistan, while Australia's Treasurer warns the national economy is 'hostage' to the Iran conflict.",
+          "text": "Despite the ceasefire extension, a military blockade on Iranian ports is set to continue, and pressure is building for peace talks to progress.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US stocks declined and emerging market currencies traded mixed amid uncertainty over a potential extension of the ceasefire with Iran, following President Trump's statement that an extension is 'highly unlikely' if no deal is reached.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Gold prices fell due to renewed inflation risks stemming from an energy-supply shock in the Middle East and doubts surrounding peace talks to end the Iran war.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "US oil refiners are experiencing a windfall from the Iran conflict, benefiting from soaring fuel prices and access to cheap North American crude oil.",
+          "text": "President Trump has extended a ceasefire with Iran until talks conclude, despite Iranian officials expressing doubt about negotiations and accusing the US of violating the truce.",
           "source": "FT",
           "url": "https://www.ft.com"
+        },
+        {
+          "text": "In defiance of a US blockade, dozens of Iranian tankers, some laden with oil, have bypassed restrictions and exited the Gulf.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Energy markets remain volatile with oil and gas prices fluctuating, as the extended ceasefire has not fully eased concerns over the Strait of Hormuz blockade.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
