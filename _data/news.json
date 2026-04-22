@@ -1,24 +1,24 @@
 {
-  "date": "21 April 2026",
-  "generated_at": "2026-04-21T21:00:45.641765+00:00",
+  "date": "22 April 2026",
+  "generated_at": "2026-04-22T21:00:25.192284+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Israeli soldiers have been punished for vandalizing a Jesus statue in Lebanon, with two removed from combat duty and receiving 30 days of military detention.",
+          "text": "The EU has approved a €90bn loan for Ukraine, following the reopening of the Druzhba pipeline, which had been stalled for months over oil supplies to Hungary.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Taiwan's president, Lai Ching-te, cancelled a trip to Eswatini after Seychelles, Mauritius, and Madagascar revoked overflight permission, which Taiwan blames on China.",
+          "text": "Democracy is increasingly threatened by the climate crisis, with a new report indicating that natural hazards linked to climate change disrupted 23 elections in 18 countries in 2024.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Two US officials reportedly working for the CIA died in a car crash in Mexico following a Mexican-led operation to destroy a drug lab, prompting an investigation into the US's role.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The Swiss National Bank has cut interest rates by a half point to 0.5%, while Federal Reserve Chair Powell indicated that a rate cut could be 'on the table' as soon as September.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "US President Donald Trump has extended a ceasefire with Iran, stating he will hold off on military action until Tehran presents a unified proposal for a peace deal.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Trump's decision to extend the ceasefire comes after an earlier threat to resume bombing, with Pakistani officials reportedly requesting the extension.",
+          "text": "Iran has reportedly seized two ships in the Strait of Hormuz, with the White House stating that the US is satisfied with the blockade. This comes amidst a ceasefire that has turned chaotic.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Despite the ceasefire extension, a military blockade on Iranian ports is set to continue, and pressure is building for peace talks to progress.",
+          "text": "Concerns are growing over potential cuts to the National Disability Insurance Scheme (NDIS), with families fearing financial hardship and a reduction in support for those with disabilities, particularly children and adults with autism.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A small plane in Los Angeles clipped power lines and crashed into a car park, leading to the rescue of the pilot.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "President Trump has extended a ceasefire with Iran until talks conclude, despite Iranian officials expressing doubt about negotiations and accusing the US of violating the truce.",
+          "text": "Iran has reportedly seized two container ships in the Strait of Hormuz, causing oil prices to rise above $100 a barrel and contributing to market volatility.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "In defiance of a US blockade, dozens of Iranian tankers, some laden with oil, have bypassed restrictions and exited the Gulf.",
+          "text": "Tesla's shares rallied after its first-quarter earnings beat expectations, with net income rising 17% from last year's lows, despite being its second-weakest figure in five years.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Energy markets remain volatile with oil and gas prices fluctuating, as the extended ceasefire has not fully eased concerns over the Strait of Hormuz blockade.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Switzerland has proposed a $20 billion capital increase for UBS as part of banking reforms, following months of lobbying by the country's largest lender.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
