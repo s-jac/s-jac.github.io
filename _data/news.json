@@ -1,22 +1,22 @@
 {
-  "date": "22 April 2026",
-  "generated_at": "2026-04-22T21:00:25.192284+00:00",
+  "date": "23 April 2026",
+  "generated_at": "2026-04-23T21:00:28.445739+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The EU has approved a €90bn loan for Ukraine, following the reopening of the Druzhba pipeline, which had been stalled for months over oil supplies to Hungary.",
+          "text": "More than 500 people have been killed in election violence in Tanzania, according to an inquiry. Opposition parties have accused security forces, but the official report does not name those responsible.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Democracy is increasingly threatened by the climate crisis, with a new report indicating that natural hazards linked to climate change disrupted 23 elections in 18 countries in 2024.",
+          "text": "Democracy is increasingly threatened by the climate crisis, with new analysis showing natural hazards disrupted 23 elections in 18 countries in 2024.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "The Swiss National Bank has cut interest rates by a half point to 0.5%, while Federal Reserve Chair Powell indicated that a rate cut could be 'on the table' as soon as September.",
+          "text": "The Swiss National Bank has cut its interest rates by a half point to 0.5%.",
           "source": "MarketWatch",
           "url": "https://www.marketwatch.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Iran has reportedly seized two ships in the Strait of Hormuz, with the White House stating that the US is satisfied with the blockade. This comes amidst a ceasefire that has turned chaotic.",
+          "text": "Talks between Israel and Lebanon are underway in Washington, aiming to address decades-long disputes despite deep mistrust.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "US President Trump has claimed the US has total control over the Strait of Hormuz after Iran seized two container ships, and has reportedly ordered the US Navy to destroy any Iranian mine-laying ships.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Concerns are growing over potential cuts to the National Disability Insurance Scheme (NDIS), with families fearing financial hardship and a reduction in support for those with disabilities, particularly children and adults with autism.",
+          "text": "The Pentagon reportedly estimates that mine clearance in the region may take six months following the conflict.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "A small plane in Los Angeles clipped power lines and crashed into a car park, leading to the rescue of the pilot.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Iran has reportedly seized two container ships in the Strait of Hormuz, causing oil prices to rise above $100 a barrel and contributing to market volatility.",
+          "text": "US farmers are experiencing spiralling prices due to the Iran war, which has impacted fertiliser costs in an agricultural sector already affected by Trump’s trade war.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Tesla's shares rallied after its first-quarter earnings beat expectations, with net income rising 17% from last year's lows, despite being its second-weakest figure in five years.",
+          "text": "Oil prices are rising as Iran and Washington dispute control of the Strait of Hormuz, with Trump stating the US Navy will 'shoot and kill' any boat laying mines in the strait.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Switzerland has proposed a $20 billion capital increase for UBS as part of banking reforms, following months of lobbying by the country's largest lender.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Global energy markets are on the verge of a disaster, with scenarios ranging from bad to awful due to ongoing geopolitical tensions.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
