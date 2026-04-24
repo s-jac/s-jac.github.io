@@ -1,24 +1,24 @@
 {
-  "date": "23 April 2026",
-  "generated_at": "2026-04-23T21:00:28.445739+00:00",
+  "date": "24 April 2026",
+  "generated_at": "2026-04-24T21:00:44.233137+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "More than 500 people have been killed in election violence in Tanzania, according to an inquiry. Opposition parties have accused security forces, but the official report does not name those responsible.",
+          "text": "Number 10 has stated that the Falklands' sovereignty remains with the UK, following reports of a US 'review' which suggested a potential shift in position as retaliation for the UK not joining the Iran war.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Democracy is increasingly threatened by the climate crisis, with new analysis showing natural hazards disrupted 23 elections in 18 countries in 2024.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A key suspect in the notorious Tadamon massacre during the Syria civil war, Amjad Youssef, has been arrested. He was wanted over the mass killing of blindfolded civilians in April 2013 in Damascus.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Swiss National Bank has cut its interest rates by a half point to 0.5%.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "Democracy is increasingly threatened by the climate crisis, with new analysis documenting that natural hazards linked to climate change disrupted 23 elections in 18 countries in 2024.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Talks between Israel and Lebanon are underway in Washington, aiming to address decades-long disputes despite deep mistrust.",
+          "text": "Anzac Day services were held across Australia, with thousands gathering in Canberra for the 111th anniversary of the Gallipoli landings, and Prime Minister Anthony Albanese and New Zealand High Commissioner Andrew Needs among those present.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "US President Trump has claimed the US has total control over the Strait of Hormuz after Iran seized two container ships, and has reportedly ordered the US Navy to destroy any Iranian mine-laying ships.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A Queensland Ombudsman report has revealed instances where prison inmates accused of sexually assaulting cellmates continued to share cells with other prisoners.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Pentagon reportedly estimates that mine clearance in the region may take six months following the conflict.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "The Victorian government has announced an initial $860 million investment to build 7,000 additional social housing properties over the next decade.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US farmers are experiencing spiralling prices due to the Iran war, which has impacted fertiliser costs in an agricultural sector already affected by Trump’s trade war.",
+          "text": "US stocks, particularly in the tech sector, have reached all-time highs, fueled by a strong sales forecast from Intel Corp. and optimism surrounding potential US-Iran talks.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Google is set to invest up to $40 billion in Anthropic, an AI lab, to help it expand its computing power for running AI models.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Oil prices are rising as Iran and Washington dispute control of the Strait of Hormuz, with Trump stating the US Navy will 'shoot and kill' any boat laying mines in the strait.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Global energy markets are on the verge of a disaster, with scenarios ranging from bad to awful due to ongoing geopolitical tensions.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "The Brazilian government has blocked access to Polymarket and Kalshi, two prediction market platforms, citing non-compliance with federal gambling laws.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
