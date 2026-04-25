@@ -1,22 +1,22 @@
 {
-  "date": "24 April 2026",
-  "generated_at": "2026-04-24T21:00:44.233137+00:00",
+  "date": "25 April 2026",
+  "generated_at": "2026-04-25T21:00:25.512230+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Number 10 has stated that the Falklands' sovereignty remains with the UK, following reports of a US 'review' which suggested a potential shift in position as retaliation for the UK not joining the Iran war.",
+          "text": "Armed groups have launched coordinated attacks across Mali, with witnesses reporting explosions and gunfire in the center and north of the country. This has been described as the largest jihadist attack in years.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A key suspect in the notorious Tadamon massacre during the Syria civil war, Amjad Youssef, has been arrested. He was wanted over the mass killing of blindfolded civilians in April 2013 in Damascus.",
+          "text": "Seven people have died in a major Russian attack on Ukraine, with the city of Dnipro being the hardest hit. Officials reported four deaths in a strike on a residential building.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Democracy is increasingly threatened by the climate crisis, with new analysis documenting that natural hazards linked to climate change disrupted 23 elections in 18 countries in 2024.",
+          "text": "Democracy is increasingly threatened by the climate crisis, as new research indicates natural hazards linked to climate change disrupted 23 elections in 18 countries in 2024.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Anzac Day services were held across Australia, with thousands gathering in Canberra for the 111th anniversary of the Gallipoli landings, and Prime Minister Anthony Albanese and New Zealand High Commissioner Andrew Needs among those present.",
+          "text": "US President Trump has cancelled a peace trip to Pakistan, stating that US envoys have wasted too much time travelling, amidst ongoing suggestions of unrest within the Iranian leadership.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A Queensland Ombudsman report has revealed instances where prison inmates accused of sexually assaulting cellmates continued to share cells with other prisoners.",
+          "text": "Australia is facing changes to bitumen standards due to supply disruptions caused by the situation in the Strait of Hormuz, potentially leading to roads built for US and European climates.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Victorian government has announced an initial $860 million investment to build 7,000 additional social housing properties over the next decade.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "An exclusive report reveals that the cost of seeing a dermatologist in Australia has risen, making it difficult for many to access care despite soaring skin cancer rates, with the cost of a first appointment increasing by $20 in one year.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US stocks, particularly in the tech sector, have reached all-time highs, fueled by a strong sales forecast from Intel Corp. and optimism surrounding potential US-Iran talks.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Google is set to invest up to $40 billion in Anthropic, an AI lab, to help it expand its computing power for running AI models.",
+          "text": "US President Trump cancelled a trip by US negotiators for Iran peace talks, stating he was no longer sending Steve Witkoff and Jared Kushner to Pakistan.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The Brazilian government has blocked access to Polymarket and Kalshi, two prediction market platforms, citing non-compliance with federal gambling laws.",
+          "text": "European leaders are convening in Cyprus amidst the Iran War, with the Cypriot foreign minister emphasizing the need for European countries to strategically step up in the Middle East, strike deals with partners, and work to end the conflict.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "The Strait of Hormuz oil shock has not yet led to a crash in demand, as wealthier nations are utilizing their reserves and paying higher prices for supply, though traders are warning that a significant adjustment is imminent.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
