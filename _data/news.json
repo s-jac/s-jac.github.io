@@ -1,24 +1,24 @@
 {
-  "date": "25 April 2026",
-  "generated_at": "2026-04-25T21:00:25.512230+00:00",
+  "date": "26 April 2026",
+  "generated_at": "2026-04-26T21:00:24.287829+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Armed groups have launched coordinated attacks across Mali, with witnesses reporting explosions and gunfire in the center and north of the country. This has been described as the largest jihadist attack in years.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Seven people have died in a major Russian attack on Ukraine, with the city of Dnipro being the hardest hit. Officials reported four deaths in a strike on a residential building.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Democracy is increasingly threatened by the climate crisis, as new research indicates natural hazards linked to climate change disrupted 23 elections in 18 countries in 2024.",
+          "text": "Militants and separatists launched coordinated attacks across Mali, with an Al-Qaida-linked group claiming responsibility for strikes on the capital, Bamako, and four other cities.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Israeli Prime Minister Netanyahu has ordered the army to \"vigorously attack\" Hezbollah in Lebanon, following strikes that killed six people despite an extended ceasefire.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "The US Federal Reserve Chairman Powell stated that a rate cut could be \"on the table\" as soon as September, indicating that the labor market is not a significant source of inflation pressure.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "US President Trump has cancelled a peace trip to Pakistan, stating that US envoys have wasted too much time travelling, amidst ongoing suggestions of unrest within the Iranian leadership.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Two individuals are reported missing after a house fire occurred overnight in New South Wales, north-west of Sydney.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Australia is facing changes to bitumen standards due to supply disruptions caused by the situation in the Strait of Hormuz, potentially leading to roads built for US and European climates.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "An exclusive report reveals that the cost of seeing a dermatologist in Australia has risen, making it difficult for many to access care despite soaring skin cancer rates, with the cost of a first appointment increasing by $20 in one year.",
+          "text": "Authorities are investigating a suspected gunman who allegedly targeted Trump administration officials at the White House press dinner.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "The Victorian government has pledged $3.5 million to fund security upgrades for nearly 1,700 family violence victim-survivors.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US President Trump cancelled a trip by US negotiators for Iran peace talks, stating he was no longer sending Steve Witkoff and Jared Kushner to Pakistan.",
+          "text": "Authorities are investigating the motive of an alleged shooter who targeted US officials at a media event where President Trump was present, marking the third assassination attempt on the president in less than two years.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "European leaders are convening in Cyprus amidst the Iran War, with the Cypriot foreign minister emphasizing the need for European countries to strategically step up in the Middle East, strike deals with partners, and work to end the conflict.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Following the security breach, President Trump called for legal action against a $400 million White House ballroom project to be dropped, arguing the incident highlights the need for a new ballroom.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "The Strait of Hormuz oil shock has not yet led to a crash in demand, as wealthier nations are utilizing their reserves and paying higher prices for supply, though traders are warning that a significant adjustment is imminent.",
+          "text": "Buckingham Palace is reviewing King Charles' security arrangements for his upcoming state visit to the United States in light of the shooting incident at the Washington Hilton.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
