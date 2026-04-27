@@ -1,24 +1,24 @@
 {
-  "date": "26 April 2026",
-  "generated_at": "2026-04-26T21:00:24.287829+00:00",
+  "date": "27 April 2026",
+  "generated_at": "2026-04-27T21:01:15.569158+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Militants and separatists launched coordinated attacks across Mali, with an Al-Qaida-linked group claiming responsibility for strikes on the capital, Bamako, and four other cities.",
+          "text": "Mali is in turmoil following widespread attacks by jihadists and separatist rebels, which reportedly killed the defense minister and military intelligence chief, exposing the limits of Russian backing for the ruling junta.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Israeli Prime Minister Netanyahu has ordered the army to \"vigorously attack\" Hezbollah in Lebanon, following strikes that killed six people despite an extended ceasefire.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A bomb blast on a Colombian highway, blamed on cocaine-trafficking rebels, has left 21 dead and 56 injured, marking the worst attack on civilians in decades amid pre-election violence.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "The US Federal Reserve Chairman Powell stated that a rate cut could be \"on the table\" as soon as September, indicating that the labor market is not a significant source of inflation pressure.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "Pakistan has been accused of conducting air attacks on Afghanistan's Kunar province, which sources claim have killed at least seven people and injured 75.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Two individuals are reported missing after a house fire occurred overnight in New South Wales, north-west of Sydney.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Wyndham councillors in Melbourne's south-west have unanimously passed a vote of no confidence in Mayor Preet Singh, following a character reference he provided for a convicted child sex offender.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Authorities are investigating a suspected gunman who allegedly targeted Trump administration officials at the White House press dinner.",
+          "text": "A Noongar woman, Mary Ann Miller, died of sepsis while experiencing homelessness weeks after giving birth and being evicted from public housing, raising concerns about the support provided to vulnerable individuals.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "The Victorian government has pledged $3.5 million to fund security upgrades for nearly 1,700 family violence victim-survivors.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "The US stock market's record-breaking rally has stalled due to uncertainty surrounding the Iran war, as oil prices rose over the weekend.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Authorities are investigating the motive of an alleged shooter who targeted US officials at a media event where President Trump was present, marking the third assassination attempt on the president in less than two years.",
+          "text": "German Chancellor Friedrich Merz stated that the US is being 'humiliated' by Iran, asserting that an ill-prepared war is negatively impacting Europe's largest economy.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Following the security breach, President Trump called for legal action against a $400 million White House ballroom project to be dropped, arguing the incident highlights the need for a new ballroom.",
+          "text": "Russian forces suffered a defeat in a Saharan stronghold, as coordinated attacks compelled Mali's Moscow-backed regime to withdraw from a critical city.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Buckingham Palace is reviewing King Charles' security arrangements for his upcoming state visit to the United States in light of the shooting incident at the Washington Hilton.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The UAE requested a $3.5 billion repayment from Pakistan, highlighting increased tensions between Abu Dhabi and Islamabad.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
