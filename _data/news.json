@@ -1,24 +1,24 @@
 {
-  "date": "27 April 2026",
-  "generated_at": "2026-04-27T21:01:15.569158+00:00",
+  "date": "28 April 2026",
+  "generated_at": "2026-04-28T21:00:31.711488+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Mali is in turmoil following widespread attacks by jihadists and separatist rebels, which reportedly killed the defense minister and military intelligence chief, exposing the limits of Russian backing for the ruling junta.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "A bomb blast on a Colombian highway, blamed on cocaine-trafficking rebels, has left 21 dead and 56 injured, marking the worst attack on civilians in decades amid pre-election violence.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "Pakistan has been accused of conducting air attacks on Afghanistan's Kunar province, which sources claim have killed at least seven people and injured 75.",
+          "text": "The United Arab Emirates is set to withdraw from the OPEC oil cartel after nearly 60 years, a decision that could significantly impact the organization's future.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Fears of a resurgence in Somali piracy have emerged after three vessels were hijacked in a week, with pirates potentially exploiting the diversion of international naval resources to the Middle East.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Elon Musk has stated that some of his posts regarding Donald Trump \"went too far\" and expressed regret for them.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Wyndham councillors in Melbourne's south-west have unanimously passed a vote of no confidence in Mayor Preet Singh, following a character reference he provided for a convicted child sex offender.",
+          "text": "A five-year-old girl has gone missing from an Alice Springs town camp, with police alleging she has been abducted.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A Noongar woman, Mary Ann Miller, died of sepsis while experiencing homelessness weeks after giving birth and being evicted from public housing, raising concerns about the support provided to vulnerable individuals.",
+          "text": "The United Arab Emirates has quit OPEC, a move that could weaken the oil cartel and has been seen as a win for the US president.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "The US stock market's record-breaking rally has stalled due to uncertainty surrounding the Iran war, as oil prices rose over the weekend.",
+          "text": "New inflation figures are expected to show the cost of living nearing 5 per cent, potentially hitting a three-year high.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "German Chancellor Friedrich Merz stated that the US is being 'humiliated' by Iran, asserting that an ill-prepared war is negatively impacting Europe's largest economy.",
+          "text": "The UAE plans to exit Opec, citing long-running frustrations over production quotas, a move that could significantly impact the oil cartel.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Russian forces suffered a defeat in a Saharan stronghold, as coordinated attacks compelled Mali's Moscow-backed regime to withdraw from a critical city.",
+          "text": "Hardliners in Iran are clashing over potential talks with the US regarding Tehran’s nuclear program, revealing divisions within the regime despite a projection of unity.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The UAE requested a $3.5 billion repayment from Pakistan, highlighting increased tensions between Abu Dhabi and Islamabad.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Emerging-market currencies and stocks experienced a downturn as a risk-off mood, partly driven by stalled peace talks in the Middle East, lifted the dollar.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
