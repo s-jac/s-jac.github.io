@@ -1,22 +1,22 @@
 {
-  "date": "30 April 2026",
-  "generated_at": "2026-04-30T21:00:25.414387+00:00",
+  "date": "1 May 2026",
+  "generated_at": "2026-05-01T21:00:37.694510+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Myanmar's former leader Aung San Suu Kyi, a Nobel Peace Prize laureate, has been moved to house arrest after being detained since the 2021 military coup.",
+          "text": "US President Trump has informed Congress that a ceasefire in the Iran conflict means he does not require their approval for further action, arguing that hostilities have concluded.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Oil prices have reached their highest point since 2022 following reports that former President Trump will be briefed on potential new military options regarding Iran.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The CEO of Yara, a major fertiliser company, warns that the Iran conflict could lead to a global shortage of fertiliser, potentially risking billions of meals due to reduced crop yields and higher prices.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Fears of a resurgence in Somali piracy have emerged after three vessels were hijacked in a single week, with pirates seemingly taking advantage of international naval forces being diverted to the Middle East.",
+          "text": "Uganda is facing criticism for a new bill that opponents say mirrors laws in Russia and China, designed to suppress dissent by proposing up to 20 years in prison for promoting 'foreign interests' and restricting those funded by overseas partners.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A former Canberra vascular surgeon will face disciplinary action for lying under oath and attempting to interfere with a witness during criminal proceedings for an alleged rape.",
+          "text": "Authorities have moved the alleged killer of a five-year-old NT girl to Darwin following riots in Alice Springs, while the US Congress has been informed by Trump that operations in Iran have 'terminated'.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
+        },
+        {
+          "text": "Prime Minister Anthony Albanese states that the United States is playing a different global role under President Donald Trump, necessitating adjustments from Australia and its allies.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Violence erupted in Alice Springs following the arrest of a man suspected of murdering a five-year-old girl, with dozens gathering outside the hospital where he was treated.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "The UK has elevated its terrorism threat level to severe after two Jewish men were stabbed in London, while Australia and South Korea have agreed to strengthen energy supply cooperation.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A loophole in NSW government water restrictions allows a few major licence holders to continue drawing river water in the northern basin of the Murray Darling, despite broader restrictions.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US stocks reached record highs, marking Wall Street's best month since 2020, as investors anticipate significant AI spending to drive growth, overshadowing concerns about the Middle East conflict.",
+          "text": "The oil market is reportedly one month away from a crunch point, with global stockpiles dwindling. Traders warn of further price jumps and significant economic pain as countries reduce consumption.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Israel deployed a laser system to the UAE to counter Iranian missiles, representing a notable instance of defense cooperation between the two nations.",
+          "text": "Exxon and Chevron are defying pressure from Trump to increase oil production, sticking to their pre-war strategies despite the White House's plea for more drilling to curb soaring petrol prices.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Air Canada suspended its full-year 2026 guidance due to uncertainties surrounding rising jet fuel prices.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Iran's ongoing war is causing more shipping companies to divert from the Suez Canal, opting for the longer, safer route around Africa via the Cape of Good Hope, despite higher costs.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
