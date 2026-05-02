@@ -1,22 +1,22 @@
 {
-  "date": "1 May 2026",
-  "generated_at": "2026-05-01T21:00:37.694510+00:00",
+  "date": "2 May 2026",
+  "generated_at": "2026-05-02T21:00:24.774356+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "US President Trump has informed Congress that a ceasefire in the Iran conflict means he does not require their approval for further action, arguing that hostilities have concluded.",
+          "text": "Thirteen people, including four women and a child, were killed in Israeli strikes on southern Lebanon amidst ongoing fighting between Israel and Iran-backed Hezbollah, despite a ceasefire.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The CEO of Yara, a major fertiliser company, warns that the Iran conflict could lead to a global shortage of fertiliser, potentially risking billions of meals due to reduced crop yields and higher prices.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Cuba has condemned new US sanctions as 'illegal' and 'abusive,' which follow a US blockade of oil to Cuba causing widespread blackouts and fuel shortages.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Uganda is facing criticism for a new bill that opponents say mirrors laws in Russia and China, designed to suppress dissent by proposing up to 20 years in prison for promoting 'foreign interests' and restricting those funded by overseas partners.",
+          "text": "The world's largest conference on human rights and technology, RightsCon 2026, has been cancelled by the Zambian government just days before its start, citing that it did not 'align with national values.'",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Authorities have moved the alleged killer of a five-year-old NT girl to Darwin following riots in Alice Springs, while the US Congress has been informed by Trump that operations in Iran have 'terminated'.",
+          "text": "Three people have died in an attack at a home in Rosemeadow, Sydney, leading to the arrest of a 32-year-old man.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         },
         {
-          "text": "Prime Minister Anthony Albanese states that the United States is playing a different global role under President Donald Trump, necessitating adjustments from Australia and its allies.",
+          "text": "Republicans in the US have expressed concerns regarding NATO alliances and security following the Pentagon's announcement of withdrawing 5,000 troops from Germany.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A loophole in NSW government water restrictions allows a few major licence holders to continue drawing river water in the northern basin of the Murray Darling, despite broader restrictions.",
+          "text": "Farmers in Western Australia's food bowl region claim that levees built to prevent flooding actually worsened the situation during Cyclone Narelle.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The oil market is reportedly one month away from a crunch point, with global stockpiles dwindling. Traders warn of further price jumps and significant economic pain as countries reduce consumption.",
+          "text": "The US is fast-tracking $8.6 billion in arms sales to Middle East allies to shore up regional partners during the Iran war, while also warning Europe of delays to weapons shipments.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Exxon and Chevron are defying pressure from Trump to increase oil production, sticking to their pre-war strategies despite the White House's plea for more drilling to curb soaring petrol prices.",
+          "text": "The Pentagon plans to withdraw 5,000 soldiers from Germany in a dispute over the Iran war, as Donald Trump retaliates against Friedrich Merz's criticism of the US-Israeli war effort.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Iran's ongoing war is causing more shipping companies to divert from the Suez Canal, opting for the longer, safer route around Africa via the Cape of Good Hope, despite higher costs.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The UAE has departed OPEC as Iran experiences economic strain from a blockade, while Exxon Mobil and Chevron reported strong first-quarter earnings due to higher oil and natural gas prices.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
