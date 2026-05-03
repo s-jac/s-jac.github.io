@@ -1,22 +1,22 @@
 {
-  "date": "2 May 2026",
-  "generated_at": "2026-05-02T21:00:24.774356+00:00",
+  "date": "3 May 2026",
+  "generated_at": "2026-05-03T21:00:24.440282+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Thirteen people, including four women and a child, were killed in Israeli strikes on southern Lebanon amidst ongoing fighting between Israel and Iran-backed Hezbollah, despite a ceasefire.",
+          "text": "Three people have died on a cruise ship due to a suspected hantavirus outbreak, with one case confirmed and five others under investigation by the World Health Organization.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Cuba has condemned new US sanctions as 'illegal' and 'abusive,' which follow a US blockade of oil to Cuba causing widespread blackouts and fuel shortages.",
+          "text": "Iran claims the U.S. has responded to its latest peace proposal, though the U.S. has not formally confirmed this. Former President Trump reportedly told Israeli media the response was unacceptable.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The world's largest conference on human rights and technology, RightsCon 2026, has been cancelled by the Zambian government just days before its start, citing that it did not 'align with national values.'",
+          "text": "The world's largest conference on human rights and technology, RightsCon 2026, has been cancelled by Zambia just days before its start, with the government stating it did not 'align with national values'.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Three people have died in an attack at a home in Rosemeadow, Sydney, leading to the arrest of a 32-year-old man.",
+          "text": "A cargo ship near the Strait of Hormuz reported being attacked by multiple small craft amidst ongoing peace negotiations, marking a significant incident in the region.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Three passengers have died after a suspected hantavirus outbreak on a cruise ship, with additional individuals reportedly falling ill.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Russian drone attacks have resulted in 10 deaths in Ukraine, while Ukraine claims to have targeted oil tankers and terminals.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "Republicans in the US have expressed concerns regarding NATO alliances and security following the Pentagon's announcement of withdrawing 5,000 troops from Germany.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Farmers in Western Australia's food bowl region claim that levees built to prevent flooding actually worsened the situation during Cyclone Narelle.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US is fast-tracking $8.6 billion in arms sales to Middle East allies to shore up regional partners during the Iran war, while also warning Europe of delays to weapons shipments.",
+          "text": "Global banks are exploring private deals and risk transfers to reduce their exposure to data center debt, aiming to avoid being overwhelmed by the AI boom.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The Pentagon plans to withdraw 5,000 soldiers from Germany in a dispute over the Iran war, as Donald Trump retaliates against Friedrich Merz's criticism of the US-Israeli war effort.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "US President Donald Trump has stated that the US will begin assisting some ships in leaving Hormuz starting Monday morning, Middle Eastern Time.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The UAE has departed OPEC as Iran experiences economic strain from a blockade, while Exxon Mobil and Chevron reported strong first-quarter earnings due to higher oil and natural gas prices.",
+          "text": "OPEC+ nations have agreed to a modest and symbolic increase in their June production quotas, maintaining a business-as-usual message despite the UAE's surprise exit.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
