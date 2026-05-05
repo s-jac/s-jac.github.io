@@ -1,22 +1,22 @@
 {
-  "date": "4 May 2026",
-  "generated_at": "2026-05-04T21:00:24.851660+00:00",
+  "date": "5 May 2026",
+  "generated_at": "2026-05-05T21:03:13.119780+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Three people have died on the MV Hondius cruise ship amid a suspected hantavirus outbreak, prompting Cape Verde to block the vessel from docking to protect public health.",
+          "text": "A suspected hantavirus outbreak on a cruise ship, MV Hondius, has led to the deaths of three passengers, with the WHO confirming two cases and three additional people falling ill, including a British crew member in need of urgent medical care.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Two people were killed and several injured after a car was driven into a crowd in Leipzig, Germany, leading to the detention of a 33-year-old German citizen.",
+          "text": "Russian attacks have killed over 20 people ahead of proposed ceasefires from both Kyiv and Moscow; Kyiv announced a truce starting May 6, intending to \"act symmetrically\" after Moscow's declared pause for its Victory Day parade.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Three Russian diplomats have been expelled from Austria over accusations of spying, reportedly gathering information using antennas on diplomatic buildings.",
+          "text": "Nine coal miners died in a gas explosion in Sutatausa, Colombia, marking the latest deadly incident in the region, which experienced another fatal mine disaster in 2023.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Three people have died and four Australians are among the passengers on a luxury cruise ship currently held off the coast of Cape Verde due to a suspected hantavirus outbreak.",
+          "text": "The family of a five-year-old girl who died after going missing from an Alice Springs town camp last month say they feel let down by the system after missing her alleged killer's first court date.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "The Reserve Bank of Australia has hiked interest rates to 4.35 per cent, marking the third consecutive rate increase, which is expected to bring new pain for would-be homebuyers.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         },
         {
-          "text": "Three people were killed when a rescue boat overturned in heavy conditions off the NSW coast while responding to a yacht in distress.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Jefferson Lewis has appeared in court for the first time, charged with the murder of Kumanjayi Little Baby near Alice Springs.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "The final stages of the inland rail project have been shelved due to a significant $45 billion cost blowout.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US and Iran exchanged fire in the Persian Gulf, reigniting the Hormuz crisis and causing oil prices to jump to $115, while also drawing in the United Arab Emirates.",
+          "text": "Meta is planning an advanced 'agentic' AI assistant for consumers and is facing a lawsuit from five large publishing groups over alleged copyright infringement for using copyrighted works to train its Llama AI models.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The flare-up of violence between the US and Iran in the Persian Gulf has disrupted a four-week ceasefire, leading to concerns about renewed strikes on Iranian targets and increased inflation risks.",
+          "text": "American Electric Power Co., a major US utility, is considering withdrawing from two of the country's largest electricity grids due to delays in connecting new AI data centers.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Experts suggest Iran may seek retaliation against senior figures following the US-Israeli war, indicating a potential escalation of its covert war on opponents abroad.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Alphabet Inc. is increasing its borrowing in the Euro debt market to fund significant investments in artificial intelligence.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
