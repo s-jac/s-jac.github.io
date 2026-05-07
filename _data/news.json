@@ -1,24 +1,24 @@
 {
-  "date": "6 May 2026",
-  "generated_at": "2026-05-06T21:02:45.919192+00:00",
+  "date": "7 May 2026",
+  "generated_at": "2026-05-07T21:00:29.477001+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Oil prices have dropped and stock markets have risen following reports of a potential deal to end the Iran war, raising hopes for an agreement between the US and Iran after days of escalation.",
+          "text": "The World Health Organization has stated that the hantavirus outbreak on a cruise ship is not expected to cause a pandemic, as the virus spreads differently from COVID-19. Two Britons evacuated from the affected ship are reportedly improving in hospital.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Germany police have raided neo-Nazi criminal youth groups, with searches conducted in 12 states, primarily in the East and South of the country, as part of a targeted operation.",
+          "text": "Germany's Finance Minister Lars Klingbeil has attributed the country's economic slowdown to President Trump's \"irresponsible war in Iran.\" This comes as Trump has given the EU a July 4th ultimatum to approve a trade deal and eliminate tariffs on American goods.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A suspected hantavirus outbreak on the MV Hondius cruise ship has led to three passenger deaths and left a British crew member in need of urgent medical care, with WHO confirming seven cases.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "For the first time in nearly two decades, Russia's upcoming Victory Day parade will not feature military hardware, a sign that the Ukraine war may not be proceeding as planned. This absence suggests a potential strain on Russia's military resources.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Israel has struck Beirut for the first time since a ceasefire with Hezbollah, as Iran considers a peace deal proposed by the US. Donald Trump suggested the conflict could soon end.",
+          "text": "The federal government will contribute an additional $4 billion to Victoria's Suburban Rail Loop, bringing its total contribution to $6 billion, though this is less than the state government requested.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Australian gun industry is advocating for the proposed buyback to be cancelled due to a significant decrease in gun sales across NSW, while public health experts emphasize that safety should be prioritized over retail concerns.",
+          "text": "The Labor Party's decision not to field a candidate in the Farrer by-election has opened the door for One Nation and an independent candidate, potentially redistributing traditional Labor votes.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia is actively pursuing a security pact with Fiji, a move that comes amidst ongoing competition with China for strategic influence in the region.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Two additional women have been arrested and are expected to be charged after arriving back in Australia from Syria with family links to Islamic State.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Iran is reportedly reviewing a US-backed peace proposal, with President Trump indicating that military action would cease if an agreement is reached.",
+          "text": "The US and Iran are reviewing a Washington-backed proposal to end the ongoing conflict, which could stabilize oil prices around $100.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The US has paused its plan to guide ships through the Strait of Hormuz following clashes between US and Iranian forces during a brief mission.",
+          "text": "Right-wing nationalists in the US are critical of President Trump's Iran policy, viewing it as a betrayal of his 'America First' pledge.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Optimism for a US-Iran truce has led to a surge in gold and silver prices, and propelled emerging-market stocks to a record high, while the dollar hit its lowest point since the conflict began.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Saudi Arabia has lifted a suspension on 'Project Freedom' after a call between Crown Prince Mohammed bin Salman and the US President, suggesting a potential shift in regional dynamics related to the conflict.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
