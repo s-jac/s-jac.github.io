@@ -1,22 +1,22 @@
 {
-  "date": "7 May 2026",
-  "generated_at": "2026-05-07T21:00:29.477001+00:00",
+  "date": "8 May 2026",
+  "generated_at": "2026-05-08T21:00:23.586162+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The World Health Organization has stated that the hantavirus outbreak on a cruise ship is not expected to cause a pandemic, as the virus spreads differently from COVID-19. Two Britons evacuated from the affected ship are reportedly improving in hospital.",
+          "text": "A worldwide effort is underway to trace passengers from the hantavirus-hit cruise ship MV Hondius, with at least five confirmed cases and several countries linked to the outbreak. Two Britons evacuated from the ship are reportedly improving in hospital.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Germany's Finance Minister Lars Klingbeil has attributed the country's economic slowdown to President Trump's \"irresponsible war in Iran.\" This comes as Trump has given the EU a July 4th ultimatum to approve a trade deal and eliminate tariffs on American goods.",
+          "text": "Tensions between the US and Iran continue, with Iran accusing the US of \"reckless military adventure\" after an exchange of fire in the Hormuz Strait, despite a reported ceasefire. The US also seized enriched uranium from Venezuela, citing frustration with Iran.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "For the first time in nearly two decades, Russia's upcoming Victory Day parade will not feature military hardware, a sign that the Ukraine war may not be proceeding as planned. This absence suggests a potential strain on Russia's military resources.",
+          "text": "An international cyber attack has disrupted numerous universities and schools globally after a hacking group breached Canvas, a widely used academic software.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The federal government will contribute an additional $4 billion to Victoria's Suburban Rail Loop, bringing its total contribution to $6 billion, though this is less than the state government requested.",
+          "text": "A Royal Commission in Australia has begun investigating antisemitism and social cohesion, with early testimonies highlighting fear and safety concerns among anonymous witnesses.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Labor Party's decision not to field a candidate in the Farrer by-election has opened the door for One Nation and an independent candidate, potentially redistributing traditional Labor votes.",
+          "text": "US President Donald Trump announced a three-day ceasefire between Russia and Ukraine, effective from May 9 to 11, via social media.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Two additional women have been arrested and are expected to be charged after arriving back in Australia from Syria with family links to Islamic State.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "The son of Aung San Suu Kyi is demanding proof of his mother's well-being, as Myanmar's military junta continues to detain tens of thousands of political prisoners.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US and Iran are reviewing a Washington-backed proposal to end the ongoing conflict, which could stabilize oil prices around $100.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "US President Donald Trump has changed his approach in the war against Iran, with a focus on reopening the Strait of Hormuz, leaving nuclear and ballistic missile negotiations for later.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Right-wing nationalists in the US are critical of President Trump's Iran policy, viewing it as a betrayal of his 'America First' pledge.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The Federal Reserve states that stability risks from further private credit redemption requests appear \"limited and manageable,\" even after some major market players blocked investors from accessing funds.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Saudi Arabia has lifted a suspension on 'Project Freedom' after a call between Crown Prince Mohammed bin Salman and the US President, suggesting a potential shift in regional dynamics related to the conflict.",
+          "text": "Reform has seen a surge in England, while nationalist parties have triumphed in Scotland and Wales, with Nigel Farage’s party securing over 1,100 seats.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
