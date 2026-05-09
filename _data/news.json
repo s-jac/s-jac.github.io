@@ -1,24 +1,24 @@
 {
-  "date": "8 May 2026",
-  "generated_at": "2026-05-08T21:00:23.586162+00:00",
+  "date": "9 May 2026",
+  "generated_at": "2026-05-09T21:00:26.507140+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A worldwide effort is underway to trace passengers from the hantavirus-hit cruise ship MV Hondius, with at least five confirmed cases and several countries linked to the outbreak. Two Britons evacuated from the ship are reportedly improving in hospital.",
+          "text": "Lebanon reports 39 casualties from Israeli strikes, as exchanges of fire continue despite a ceasefire agreement reached last month.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Tensions between the US and Iran continue, with Iran accusing the US of \"reckless military adventure\" after an exchange of fire in the Hormuz Strait, despite a reported ceasefire. The US also seized enriched uranium from Venezuela, citing frustration with Iran.",
+          "text": "Russian President Putin used his Victory Day speech to justify the ongoing 'special military operation' in Ukraine, while Iran accused the US of 'reckless military adventure' following recent attacks.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An international cyber attack has disrupted numerous universities and schools globally after a hacking group breached Canvas, a widely used academic software.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Four men from south Florida have been convicted in Miami federal court for their involvement in the 2021 assassination of Haitian President Jovenel Moïse.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A Royal Commission in Australia has begun investigating antisemitism and social cohesion, with early testimonies highlighting fear and safety concerns among anonymous witnesses.",
+          "text": "UK Prime Minister Sir Keir Starmer faces a leadership challenge following a local election defeat, as a former minister announced intentions to contend for the top position.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "US President Donald Trump announced a three-day ceasefire between Russia and Ukraine, effective from May 9 to 11, via social media.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A new analysis reveals that 14 homeless individuals die annually in Australian public parks or rural areas, prompting calls for increased investment in the upcoming budget.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "The son of Aung San Suu Kyi is demanding proof of his mother's well-being, as Myanmar's military junta continues to detain tens of thousands of political prisoners.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "The Coalition has criticized Chris Minns after tech giants snubbed an inquiry, with a court ruling potentially weakening parliament's power and making inquiries ineffective.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US President Donald Trump has changed his approach in the war against Iran, with a focus on reopening the Strait of Hormuz, leaving nuclear and ballistic missile negotiations for later.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "The Federal Reserve states that stability risks from further private credit redemption requests appear \"limited and manageable,\" even after some major market players blocked investors from accessing funds.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Reform has seen a surge in England, while nationalist parties have triumphed in Scotland and Wales, with Nigel Farage’s party securing over 1,100 seats.",
+          "text": "The US has imposed sanctions on Chinese companies, accusing them of providing satellite imagery to Iran that enabled strikes against American forces in the Middle East.",
           "source": "FT",
           "url": "https://www.ft.com"
+        },
+        {
+          "text": "China's exports have surged by 14% ahead of an upcoming summit between President Trump and Xi Jinping, indicating that US tariffs have had minimal impact on China's manufacturing sector.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Health officials are downplaying the risk of a new pandemic from a hantavirus outbreak on a cruise ship near Tenerife, with the World Health Organization stating the incident is not likely to trigger a global health crisis.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
