@@ -1,22 +1,22 @@
 {
-  "date": "9 May 2026",
-  "generated_at": "2026-05-09T21:00:26.507140+00:00",
+  "date": "10 May 2026",
+  "generated_at": "2026-05-10T21:00:50.023585+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Lebanon reports 39 casualties from Israeli strikes, as exchanges of fire continue despite a ceasefire agreement reached last month.",
+          "text": "Russian President Vladimir Putin has indicated that the conflict in Ukraine may be nearing its end, while condemning Western support for President Zelensky.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russian President Putin used his Victory Day speech to justify the ongoing 'special military operation' in Ukraine, while Iran accused the US of 'reckless military adventure' following recent attacks.",
+          "text": "A French national has shown symptoms of hantavirus after returning from the MV Hondius, leading to the quarantine of five passengers in Paris; two Britons evacuated from the same ship are also improving in hospital.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Four men from south Florida have been convicted in Miami federal court for their involvement in the 2021 assassination of Haitian President Jovenel Moïse.",
+          "text": "Four men from south Florida have been convicted in Miami federal court for their role in plotting the assassination of Haitian President Jovenel Moïse in 2021.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "UK Prime Minister Sir Keir Starmer faces a leadership challenge following a local election defeat, as a former minister announced intentions to contend for the top position.",
+          "text": "Donald Trump has rejected Iran's response to a US peace plan as \"totally unacceptable,\" amid ongoing drone attacks targeting Gulf Arab nations.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A new analysis reveals that 14 homeless individuals die annually in Australian public parks or rural areas, prompting calls for increased investment in the upcoming budget.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Despite tough rhetoric, there are indications that neither side desires a further deterioration of the situation, with a muted response to recent missile activity.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Coalition has criticized Chris Minns after tech giants snubbed an inquiry, with a court ruling potentially weakening parliament's power and making inquiries ineffective.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The son of Mohammad Bagher Ghalibaf, a leading figure in Iran's peace negotiations, reportedly lived and worked in Melbourne, raising questions about national security and sanctions.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US has imposed sanctions on Chinese companies, accusing them of providing satellite imagery to Iran that enabled strikes against American forces in the Middle East.",
+          "text": "More than half of US voters disapprove of President Trump's handling of the economy, with an FT poll indicating that the Iran conflict and inflation are impacting his approval ratings and Republican midterm prospects.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "China's exports have surged by 14% ahead of an upcoming summit between President Trump and Xi Jinping, indicating that US tariffs have had minimal impact on China's manufacturing sector.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "President Trump has rejected Iran's latest peace proposal, deeming it 'totally unacceptable', which is likely to create a reality check for momentum-obsessed traders.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Health officials are downplaying the risk of a new pandemic from a hantavirus outbreak on a cruise ship near Tenerife, with the World Health Organization stating the incident is not likely to trigger a global health crisis.",
+          "text": "A federal trade court has declared President Trump’s 10% global tariffs unlawful, a setback for the administration's economic agenda.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
