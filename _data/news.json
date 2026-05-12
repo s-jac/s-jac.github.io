@@ -1,24 +1,24 @@
 {
-  "date": "11 May 2026",
-  "generated_at": "2026-05-11T21:00:27.939334+00:00",
+  "date": "12 May 2026",
+  "generated_at": "2026-05-12T21:00:23.959669+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Several countries are reporting hantavirus cases among passengers who disembarked from a previously virus-hit cruise ship, with some individuals now quarantining or receiving hospital care.",
+          "text": "The UN health agency states there is no sign of a larger hantavirus outbreak, though the situation could still change with more confirmed cases possible.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "US President Donald Trump has criticized an Iranian counteroffer to end the war, stating that the current month-long ceasefire is \"unbelievably weak.\"",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Hundreds of Indigenous families in Mexico have been forced to flee their homes due to violence from drug gangs in Guerrero state.",
+          "text": "Internal displacements caused by violence or conflict reached a record high in 2025, surpassing those caused by disasters for the first time globally.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "The Federal Reserve's Chair Powell indicated that a rate cut could be 'on the table' as early as September, stating the labor market is not a significant source of inflation pressure.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The High Court will review a murder verdict that was changed to manslaughter for a Canberra man involved in his partner's death after she fell from his car.",
+          "text": "Farmers and environmentalists have criticized the federal budget's cuts to weed and pest control programs, which they describe as \"savage\" and \"tragic\" amidst ongoing struggles with feral animals and noxious plants.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The federal budget for 2026 is expected to be handed down today, with reports indicating a $45 billion improvement over four years and a focus on housing, productivity, and fuel security.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "The High Court is set to hear a significant climate change case concerning the Mount Pleasant coal mine extension, as the operator seeks to overturn a ruling that blocked the project.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Two Australian citizens are facing new espionage charges, while four Australians have been evacuated from a virus-hit cruise ship and will quarantine in the Netherlands.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Australia's federal budget for 2026 includes the abolition of negative gearing and reforms to capital gains tax, aiming to address the housing crisis and appeal to younger voters.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US President Donald Trump stated that the ceasefire in the US-Iran conflict is on 'life support' after rejecting Tehran's latest peace offer, ahead of his trip to China.",
+          "text": "US inflation surged to 3.8% in April, reaching a three-year high, driven by escalating petrol prices attributed to the ongoing conflict in Iran. This acceleration in inflation is clouding the outlook for potential interest rate cuts by the Federal Reserve.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Gold prices increased as traders evaluated the ongoing deadlock in US-Iran negotiations, while emerging-market currencies weakened due to heightened tensions in the Middle East.",
+          "text": "Emerging-market currencies and stocks experienced a decline due to concerns that a ceasefire between the US and Iran may be collapsing. This geopolitical tension is contributing to market instability.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The conflict is significantly impacting the US economy, affecting businesses and consumers with hundreds of billions of dollars in lost output and potentially leading the US to consider suspending petrol tax.",
+          "text": "OpenAI CEO Sam Altman testified about \"hair-raising\" demands for control made by Elon Musk during the startup's early stages, as part of an ongoing legal dispute between the billionaire and the company.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
