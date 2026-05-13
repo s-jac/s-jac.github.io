@@ -1,24 +1,24 @@
 {
-  "date": "12 May 2026",
-  "generated_at": "2026-05-12T21:00:23.959669+00:00",
+  "date": "13 May 2026",
+  "generated_at": "2026-05-13T21:00:26.141423+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The UN health agency states there is no sign of a larger hantavirus outbreak, though the situation could still change with more confirmed cases possible.",
+          "text": "US President Trump has arrived in China for high-stakes talks with Xi, with trade, Iran, and Taiwan on the agenda. Trump is expected to press China on opening its markets, while Beijing will likely address the status of Taiwan.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Internal displacements caused by violence or conflict reached a record high in 2025, surpassing those caused by disasters for the first time globally.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A court has overturned Alex Murdaugh's murder convictions and ordered a new trial for the June 2021 killings of Paul and Maggie Murdaugh.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Federal Reserve's Chair Powell indicated that a rate cut could be 'on the table' as early as September, stating the labor market is not a significant source of inflation pressure.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "The number of internal displacements caused by violence or conflict reached a record high in 2025, with 32.3 million people displaced, surpassing those caused by disasters for the first time.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Farmers and environmentalists have criticized the federal budget's cuts to weed and pest control programs, which they describe as \"savage\" and \"tragic\" amidst ongoing struggles with feral animals and noxious plants.",
+          "text": "Gun shop owners in South Australia are facing financial uncertainty due to a lack of clarity regarding the government's proposed firearm control reforms.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The High Court is set to hear a significant climate change case concerning the Mount Pleasant coal mine extension, as the operator seeks to overturn a ruling that blocked the project.",
+          "text": "The company operating Canvas, an educational platform, has reportedly made a deal with hackers, a move cybersecurity experts warn could encourage future extortion attempts.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia's federal budget for 2026 includes the abolition of negative gearing and reforms to capital gains tax, aiming to address the housing crisis and appeal to younger voters.",
+          "text": "Donald Trump has arrived in Beijing for a high-stakes summit with Xi Jinping, where discussions are expected to cover trade, AI, and Taiwan, amidst looming concerns about a potential war with Iran.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US inflation surged to 3.8% in April, reaching a three-year high, driven by escalating petrol prices attributed to the ongoing conflict in Iran. This acceleration in inflation is clouding the outlook for potential interest rate cuts by the Federal Reserve.",
+          "text": "The US sold 30-year bonds at a 5% yield, a rate not seen since 2007, following data indicating the sharpest rise in producer prices since the conflict in Ukraine began.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Emerging-market currencies and stocks experienced a decline due to concerns that a ceasefire between the US and Iran may be collapsing. This geopolitical tension is contributing to market instability.",
+          "text": "The Senate confirmed Warsh as the new Fed chair, concluding a contentious selection process for the central bank's leader.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "US stocks reached new all-time highs, driven by a rally in technology companies, despite inflation data suggesting the Federal Reserve may maintain higher interest rates for longer.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "OpenAI CEO Sam Altman testified about \"hair-raising\" demands for control made by Elon Musk during the startup's early stages, as part of an ongoing legal dispute between the billionaire and the company.",
-          "source": "FT",
-          "url": "https://www.ft.com"
         }
       ]
     }
