@@ -1,24 +1,24 @@
 {
-  "date": "14 May 2026",
-  "generated_at": "2026-05-14T21:00:26.252208+00:00",
+  "date": "15 May 2026",
+  "generated_at": "2026-05-15T21:00:25.979581+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "At least 12 people, including two children, were killed in Ukraine's capital following massive Russian drone and missile attacks on Kyiv flats.",
+          "text": "US President Trump has warned Taiwan against declaring independence, following a summit with China's Xi Jinping, urging both sides to de-escalate tensions.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Reports indicate that a vessel described as a 'floating armoury' in the Gulf of Oman has been seized by Iranian military personnel.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "A federal judge has ordered the Trump administration to return a Colombian woman, Adriana Maria Quiroz Zapata, who was deported to the Democratic Republic of Congo, calling her deportation 'likely illegal'.",
+          "text": "An Ebola outbreak in the eastern Democratic Republic of the Congo has claimed 65 lives, with Uganda also reporting cases of the Bundibugyo strain.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Federal Reserve Chair Powell indicated that a rate cut could be considered as early as September, stating that the labor market is not a significant source of inflation pressure.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "New research suggests a link between seismic testing for oil and gas exploration and decreased commercial fish catch rates in Victoria's east.",
+          "text": "Israel and Lebanon have agreed to extend a ceasefire and hold new talks on a political settlement, despite Israel carrying out new strikes it insists are not subject to the truce.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Federal budget funding for Canberra roads, including $50 million to duplicate a road in West Belconnen, could potentially increase peak-hour traffic, according to transport planning experts.",
+          "text": "The federal government has announced nearly $40 million to fund an overhaul of aviation consumer rights, as the sector warns of higher fares and cancelled flights.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Opposition leader Angus Taylor has responded to the federal budget, proposing a significant migration cut and $22.5 billion in tax cuts, including indexation of lower tax brackets to inflation starting in 2028-29.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "The discovery of a Chinese undersea monitoring device in a strategic Indonesian waterway last month highlights China's extensive reach and undersea ambitions, with implications for Australia.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The AI rally continues to fuel stock market momentum, with the S&P 500 topping 7,500 and US stocks reaching new records after upbeat earnings from Cisco Systems Inc. and a landmark AI IPO.",
+          "text": "Global bond markets experienced a significant downturn, with yields surging worldwide, driven by fears that escalating conflict in the Middle East could lead to an inflation shock and force central banks, including the US Federal Reserve, to raise interest rates further.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "SpaceX is reportedly planning to file publicly for its initial public offering (IPO) as early as Wednesday, according to sources familiar with the matter.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Active managers are struggling to keep up with the market, with only 1 in 4 beating the market as the AI rally is driven by a small group of tech megacaps.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "The proliferation of AI-generated and AI-assisted text on the internet raises concerns about a potential degradation in semantic and stylistic diversity, factual accuracy, and other negative developments.",
-          "source": "Marginal Rev",
-          "url": "https://www.marginalrevolution.com"
+          "text": "An incident at EY saw the professional services firm retract a study after researchers discovered instances of AI hallucinations, highlighting challenges with new technology.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
