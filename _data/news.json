@@ -1,24 +1,24 @@
 {
-  "date": "15 May 2026",
-  "generated_at": "2026-05-15T21:00:25.979581+00:00",
+  "date": "16 May 2026",
+  "generated_at": "2026-05-16T21:00:24.016986+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "US President Trump has warned Taiwan against declaring independence, following a summit with China's Xi Jinping, urging both sides to de-escalate tensions.",
+          "text": "A senior Islamic State leader, Abu-Bilal al-Minuki, described as the 'most active terrorist in the world', was reportedly killed in a joint operation by US and Nigerian forces.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An Ebola outbreak in the eastern Democratic Republic of the Congo has claimed 65 lives, with Uganda also reporting cases of the Bundibugyo strain.",
+          "text": "An outbreak of Ebola in the Democratic Republic of Congo has claimed 65 lives, with Uganda also reporting cases of the Bundibugyo strain.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Federal Reserve Chair Powell indicated that a rate cut could be considered as early as September, stating that the labor market is not a significant source of inflation pressure.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "Reports suggest the US is planning to charge former Cuban leader Raúl Castro, potentially next week, in a case possibly linked to the 1996 downing of two planes.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Israel and Lebanon have agreed to extend a ceasefire and hold new talks on a political settlement, despite Israel carrying out new strikes it insists are not subject to the truce.",
+          "text": "China has quietly halted the export of sulphuric acid, a critical industrial chemical used in various essential processes, amid disruptions from the Iran war.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The federal government has announced nearly $40 million to fund an overhaul of aviation consumer rights, as the sector warns of higher fares and cancelled flights.",
+          "text": "There is a push to update energy standards for rental properties, including proposals for a standard power plug to charge homes from electric vehicles.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The discovery of a Chinese undersea monitoring device in a strategic Indonesian waterway last month highlights China's extensive reach and undersea ambitions, with implications for Australia.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Concerns have been raised within the Liberal party about 'dog whistling' on immigration, with some members believing Pauline Hanson's party is influencing the Liberal agenda.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Global bond markets experienced a significant downturn, with yields surging worldwide, driven by fears that escalating conflict in the Middle East could lead to an inflation shock and force central banks, including the US Federal Reserve, to raise interest rates further.",
+          "text": "NATO is set to urge European arms manufacturers to increase investment and production, with alliance chief Mark Rutte planning to meet defense groups next week in Brussels.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "SpaceX is reportedly planning to file publicly for its initial public offering (IPO) as early as Wednesday, according to sources familiar with the matter.",
+          "text": "A rare strain of Ebola, for which there is no approved vaccine or treatment, has been linked to 87 deaths in the conflict-affected northeastern Democratic Republic of Congo.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "An incident at EY saw the professional services firm retract a study after researchers discovered instances of AI hallucinations, highlighting challenges with new technology.",
+          "text": "Israel has reportedly killed Izz al-Din al-Haddad, the last Hamas chief who oversaw the October 7 attack, through an air strike, intensifying pressure on the current fragile ceasefire.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
