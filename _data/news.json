@@ -1,24 +1,24 @@
 {
-  "date": "16 May 2026",
-  "generated_at": "2026-05-16T21:00:24.016986+00:00",
+  "date": "18 May 2026",
+  "generated_at": "2026-05-17T21:00:35.995935+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A senior Islamic State leader, Abu-Bilal al-Minuki, described as the 'most active terrorist in the world', was reportedly killed in a joint operation by US and Nigerian forces.",
+          "text": "The World Health Organization has declared the Ebola outbreak in the Democratic Republic of Congo an international emergency, with nearly 250 suspected cases and 80 deaths reported.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An outbreak of Ebola in the Democratic Republic of Congo has claimed 65 lives, with Uganda also reporting cases of the Bundibugyo strain.",
+          "text": "Russia claims a large-scale Ukrainian drone attack killed three people in the Moscow region, with Ukraine's president stating the strikes are a justified response to Russian attacks on Ukrainian cities.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Donald Trump announced that US and Nigerian forces killed Abu-Bilal al-Minuki, identified as Islamic State's 'second in command' and 'most active terrorist in the world,' in a complex mission.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "Reports suggest the US is planning to charge former Cuban leader Raúl Castro, potentially next week, in a case possibly linked to the 1996 downing of two planes.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "China has quietly halted the export of sulphuric acid, a critical industrial chemical used in various essential processes, amid disruptions from the Iran war.",
+          "text": "The newly merged Adelaide University is facing protests from students over its decision to change the venue for graduation ceremonies from Bonython Hall to Pridham Hall.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "There is a push to update energy standards for rental properties, including proposals for a standard power plug to charge homes from electric vehicles.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Concerns have been raised within the Liberal party about 'dog whistling' on immigration, with some members believing Pauline Hanson's party is influencing the Liberal agenda.",
+          "text": "Australia's two largest supermarket chains, Coles and Woolworths, have been found to switch promotions on various products almost simultaneously, raising concerns about market practices.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Support for the Labor government and Prime Minister Anthony Albanese has declined following the recent federal budget, according to new polling data.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "NATO is set to urge European arms manufacturers to increase investment and production, with alliance chief Mark Rutte planning to meet defense groups next week in Brussels.",
+          "text": "The looming energy crisis in Iran is intensifying, with emergency measures spreading as oil stockpiles run low, signaling a supply squeeze that will worsen before improving.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "A rare strain of Ebola, for which there is no approved vaccine or treatment, has been linked to 87 deaths in the conflict-affected northeastern Democratic Republic of Congo.",
+          "text": "Investors are concerned about rising global interest rates and the threat of inflation, as there is no clear end in sight to the Iran war, which is a key economic consequence.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Israel has reportedly killed Izz al-Din al-Haddad, the last Hamas chief who oversaw the October 7 attack, through an air strike, intensifying pressure on the current fragile ceasefire.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Economists are observing a deepening mystery in commodity markets as the world has managed to avoid an oil catastrophe despite ongoing geopolitical tensions.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
