@@ -1,24 +1,24 @@
 {
-  "date": "18 May 2026",
-  "generated_at": "2026-05-17T21:00:35.995935+00:00",
+  "date": "19 May 2026",
+  "generated_at": "2026-05-18T21:00:26.756327+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The World Health Organization has declared the Ebola outbreak in the Democratic Republic of Congo an international emergency, with nearly 250 suspected cases and 80 deaths reported.",
+          "text": "The US president announced a halt to a planned US attack on Iran, stating that \"serious negotiations are now taking place.\"",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russia claims a large-scale Ukrainian drone attack killed three people in the Moscow region, with Ukraine's president stating the strikes are a justified response to Russian attacks on Ukrainian cities.",
+          "text": "An Ebola outbreak in the Democratic Republic of Congo has resulted in at least 100 deaths, with the World Health Organization declaring it an international emergency.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Donald Trump announced that US and Nigerian forces killed Abu-Bilal al-Minuki, identified as Islamic State's 'second in command' and 'most active terrorist in the world,' in a complex mission.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "The death toll from Israeli strikes on Lebanon has surpassed 3,000, marking a significant milestone in the ongoing conflict between Israel and Hezbollah, despite a nominal ceasefire.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The newly merged Adelaide University is facing protests from students over its decision to change the venue for graduation ceremonies from Bonython Hall to Pridham Hall.",
+          "text": "The National Trust South Australia faces an inquiry motion amid a $230,000 property dispute, as another branch goes public with financial concerns.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia's two largest supermarket chains, Coles and Woolworths, have been found to switch promotions on various products almost simultaneously, raising concerns about market practices.",
+          "text": "A man has been charged with murder after the bodies of a woman and two children were discovered inside a Sydney home in Campbelltown.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Support for the Labor government and Prime Minister Anthony Albanese has declined following the recent federal budget, according to new polling data.",
+          "text": "Business owners are creating AI-generated memes of Prime Minister Anthony Albanese in response to a new budget measure, humorously referring to him as their \"new business partner.\"",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The looming energy crisis in Iran is intensifying, with emergency measures spreading as oil stockpiles run low, signaling a supply squeeze that will worsen before improving.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Investors are concerned about rising global interest rates and the threat of inflation, as there is no clear end in sight to the Iran war, which is a key economic consequence.",
+          "text": "NextEra Energy Inc. is set to acquire Dominion Energy Inc. for approximately $67 billion, creating the largest power utility in the US and expanding its reach from Florida to artificial intelligence data centers.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Economists are observing a deepening mystery in commodity markets as the world has managed to avoid an oil catastrophe despite ongoing geopolitical tensions.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Mortgage costs have seen a sharp increase in North America and Europe, despite central banks maintaining steady interest rates, a development attributed to the ongoing conflict in the Middle East.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Foreign holdings of US Treasuries decreased in March, as international investors divested from bills while simultaneously increasing their investments in longer-dated federal securities.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
