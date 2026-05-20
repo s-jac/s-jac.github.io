@@ -1,24 +1,24 @@
 {
-  "date": "20 May 2026",
-  "generated_at": "2026-05-19T21:00:38.222643+00:00",
+  "date": "21 May 2026",
+  "generated_at": "2026-05-20T21:00:24.154808+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "An Ebola outbreak in the Democratic Republic of Congo is spreading faster than initially thought, with the World Health Organization (WHO) acknowledging they are playing catch-up and considering experimental vaccines as cases rise.",
+          "text": "The US has charged Cuba's Raúl Castro and five others with murder and conspiracy over the 1996 downing of two planes, raising tensions between the two nations.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Estonia claims a NATO jet shot down a drone over its territory, suspected to be a Ukrainian projectile diverted by Russian electronic jamming.",
+          "text": "Ebola vaccine development could take up to nine months, as the World Health Organization reports 139 suspected deaths and 600 cases in the latest outbreak.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US government has announced it will admit 10,000 more white South Africans, claiming an \"emergency refugee situation,\" amidst repeated unsubstantiated claims by Trump about a genocide against white Afrikaners.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Russia and China showcased their unity on the world stage during President Putin's visit to Xi Jinping, though no pipeline deal was secured.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The federal government plans to spend $11 billion on modernising Australia's Collins-class submarine fleet.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A photographer has been charged with allegedly stealing a camera from a victim of the Bondi terror attack and later pawning it.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "CSIRO is reportedly planning to dismiss a third of its team working on the national climate model, which scientists warn could hinder Australia's ability to provide climate projections for global reports.",
+          "text": "The ATO has issued an apology after a 97-year-old woman was fined for not prioritizing tax obligations following her husband's death, drawing criticism from the ombudsman.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Former NT child protection staff have spoken out about the system's scrutiny following the alleged murder of a five-year-old in Alice Springs.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A Victorian teenager has been accused by prosecutors of attempting to hijack a Jetstar plane due to political motivations.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Investors are concerned about a potential resurgence in inflation, leading to a significant selloff in the $31 trillion US government debt market and pushing bond yields to multi-year highs, with the 30-year yield reaching its highest since 2007.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "US stocks have fallen for three consecutive days due to rising bond yields and inflation concerns, with semiconductor shares notably declining.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Google plans to release smart glasses and integrate AI 'agents' into its search engine, powered by its new Gemini model, aiming to compete with companies like Anthropic and OpenAI.",
+          "text": "Nvidia announced it would return over $80 billion to shareholders after reporting better-than-expected revenue and forecasts, with the company's CEO also engaging in a $90 billion deal spree to further its AI dominance.",
           "source": "FT",
           "url": "https://www.ft.com"
+        },
+        {
+          "text": "Oil prices dropped nearly 6% and emerging currencies rallied amid hopes for a deal to ease the conflict in the Middle East, which has fueled inflation concerns and rattled financial markets.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "SpaceX has filed publicly for its initial public offering on Nasdaq under the symbol SPCX, moving Elon Musk's company closer to what could be the world's biggest-ever debut.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
