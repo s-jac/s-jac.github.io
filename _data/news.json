@@ -1,22 +1,22 @@
 {
-  "date": "21 May 2026",
-  "generated_at": "2026-05-20T21:00:24.154808+00:00",
+  "date": "22 May 2026",
+  "generated_at": "2026-05-21T21:00:27.698286+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US has charged Cuba's Raúl Castro and five others with murder and conspiracy over the 1996 downing of two planes, raising tensions between the two nations.",
+          "text": "Iran has escalated its claims over the Strait of Hormuz, publishing a map asserting \"armed forces oversight\" across a significant portion of the waterway.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Ebola vaccine development could take up to nine months, as the World Health Organization reports 139 suspected deaths and 600 cases in the latest outbreak.",
+          "text": "Activists from a Gaza flotilla have been deported from Israel amidst growing condemnation over their treatment, including a video showing a far-right Israeli minister taunting them.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russia and China showcased their unity on the world stage during President Putin's visit to Xi Jinping, though no pipeline deal was secured.",
+          "text": "Russia and China have condemned the United States following the indictment of former Cuban leader Raúl Castro on murder charges, a move aimed at pressuring the Cuban regime.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A photographer has been charged with allegedly stealing a camera from a victim of the Bondi terror attack and later pawning it.",
+          "text": "Half of Australia's farms are structured as trusts, leading to concerns among farmers about the implications of new tax reforms, despite a carve-out for family trusts in the recent budget.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The ATO has issued an apology after a 97-year-old woman was fined for not prioritizing tax obligations following her husband's death, drawing criticism from the ombudsman.",
+          "text": "One Nation's plans for national expansion are reportedly in disarray, with 'significant risks' forcing the dissolution of new branches and the imposition of strict gag orders on members.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "A Victorian teenager has been accused by prosecutors of attempting to hijack a Jetstar plane due to political motivations.",
+          "text": "Three individuals have been charged with murder following a fatal balcony fall in Sydney's north-west, as reported in local news.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Nvidia announced it would return over $80 billion to shareholders after reporting better-than-expected revenue and forecasts, with the company's CEO also engaging in a $90 billion deal spree to further its AI dominance.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Oil prices dropped nearly 6% and emerging currencies rallied amid hopes for a deal to ease the conflict in the Middle East, which has fueled inflation concerns and rattled financial markets.",
+          "text": "The Dow Average reached a record high due to hopes for a diplomatic resolution to the conflict in Iran, which also led to a drop in oil prices amid speculation of renewed energy flows through the Strait of Hormuz.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "SpaceX has filed publicly for its initial public offering on Nasdaq under the symbol SPCX, moving Elon Musk's company closer to what could be the world's biggest-ever debut.",
+          "text": "New college graduates are entering the tightest labor market in years, facing a low-hire, low-fire environment as they seek their first jobs.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Investors are concerned about another surge in inflation, despite the availability of inflation-protected bonds, indicating a divergence in market behavior.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
