@@ -1,24 +1,24 @@
 {
-  "date": "22 May 2026",
-  "generated_at": "2026-05-21T21:00:27.698286+00:00",
+  "date": "23 May 2026",
+  "generated_at": "2026-05-22T21:00:25.928223+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Iran has escalated its claims over the Strait of Hormuz, publishing a map asserting \"armed forces oversight\" across a significant portion of the waterway.",
+          "text": "Russia's President Putin has vowed retaliation after accusing Ukraine of hitting a student dormitory, while Ukraine claims to have struck Russia's elite Rubicon drone military unit in an occupied part of eastern Ukraine.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Activists from a Gaza flotilla have been deported from Israel amidst growing condemnation over their treatment, including a video showing a far-right Israeli minister taunting them.",
+          "text": "The Ebola risk in the Democratic Republic of Congo has been raised to 'very high' by the UN health agency, with the head of the organization noting the risk in the wider region is 'high'. Suspected Ebola cases have tripled in a week, with officials describing the situation as 'deeply worrisome'.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russia and China have condemned the United States following the indictment of former Cuban leader Raúl Castro on murder charges, a move aimed at pressuring the Cuban regime.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "French President Emmanuel Macron has stated that France must address the issue of reparations for its role in the slave trade, a term he used as demand grows for formal discussion on addressing legacies of enslavement.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Half of Australia's farms are structured as trusts, leading to concerns among farmers about the implications of new tax reforms, despite a carve-out for family trusts in the recent budget.",
+          "text": "The ACT government has proposed significant changes to planning rules, which would allow townhouses, terraces, and low-rise apartments on all residential blocks in Canberra, making it easier to build diverse housing options.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation's plans for national expansion are reportedly in disarray, with 'significant risks' forcing the dissolution of new branches and the imposition of strict gag orders on members.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A parliamentary inquiry heard harrowing IVF stories from rural women, highlighting the challenges of miscarriages, extensive travel, and false hope, with calls for systemic changes to better support them.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Three individuals have been charged with murder following a fatal balcony fall in Sydney's north-west, as reported in local news.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The Australian government is planning for potential 'worst-case scenario' retail fuel rationing, with documents revealing powers to enforce daily purchase limits for motorists amidst warnings of world oil supplies entering a 'red zone' by August.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Dow Average reached a record high due to hopes for a diplomatic resolution to the conflict in Iran, which also led to a drop in oil prices amid speculation of renewed energy flows through the Strait of Hormuz.",
+          "text": "Emerging markets experienced a positive week, with stocks and currencies gaining due to increasing hopes for a peace deal between the US and Iran.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "New college graduates are entering the tightest labor market in years, facing a low-hire, low-fire environment as they seek their first jobs.",
+          "text": "The S&P 500 achieved its eighth consecutive weekly gain, driven by optimism for Middle East peace and continued enthusiasm for artificial intelligence stocks.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Investors are concerned about another surge in inflation, despite the availability of inflation-protected bonds, indicating a divergence in market behavior.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Gold prices declined as Federal Reserve Governor Christopher Waller indicated a potential interest rate hike, citing concerns that the Iran conflict could fuel inflation.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
