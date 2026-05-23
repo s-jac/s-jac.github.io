@@ -1,24 +1,24 @@
 {
-  "date": "23 May 2026",
-  "generated_at": "2026-05-22T21:00:25.928223+00:00",
+  "date": "24 May 2026",
+  "generated_at": "2026-05-23T21:00:27.661764+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russia's President Putin has vowed retaliation after accusing Ukraine of hitting a student dormitory, while Ukraine claims to have struck Russia's elite Rubicon drone military unit in an occupied part of eastern Ukraine.",
+          "text": "At least 82 people have died in China's worst coal mining disaster in 16 years, following an explosion in Shanxi province.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Ebola risk in the Democratic Republic of Congo has been raised to 'very high' by the UN health agency, with the head of the organization noting the risk in the wider region is 'high'. Suspected Ebola cases have tripled in a week, with officials describing the situation as 'deeply worrisome'.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "French President Emmanuel Macron has stated that France must address the issue of reparations for its role in the slave trade, a term he used as demand grows for formal discussion on addressing legacies of enslavement.",
+          "text": "The Ebola outbreak in the Democratic Republic of Congo is rapidly widening, with suspected cases tripling in a week, prompting the White House to pause the removal of detainees to the DRC.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Russian President Putin has vowed retaliation after accusing Ukraine of striking a student dormitory, while Ukraine claims to have hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The ACT government has proposed significant changes to planning rules, which would allow townhouses, terraces, and low-rise apartments on all residential blocks in Canberra, making it easier to build diverse housing options.",
+          "text": "Yorke Peninsula businesses are expressing frustration over 18 months of blackouts, stating that SA Power Networks' $10 million action plan to fix the issue is long overdue and they have lost hundreds of thousands of dollars.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A parliamentary inquiry heard harrowing IVF stories from rural women, highlighting the challenges of miscarriages, extensive travel, and false hope, with calls for systemic changes to better support them.",
+          "text": "The Iran war has revealed significant vulnerabilities in global supply chains and exposed overlooked deficiencies in Australia's manufacturing sector, which are crucial for national resilience during a crisis.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Australian government is planning for potential 'worst-case scenario' retail fuel rationing, with documents revealing powers to enforce daily purchase limits for motorists amidst warnings of world oil supplies entering a 'red zone' by August.",
+          "text": "A designer is suing Australian Shopify, alleging that the platform hosted 3,929 'ghost stores' that copied his work, in a rare attempt to hold global online platforms accountable for allegedly facilitating scam digital shopfronts.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Emerging markets experienced a positive week, with stocks and currencies gaining due to increasing hopes for a peace deal between the US and Iran.",
+          "text": "Uber Technologies Inc. has reportedly offered to acquire Delivery Hero SE for approximately €10 billion, intensifying competition in the food delivery market.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The S&P 500 achieved its eighth consecutive weekly gain, driven by optimism for Middle East peace and continued enthusiasm for artificial intelligence stocks.",
+          "text": "The Federal Reserve's preferred inflation gauge is nearing 4%, driven by a war-induced surge in energy costs, raising concerns about broader price pressures.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Gold prices declined as Federal Reserve Governor Christopher Waller indicated a potential interest rate hike, citing concerns that the Iran conflict could fuel inflation.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Economists are debating how to incorporate morality into economic models, considering it as more than just an external constraint.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
