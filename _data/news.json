@@ -1,24 +1,24 @@
 {
-  "date": "25 May 2026",
-  "generated_at": "2026-05-24T21:00:26.490667+00:00",
+  "date": "26 May 2026",
+  "generated_at": "2026-05-25T21:00:50.732142+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A large-scale Russian attack on Ukraine has resulted in four deaths and dozens of injuries, with Russia confirming the use of the Oreshnik missile, which travels at over 10 times the speed of sound.",
+          "text": "Russia has threatened more strikes on Kyiv and advised foreign nationals to leave after the Ukrainian capital experienced one of the largest aerial assaults of the war overnight.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The number of suspected Ebola cases in the Democratic Republic of Congo has surpassed 900, with the World Health Organization stating the outbreak poses a 'very high' risk for the country amidst health worker attacks and shortages.",
+          "text": "Israel's Prime Minister Netanyahu announced that Israel would intensify strikes against Hezbollah, with the Israeli military already targeting eastern Lebanon.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "The World Health Organization has warned that the Ebola outbreak in the Democratic Republic of Congo is 'outpacing' response efforts, urging neighboring countries to take immediate action.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "A blast targeting a train in Pakistan has killed at least 20 people; officials report the train was transporting military personnel for Eid when it was attacked by armed separatists.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Teal independent MPs are reportedly in discussions to form a new political party.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "A new waterfront Sydney suburb needs a name, with Sydneysiders to be asked to help rename Bays West and a competition opening to decide the area's \"look and feel.\"",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Security failures, including escapes, fires, and stabbings, have been revealed within Australia's immigration detention network, with critics citing a \"minimalist staffing model\" by prison multinational MTC.",
+          "text": "Leaked internal documents from BHP, provided to The Guardian and ABC's Four Corners, indicate a significant backtrack on the company's climate change commitments, despite previously labeling it an 'existential' threat.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "The Albanese government is moving forward with its plans for Capital Gains Tax (CGT) and negative gearing reforms, while also considering potential carve-outs for businesses.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A second group of ISIS-linked women and children are scheduled to arrive in Australia today, with some individuals potentially facing terrorism charges.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The European Central Bank is expected to raise its inflation outlook next month, according to President Christine Lagarde.",
+          "text": "Emerging market assets, including stocks and currencies, saw a boost as prospects of a US-Iran deal to reopen the Strait of Hormuz led to a decline in oil prices and increased investor risk appetite.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Investors are concerned about a potential surge in inflation, leading to questions about why more are not investing in inflation-protected bonds.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Gold prices advanced as the potential US-Iran deal, which could restore oil flows, helped temper inflation concerns among investors.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Donald Trump's unpredictable policymaking is reportedly causing a drag on America's economic growth.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Hungarian Prime Minister Peter Magyar announced that a political accord with the European Union's executive on the release of frozen funds is expected to be signed on May 28.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
