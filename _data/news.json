@@ -1,22 +1,22 @@
 {
-  "date": "27 May 2026",
-  "generated_at": "2026-05-26T21:00:31.992655+00:00",
+  "date": "28 May 2026",
+  "generated_at": "2026-05-27T21:00:36.160363+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Iran has condemned recent US strikes as a 'gross violation' of the ceasefire, with the attacks occurring while Iranian and Qatari negotiators were involved in peace talks.",
+          "text": "The World Health Organization (WHO) has warned that the Ebola outbreak in the Democratic Republic of Congo is facing a \"catastrophic collision\" of disease and conflict, hindering efforts to contain its spread.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The World Health Organization warns that the spread of Ebola in the Democratic Republic of Congo is 'outpacing' response efforts, with suspected cases surpassing 900 amid attacks on health workers and shortages.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Israel has issued an evacuation order for parts of southern Lebanon, declaring areas south of the Zahrani River as \"combat zones\" and threatening Hezbollah with further strikes.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Hunger is increasingly being used as a weapon of war, with over 20,000 documented attacks on markets, farmland, and food distribution systems since 2018.",
+          "text": "Mexico's President Sheinbaum has allowed the Iranian team to stay in Mexico during the World Cup, after the US declined to host them despite Iran playing group games in the United States.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The ACT's public education system is set for a significant overhaul, aiming to unify schools that previously operated like 'independent small businesses' following a review of resourcing.",
+          "text": "Legal action has been initiated against the federal environment minister's decision to approve the clearing of nearly 3,000 hectares of threatened species habitat, an area ten times the size of Sydney's CBD.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A culturally significant rock shelter in Central West NSW was reportedly damaged by an energy company during construction for a renewable energy project, drawing criticism from the Wiradjuri community.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "A Guardian Essential poll indicates that only 25% of Australians support the recent budget, with many believing the government has not met expectations over the past year, while support for One Nation has grown.",
+          "text": "New modelling predicts that changes to NDIS eligibility rules will result in 241,000 participants being cut from the scheme within four years, meaning they will no longer receive support by mid-2031.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A new report suggests that Australia's armed forces currently lack sufficient strike power to adequately defend the nation.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "BP's chair, Albert Manifold, has been removed over 'serious concerns' about his conduct, with his hands-on approach reportedly viewed as excessive by colleagues at the oil major.",
+          "text": "Oil prices have fallen following reports from Iranian state television detailing a peace proposal that would restore shipping in the Strait of Hormuz within a month.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Ferrari's first electric vehicle, the Luce, has sparked investor and social media backlash, highlighting a division among executives regarding demand for luxury electric cars.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Emerging-market currencies weakened due to overnight clashes near the Strait of Hormuz, despite signs of progress toward a US-Iran peace deal, while developing-nation stocks rose.",
+          "text": "Federal Reserve Governor Lisa Cook stated that she is prepared to raise interest rates if inflation persists, noting that the risks remain tilted towards higher inflation.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "JPMorgan Chase CEO Jamie Dimon indicated the bank could spend up to $20 billion on new acquisitions, citing that the Trump administration's lighter regulatory approach has freed up to $50 billion in excess capital.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
