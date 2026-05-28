@@ -1,22 +1,22 @@
 {
-  "date": "28 May 2026",
-  "generated_at": "2026-05-27T21:00:36.160363+00:00",
+  "date": "29 May 2026",
+  "generated_at": "2026-05-28T21:00:42.655657+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The World Health Organization (WHO) has warned that the Ebola outbreak in the Democratic Republic of Congo is facing a \"catastrophic collision\" of disease and conflict, hindering efforts to contain its spread.",
+          "text": "Tensions escalated between the US and Iran following fresh US strikes and Iran's targeting of an American base, despite both sides reportedly seeking to avoid all-out conflict.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Israel has issued an evacuation order for parts of southern Lebanon, declaring areas south of the Zahrani River as \"combat zones\" and threatening Hezbollah with further strikes.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The head of the World Health Organization (WHO) has called for an immediate ceasefire in the Democratic Republic of Congo (DRC) to address the Ebola outbreak, warning that the spread of the disease is outpacing response efforts.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Mexico's President Sheinbaum has allowed the Iranian team to stay in Mexico during the World Cup, after the US declined to host them despite Iran playing group games in the United States.",
+          "text": "A dormitory fire at a girls' school in Kenya's Rift Valley killed at least 16 students, with parents awaiting updates on the tragedy.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Legal action has been initiated against the federal environment minister's decision to approve the clearing of nearly 3,000 hectares of threatened species habitat, an area ten times the size of Sydney's CBD.",
+          "text": "The Queensland government plans to proceed with the demolition of Victoria Park in Brisbane despite challenges under the Aboriginal and Torres Strait Islander Heritage Protection Act.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "New modelling predicts that changes to NDIS eligibility rules will result in 241,000 participants being cut from the scheme within four years, meaning they will no longer receive support by mid-2031.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Endeavour Group, owner of major Australian liquor retailers, is selling vineyards and wineries in South Australia, Victoria, and Tasmania, and closing a large South Australian bottling facility due to industry pressures.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A new report suggests that Australia's armed forces currently lack sufficient strike power to adequately defend the nation.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "One Nation MPs Pauline Hanson and Barnaby Joyce claimed parliamentary travel expenses for attending private fundraising events on a luxury cruise ship hosted by mining billionaire Gina Rinehart.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Oil prices have fallen following reports from Iranian state television detailing a peace proposal that would restore shipping in the Strait of Hormuz within a month.",
+          "text": "Chevron's CEO forecasts a summer jump in oil prices due to dwindling supplies, with the Strait of Hormuz blockade impacting global markets and reducing available reserves.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Federal Reserve Governor Lisa Cook stated that she is prepared to raise interest rates if inflation persists, noting that the risks remain tilted towards higher inflation.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Anthropic has finalized a $65 billion funding deal, valuing the Claude AI maker at $965 billion and surpassing OpenAI's valuation, indicating significant investment in the AI sector.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "JPMorgan Chase CEO Jamie Dimon indicated the bank could spend up to $20 billion on new acquisitions, citing that the Trump administration's lighter regulatory approach has freed up to $50 billion in excess capital.",
+          "text": "The EU is planning to introduce crisis powers that could force chipmakers to override existing contracts to seize control of chip supplies, reflecting concerns over semiconductor security.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
