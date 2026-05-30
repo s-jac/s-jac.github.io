@@ -1,22 +1,22 @@
 {
-  "date": "30 May 2026",
-  "generated_at": "2026-05-29T21:01:09.005311+00:00",
+  "date": "31 May 2026",
+  "generated_at": "2026-05-30T21:00:25.567522+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A Canadian man, Kenneth Law, has admitted to selling toxic chemicals online to individuals globally, leading to charges of aiding suicides. Families in the UK are seeking further charges against him related to 79 deaths.",
+          "text": "The US, UK, and Australia are set to develop underwater drone technology under the Aukus military pact, aiming to protect undersea cables and enhance naval defense.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A dormitory fire at a girls' school in Kenya has resulted in the deaths of at least 16 students, with eight students arrested in connection with the suspected arson attack.",
+          "text": "A major Ebola outbreak in the Democratic Republic of Congo is causing alarm, with Médicins Sans Frontières warning of an unprecedented number of cases in a short period and the WHO chief visiting the worst-hit areas.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The World Health Organization (WHO) has reported a 'huge' 30-50% death rate in the Ebola outbreak in the Democratic Republic of Congo and is calling for a ceasefire among armed groups to facilitate health efforts.",
+          "text": "A dormitory fire at a girls' school in Kenya has killed at least 16 students, with parents awaiting updates on the tragic incident.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The use of AI-generated images by a Victorian state MP has sparked a debate on the role of artificial intelligence in politics.",
+          "text": "Australians continue to face risks in the outback, with one woman sharing her mission to prevent further deaths after losing her son and ex-husband in separate incidents.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australians are currently limited to a 'keyhole view' in understanding any intelligence gaps or government failings that may have preceded the Bondi massacre.",
+          "text": "An outback town experienced evacuations and extensive testing after students discovered vials of mercury at a local tip, raising concerns about irresponsible dumping.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The government is facing scrutiny over its struggle to pass ambitious tax changes through parliament, with ongoing debate about their impact.",
+          "text": "Australia's truck drivers are struggling to survive as surging fuel prices have made their operations financially unsustainable, impacting an industry reliant on diesel.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Bank of England governor, Andrew Bailey, indicated that interest rate cuts are contingent on policymakers gaining greater confidence, as a Middle East ceasefire would still introduce uncertainty.",
+          "text": "SoftBank plans to invest €75bn to establish Europe’s largest AI facility in France, positioning the country as central to its global AI strategy.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "US stocks achieved a historic weekly run, with the S&P 500 reaching a new record, driven by hopes for a ceasefire deal with Iran and continued excitement over the artificial intelligence trade.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The US is experiencing historic cattle shortages due to high feed costs and drought, leading to record-high beef prices as consumer demand remains strong.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "A new source of fluctuations in inflation inequality has been identified, where rising upstream input costs lead to similar absolute price increases across varieties within a product category, potentially undermeasuring inflation for lower earners.",
-          "source": "Marginal Rev",
-          "url": "https://www.marginalrevolution.com"
+          "text": "Brazil has extended measures for two months to curb the rise in fuel prices, which were triggered by the conflict in the Middle East.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
