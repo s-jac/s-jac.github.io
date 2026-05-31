@@ -1,24 +1,24 @@
 {
-  "date": "31 May 2026",
-  "generated_at": "2026-05-30T21:00:25.567522+00:00",
+  "date": "1 June 2026",
+  "generated_at": "2026-05-31T21:00:24.655333+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US, UK, and Australia are set to develop underwater drone technology under the Aukus military pact, aiming to protect undersea cables and enhance naval defense.",
+          "text": "Israel has seized a castle in Lebanon, with Prime Minister Benjamin Netanyahu describing the capture as a \"decisive shift\" in its military campaign against Hezbollah.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A major Ebola outbreak in the Democratic Republic of Congo is causing alarm, with Médicins Sans Frontières warning of an unprecedented number of cases in a short period and the WHO chief visiting the worst-hit areas.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "A dormitory fire at a girls' school in Kenya has killed at least 16 students, with parents awaiting updates on the tragic incident.",
+          "text": "The World Health Organization (WHO) has called for community cooperation and a ceasefire among armed groups to contain the Ebola outbreak in the Democratic Republic of Congo, where the death rate is estimated to be 30-50%.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Colombia is holding a presidential election that could redefine its relations with the US, following months of public recrimination between the current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australians continue to face risks in the outback, with one woman sharing her mission to prevent further deaths after losing her son and ex-husband in separate incidents.",
+          "text": "The United States Navy has shown interest in using the controversial Darwin ship lift, which is anticipated to be operational next year, according to Northern Territory Infrastructure Minister Bill Yan.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An outback town experienced evacuations and extensive testing after students discovered vials of mercury at a local tip, raising concerns about irresponsible dumping.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Australia's truck drivers are struggling to survive as surging fuel prices have made their operations financially unsustainable, impacting an industry reliant on diesel.",
+          "text": "Capital city home prices in Australia have fallen, with experts predicting that the property slump could last a year and reduce values by 10%.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A person has died and another was seriously injured in a house fire in Werribee, Melbourne, which is currently under police investigation.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "SoftBank plans to invest €75bn to establish Europe’s largest AI facility in France, positioning the country as central to its global AI strategy.",
+          "text": "Wall Street investors and strategists are dismissing concerns about market overheating, betting on significant gains for AI-linked shares and a continued rally in US stocks.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The US is experiencing historic cattle shortages due to high feed costs and drought, leading to record-high beef prices as consumer demand remains strong.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Brazil has extended measures for two months to curb the rise in fuel prices, which were triggered by the conflict in the Middle East.",
+          "text": "Berkshire Hathaway Inc. is set to acquire Taylor Morrison Home Corp. in an all-cash deal valued at approximately $6.8 billion, as announced by both companies.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "The notorious hukou system in China, which has long restricted rural migrants' lives, is being relaxed, potentially easing urban integration for this population.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
