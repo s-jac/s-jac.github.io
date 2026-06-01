@@ -1,24 +1,24 @@
 {
-  "date": "1 June 2026",
-  "generated_at": "2026-05-31T21:00:24.655333+00:00",
+  "date": "2 June 2026",
+  "generated_at": "2026-06-01T21:00:26.948875+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Israel has seized a castle in Lebanon, with Prime Minister Benjamin Netanyahu describing the capture as a \"decisive shift\" in its military campaign against Hezbollah.",
+          "text": "Iran has issued a warning that Israeli attacks in Lebanon could jeopardize the ceasefire with the United States, following Israeli Prime Minister's orders for strikes on Beirut's southern suburbs in response to Hezbollah's actions.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The World Health Organization (WHO) has called for community cooperation and a ceasefire among armed groups to contain the Ebola outbreak in the Democratic Republic of Congo, where the death rate is estimated to be 30-50%.",
+          "text": "Ghana has enacted a new law criminalizing LGBTQ+ activities, causing widespread panic among community members who fear losing their homes, jobs, and access to healthcare if the legislation is ratified by President John Dramani Mahama.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Colombia is holding a presidential election that could redefine its relations with the US, following months of public recrimination between the current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The World Health Organization (WHO) is urging community cooperation to contain an Ebola outbreak in the Democratic Republic of Congo, following protests against protocols for handling victims' bodies in Ituri province.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The United States Navy has shown interest in using the controversial Darwin ship lift, which is anticipated to be operational next year, according to Northern Territory Infrastructure Minister Bill Yan.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Capital city home prices in Australia have fallen, with experts predicting that the property slump could last a year and reduce values by 10%.",
+          "text": "Former environment minister Peter Garrett will lead an independent inquiry into the AUKUS defence pact, launched by a group of Labor veterans and public figures concerned about a lack of scrutiny.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "A person has died and another was seriously injured in a house fire in Werribee, Melbourne, which is currently under police investigation.",
+          "text": "Residents in Katherine have welcomed a $2 billion lawsuit over PFAS contamination, stating that it is time to hold large corporations accountable.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "A national peak body reports that the hospitality sector is facing \"unprecedented\" cost increases for food and power, leading many businesses to close.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Wall Street investors and strategists are dismissing concerns about market overheating, betting on significant gains for AI-linked shares and a continued rally in US stocks.",
+          "text": "Anthropic, an AI company, has filed for an initial public offering (IPO), setting up a potential race with other major AI firms like OpenAI and SpaceX and testing investor interest in the booming AI sector.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Berkshire Hathaway Inc. is set to acquire Taylor Morrison Home Corp. in an all-cash deal valued at approximately $6.8 billion, as announced by both companies.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Barry Diller's company People Inc. has launched an $18 billion takeover offer for MGM Resorts, causing the casino resort group's shares to jump by 15% following the bid.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "The notorious hukou system in China, which has long restricted rural migrants' lives, is being relaxed, potentially easing urban integration for this population.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Colombia's currency, bonds, and stocks rallied significantly after right-wing outsider Abelardo de La Espriella unexpectedly won the first round of the presidential election.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
