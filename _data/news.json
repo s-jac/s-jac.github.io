@@ -1,22 +1,22 @@
 {
-  "date": "2 June 2026",
-  "generated_at": "2026-06-01T21:00:26.948875+00:00",
+  "date": "3 June 2026",
+  "generated_at": "2026-06-02T21:01:08.753831+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Iran has issued a warning that Israeli attacks in Lebanon could jeopardize the ceasefire with the United States, following Israeli Prime Minister's orders for strikes on Beirut's southern suburbs in response to Hezbollah's actions.",
+          "text": "Israel has launched strikes in southern Lebanon, though a partial truce with Hezbollah appears to be holding, following a deal announced by the US.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Ghana has enacted a new law criminalizing LGBTQ+ activities, causing widespread panic among community members who fear losing their homes, jobs, and access to healthcare if the legislation is ratified by President John Dramani Mahama.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Two people have been shot dead in Kenya amid protests against a US plan to establish an Ebola quarantine center, sparking public anger and demonstrations near the proposed site.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The World Health Organization (WHO) is urging community cooperation to contain an Ebola outbreak in the Democratic Republic of Congo, following protests against protocols for handling victims' bodies in Ituri province.",
+          "text": "Mozambique has reported that five of its citizens were killed in what it described as 'xenophobic attacks' in South Africa, as anti-immigration violence spreads across the country.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Former environment minister Peter Garrett will lead an independent inquiry into the AUKUS defence pact, launched by a group of Labor veterans and public figures concerned about a lack of scrutiny.",
+          "text": "South Australia's inaugural Voice to Parliament election faced challenges due to poor advertising, leading to confusion among First Nations voters and underfunded candidates.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Australia's ambitious renewable energy project, Snowy 2.0, is experiencing significant cost blowouts, raising questions among experts about its long-term economic viability.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "An overhaul of the National Disability Insurance Scheme (NDIS) is being warned by the government's own committee to potentially harm Australians with disabilities and undermine the scheme's original intentions.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "Residents in Katherine have welcomed a $2 billion lawsuit over PFAS contamination, stating that it is time to hold large corporations accountable.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "A national peak body reports that the hospitality sector is facing \"unprecedented\" cost increases for food and power, leading many businesses to close.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Anthropic, an AI company, has filed for an initial public offering (IPO), setting up a potential race with other major AI firms like OpenAI and SpaceX and testing investor interest in the booming AI sector.",
+          "text": "Cliffwater's flagship private credit fund, aimed at retail investors with $31 billion in net assets, has received 17% redemption requests, indicating a growing exodus from the sector.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Barry Diller's company People Inc. has launched an $18 billion takeover offer for MGM Resorts, causing the casino resort group's shares to jump by 15% following the bid.",
+          "text": "Goldman Sachs CEO David Solomon noted 'more greed than fear' on Wall Street, reflecting a bullish market outlook that saw the S&P 500 hit record highs on half of all trading days last month.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Colombia's currency, bonds, and stocks rallied significantly after right-wing outsider Abelardo de La Espriella unexpectedly won the first round of the presidential election.",
+          "text": "The Canadian equities benchmark surpassed 35,000 for the first time, driven by a broad rally in the energy and financial sectors.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
