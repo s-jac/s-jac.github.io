@@ -1,22 +1,22 @@
 {
-  "date": "3 June 2026",
-  "generated_at": "2026-06-02T21:01:08.753831+00:00",
+  "date": "4 June 2026",
+  "generated_at": "2026-06-03T21:00:27.923201+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Israel has launched strikes in southern Lebanon, though a partial truce with Hezbollah appears to be holding, following a deal announced by the US.",
+          "text": "Israeli strikes in Lebanon killed nine people, while Hezbollah launched rockets over the border, escalating tensions and straining a recent ceasefire.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Two people have been shot dead in Kenya amid protests against a US plan to establish an Ebola quarantine center, sparking public anger and demonstrations near the proposed site.",
+          "text": "Iranian drone strikes on Kuwait airport killed one person and injured dozens, with Iran stating the attack was in retaliation for earlier US strikes.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Mozambique has reported that five of its citizens were killed in what it described as 'xenophobic attacks' in South Africa, as anti-immigration violence spreads across the country.",
+          "text": "A new Ebola outbreak in the Democratic Republic of Congo may have started as early as January, according to the WHO chief, who noted the virus had a significant head start.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "South Australia's inaugural Voice to Parliament election faced challenges due to poor advertising, leading to confusion among First Nations voters and underfunded candidates.",
+          "text": "Popular Kakadu attractions Jim Jim Falls and Twin Falls will remain closed for the rest of the year, leading to concerns among tourism operators about the economic impact.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia's ambitious renewable energy project, Snowy 2.0, is experiencing significant cost blowouts, raising questions among experts about its long-term economic viability.",
+          "text": "A repeat child sex offender was mistakenly awarded Victoria's \"disability pride champion\" title due to an administrative error by a government department.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An overhaul of the National Disability Insurance Scheme (NDIS) is being warned by the government's own committee to potentially harm Australians with disabilities and undermine the scheme's original intentions.",
+          "text": "A daughter is pleading to prevent her father's deportation to Nauru, a place she describes as a site of \"final and lifelong punishment,\" after he was released from indefinite immigration detention.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Cliffwater's flagship private credit fund, aimed at retail investors with $31 billion in net assets, has received 17% redemption requests, indicating a growing exodus from the sector.",
+          "text": "US oil stocks have dropped to their lowest level since 2004, a situation industry experts warn could lead to a jump in prices as inventories reach a critically low threshold.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Goldman Sachs CEO David Solomon noted 'more greed than fear' on Wall Street, reflecting a bullish market outlook that saw the S&P 500 hit record highs on half of all trading days last month.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Bill Ackman's Pershing Square is reportedly planning to sell its stake in Universal Music Group NV, just days after the company rejected a takeover bid from the hedge fund billionaire.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The Canadian equities benchmark surpassed 35,000 for the first time, driven by a broad rally in the energy and financial sectors.",
+          "text": "SpaceX is seeking to raise $75 billion in an initial public offering, which would be the largest ever, to fund its initiatives in AI and space launches.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
