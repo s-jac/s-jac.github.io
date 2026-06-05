@@ -1,22 +1,22 @@
 {
-  "date": "5 June 2026",
-  "generated_at": "2026-06-04T21:00:26.828562+00:00",
+  "date": "6 June 2026",
+  "generated_at": "2026-06-05T21:01:52.333252+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Hezbollah has rejected a renewed ceasefire agreement between Israel and Lebanon, which the United States announced on Wednesday night after a new round of talks.",
+          "text": "Russian President Vladimir Putin has stated there is 'no point' in meeting Ukrainian President Volodymyr Zelensky to end the ongoing conflict, despite Zelensky's open letter calling for face-to-face talks.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Experts are criticizing a plan to establish an American-only Ebola quarantine center in Kenya, arguing it deviates from established policy of treating CDC staff in the US and supporting all health workers.",
+          "text": "An African treaty, dubbed the 'family values' charter, is facing strong condemnation from human rights groups who argue it is regressive and dangerous due to its rejection of international human rights obligations, particularly concerning sexual and reproductive health.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Clashes have erupted in Mogadishu between Somali troops and opposition-allied militias, causing civilians to flee, ahead of protests planned over the president's decision to remain in office past his term.",
+          "text": "In the Democratic Republic of Congo, rebel attacks have resulted in 30 deaths and are hindering the Ebola response efforts, with the governor reporting that three Ebola patients have fled clinics.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The mother of Kumanjayi Little Baby was living in insecure housing in Alice Springs to access specialist support for her daughter, highlighting a lack of services.",
+          "text": "Melbourne commuters will soon be able to use tap-and-go technology with credit cards, phones, or smartwatches across the train network, aligning with other major cities after months of delays.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Politicians are hesitant to express whether house prices should rise or fall, as they face pressure from both homeowners and potential buyers.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Foreign Affairs Minister Penny Wong stated her belief that Israeli soldiers sexually assaulted and abused Australian women after the Gaza flotilla incident, affirming her stance to 'always believe women'.",
+          "text": "Labor's sensitivity regarding the AUKUS debate is reportedly increasing amid discussions about 'secondhand subs' and Donald Trump, with calls for the government to better explain the decision's national interest.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A scam targeting Australia's Chinese community has reportedly stolen millions, with victims believing they were being investigated by Chinese police.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Goldman Sachs projects a 100-fold increase in SpaceX’s AI revenue by 2030, underpinning a $1.78 trillion valuation for the company’s anticipated IPO.",
+          "text": "The Nasdaq saw a significant 4-5% tumble, driven by a sell-off in technology and chip stocks, as rising US bond yields intensified expectations of a Federal Reserve rate increase.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Broadcom experienced a significant valuation drop of $285 billion as its revenue outlook disappointed investors, leading to a 12% share decline.",
+          "text": "Investors are boosting bets for a Federal Reserve rate hike following a robust US jobs report for May, which showed the world's biggest economy adding 172,000 jobs, signaling a strengthening labor market.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Blackstone and Partners Group are capping withdrawals from their flagship private credit funds for wealthy individuals, as redemption requests from investors have surged.",
+          "text": "Meta Platforms is reportedly considering a substantial equity raising, potentially tens of billions of dollars, to finance its AI infrastructure following a blockbuster deal with Google.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
