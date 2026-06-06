@@ -1,22 +1,22 @@
 {
-  "date": "6 June 2026",
-  "generated_at": "2026-06-05T21:01:52.333252+00:00",
+  "date": "7 June 2026",
+  "generated_at": "2026-06-06T21:00:24.661915+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russian President Vladimir Putin has stated there is 'no point' in meeting Ukrainian President Volodymyr Zelensky to end the ongoing conflict, despite Zelensky's open letter calling for face-to-face talks.",
+          "text": "Ukrainian drones have targeted St Petersburg in an attack Russia has called 'unprecedented,' urging residents of its second-largest city to stay indoors for the first time since the war began.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An African treaty, dubbed the 'family values' charter, is facing strong condemnation from human rights groups who argue it is regressive and dangerous due to its rejection of international human rights obligations, particularly concerning sexual and reproductive health.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "The US and Iran have exchanged strikes in the Gulf, with the US military targeting Iranian drones and radar sites, while Tehran claims to have targeted US bases in Kuwait and Bahrain.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "In the Democratic Republic of Congo, rebel attacks have resulted in 30 deaths and are hindering the Ebola response efforts, with the governor reporting that three Ebola patients have fled clinics.",
+          "text": "US health officials warn that the spread of Ebola in central Africa could reach the record levels of the 2014 outbreak, with modelling showing a 'dangerous trajectory.'",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Melbourne commuters will soon be able to use tap-and-go technology with credit cards, phones, or smartwatches across the train network, aligning with other major cities after months of delays.",
+          "text": "Tasmania's police minister, Felix Ellis, has apologised for naming the Port Arthur gunman during budget estimates, with a survivor of the 1996 massacre describing his comments as \"hurtful.\"",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Labor's sensitivity regarding the AUKUS debate is reportedly increasing amid discussions about 'secondhand subs' and Donald Trump, with calls for the government to better explain the decision's national interest.",
+          "text": "Australia is experiencing its winter illness season, with health officials monitoring prevalent viruses after a record influenza season in 2025.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "A scam targeting Australia's Chinese community has reportedly stolen millions, with victims believing they were being investigated by Chinese police.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "The Queensland government faces accusations of operating a \"secret agenda\" to reduce Indigenous representation in the public sector, with a barrister describing it as an \"organised strategy.\"",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Nasdaq saw a significant 4-5% tumble, driven by a sell-off in technology and chip stocks, as rising US bond yields intensified expectations of a Federal Reserve rate increase.",
+          "text": "The European Central Bank is expected to lead global interest rate tightening with a hike in the coming week, driven by the ongoing Iran war.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Oil tanker owners are concerned about a potential market crash and a steep drop in rates if the Strait of Hormuz reopens, after investing windfall profits into new vessels during the Iran war.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Investors are boosting bets for a Federal Reserve rate hike following a robust US jobs report for May, which showed the world's biggest economy adding 172,000 jobs, signaling a strengthening labor market.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Meta Platforms is reportedly considering a substantial equity raising, potentially tens of billions of dollars, to finance its AI infrastructure following a blockbuster deal with Google.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Federal Reserve Governor Michael Barr has critici zed recent proposals to relax rules for US lenders, arguing that these changes would considerably weaken bank regulation and supervision.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
