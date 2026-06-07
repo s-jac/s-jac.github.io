@@ -1,24 +1,24 @@
 {
-  "date": "7 June 2026",
-  "generated_at": "2026-06-06T21:00:24.661915+00:00",
+  "date": "8 June 2026",
+  "generated_at": "2026-06-07T21:00:26.493172+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukrainian drones have targeted St Petersburg in an attack Russia has called 'unprecedented,' urging residents of its second-largest city to stay indoors for the first time since the war began.",
+          "text": "Ukrainian President Zelensky is in Downing Street for war talks with European leaders, as the US President's attention shifts towards the war with Iran.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US and Iran have exchanged strikes in the Gulf, with the US military targeting Iranian drones and radar sites, while Tehran claims to have targeted US bases in Kuwait and Bahrain.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "US health officials warn that the spread of Ebola in central Africa could reach the record levels of the 2014 outbreak, with modelling showing a 'dangerous trajectory.'",
+          "text": "US health officials warn that the spread of Ebola in central Africa could potentially rival the record outbreak seen in 2014, with modelling indicating a dangerous trajectory.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Israel has conducted strikes in a Beirut suburb, stating these attacks were a response to Hezbollah's firing into Israeli territory.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Tasmania's police minister, Felix Ellis, has apologised for naming the Port Arthur gunman during budget estimates, with a survivor of the 1996 massacre describing his comments as \"hurtful.\"",
+          "text": "Remote Indigenous communities in Australia are experiencing worsening life expectancy rates, with one Northern Territory community calling for an investigation after 15 preventable deaths in six months.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia is experiencing its winter illness season, with health officials monitoring prevalent viruses after a record influenza season in 2025.",
+          "text": "Australia is facing its largest outbreak of diphtheria in living memory, a disease previously almost eradicated, which is now spreading in remote Indigenous communities.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "The Queensland government faces accusations of operating a \"secret agenda\" to reduce Indigenous representation in the public sector, with a barrister describing it as an \"organised strategy.\"",
+          "text": "Professor Richard Scolyer, a world-renowned cancer researcher and former Australian of the Year, has died at 59 after being diagnosed with inoperable brain cancer in 2023.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The European Central Bank is expected to lead global interest rate tightening with a hike in the coming week, driven by the ongoing Iran war.",
+          "text": "Major airlines are addressing increased demand for Asian travel, consolidation within the industry, and the impact of rising fuel prices.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Oil tanker owners are concerned about a potential market crash and a steep drop in rates if the Strait of Hormuz reopens, after investing windfall profits into new vessels during the Iran war.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Bond traders anticipate a significant surge in consumer prices this week, which could intensify pressure on the Federal Reserve to raise interest rates.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Federal Reserve Governor Michael Barr has critici zed recent proposals to relax rules for US lenders, arguing that these changes would considerably weaken bank regulation and supervision.",
+          "text": "A potential influx of new shares from companies seeking to fund artificial intelligence initiatives is raising concerns on Wall Street about market capacity and buyer demand.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
