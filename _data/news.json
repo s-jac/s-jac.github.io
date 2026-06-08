@@ -1,22 +1,22 @@
 {
-  "date": "8 June 2026",
-  "generated_at": "2026-06-07T21:00:26.493172+00:00",
+  "date": "9 June 2026",
+  "generated_at": "2026-06-08T21:02:04.041805+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukrainian President Zelensky is in Downing Street for war talks with European leaders, as the US President's attention shifts towards the war with Iran.",
+          "text": "Iran and Israel have reportedly halted strikes following their first exchange of fire since a truce, with Iran launching missiles at Israel after a strike in Lebanon, and Israel conducting air strikes in Iran.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "US health officials warn that the spread of Ebola in central Africa could potentially rival the record outbreak seen in 2014, with modelling indicating a dangerous trajectory.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "At least 35 people have died after a magnitude-7.8 earthquake struck the southern Philippines, triggering small tsunami waves across the region including in Indonesia and Japan.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Israel has conducted strikes in a Beirut suburb, stating these attacks were a response to Hezbollah's firing into Israeli territory.",
+          "text": "Malawians are being repatriated from South Africa due to xenophobia concerns, as Malawi joins other African nations in transporting citizens out of the country following reports of violence against migrants.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Remote Indigenous communities in Australia are experiencing worsening life expectancy rates, with one Northern Territory community calling for an investigation after 15 preventable deaths in six months.",
+          "text": "A cybersecurity company with reported financial 'red flags' secured a $15 million state contract during the final days of the Miles government.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia is facing its largest outbreak of diphtheria in living memory, a disease previously almost eradicated, which is now spreading in remote Indigenous communities.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Plague locust numbers in north-west Victoria have reached their highest levels in 15 years, posing a significant threat to farmers.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Professor Richard Scolyer, a world-renowned cancer researcher and former Australian of the Year, has died at 59 after being diagnosed with inoperable brain cancer in 2023.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Patients in Tasmania are facing years-long waits for elective surgery, as delays and cancellations accumulate within the health system.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Major airlines are addressing increased demand for Asian travel, consolidation within the industry, and the impact of rising fuel prices.",
+          "text": "Wall Street experienced a rebound, with chip stocks like Intel and Micron seeing significant gains, signaling renewed investor enthusiasm for AI-linked shares.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Amazon made history by selling C$14 billion ($10 billion) in Canadian dollar high-grade bonds, marking the largest corporate debt offering ever in that currency.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Bond traders anticipate a significant surge in consumer prices this week, which could intensify pressure on the Federal Reserve to raise interest rates.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "A potential influx of new shares from companies seeking to fund artificial intelligence initiatives is raising concerns on Wall Street about market capacity and buyer demand.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "China is currently experiencing a paradox where innovation thrives alongside economic challenges, leading to uncertainty about which trend will ultimately prevail.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
