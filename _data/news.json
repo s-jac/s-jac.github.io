@@ -1,22 +1,22 @@
 {
-  "date": "9 June 2026",
-  "generated_at": "2026-06-08T21:02:04.041805+00:00",
+  "date": "10 June 2026",
+  "generated_at": "2026-06-09T21:00:41.822225+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Iran and Israel have reportedly halted strikes following their first exchange of fire since a truce, with Iran launching missiles at Israel after a strike in Lebanon, and Israel conducting air strikes in Iran.",
+          "text": "Trump stated that Iran shot down a US helicopter and vowed a response, with two crew members rescued by an American sea drone.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "At least 35 people have died after a magnitude-7.8 earthquake struck the southern Philippines, triggering small tsunami waves across the region including in Indonesia and Japan.",
+          "text": "Israeli air strikes hit the Lebanese city of Tyre, despite an Iranian warning that hostilities could resume if attacks on Hezbollah do not cease.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Malawians are being repatriated from South Africa due to xenophobia concerns, as Malawi joins other African nations in transporting citizens out of the country following reports of violence against migrants.",
+          "text": "A man was reportedly shot dead during a protest in Kenya against a proposed US Ebola quarantine center, amid public concerns about cross-border infection risks and government transparency.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A cybersecurity company with reported financial 'red flags' secured a $15 million state contract during the final days of the Miles government.",
+          "text": "A retail worker in Sydney reported being threatened by a man who claimed to have a knife, leading to concerns about safety in public spaces.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Plague locust numbers in north-west Victoria have reached their highest levels in 15 years, posing a significant threat to farmers.",
+          "text": "Police in Melbourne are investigating after a man was found dead in a park with apparent burn injuries.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Patients in Tasmania are facing years-long waits for elective surgery, as delays and cancellations accumulate within the health system.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Australia is on the brink of experiencing its first El Niño weather event since spring 2023, which historically brings hotter and drier conditions.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Wall Street experienced a rebound, with chip stocks like Intel and Micron seeing significant gains, signaling renewed investor enthusiasm for AI-linked shares.",
+          "text": "The Nasdaq experienced a downturn as AI-linked stocks pulled back, overshadowing gains in other market sectors.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Amazon made history by selling C$14 billion ($10 billion) in Canadian dollar high-grade bonds, marking the largest corporate debt offering ever in that currency.",
+          "text": "Bond traders are increasingly betting on multiple Federal Reserve interest-rate hikes in the coming months, with some anticipating a move as early as September.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "China is currently experiencing a paradox where innovation thrives alongside economic challenges, leading to uncertainty about which trend will ultimately prevail.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Brussels has mandated Meta to open WhatsApp to rival AI agents, indicating EU efforts to regulate the rapidly developing market for autonomous AI agents.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
