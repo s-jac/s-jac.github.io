@@ -1,22 +1,22 @@
 {
-  "date": "11 June 2026",
-  "generated_at": "2026-06-10T21:00:42.855955+00:00",
+  "date": "12 June 2026",
+  "generated_at": "2026-06-11T21:01:14.579454+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US President has warned Iran of severe repercussions if it delays agreeing to a deal, following Tehran's vow of retaliation to any attacks. This comes as three Indian sailors are reported missing after a US alleged strike on a tanker in the Gulf of Oman.",
+          "text": "US scientists have confirmed that an El Ni\nl\no event has officially begun, raising concerns about extreme weather patterns and higher global temperatures.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An investigation by Global Witness suggests that leading global brands, including Amazon and Sony, may be using coltan sourced from supply chains controlled by M23 rebels in the Democratic Republic of Congo, who are accused of atrocities.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A deadly drone strike in Sudan targeted a funeral procession, with human rights groups accusing the RSF paramilitary group of killing civilians in the front-line city of el-Obeid.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A man was shot dead in Kenya during protests against a proposed US Ebola quarantine facility, highlighting rising anger regarding US plans in the region. Meanwhile, armed bandits in north-west Nigeria abducted dozens of villagers who were invited to discuss peace talks.",
+          "text": "An investigation has found that global brands, including Amazon and Sony, are likely using coltan sourced from supply chains controlled by M23 rebels, who are accused of atrocities in the Democratic Republic of Congo.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Commonwealth Bank is being pursued in the High Court by shareholders seeking compensation, alleging the bank failed to inform the market, which inflated their share values.",
+          "text": "A century-old stormwater drain, nearly 2 meters thick, has been discovered beneath Queanbeyan's town center, causing budget overruns and delays for major roadworks.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Victoria is implementing two additional maternal and child health nurse visits for all children, as the state prepares a new program for those no longer supported by the NDIS.",
+          "text": "The number of dogs euthanized by a regional Queensland council has more than tripled in recent years, surpassing figures from Australia's largest council by population size.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An exclusive report reveals One Nation's financial reports are 'incredibly sloppy', showing over $1 million in missing or worthless assets, which an expert says raises questions about the party's fitness to govern.",
+          "text": "One Nation's predicted primary vote has reportedly surpassed both the Labor government and Coalition opposition for the first time, indicating a new level of popularity for the party.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US inflation surged to a new three-year high of 4.2% in May, partly due to the energy shock from Middle East tensions.",
+          "text": "SpaceX has completed the world's largest IPO, raising $75 billion and positioning Elon Musk to potentially become the world's first trillionaire.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "US tech stocks experienced a significant sell-off on Wall Street, with volatility flaring up ahead of SpaceX's market debut, as geopolitical tensions also lifted oil prices.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Global markets rallied and oil prices fell as President Trump indicated a deal with Iran is close, easing concerns about conflict in the Middle East.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Germany is embarking on a €100bn initiative to modernize its railway system, marking a crucial test for Europe's largest economy to reverse years of decline.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The Economist highlights that while China is innovative, its emerging industries may not be sufficient to offset the drag from its traditional economic sectors.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
