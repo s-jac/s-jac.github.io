@@ -1,22 +1,22 @@
 {
-  "date": "13 June 2026",
-  "generated_at": "2026-06-12T21:05:19.821227+00:00",
+  "date": "14 June 2026",
+  "generated_at": "2026-06-13T21:00:27.383946+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Iran and Pakistan state that a deal to end fighting with the US is closer than ever, echoing a statement made by US President Donald Trump.",
+          "text": "The US military has killed Niño Guerrero, the leader of Venezuela's Tren de Aragua gang, in an airstrike, as confirmed by President Trump.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An investigation has found that global brands like Amazon and Sony may be using coltan, a mineral sourced from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
+          "text": "An investigation by Global Witness suggests that major global brands, including Amazon and Sony, may be using coltan, a mineral sourced from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "A man was shot dead in Kenya during protests against a proposed US Ebola quarantine facility, as police dispersed demonstrators amid rising anger.",
+          "text": "Kenyan police shot dead a man during a protest against a proposed US Ebola quarantine facility in Nanyuki, approximately 120 miles from Nairobi.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia's new ambassador to Washington, Greg Moriarty, has stated he will \"robustly\" challenge the Trump administration's new tariff plan, which he described as \"extremely disappointing.\"",
+          "text": "Early childhood educators in Australia are experiencing burnout and stress due to increased workload, impacting their mental health and safety, with operators noting they are 'paid peanuts'.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A highly secretive and unusual court case is unfolding in Far North Queensland, involving a prominent married man, an alleged affair, and a non-publication order.",
+          "text": "An accounting firm, KPMG, is facing a significant scandal, leading to the resignation of several senior leaders and an ASIC investigation into its business practices.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation has successfully raised almost $3 million this week, prompting discussion about the party's fundraising efforts and how major parties are responding.",
+          "text": "A woman in her 30s was hospitalized with arm and leg injuries after a shark attack at Coogee beach, leading to the closure of several beaches in Sydney's east.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Elon Musk's SpaceX achieved a historic debut on Wall Street, becoming one of the world's most valuable companies after its initial public offering, which also saw its shares close 19% higher.",
+          "text": "Wall Street orchestrated the largest IPO in history for SpaceX by convincing investors to back a futuristic strategy, despite significant losses, and grant full control to Elon Musk.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Oil prices have fallen to a three-month low due to progress toward a US-Iran peace deal and signs of increased flows through the Strait of Hormuz, easing concerns about energy supply.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Artificial intelligence is fundamentally changing investment strategies, leading to a shift in how funds are allocated and risks are diversified across all asset classes.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Private-equity executive Matt Holt's firm, Thoreau Group, is reportedly in advanced talks to acquire Ensemble Health Partners in a deal valued at approximately $12 billion.",
+          "text": "Several global central banks, including the Fed and BOE, remain cautious regarding whether the Iran war poses a greater immediate threat to inflation or economic growth.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
