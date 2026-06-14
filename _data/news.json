@@ -1,24 +1,24 @@
 {
-  "date": "14 June 2026",
-  "generated_at": "2026-06-13T21:00:27.383946+00:00",
+  "date": "15 June 2026",
+  "generated_at": "2026-06-14T21:00:26.491025+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US military has killed Niño Guerrero, the leader of Venezuela's Tren de Aragua gang, in an airstrike, as confirmed by President Trump.",
+          "text": "The Israeli military reported striking Hezbollah targets in Beirut, with Israel stating the actions were against the Iran-backed armed group. This comes as Tehran warned such actions could disrupt a potential US-Iran deal to de-escalate fighting.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An investigation by Global Witness suggests that major global brands, including Amazon and Sony, may be using coltan, a mineral sourced from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
+          "text": "An investigation by Global Witness suggests that major global brands, including Amazon and Sony, may be inadvertently sourcing coltan, a mineral used in phones, from supply chains controlled by the M23 rebels, who are accused of atrocities in the Democratic Republic of Congo.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Kenyan police shot dead a man during a protest against a proposed US Ebola quarantine facility in Nanyuki, approximately 120 miles from Nairobi.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "In Switzerland, voters rejected a proposal to cap the population at 10 million by reducing migration, with nearly 55% voting against the measure.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Early childhood educators in Australia are experiencing burnout and stress due to increased workload, impacting their mental health and safety, with operators noting they are 'paid peanuts'.",
+          "text": "A nurse from the Gold Coast has been charged with alleged indecent treatment of six teenage girls between November 2020 and May 2024.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An accounting firm, KPMG, is facing a significant scandal, leading to the resignation of several senior leaders and an ASIC investigation into its business practices.",
+          "text": "A secret report from RSL NSW has revealed claims of misappropriation of funds and fraud, including a sub-branch raising money for Korean defence force veterans.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A woman in her 30s was hospitalized with arm and leg injuries after a shark attack at Coogee beach, leading to the closure of several beaches in Sydney's east.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Environmentalists and First Nations groups are concerned that a new mining agreement with BHP does not adequately address water extraction from the Great Artesian Basin.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Wall Street orchestrated the largest IPO in history for SpaceX by convincing investors to back a futuristic strategy, despite significant losses, and grant full control to Elon Musk.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Artificial intelligence is fundamentally changing investment strategies, leading to a shift in how funds are allocated and risks are diversified across all asset classes.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Several global central banks, including the Fed and BOE, remain cautious regarding whether the Iran war poses a greater immediate threat to inflation or economic growth.",
+          "text": "Global funds are withdrawing from Japan's long bond market, despite earlier attraction to higher yields, as the Bank of Japan's slow pace of policy adjustments leads to a retreat.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "China is developing a digital payments system to challenge the dollar's dominance, with its cross-border currency platform supported by the central banks of Hong Kong, Thailand, the UAE, and Saudi Arabia.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Wall Street is experiencing a surge in fundraising, particularly for AI-related ventures like SpaceX, Anthropic, and Alphabet, indicating investors' readiness to absorb a significant volume of new issuances.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
