@@ -1,24 +1,24 @@
 {
-  "date": "15 June 2026",
-  "generated_at": "2026-06-14T21:00:26.491025+00:00",
+  "date": "16 June 2026",
+  "generated_at": "2026-06-15T21:02:45.813346+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The Israeli military reported striking Hezbollah targets in Beirut, with Israel stating the actions were against the Iran-backed armed group. This comes as Tehran warned such actions could disrupt a potential US-Iran deal to de-escalate fighting.",
+          "text": "Russian strikes killed 11 people and set a historic cathedral ablaze in Kyiv, following a Ukrainian drone attack in the Russian city of Tula that killed three.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An investigation by Global Witness suggests that major global brands, including Amazon and Sony, may be inadvertently sourcing coltan, a mineral used in phones, from supply chains controlled by the M23 rebels, who are accused of atrocities in the Democratic Republic of Congo.",
+          "text": "Attacks on education globally have surged by 40%, with a study reporting cases in 83 countries and at least 10,600 students and staff killed, injured, abducted, or arrested.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "In Switzerland, voters rejected a proposal to cap the population at 10 million by reducing migration, with nearly 55% voting against the measure.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "An investigation found that global brands like Amazon and Sony may be using coltan, a mineral found in phones, from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A nurse from the Gold Coast has been charged with alleged indecent treatment of six teenage girls between November 2020 and May 2024.",
+          "text": "A marine biologist has stated that culling sharks would not reduce the risk of attacks due to their migratory patterns, as debate continues on how to improve safety at Sydney beaches.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A secret report from RSL NSW has revealed claims of misappropriation of funds and fraud, including a sub-branch raising money for Korean defence force veterans.",
+          "text": "The clearing of koala habitat at a Brisbane school has sparked outrage among advocates and raised questions about the effectiveness of the federal government's recent changes to national environment laws.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Environmentalists and First Nations groups are concerned that a new mining agreement with BHP does not adequately address water extraction from the Great Artesian Basin.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "An official from a One Nation branch has been found to have made racist posts online, defending Hitler Youth and referring to Aboriginal people as 'stone age'.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Global funds are withdrawing from Japan's long bond market, despite earlier attraction to higher yields, as the Bank of Japan's slow pace of policy adjustments leads to a retreat.",
+          "text": "Global stocks surged and average US petrol prices fell below $4, following an interim US-Iran deal to reopen the Strait of Hormuz, easing inflation concerns and positively impacting investor sentiment.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Fox announced its acquisition of streaming platform Roku for $22 billion, a move that will make the combined entity the third-largest in US television by viewing share and reflects significant shifts in the media landscape.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Nvidia Corp. sold $25 billion of high-grade bonds, joining other tech giants in a wave of jumbo debt offerings as investors show strong interest in the artificial intelligence sector.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "China is developing a digital payments system to challenge the dollar's dominance, with its cross-border currency platform supported by the central banks of Hong Kong, Thailand, the UAE, and Saudi Arabia.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Wall Street is experiencing a surge in fundraising, particularly for AI-related ventures like SpaceX, Anthropic, and Alphabet, indicating investors' readiness to absorb a significant volume of new issuances.",
-          "source": "FT",
-          "url": "https://www.ft.com"
         }
       ]
     }
