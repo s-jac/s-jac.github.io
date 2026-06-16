@@ -1,22 +1,22 @@
 {
-  "date": "16 June 2026",
-  "generated_at": "2026-06-15T21:02:45.813346+00:00",
+  "date": "17 June 2026",
+  "generated_at": "2026-06-16T21:03:49.674332+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russian strikes killed 11 people and set a historic cathedral ablaze in Kyiv, following a Ukrainian drone attack in the Russian city of Tula that killed three.",
+          "text": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions, with many Lebanese remaining doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Attacks on education globally have surged by 40%, with a study reporting cases in 83 countries and at least 10,600 students and staff killed, injured, abducted, or arrested.",
+          "text": "Violent attacks on schools, pupils and staff around the world have increased by 40%, with cases reported in 83 countries and at least 10,600 students and staff killed, injured, abducted, or arrested.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "An investigation found that global brands like Amazon and Sony may be using coltan, a mineral found in phones, from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
+          "text": "Global brands including Amazon and Sony may have sourced coltan, a mineral used in phones, from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A marine biologist has stated that culling sharks would not reduce the risk of attacks due to their migratory patterns, as debate continues on how to improve safety at Sydney beaches.",
+          "text": "Police are investigating two suspicious fires at a South Melbourne gym, which was targeted by arsonists two days in a row.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The clearing of koala habitat at a Brisbane school has sparked outrage among advocates and raised questions about the effectiveness of the federal government's recent changes to national environment laws.",
+          "text": "The Queensland government has set a target to more than double the household recycling rate from 28 per cent to 60 per cent, aiming for a 65 per cent recycling target as waste outstrips growth.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An official from a One Nation branch has been found to have made racist posts online, defending Hitler Youth and referring to Aboriginal people as 'stone age'.",
+          "text": "One Nation's health policies have been criticized by experts, who warn they are based on misconceptions and could incur costs for taxpayers.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Global stocks surged and average US petrol prices fell below $4, following an interim US-Iran deal to reopen the Strait of Hormuz, easing inflation concerns and positively impacting investor sentiment.",
+          "text": "US and European officials are discussing a 'trusted partner' scheme to allow allies to test cutting-edge AI models, following a dispute involving Anthropic.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Fox announced its acquisition of streaming platform Roku for $22 billion, a move that will make the combined entity the third-largest in US television by viewing share and reflects significant shifts in the media landscape.",
+          "text": "SpaceX has become the world's fifth-most valuable company, surpassing Amazon, and announced a $60 billion deal for the AI coding app Cursor.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Nvidia Corp. sold $25 billion of high-grade bonds, joining other tech giants in a wave of jumbo debt offerings as investors show strong interest in the artificial intelligence sector.",
+          "text": "The default rate among private-credit borrowers has reached a new high in a KBRA index, indicating increasing stress within the $1.8 trillion private credit market.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
