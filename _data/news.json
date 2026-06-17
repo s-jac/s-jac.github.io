@@ -1,22 +1,22 @@
 {
-  "date": "17 June 2026",
-  "generated_at": "2026-06-16T21:03:49.674332+00:00",
+  "date": "18 June 2026",
+  "generated_at": "2026-06-17T21:00:31.072240+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions, with many Lebanese remaining doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+          "text": "Three Iranian tankers carrying crude oil have successfully passed a US blockade in the Gulf of Oman, according to ship-tracking data.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Violent attacks on schools, pupils and staff around the world have increased by 40%, with cases reported in 83 countries and at least 10,600 students and staff killed, injured, abducted, or arrested.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Israeli nationalists are increasingly disregarding established conventions for sharing the al-Aqsa mosque compound, threatening the status quo at Jerusalem's holiest site.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Global brands including Amazon and Sony may have sourced coltan, a mineral used in phones, from supply chains controlled by M23 rebels accused of atrocities in the Democratic Republic of Congo.",
+          "text": "A seven-year-old boy in Somalia, Abdiqadir Salah, was injured in a US airstrike and may lose his ability to walk without a $750 operation, while the US denies civilian casualties and offers no compensation.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Police are investigating two suspicious fires at a South Melbourne gym, which was targeted by arsonists two days in a row.",
+          "text": "A convicted paedophile has been authorised by the NSW government to manage nearly a dozen apartment buildings across Sydney, including those frequented by young families.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Queensland government has set a target to more than double the household recycling rate from 28 per cent to 60 per cent, aiming for a 65 per cent recycling target as waste outstrips growth.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Qantas has announced it will launch its 20-hour non-stop flight from Sydney to London next year.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "One Nation's health policies have been criticized by experts, who warn they are based on misconceptions and could incur costs for taxpayers.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A bill aimed at restricting late-stage abortions has been defeated in the South Australian lower house.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US and European officials are discussing a 'trusted partner' scheme to allow allies to test cutting-edge AI models, following a dispute involving Anthropic.",
+          "text": "The Federal Reserve has shifted its stance on interest rates, no longer favoring cuts, as inflation has nearly doubled its target due to the war in Iran.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "SpaceX has become the world's fifth-most valuable company, surpassing Amazon, and announced a $60 billion deal for the AI coding app Cursor.",
+          "text": "US retail sales have shown a jump, indicating that consumers are managing the impact of rising petrol prices and the economy remains robust.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The default rate among private-credit borrowers has reached a new high in a KBRA index, indicating increasing stress within the $1.8 trillion private credit market.",
+          "text": "Wall Street banks are reviving sales of risky leveraged loans that they previously struggled to offload, capitalizing on increased demand for such debt.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
