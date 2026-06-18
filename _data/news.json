@@ -1,22 +1,22 @@
 {
-  "date": "18 June 2026",
-  "generated_at": "2026-06-17T21:00:31.072240+00:00",
+  "date": "19 June 2026",
+  "generated_at": "2026-06-18T21:00:30.642619+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Three Iranian tankers carrying crude oil have successfully passed a US blockade in the Gulf of Oman, according to ship-tracking data.",
+          "text": "The US has lifted its naval blockade on Iran, with Iran's supreme leader stating that Donald Trump agreed to the deal \"out of desperation.\" BBC analysts are assessing what both Washington and Tehran gain from the deal and the challenges they face in maintaining it.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Israeli nationalists are increasingly disregarding established conventions for sharing the al-Aqsa mosque compound, threatening the status quo at Jerusalem's holiest site.",
+          "text": "Residents in Moscow have reported black rain after nearly 200 Ukrainian drones struck an oil refinery and a shopping center southeast of the Russian capital, marking one of the largest Ukrainian attacks.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A seven-year-old boy in Somalia, Abdiqadir Salah, was injured in a US airstrike and may lose his ability to walk without a $750 operation, while the US denies civilian casualties and offers no compensation.",
+          "text": "The CDC is allocating $107 million in emergency funding to combat the Ebola response in the Democratic Republic of Congo and Uganda, as the number of infected individuals has surpassed 1,000, although health officials maintain the global risk remains low.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A convicted paedophile has been authorised by the NSW government to manage nearly a dozen apartment buildings across Sydney, including those frequented by young families.",
+          "text": "An auditor-general's report indicates that fire authorities failed to meet planned fuel reduction targets ahead of two disastrous fire seasons, warning that properties could be at risk if strategic fuel breaks are not implemented.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Qantas has announced it will launch its 20-hour non-stop flight from Sydney to London next year.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The Albanese government is facing policy challenges, particularly with announced changes to its tax package, which aim to address a significant post-budget backlash from various interest groups and commentators.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A bill aimed at restricting late-stage abortions has been defeated in the South Australian lower house.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Pauline Hanson, leader of the right-wing party One Nation, used her first address to the National Press Club to criticize the press and discussed party policy on flying only the Australian flag with a new Farrer MP.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Federal Reserve has shifted its stance on interest rates, no longer favoring cuts, as inflation has nearly doubled its target due to the war in Iran.",
+          "text": "The US-Iran accord may lead to new charges for shipping through the Strait of Hormuz, with industry executives concerned about potential fees after 60 days or a fund similar to that in the Strait of Malacca.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "US retail sales have shown a jump, indicating that consumers are managing the impact of rising petrol prices and the economy remains robust.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Intel's stock surged after President Trump announced that the chipmaker would collaborate with Apple Inc. to design and produce semiconductors domestically, boosting market confidence in the company.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Wall Street banks are reviving sales of risky leveraged loans that they previously struggled to offload, capitalizing on increased demand for such debt.",
+          "text": "A record surge in Treasury futures trading reflects increased bets on a Federal Reserve interest rate hike in July, indicating growing market expectations for tighter monetary policy.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
