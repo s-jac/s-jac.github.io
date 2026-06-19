@@ -1,22 +1,22 @@
 {
-  "date": "19 June 2026",
-  "generated_at": "2026-06-18T21:00:30.642619+00:00",
+  "date": "20 June 2026",
+  "generated_at": "2026-06-19T21:00:23.679741+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US has lifted its naval blockade on Iran, with Iran's supreme leader stating that Donald Trump agreed to the deal \"out of desperation.\" BBC analysts are assessing what both Washington and Tehran gain from the deal and the challenges they face in maintaining it.",
+          "text": "The US has announced it will cease funding HIV programmes in South Africa, citing concerns over the protection of the white-minority Afrikaner community.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Residents in Moscow have reported black rain after nearly 200 Ukrainian drones struck an oil refinery and a shopping center southeast of the Russian capital, marking one of the largest Ukrainian attacks.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A global framework for reparatory justice has been adopted at a conference in Ghana, aiming to ensure fair compensation for those affected by legacies of enslavement and to address debt burdens.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "The CDC is allocating $107 million in emergency funding to combat the Ebola response in the Democratic Republic of Congo and Uganda, as the number of infected individuals has surpassed 1,000, although health officials maintain the global risk remains low.",
+          "text": "The CDC plans to allocate $107 million in emergency funding to support the Ebola response efforts in the Democratic Republic of Congo and Uganda, as the number of infected individuals surpasses 1,000.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "An auditor-general's report indicates that fire authorities failed to meet planned fuel reduction targets ahead of two disastrous fire seasons, warning that properties could be at risk if strategic fuel breaks are not implemented.",
+          "text": "Gold Coast council is considering the return of ocean pools to its shoreline after strong community interest, decades after they were last present.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Albanese government is facing policy challenges, particularly with announced changes to its tax package, which aim to address a significant post-budget backlash from various interest groups and commentators.",
+          "text": "A Sydney startup has been linked to one of the world's largest AI pornography sites, with experts raising concerns about the presence of child abuse material.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Pauline Hanson, leader of the right-wing party One Nation, used her first address to the National Press Club to criticize the press and discussed party policy on flying only the Australian flag with a new Farrer MP.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Polling indicates that voters support the LNP's preparations for the 2032 Games, but there is opposition to the government's broken promise regarding a stadium in Victoria Park.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US-Iran accord may lead to new charges for shipping through the Strait of Hormuz, with industry executives concerned about potential fees after 60 days or a fund similar to that in the Strait of Malacca.",
+          "text": "Oil prices have fallen after Israel and Hizbollah agreed to a ceasefire, raising hopes for a broader agreement between the US and Iran. However, central banks remain cautious about global inflation despite the drop in energy prices.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Intel's stock surged after President Trump announced that the chipmaker would collaborate with Apple Inc. to design and produce semiconductors domestically, boosting market confidence in the company.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Cuba has passed urgent reforms to liberalise its economy under pressure from the US, marking potentially the biggest shake-up since the early years of the revolution in the 1960s.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "A record surge in Treasury futures trading reflects increased bets on a Federal Reserve interest rate hike in July, indicating growing market expectations for tighter monetary policy.",
+          "text": "Canada's financial regulator has lowered capital requirements for the country's largest banks for the first time in three years, aiming to boost lending and support a domestic push for economic growth.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
