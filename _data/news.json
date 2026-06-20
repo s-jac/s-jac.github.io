@@ -1,17 +1,17 @@
 {
-  "date": "20 June 2026",
-  "generated_at": "2026-06-19T21:00:23.679741+00:00",
+  "date": "21 June 2026",
+  "generated_at": "2026-06-20T21:00:45.831746+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US has announced it will cease funding HIV programmes in South Africa, citing concerns over the protection of the white-minority Afrikaner community.",
+          "text": "Iran has announced the closure of the Strait of Hormuz, stating that Israel's continued attacks in Lebanon violate an agreement between Tehran and the US to end the conflict.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A global framework for reparatory justice has been adopted at a conference in Ghana, aiming to ensure fair compensation for those affected by legacies of enslavement and to address debt burdens.",
+          "text": "A global framework for reparatory justice, including a call for formal apologies from countries that benefited from the transatlantic slave trade, has been adopted at a conference in Ghana.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Gold Coast council is considering the return of ocean pools to its shoreline after strong community interest, decades after they were last present.",
+          "text": "The foreign policy of One Nation is under increased scrutiny as the party gains significant traction in polls, challenging incumbent parties in Australia.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A Sydney startup has been linked to one of the world's largest AI pornography sites, with experts raising concerns about the presence of child abuse material.",
+          "text": "Australian police have addressed descendants at the site of an outback mass killing, expressing regret for the historical events that occurred.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Polling indicates that voters support the LNP's preparations for the 2032 Games, but there is opposition to the government's broken promise regarding a stadium in Victoria Park.",
+          "text": "The Minns government plans to address the housing crisis by partnering with the private sector to construct prefabricated housing, signaling a move towards new thinking in home building.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Oil prices have fallen after Israel and Hizbollah agreed to a ceasefire, raising hopes for a broader agreement between the US and Iran. However, central banks remain cautious about global inflation despite the drop in energy prices.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Cuba has passed urgent reforms to liberalise its economy under pressure from the US, marking potentially the biggest shake-up since the early years of the revolution in the 1960s.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Canada's financial regulator has lowered capital requirements for the country's largest banks for the first time in three years, aiming to boost lending and support a domestic push for economic growth.",
+          "text": "The Federal Reserve's preferred inflation gauge is expected to show faster inflation, reinforcing the consensus for further interest-rate hikes this year.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "South Africa's central bank governor warns of early signs of second-round inflation effects and building underlying price pressures, indicating a need for policy action.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "A new golden age for Japanese banks is accompanied by a challenge, as smaller lenders are burdened with low-return bonds that they are unable to sell.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
