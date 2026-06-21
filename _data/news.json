@@ -1,22 +1,22 @@
 {
-  "date": "21 June 2026",
-  "generated_at": "2026-06-20T21:00:45.831746+00:00",
+  "date": "22 June 2026",
+  "generated_at": "2026-06-21T21:00:25.409276+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Iran has announced the closure of the Strait of Hormuz, stating that Israel's continued attacks in Lebanon violate an agreement between Tehran and the US to end the conflict.",
+          "text": "US President Trump and Iran's negotiator exchanged warnings during talks in Switzerland, with Trump threatening to attack Iran if it does not restrain Hezbollah in Lebanon.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A global framework for reparatory justice, including a call for formal apologies from countries that benefited from the transatlantic slave trade, has been adopted at a conference in Ghana.",
+          "text": "A global framework for reparatory justice was adopted at a conference in Ghana, including a call for formal apologies from countries that benefited from the transatlantic slave trade.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "The CDC plans to allocate $107 million in emergency funding to support the Ebola response efforts in the Democratic Republic of Congo and Uganda, as the number of infected individuals surpasses 1,000.",
+          "text": "Colombians are voting in a runoff presidential election that is expected to lead to a shift in the country's decades-long armed conflict.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The foreign policy of One Nation is under increased scrutiny as the party gains significant traction in polls, challenging incumbent parties in Australia.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Australian police have addressed descendants at the site of an outback mass killing, expressing regret for the historical events that occurred.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "The Minns government plans to address the housing crisis by partnering with the private sector to construct prefabricated housing, signaling a move towards new thinking in home building.",
+          "text": "Authorities are warning Australians about the potential risks of using artificial intelligence to complete their tax returns.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
+        },
+        {
+          "text": "Wesley Mission Queensland is closing its NDIS employment support program for young people with disability due to the \"increasingly complex\" NDIS environment.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "A Melbourne woman lost over $646,000 in a romance scam, raising questions about whether banks and dating apps should be compelled to refund victims.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Federal Reserve's preferred inflation gauge is expected to show faster inflation, reinforcing the consensus for further interest-rate hikes this year.",
+          "text": "The latest data on the Federal Reserve's preferred inflation gauge is anticipated to reinforce the consensus among US central bankers for further interest rate hikes this year.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "South Africa's central bank governor warns of early signs of second-round inflation effects and building underlying price pressures, indicating a need for policy action.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Building materials group CRH is reportedly nearing its largest acquisition ever, with a deal to buy Dallas-based construction firm Arcosa, valued at almost $7 billion, potentially closing next week.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "A new golden age for Japanese banks is accompanied by a challenge, as smaller lenders are burdened with low-return bonds that they are unable to sell.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Hungary has appointed Gergely Tardos, head of research at OTP Bank Nyrt., as the new chief executive of the government's Debt Management Agency, with a mandate to implement cost cuts.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
