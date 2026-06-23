@@ -1,24 +1,24 @@
 {
-  "date": "23 June 2026",
-  "generated_at": "2026-06-22T21:00:24.970002+00:00",
+  "date": "24 June 2026",
+  "generated_at": "2026-06-23T21:00:45.777870+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US vice-president announced that Iran will allow nuclear inspectors back into the country following progress in initial talks between the two nations.",
+          "text": "Forty people have drowned in heatwave-related deaths in France since last Thursday, according to Prime Minister Sébastien Lecornu, as Europe experiences a severe heatwave.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A technical accident at Qatar's main liquified natural gas processing site in Ras Laffan resulted in at least 13 deaths and dozens of injuries.",
+          "text": "A UN commission of inquiry has accused Israel of committing genocide in Gaza by deliberately targeting children; Israel has rejected the report as a \"libellous sham.\"",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A new UN report indicates that the Myanmar army killed over 700 civilians, including 153 children, in six months last year.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Kenya's health minister has ordered a halt to the construction of a US-run Ebola facility, following a court ruling to stop the work.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The NSW budget includes a cap on Sydney road tolls at $50 per week, and the Treasurer has tempered expectations of a return to surplus.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A Gold Coast company is set to launch hypersonic rockets, capable of reaching seven times the speed of sound, to test Defence and science equipment under extreme conditions.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A new poll indicates a significant decline in support for multiculturalism in Australia, with the share of people viewing cultural diversity positively dropping from 90% in 2024 to 73% in 2026.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Concerns have been raised in Tasmania regarding the release of over half a billion litres of improperly treated sewage into waterways, including popular swimming spots, during the 2024 to 2025 financial year.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Regional Australia is facing severe veterinarian shortages, leading to calls for more government support to attract and retain professionals in rural areas.",
+          "text": "Experts are questioning why a triple murderer was granted bail before a deadly shooting spree in Lake Cargelligo, which resulted in the deaths of three people, including Sophie Quinn who had previously sought police protection from her former partner.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Former Federal Reserve Chair Alan Greenspan has died at the age of 100, prompting discussions about his legacy and his role during the financial crisis.",
+          "text": "US chipmakers, including Nvidia, led a Wall Street slide as the Nasdaq declined for a second day amid investor worries over potential interest rate hikes.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Carlyle Group Inc. is introducing a new framework to assess portfolio risk, aiming to incorporate the insurance implications of severe weather events into asset valuations.",
+          "text": "Emerging-market assets experienced a broad decline as the dollar strengthened to its highest level of the year, compounded by a significant selloff in South Korean technology shares.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The Economist reports that Russia's war economy, despite facing issues, is not on the verge of collapse, indicating Vladimir Putin's continued ability to fund military aggression.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "A $7 billion private credit fund managed by Morgan Stanley has capped investor withdrawals at 5%, fulfilling less than half of the redemption requests made in the second quarter.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
