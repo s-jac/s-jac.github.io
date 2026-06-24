@@ -1,24 +1,24 @@
 {
-  "date": "24 June 2026",
-  "generated_at": "2026-06-23T21:00:45.777870+00:00",
+  "date": "25 June 2026",
+  "generated_at": "2026-06-24T21:00:54.250360+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Forty people have drowned in heatwave-related deaths in France since last Thursday, according to Prime Minister Sébastien Lecornu, as Europe experiences a severe heatwave.",
+          "text": "France has confirmed its first case of Ebola in a doctor who had been working in the Democratic Republic of Congo, where over 260 people have died from the disease.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A UN commission of inquiry has accused Israel of committing genocide in Gaza by deliberately targeting children; Israel has rejected the report as a \"libellous sham.\"",
+          "text": "The UN nuclear chief announced that inspectors will visit Iranian sites as part of a war deal, though an Iranian minister stated such access would only occur as part of a final agreement with the US.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Kenya's health minister has ordered a halt to the construction of a US-run Ebola facility, following a court ruling to stop the work.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Colombia's left-wing presidential candidate has conceded defeat to a right-wing businessman, who won by a narrow margin of less than a percentage point.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A Gold Coast company is set to launch hypersonic rockets, capable of reaching seven times the speed of sound, to test Defence and science equipment under extreme conditions.",
+          "text": "Teal independent MPs Zali Steggall and Allegra Spender have launched a new political party called Community Strong Australia, aimed at the political centre.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Former Liberal Party vice-president Teena McQueen, who served from 2017 to 2023, has died after a short illness.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Concerns have been raised in Tasmania regarding the release of over half a billion litres of improperly treated sewage into waterways, including popular swimming spots, during the 2024 to 2025 financial year.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Experts are questioning why a triple murderer was granted bail before a deadly shooting spree in Lake Cargelligo, which resulted in the deaths of three people, including Sophie Quinn who had previously sought police protection from her former partner.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "The Australian Security Intelligence Organisation (ASIO) director-general has expressed concern about the \"unprecedented\" terrorism threats currently facing Australia.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US chipmakers, including Nvidia, led a Wall Street slide as the Nasdaq declined for a second day amid investor worries over potential interest rate hikes.",
+          "text": "Venezuela is expected to reveal a $240 billion debt pile, significantly more than anticipated, as it prepares for the world's largest debt restructuring following the overthrow of the Maduro government.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Emerging-market assets experienced a broad decline as the dollar strengthened to its highest level of the year, compounded by a significant selloff in South Korean technology shares.",
+          "text": "All 32 of the largest US banks successfully passed the Federal Reserve's annual stress tests, enabling them to immediately increase share buybacks and dividends.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "A $7 billion private credit fund managed by Morgan Stanley has capped investor withdrawals at 5%, fulfilling less than half of the redemption requests made in the second quarter.",
+          "text": "Hedge funds' increased exposure to US Treasuries is largely attributed to the resurgence of the cash-futures basis trade, according to a Federal Reserve economist.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
