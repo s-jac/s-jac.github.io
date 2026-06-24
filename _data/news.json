@@ -1,24 +1,24 @@
 {
-  "date": "17 April 2026",
-  "generated_at": "2026-04-17T11:00:35.976161+00:00",
+  "date": "24 June 2026",
+  "generated_at": "2026-06-23T21:00:45.777870+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Finance ministers and top bankers have expressed serious concerns about the Mythos AI model, citing its unprecedented ability to identify and exploit cyber-security weaknesses.",
+          "text": "Forty people have drowned in heatwave-related deaths in France since last Thursday, according to Prime Minister Sébastien Lecornu, as Europe experiences a severe heatwave.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "More than £1 billion has been pledged for Sudan at a conference in Berlin, exceeding the funding target amidst a deepening humanitarian crisis.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A UN commission of inquiry has accused Israel of committing genocide in Gaza by deliberately targeting children; Israel has rejected the report as a \"libellous sham.\"",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Swiss National Bank has cut interest rates by half a point to 0.5%, a move that saw the dollar jump 0.5% against the franc.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "text": "Kenya's health minister has ordered a halt to the construction of a US-run Ebola facility, following a court ruling to stop the work.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Parents of 16-year-old Jai Kalani Wright, who died after a collision with a police car, shared emotional testimonies in court as the sentencing hearing began.",
+          "text": "A Gold Coast company is set to launch hypersonic rockets, capable of reaching seven times the speed of sound, to test Defence and science equipment under extreme conditions.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Companies and directors were fined $7 million for operating a payday lending scheme that breached credit rules and generated over $91 million in fees and charges.",
+          "text": "Concerns have been raised in Tasmania regarding the release of over half a billion litres of improperly treated sewage into waterways, including popular swimming spots, during the 2024 to 2025 financial year.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australian soldiers have reportedly told prosecutors that former SAS corporal Ben Roberts-Smith ordered them to execute unarmed civilians, according to court documents.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Experts are questioning why a triple murderer was granted bail before a deadly shooting spree in Lake Cargelligo, which resulted in the deaths of three people, including Sophie Quinn who had previously sought police protection from her former partner.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "President Trump stated that the war in Iran \"should be ending pretty soon\" as a ceasefire in Lebanon began, suggesting potential US-Iran talks this weekend.",
+          "text": "US chipmakers, including Nvidia, led a Wall Street slide as the Nasdaq declined for a second day amid investor worries over potential interest rate hikes.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "French President Macron and UK Labour leader Starmer are expected to hold a summit to discuss a plan for securing the Strait of Hormuz, with a briefing to Donald Trump planned afterward.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Emerging-market assets experienced a broad decline as the dollar strengthened to its highest level of the year, compounded by a significant selloff in South Korean technology shares.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "World leaders are reportedly turning to China's Xi Jinping as the Iran war continues, following stalled peace talks between the US and Iran.",
+          "text": "A $7 billion private credit fund managed by Morgan Stanley has capped investor withdrawals at 5%, fulfilling less than half of the redemption requests made in the second quarter.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
