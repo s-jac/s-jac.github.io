@@ -12,6 +12,7 @@ layout: null
     <atom:link href="{{ '/feed.xml' | absolute_url }}" rel="self" type="application/rss+xml"/>
     
     {% for post in site.posts limit:20 %}
+    {% unless post.exclude_from_feed %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ post.url | absolute_url }}</link>
@@ -19,6 +20,7 @@ layout: null
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <description>{{ post.description | xml_escape }}</description>
     </item>
+    {% endunless %}
     {% endfor %}
     
   </channel>
