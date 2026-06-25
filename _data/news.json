@@ -1,24 +1,24 @@
 {
-  "date": "25 June 2026",
-  "generated_at": "2026-06-24T21:00:54.250360+00:00",
+  "date": "26 June 2026",
+  "generated_at": "2026-06-25T21:01:00.713280+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "France has confirmed its first case of Ebola in a doctor who had been working in the Democratic Republic of Congo, where over 260 people have died from the disease.",
+          "text": "Venezuela has been hit by a devastating 7.2 and 7.5 magnitude earthquake, with rescue teams searching for survivors amidst collapsed buildings and a rising death toll.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The UN nuclear chief announced that inspectors will visit Iranian sites as part of a war deal, though an Iranian minister stated such access would only occur as part of a final agreement with the US.",
+          "text": "A severe heatwave is impacting Europe, with France reporting heat-related deaths among young people and temperatures in Germany expected to reach 40C.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Colombia's left-wing presidential candidate has conceded defeat to a right-wing businessman, who won by a narrow margin of less than a percentage point.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "France has confirmed its first case of Ebola in a doctor who worked in the Democratic Republic of Congo, with health officials tracing the patient's contacts.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Teal independent MPs Zali Steggall and Allegra Spender have launched a new political party called Community Strong Australia, aimed at the political centre.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "Former Liberal Party vice-president Teena McQueen, who served from 2017 to 2023, has died after a short illness.",
+          "text": "The NT government continues to implement hardline school policies despite a decline in attendance, with just over half of all Aboriginal students showing up for school.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Australian Security Intelligence Organisation (ASIO) director-general has expressed concern about the \"unprecedented\" terrorism threats currently facing Australia.",
+          "text": "Channel Nine has confirmed that Today show host Karl Stefanovic will be leaving the network following a controversial podcast interview.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "The Australian government has indicated that it may strengthen social media bans.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Venezuela is expected to reveal a $240 billion debt pile, significantly more than anticipated, as it prepares for the world's largest debt restructuring following the overthrow of the Maduro government.",
+          "text": "Apple has increased prices for its MacBook and iPad products by 20%, citing an AI-driven memory shortage, which led to a $263 billion loss in market capitalization for the iPhone maker.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "All 32 of the largest US banks successfully passed the Federal Reserve's annual stress tests, enabling them to immediately increase share buybacks and dividends.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "New business formation is surging once again, following an initial jump in 2020 due to the pandemic's reorganization of work, shopping, and logistics.",
+          "source": "Marginal Rev",
+          "url": "https://www.marginalrevolution.com"
         },
         {
-          "text": "Hedge funds' increased exposure to US Treasuries is largely attributed to the resurgence of the cash-futures basis trade, according to a Federal Reserve economist.",
+          "text": "US airline stocks have recovered from pandemic-era losses, a recovery attributed to easing oil prices following progress on a peace deal between the US and Iran.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
