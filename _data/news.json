@@ -1,24 +1,24 @@
 {
-  "date": "26 June 2026",
-  "generated_at": "2026-06-25T21:01:00.713280+00:00",
+  "date": "27 June 2026",
+  "generated_at": "2026-06-26T21:00:57.581468+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Venezuela has been hit by a devastating 7.2 and 7.5 magnitude earthquake, with rescue teams searching for survivors amidst collapsed buildings and a rising death toll.",
+          "text": "A powerful earthquake in Venezuela has led to at least 920 deaths, with one mother reportedly sacrificing her life to save her daughter. International rescue teams are arriving as anger grows over the official response and limited resources.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A severe heatwave is impacting Europe, with France reporting heat-related deaths among young people and temperatures in Germany expected to reach 40C.",
+          "text": "The Democratic Republic of Congo has accused Rwanda of various violations since the 1994 genocide, taking its neighbor to the international court. Meanwhile, concerns are rising over a significant Ebola outbreak in DR Congo, with nearly 300 infected individuals unaccounted for.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "France has confirmed its first case of Ebola in a doctor who worked in the Democratic Republic of Congo, with health officials tracing the patient's contacts.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A Singapore-flagged ship in the Strait of Hormuz was attacked, leading to a pause in a large-scale evacuation. Following this incident, former US President Trump has accused Iran of breaching a ceasefire.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The NT government continues to implement hardline school policies despite a decline in attendance, with just over half of all Aboriginal students showing up for school.",
+          "text": "Australia's east coast is expecting heavy rain, continuing an un-El Ni\n\no-like weather pattern that has made 2026 the wettest on record for the country so far.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Channel Nine has confirmed that Today show host Karl Stefanovic will be leaving the network following a controversial podcast interview.",
+          "text": "Australia's 15 native duck species are facing a new threat from the H5N1 bird flu, which has been discovered on Australian shores, adding to existing dangers like urban sprawl and climate change.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Australian government has indicated that it may strengthen social media bans.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A Guardian Australia investigation revealed that the Christian Brothers sold real estate worth millions for only $1, despite claiming in court that they lack funds to compensate abuse survivors.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Apple has increased prices for its MacBook and iPad products by 20%, citing an AI-driven memory shortage, which led to a $263 billion loss in market capitalization for the iPhone maker.",
+          "text": "The US President has threatened 100% tariffs on countries implementing a digital services tax, indicating these levies would override existing trade deals.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "New business formation is surging once again, following an initial jump in 2020 due to the pandemic's reorganization of work, shopping, and logistics.",
-          "source": "Marginal Rev",
-          "url": "https://www.marginalrevolution.com"
+          "text": "Volkswagen is planning a major cost-cutting drive that could lead to up to 100,000 job cuts, representing nearly one in six workers.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "US airline stocks have recovered from pandemic-era losses, a recovery attributed to easing oil prices following progress on a peace deal between the US and Iran.",
+          "text": "Gold prices climbed above $4,000 an ounce after recent US inflation data dampened expectations for further interest-rate hikes.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
