@@ -1,24 +1,24 @@
 {
-  "date": "29 June 2026",
-  "generated_at": "2026-06-28T21:00:24.864782+00:00",
+  "date": "30 June 2026",
+  "generated_at": "2026-06-29T21:00:29.068332+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The death toll from the twin earthquakes in Venezuela has risen to over 1,400, with nearly 70,000 people still unaccounted for, as rescue efforts continue amidst growing anger over the official response.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "The World Health Organization reports that Europe's recent heatwave has been linked to 1,300 deaths, with Germany reaching a record 41.7C, highlighting the continent's unpreparedness for extreme temperatures.",
+          "text": "Aftershocks continue to fray nerves in Venezuela days after twin earthquakes devastated areas and left many people to fend for themselves, with residents using basic tools to search for survivors.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Almost 300 people who tested positive for Ebola in the Democratic Republic of Congo are unaccounted for, raising fears of widespread community transmission, while France has confirmed its first Ebola case in a doctor who worked in the DRC.",
+          "text": "The whereabouts of nearly 300 people who have tested positive for Ebola in the Democratic Republic of Congo are unknown, raising fears of widespread community transmission and a high death toll by September. France has also confirmed its first Ebola case in a doctor who had worked in the DRC.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Pakistani strikes have reportedly killed at least 28 civilians in Afghanistan, according to the UN. Pakistan claims it was targeting militants, but the Taliban government has condemned the action as an \"atrocity.\"",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Telstra is phasing out its Customer Access Network Radio system, which has been a vital lifeline for many for over 40 years, due to outdated technology, raising customer concerns about the reliability of a new system.",
+          "text": "Jo Clay has been elected as the new leader of the ACT Greens, with Andrew Braddock as deputy, marking a new leadership era after Shane Rattenbury's 14-year tenure.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A Royal Commission will examine the spread of anti-Jewish material on social media, describing it as an \"unregulated cesspool of disinformation.\"",
+          "text": "New changes in NSW effective July 1 will bring relief to motorists, public transport users, and wage earners.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Pauline Hanson's One Nation party withdrew over $800,000 in election spending claims following inquiries from the Australian Electoral Commission, which is now investigating potential breaches of laws related to its $6 million public funding claim.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A British midwife who moved to Australia to address staff shortages is advocating for legal changes after being subjected to a $70,000 foreign investment tax.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Bank for International Settlements (BIS) has cautioned that the current 'exuberance' around artificial intelligence could lead to a prolonged investment bust, with weak returns potentially causing a sharp reduction in funding for tech companies and threatening the global economy.",
+          "text": "The Supreme Court has blocked former President Trump from firing a Federal Reserve governor, upholding the central bank's independence in one decision while also allowing a president to fire top regulators in a separate ruling.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "China is tightening its regulations on offshore investments, aiming to redirect mainland investors' capital towards its domestic technology sector rather than American tech ventures.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Comcast plans to spin off its broadcast and studio businesses, NBCUniversal and Sky, as the media industry grapples with retaining audiences.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Williams Cos. is reportedly in advanced discussions to acquire Momentum Midstream, a natural gas pipeline operator, for approximately $5.5 billion, which would mark one of Williams' largest deals to date.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "China is cracking down on rule-bending offshore investments, aiming to direct mainland investors towards its own technological advancements rather than those in America.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
