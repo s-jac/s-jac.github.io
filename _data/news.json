@@ -1,22 +1,22 @@
 {
-  "date": "1 July 2026",
-  "generated_at": "2026-06-30T21:00:25.058117+00:00",
+  "date": "2 July 2026",
+  "generated_at": "2026-07-01T21:00:23.616472+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A roof collapse at a tuition centre in Lahore, Pakistan, has killed 14 children, leading to the arrest of two individuals.",
+          "text": "A Ukrainian national has been charged in Germany in connection with the Nord Stream pipeline blasts, an accusation Ukraine denies, potentially straining its relationship with Germany.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The whereabouts of nearly 300 people who have tested positive for Ebola in the Democratic Republic of Congo are unknown, raising fears of widespread community transmission.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "The US has blocked the long-term renewal of the North American trade deal, triggering annual rolling reviews instead of a 16-year extension.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "In South Africa, police units have been deployed across the country ahead of anti-immigration marches, with fears of a repeat of the 2008 anti-migrant violence.",
+          "text": "Amnesty International reports that Sudan's Rapid Support Forces committed crimes against humanity, including ethnic cleansing, in El Fasher as part of a systemic campaign against civilians.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Teenagers across Australia report that vapes remain easily accessible and commonplace despite a recent crackdown, according to an ABC investigation.",
+          "text": "A NSW Police officer has admitted to unlawfully accessing the force's internal database to find details about a domestic violence complaint against a friend.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Scientists in Australia are preparing to release an imported plant pathogen, a natural enemy, to combat one of the country's most problematic weeds.",
+          "text": "Traditional owners and locals are challenging a government plan to return water to nine flood plains along the Murray River, arguing it will harm trees and wildlife.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "New research highlights Queensland's significant skin cancer burden, with middle-aged residents undergoing nearly 1.5 million procedures annually.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Arts degrees in Australia are set to cost $50,000 until at least 2028, as measures to lower university fees have been put on hold.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The World Bank is set to gradually stop lending to China, a decision that follows years of pressure from the Trump administration.",
+          "text": "Global dealmaking has reached a record $2.8 trillion, driven by mega takeovers as companies and investors adjust to economic shifts and the rise of AI.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "US stocks have achieved their largest quarterly gain in six years, with investors navigating various factors including the fallout from the Iran war, volatility in chip stocks, and a significant SpaceX IPO.",
+          "text": "Eurozone inflation fell more than expected to 2.8% in June, though price growth remains above the central bank's target for the fourth consecutive month.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Nike's shares fell after executives offered cautious commentary on future demand, despite the company's latest quarterly results surpassing expectations.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The US has opted not to renew the Trump-era trade deal with Mexico and Canada, choosing instead to hold annual reviews on the terms of commerce with its biggest trading partners.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
