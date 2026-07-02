@@ -1,22 +1,22 @@
 {
-  "date": "2 July 2026",
-  "generated_at": "2026-07-01T21:00:23.616472+00:00",
+  "date": "3 July 2026",
+  "generated_at": "2026-07-02T21:01:43.150666+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A Ukrainian national has been charged in Germany in connection with the Nord Stream pipeline blasts, an accusation Ukraine denies, potentially straining its relationship with Germany.",
+          "text": "A massive Russian attack on Kyiv has killed at least 27 people, with the latest barrage deploying the largest number of weapons on the capital and hitting locations over a wide area.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US has blocked the long-term renewal of the North American trade deal, triggering annual rolling reviews instead of a 16-year extension.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Floods in Côte d’Ivoire have killed 59 people since May, with authorities stating that the rainy season is becoming deadlier; Ghana has also reported 13 deaths and floods have impacted Benin, Togo, and Nigeria.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Amnesty International reports that Sudan's Rapid Support Forces committed crimes against humanity, including ethnic cleansing, in El Fasher as part of a systemic campaign against civilians.",
+          "text": "Amnesty International reports that Sudan’s paramilitary Rapid Support Forces (RSF) committed crimes against humanity in El Fasher, including ethnic cleansing, as part of a systemic campaign against civilians.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A NSW Police officer has admitted to unlawfully accessing the force's internal database to find details about a domestic violence complaint against a friend.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Traditional owners and locals are challenging a government plan to return water to nine flood plains along the Murray River, arguing it will harm trees and wildlife.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Arts degrees in Australia are set to cost $50,000 until at least 2028, as measures to lower university fees have been put on hold.",
+          "text": "The AFP is investigating allegations of war crimes committed by an Australian citizen serving in the Israel Defense Forces, stemming from claims of deliberate targeting and destruction of residential buildings in Gaza.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A 16-year-old boy has been charged with murder after another boy was found with stab wounds outside a hospital in Craigieburn, Melbourne.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Record rainfall has hit South Australia, with wild winter weather impacting the state and more states expected to be affected.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Global dealmaking has reached a record $2.8 trillion, driven by mega takeovers as companies and investors adjust to economic shifts and the rise of AI.",
+          "text": "The US economy saw a slowdown in job growth in June, adding 57,000 jobs, which was below forecasts and followed a three-month period of strong performance. This news has eased concerns about the Federal Reserve needing to raise interest rates soon, leading to gains in most Wall Street stocks.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Eurozone inflation fell more than expected to 2.8% in June, though price growth remains above the central bank's target for the fourth consecutive month.",
+          "text": "Inflation, partly attributed to Donald Trump’s tariffs and the Iran war, is expected to make July 4th holiday parties the most expensive ever for Americans, particularly impacting the cost of traditional cookout items.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The US has opted not to renew the Trump-era trade deal with Mexico and Canada, choosing instead to hold annual reviews on the terms of commerce with its biggest trading partners.",
+          "text": "OpenAI is reportedly in early discussions with the Trump administration to offer a 5% stake in the company, a move that comes amid increasing political pressure on the AI startup.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
