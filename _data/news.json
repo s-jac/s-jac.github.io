@@ -1,24 +1,24 @@
 {
-  "date": "3 July 2026",
-  "generated_at": "2026-07-02T21:01:43.150666+00:00",
+  "date": "4 July 2026",
+  "generated_at": "2026-07-03T21:01:03.499443+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A massive Russian attack on Kyiv has killed at least 27 people, with the latest barrage deploying the largest number of weapons on the capital and hitting locations over a wide area.",
+          "text": "Authorities in Côte d’Ivoire report 59 deaths due to floods since May, as West Africa experiences torrential rains with Ghana also reporting fatalities and floods affecting Benin, Togo, and Nigeria.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Amnesty International accuses Sudan’s Rapid Support Forces of committing crimes against humanity, including ethnic cleansing, in a systematic campaign against civilians in El Fasher.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "A Nasa-funded robot has launched to save a falling space telescope by catching it in mid-orbit and boosting it back to safety before it burns up.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Floods in Côte d’Ivoire have killed 59 people since May, with authorities stating that the rainy season is becoming deadlier; Ghana has also reported 13 deaths and floods have impacted Benin, Togo, and Nigeria.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "Amnesty International reports that Sudan’s paramilitary Rapid Support Forces (RSF) committed crimes against humanity in El Fasher, including ethnic cleansing, as part of a systemic campaign against civilians.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The AFP is investigating allegations of war crimes committed by an Australian citizen serving in the Israel Defense Forces, stemming from claims of deliberate targeting and destruction of residential buildings in Gaza.",
+          "text": "Almost no one is happy with Labor’s gambling crackdown. Albanese may as well do the right thing and get tough.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "A 16-year-old boy has been charged with murder after another boy was found with stab wounds outside a hospital in Craigieburn, Melbourne.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Doctors almost sent Kris home with a migraine. Then her whole face went numb.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Record rainfall has hit South Australia, with wild winter weather impacting the state and more states expected to be affected.",
+          "text": "An estimated 55,000 Australians suffer stroke each year, with varying outcomes depending on where they live.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US economy saw a slowdown in job growth in June, adding 57,000 jobs, which was below forecasts and followed a three-month period of strong performance. This news has eased concerns about the Federal Reserve needing to raise interest rates soon, leading to gains in most Wall Street stocks.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The Canada Pension Plan Investment Board will invest $1.75 billion to support EQT AB's artificial intelligence infrastructure buildout, signifying a major investment in AI technology.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Inflation, partly attributed to Donald Trump’s tariffs and the Iran war, is expected to make July 4th holiday parties the most expensive ever for Americans, particularly impacting the cost of traditional cookout items.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Canada and the Philippines are set to finalize a free trade agreement this year, alongside deepening cooperation in energy, defense, labor, and migration.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "OpenAI is reportedly in early discussions with the Trump administration to offer a 5% stake in the company, a move that comes amid increasing political pressure on the AI startup.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Chilean mining companies SQM and Codelco are planning to increase lithium output at their joint venture by over 70%, betting on future battery demand.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
