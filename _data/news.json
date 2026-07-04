@@ -1,24 +1,24 @@
 {
-  "date": "4 July 2026",
-  "generated_at": "2026-07-03T21:01:03.499443+00:00",
+  "date": "5 July 2026",
+  "generated_at": "2026-07-04T21:00:22.848326+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Authorities in Côte d’Ivoire report 59 deaths due to floods since May, as West Africa experiences torrential rains with Ghana also reporting fatalities and floods affecting Benin, Togo, and Nigeria.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "Amnesty International accuses Sudan’s Rapid Support Forces of committing crimes against humanity, including ethnic cleansing, in a systematic campaign against civilians in El Fasher.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "A Nasa-funded robot has launched to save a falling space telescope by catching it in mid-orbit and boosting it back to safety before it burns up.",
+          "text": "Large crowds gathered in Tehran for the first day of Ayatollah Ali Khamenei's funeral, with his body set to lie in state until Monday before travelling across Iran and Iraq.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Ukraine has reportedly struck a major oil terminal in Russia's St Petersburg, with President Volodymyr Zelensky stating the target is key infrastructure that generates revenue for Russia's war effort.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Floods in Côte d’Ivoire have killed 59 people since May, as West Africa experiences torrential rains, with Ghana also reporting 13 deaths and other nations like Benin, Togo, and Nigeria experiencing significant flooding.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Almost no one is happy with Labor’s gambling crackdown. Albanese may as well do the right thing and get tough.",
+          "text": "Small businesses in Australia are facing significant challenges due to rising costs, with a recent wage increase pushing some, like a 70-year-old corner store, to close down.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "A vulnerable colony of red-tailed tropic birds on the Great Barrier Reef is being monitored for the deadly H5 bird flu, raising fears of a significant impact on Australia's native bird populations.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "A former political staffer has expressed concerns over Australia's parliamentary workplace watchdog, questioning its effectiveness in addressing misconduct within the government.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "Doctors almost sent Kris home with a migraine. Then her whole face went numb.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "An estimated 55,000 Australians suffer stroke each year, with varying outcomes depending on where they live.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Canada Pension Plan Investment Board will invest $1.75 billion to support EQT AB's artificial intelligence infrastructure buildout, signifying a major investment in AI technology.",
+          "text": "Germany is looking to data in the coming week to assess the cumulative economic impact of the Iran war, setting the stage for government efforts to stimulate growth in Europe's largest economy.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Canada and the Philippines are set to finalize a free trade agreement this year, alongside deepening cooperation in energy, defense, labor, and migration.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Turkey is implementing an economic plan to potentially benefit from the Iran war, serving as a case study for the positive and negative spillovers of conflict.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         },
         {
-          "text": "Chilean mining companies SQM and Codelco are planning to increase lithium output at their joint venture by over 70%, betting on future battery demand.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "China is cracking down on rule-bending offshore investments, aiming to encourage mainland investors to support its domestic technology ambitions rather than those in other countries.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
