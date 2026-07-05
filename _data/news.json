@@ -1,22 +1,22 @@
 {
-  "date": "5 July 2026",
-  "generated_at": "2026-07-04T21:00:22.848326+00:00",
+  "date": "6 July 2026",
+  "generated_at": "2026-07-05T21:00:24.691993+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Large crowds gathered in Tehran for the first day of Ayatollah Ali Khamenei's funeral, with his body set to lie in state until Monday before travelling across Iran and Iraq.",
+          "text": "Evacuations are underway in Guam as Super Typhoon Bavi approaches, forecast to bring extreme winds and high waves upon landfall.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Ukraine has reportedly struck a major oil terminal in Russia's St Petersburg, with President Volodymyr Zelensky stating the target is key infrastructure that generates revenue for Russia's war effort.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city, revealing details of daily life and urban development from the fourth century.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Floods in Côte d’Ivoire have killed 59 people since May, as West Africa experiences torrential rains, with Ghana also reporting 13 deaths and other nations like Benin, Togo, and Nigeria experiencing significant flooding.",
+          "text": "Floods in Côte d’Ivoire have resulted in 59 deaths since May, with West Africa experiencing increasingly deadly rainy seasons and widespread flooding.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Small businesses in Australia are facing significant challenges due to rising costs, with a recent wage increase pushing some, like a 70-year-old corner store, to close down.",
+          "text": "Prime Minister Anthony Albanese has arrived in Fiji to sign a significant new treaty, aiming for both countries to collaborate on major challenges.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A vulnerable colony of red-tailed tropic birds on the Great Barrier Reef is being monitored for the deadly H5 bird flu, raising fears of a significant impact on Australia's native bird populations.",
+          "text": "Australia's Aboriginal and Torres Strait Islander children commissioner has voiced concerns that Queensland's push for increased adoptions could disproportionately affect First Nations children, potentially risking a repeat of past issues.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A former political staffer has expressed concerns over Australia's parliamentary workplace watchdog, questioning its effectiveness in addressing misconduct within the government.",
+          "text": "An Australian aged care firm is facing a class action lawsuit, accused of allegedly charging residents for services like high teas and classes that they were unable to use.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Germany is looking to data in the coming week to assess the cumulative economic impact of the Iran war, setting the stage for government efforts to stimulate growth in Europe's largest economy.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "EasyJet has reached an outline agreement for a takeover by US private credit group Castlelake, valuing the UK airline at over £5 billion.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Turkey is implementing an economic plan to potentially benefit from the Iran war, serving as a case study for the positive and negative spillovers of conflict.",
+          "text": "China is intensifying its crackdown on rule-bending offshore investments, aiming to direct mainland investors towards its domestic tech ambitions rather than those abroad.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         },
         {
-          "text": "China is cracking down on rule-bending offshore investments, aiming to encourage mainland investors to support its domestic technology ambitions rather than those in other countries.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Rich nations should focus on unleashing land, labor, energy, and capital to drive growth, as policymakers' shift towards industrial interventionism risks neglecting these simpler economic drivers.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
