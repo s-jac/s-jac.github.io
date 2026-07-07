@@ -1,24 +1,24 @@
 {
-  "date": "7 July 2026",
-  "generated_at": "2026-07-06T21:00:23.788541+00:00",
+  "date": "8 July 2026",
+  "generated_at": "2026-07-07T21:00:23.726845+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine's President Zelensky stated that a \"massive Russian attack\" on Kyiv on Sunday involved 68 missiles and 351 strike drones, as Ukraine warns of an interceptor missile shortage.",
+          "text": "Marine Le Pen has announced her candidacy for the French presidency, ending months of speculation. This comes after a court ruled she could run but would have to wear a tag for a year.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Interpol announced over 1,000 arrests in a global human trafficking crackdown, identifying more than 2,070 victims, predominantly women trafficked for sexual exploitation.",
+          "text": "A woman suspected of a bomb attack in Monaco has been found dead in Ukraine. Police had been searching for Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Floods in Côte d'Ivoire have resulted in 59 deaths since May, with West Africa experiencing torrential rains, and Ghana reporting 13 fatalities, alongside floods impacting Benin, Togo, and Nigeria.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Jailers and officials at Russia's 'torture prisons' in Ukraine have been exposed by the BBC. Former prisoners accuse these individuals of abuse in detention centers and are seeking their prosecution.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Queensland's mental health community services are facing a significant funding 'shortfall', as government funding based on indexation rates is proving insufficient.",
+          "text": "Telstra's mobile network experienced a major outage across Australia, affecting its customers and those of other providers using its network.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Higher-earning Australians are increasingly utilizing the 5% first home deposit scheme, with some borrowers earning over $200,000, prompting economists to warn that the removal of income caps could be inflating housing prices.",
+          "text": "Parents of a child abused by a childcare worker are advocating for urgent reforms to the out-of-school-hours care system to enhance child protection.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "The Australian Prime Minister is scheduled to host leaders from Tonga, Samoa, and Papua New Guinea in Brisbane, coinciding with a State of Origin decider.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "A trespasser, identified as the 'Pam the Bird' graffiti vandal, is in a stand-off with police on Melbourne's Bolte Bridge after spray-painting the structure.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Germany plans to borrow €800bn for rearmament, marking a historic shift in spending not seen since German reunification.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Tech stocks extended their rally, with investors focusing on technology shares and the artificial-intelligence trade, ahead of Samsung earnings and a SK Hynix IPO.",
+          "text": "The US has revoked a sanctions waiver that allowed Iran to sell oil globally, reversing a key element of an interim peace deal following recent attacks in the Strait of Hormuz. This decision caused oil prices to climb almost 6%.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Global traders are the most positive on the dollar since 2015, driven by expectations that borrowing costs will remain elevated for a longer period.",
+          "text": "US technology shares declined after Samsung Electronics Co.'s earnings failed to meet investor expectations, raising concerns about the sustained growth of artificial intelligence investments. This led to a selloff in chipmakers.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Options traders are increasingly betting that the broader market is overestimating the extent to which the Federal Reserve will raise interest rates this year, despite current pricing for continued hikes.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
