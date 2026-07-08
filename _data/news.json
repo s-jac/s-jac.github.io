@@ -1,24 +1,24 @@
 {
-  "date": "8 July 2026",
-  "generated_at": "2026-07-07T21:00:23.726845+00:00",
+  "date": "9 July 2026",
+  "generated_at": "2026-07-08T21:00:37.067374+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Marine Le Pen has announced her candidacy for the French presidency, ending months of speculation. This comes after a court ruled she could run but would have to wear a tag for a year.",
+          "text": "The US has launched a new wave of strikes against Iran, targeting military boats in response to attacks on three oil tankers in the Strait of Hormuz. Explosions have been reported by Iranian state media in parts of the country's south.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A woman suspected of a bomb attack in Monaco has been found dead in Ukraine. Police had been searching for Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+          "text": "Nato allies have announced a £37bn project for new missile development, with discussions planned in Ankara involving around a dozen leaders.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Jailers and officials at Russia's 'torture prisons' in Ukraine have been exposed by the BBC. Former prisoners accuse these individuals of abuse in detention centers and are seeking their prosecution.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Five suspects have been charged in Liberia following the seizure of over 200kg of cocaine at Monrovia airport, valued at £14.2m and falsely declared as seasoning cubes.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Telstra's mobile network experienced a major outage across Australia, affecting its customers and those of other providers using its network.",
+          "text": "Victoria's regional rail network remains at a standstill following a Telstra outage, with commuters advised not to use V/Line services due to ongoing safety issues caused by the telecommunications disruption.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Parents of a child abused by a childcare worker are advocating for urgent reforms to the out-of-school-hours care system to enhance child protection.",
+          "text": "Dozens of Aboriginal language custodians are advocating for increased efforts to revive Northern Territory Indigenous languages, releasing a roadmap for their survival and revitalization.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Australian Prime Minister is scheduled to host leaders from Tonga, Samoa, and Papua New Guinea in Brisbane, coinciding with a State of Origin decider.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Communities in southern NSW are concerned about potential widespread job losses and economic decimation due to significant cutbacks in rice processing production.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US has revoked a sanctions waiver that allowed Iran to sell oil globally, reversing a key element of an interim peace deal following recent attacks in the Strait of Hormuz. This decision caused oil prices to climb almost 6%.",
+          "text": "Minutes from the Federal Reserve's last meeting revealed that some officials still saw a need for future rate rises to control inflation, highlighting ongoing concerns about persistent price pressures.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Emerging market currencies slid as the US launched new strikes on Iran, sparking fears of prolonged conflict and impacting oil prices, which jumped to a two-week high.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "US technology shares declined after Samsung Electronics Co.'s earnings failed to meet investor expectations, raising concerns about the sustained growth of artificial intelligence investments. This led to a selloff in chipmakers.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Options traders are increasingly betting that the broader market is overestimating the extent to which the Federal Reserve will raise interest rates this year, despite current pricing for continued hikes.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The Economist suggests that Europe's economy is struggling, yet its stock markets are undervalued, presenting a potential opportunity for international investors despite a current lack of interest.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
