@@ -1,24 +1,24 @@
 {
-  "date": "9 July 2026",
-  "generated_at": "2026-07-08T21:00:37.067374+00:00",
+  "date": "10 July 2026",
+  "generated_at": "2026-07-09T21:02:31.866895+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US has launched a new wave of strikes against Iran, targeting military boats in response to attacks on three oil tankers in the Strait of Hormuz. Explosions have been reported by Iranian state media in parts of the country's south.",
+          "text": "Tehran has launched more strikes after explosions were reported in southern Iran, with Centcom confirming it hit 90 Iranian targets in the latest round of strikes. The Iranian health ministry reported 14 people were killed since Tuesday.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Nato allies have announced a £37bn project for new missile development, with discussions planned in Ankara involving around a dozen leaders.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "Five suspects have been charged in Liberia following the seizure of over 200kg of cocaine at Monrovia airport, valued at £14.2m and falsely declared as seasoning cubes.",
+          "text": "An LGBTQ+ cruise ship, the Scarlet Lady, was refused entry to Egypt, days after being turned away from Turkey. The 2,000 passengers were informed of the change, with one onboard expressing intentions to \"sparkle and spend elsewhere.\"",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "Ukraine has reportedly struck Russian ships near Crimea, escalating attacks on fuel supplies in what appears to be the latest phase of efforts to disrupt routes and supplies into and out of occupied Crimea.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Victoria's regional rail network remains at a standstill following a Telstra outage, with commuters advised not to use V/Line services due to ongoing safety issues caused by the telecommunications disruption.",
+          "text": "A major contractor on the Snowy Hydro project is defending itself against accusations of exposing five workers to the risk of death or serious injury in two separate incidents.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Dozens of Aboriginal language custodians are advocating for increased efforts to revive Northern Territory Indigenous languages, releasing a roadmap for their survival and revitalization.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "More than half of Australians are reportedly minimising heating in their homes to avoid high power bills during winter.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Communities in southern NSW are concerned about potential widespread job losses and economic decimation due to significant cutbacks in rice processing production.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Telstra's national phone network experienced an outage caused by a 'digital domino chain' triggered by technology similar to that used for daylight savings adjustments.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Minutes from the Federal Reserve's last meeting revealed that some officials still saw a need for future rate rises to control inflation, highlighting ongoing concerns about persistent price pressures.",
+          "text": "The world is facing an increasing diesel supply crunch as Ukraine drone strikes have reportedly hampered Russia's refineries, leading to cuts in Russian exports.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Emerging market currencies slid as the US launched new strikes on Iran, sparking fears of prolonged conflict and impacting oil prices, which jumped to a two-week high.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Wall Street's boutique investment banks, such as Evercore, Lazard, and Moelis, are facing challenges after hiring many dealmakers in anticipation of a market upswing that has not fully materialized, leading to increased costs.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "The Economist suggests that Europe's economy is struggling, yet its stock markets are undervalued, presenting a potential opportunity for international investors despite a current lack of interest.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "A resurgence in giant chipmakers and a decline in oil prices contributed to a rebound on Wall Street, with US stocks rising as investors largely disregarded recent hostilities between the US and Iran.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
