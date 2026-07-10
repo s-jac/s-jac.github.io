@@ -1,24 +1,24 @@
 {
-  "date": "10 July 2026",
-  "generated_at": "2026-07-09T21:02:31.866895+00:00",
+  "date": "11 July 2026",
+  "generated_at": "2026-07-10T21:00:28.082085+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Tehran has launched more strikes after explosions were reported in southern Iran, with Centcom confirming it hit 90 Iranian targets in the latest round of strikes. The Iranian health ministry reported 14 people were killed since Tuesday.",
+          "text": "East Asia is preparing for Typhoon Bavi, expected to be one of the strongest storms in decades, while landslides in the Philippines have already claimed 15 lives.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An LGBTQ+ cruise ship, the Scarlet Lady, was refused entry to Egypt, days after being turned away from Turkey. The 2,000 passengers were informed of the change, with one onboard expressing intentions to \"sparkle and spend elsewhere.\"",
+          "text": "Developing countries are reportedly spending more on foreign debt repayment than on education, according to a UN report.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Ukraine has reportedly struck Russian ships near Crimea, escalating attacks on fuel supplies in what appears to be the latest phase of efforts to disrupt routes and supplies into and out of occupied Crimea.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "An LGBTQ+ cruise ship, the Scarlet Lady, was refused entry to Egypt, days after being turned away from Turkey.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A major contractor on the Snowy Hydro project is defending itself against accusations of exposing five workers to the risk of death or serious injury in two separate incidents.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "More than half of Australians are reportedly minimising heating in their homes to avoid high power bills during winter.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "Telstra's national phone network experienced an outage caused by a 'digital domino chain' triggered by technology similar to that used for daylight savings adjustments.",
+          "text": "Prime Minister Anthony Albanese is navigating national security and trade discussions, meeting with leaders from India, Fiji, Tonga, Samoa, Solomon Islands, and Papua New Guinea, with China being a significant focus of this foreign policy initiative.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A remote arts centre in Ramingining, East Arnhem Land, hosted its inaugural fashion week, providing a platform to celebrate local Aboriginal artists, models, and community.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A new report suggests that curbing access to key programs such as the child care subsidy, parental leave pay, aged care, and pensions for some affluent taxpayers could save approximately $21 billion annually.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The world is facing an increasing diesel supply crunch as Ukraine drone strikes have reportedly hampered Russia's refineries, leading to cuts in Russian exports.",
+          "text": "Apple is suing OpenAI, alleging the theft of top-secret information, marking a significant deterioration in the relationship between the two major Silicon Valley companies.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Wall Street's boutique investment banks, such as Evercore, Lazard, and Moelis, are facing challenges after hiring many dealmakers in anticipation of a market upswing that has not fully materialized, leading to increased costs.",
+          "text": "Investors are selling longer-dated AI debt amidst a borrowing spree by Big Tech, indicating skepticism about the sector's long-term profitability.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "A resurgence in giant chipmakers and a decline in oil prices contributed to a rebound on Wall Street, with US stocks rising as investors largely disregarded recent hostilities between the US and Iran.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "SK Hynix's US shares surged 13% on its Nasdaq debut, closing at $177 after pricing at $149, reflecting strong market interest in the South Korean memory chipmaker.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
