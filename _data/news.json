@@ -1,24 +1,24 @@
 {
-  "date": "11 July 2026",
-  "generated_at": "2026-07-10T21:00:28.082085+00:00",
+  "date": "12 July 2026",
+  "generated_at": "2026-07-11T21:00:32.913102+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "East Asia is preparing for Typhoon Bavi, expected to be one of the strongest storms in decades, while landslides in the Philippines have already claimed 15 lives.",
+          "text": "China has evacuated nearly two million people from eastern Zhejiang province as its second typhoon in a week makes landfall.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Developing countries are reportedly spending more on foreign debt repayment than on education, according to a UN report.",
+          "text": "The death toll from Venezuela's twin earthquakes has surpassed 4,300, with nearly 17,000 injured and thousands more missing, as calls for financial aid increase.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "An LGBTQ+ cruise ship, the Scarlet Lady, was refused entry to Egypt, days after being turned away from Turkey.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "More than 40 kidnapped children and teachers have been freed in Nigeria following an army operation.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Prime Minister Anthony Albanese is navigating national security and trade discussions, meeting with leaders from India, Fiji, Tonga, Samoa, Solomon Islands, and Papua New Guinea, with China being a significant focus of this foreign policy initiative.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "A remote arts centre in Ramingining, East Arnhem Land, hosted its inaugural fashion week, providing a platform to celebrate local Aboriginal artists, models, and community.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "A new report suggests that curbing access to key programs such as the child care subsidy, parental leave pay, aged care, and pensions for some affluent taxpayers could save approximately $21 billion annually.",
+          "text": "Australian house prices have experienced their most significant monthly decline since 2022, but economists temper expectations for young buyers hoping for improved affordability.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "One Nation is gaining traction by linking housing costs to immigration, offering a simplified solution to a complex problem and appealing to economic pessimism among Australians.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A two-year-old Canberra toddler, Safa, died eight years ago from blunt-force trauma, with police suspecting murder, yet there have been no arrests or inquest, leaving her father seeking answers.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Apple is suing OpenAI, alleging the theft of top-secret information, marking a significant deterioration in the relationship between the two major Silicon Valley companies.",
+          "text": "Many companies that rebranded to focus on AI have not sustained their valuation gains, according to an FT analysis, indicating that AI rebrands often fail to deliver lasting share price boosts.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Investors are selling longer-dated AI debt amidst a borrowing spree by Big Tech, indicating skepticism about the sector's long-term profitability.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Economists debate whether the US tax system can adequately address the wealth of individuals like Elon Musk, who has become the world's first trillionaire, raising questions about how such fortunes are managed within existing frameworks.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "SK Hynix's US shares surged 13% on its Nasdaq debut, closing at $177 after pricing at $149, reflecting strong market interest in the South Korean memory chipmaker.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The Economist suggests that Europe's stock markets, despite the region's economic challenges, may be undervalued, presenting a potential opportunity for international investors.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
