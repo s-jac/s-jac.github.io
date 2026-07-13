@@ -1,24 +1,24 @@
 {
-  "date": "13 July 2026",
-  "generated_at": "2026-07-12T21:00:36.661932+00:00",
+  "date": "14 July 2026",
+  "generated_at": "2026-07-13T21:00:30.365418+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "At least 27 people were killed in a bar fire in Bangkok, Thailand, with firefighters reporting patrons running through flames to escape the blaze.",
+          "text": "The US president has reinstated an Iran port blockade and vowed a 20% charge on all cargo passing through the Strait of Hormuz.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US insists the Strait of Hormuz remains open despite exchanging strikes with Iran, after Iranian forces reportedly declared the strait closed and attacked US allies and bases.",
+          "text": "A massive fire at a Bangkok bar has killed at least 28 people and critically injured 25 others, with firefighters arriving to find patrons fleeing through flames.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "China has evacuated nearly two million people as a powerful typhoon made landfall, leading to the suspension of schools, work, outdoor activities, and many transport services in Zhejiang province.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Developing countries are reportedly spending more on repaying foreign debt than on education, with a UN report indicating that children in 113 countries lost out to debt servicing.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A father jailed for abusing two children is appealing his conviction, arguing that evidence given by the multiple personalities of the same witness was unlawful.",
+          "text": "A man has been charged with murder in Sydney after an elderly man was allegedly attacked during a morning walk.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A crackdown on illegal camping in Noosa, prompted by hundreds of complaints, has sparked outrage locally, with many arguing fines will not solve the issue.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Police are investigating a hit-and-run incident south of Brisbane that resulted in one fatality.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Many aged care residents in Australia are reportedly being charged for services they cannot use or understand, prompting an investigation from the regulator.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Authorities are warning hikers against relying on social media influencers for winter bushwalking advice, particularly in Tasmania.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US dollar's strength is creating challenges for the bond market, prompting investors to adapt to this new dynamic.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Oil prices surged and global markets experienced drops in stocks and bonds following escalating tensions between the US and Iran, as the US reinstated a blockade on Iranian ships and proposed a 20% charge for all cargo passing through the Strait of Hormuz.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "New Zealand plans to finalize a contract for its first liquefied natural gas import facility before the upcoming November election, anticipating lower global LNG prices.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "A top Federal Reserve official has warned that persistently high inflation could lead to further interest rate hikes, impacting market stability.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "The World Bank has reportedly abandoned its climate targets, signaling a shift in the institution's focus on green growth initiatives.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Citigroup is undergoing a significant restructuring under CEO Jane Fraser, involving asset sales, job cuts, and new hires, as the bank aims to regain its prominence.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
