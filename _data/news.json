@@ -1,22 +1,22 @@
 {
-  "date": "14 July 2026",
-  "generated_at": "2026-07-13T21:00:30.365418+00:00",
+  "date": "15 July 2026",
+  "generated_at": "2026-07-14T21:00:33.518134+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US president has reinstated an Iran port blockade and vowed a 20% charge on all cargo passing through the Strait of Hormuz.",
+          "text": "Seven people, including a senior police officer, were killed in an Israeli strike on a police post in north Gaza. Israel's military stated the strike targeted \"terrorists.\"",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A massive fire at a Bangkok bar has killed at least 28 people and critically injured 25 others, with firefighters arriving to find patrons fleeing through flames.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A new US Ebola patient has arrived in Germany for treatment, while two drugs are being trialled in the Democratic Republic of Congo in a program set up just six weeks after the outbreak was declared.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Developing countries are reportedly spending more on repaying foreign debt than on education, with a UN report indicating that children in 113 countries lost out to debt servicing.",
+          "text": "Nigeria's army claims to have killed over 300 bandits in the north-western state of Zamfara, with vigilantes also reportedly participating in the fight.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A man has been charged with murder in Sydney after an elderly man was allegedly attacked during a morning walk.",
+          "text": "There are concerns over a loophole in Victorian laws that allows unproven charges against councillors to trigger automatic stand-down provisions, potentially halting council operations across the state.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Police are investigating a hit-and-run incident south of Brisbane that resulted in one fatality.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Australia's aged care regulator is investigating numerous complaints about providers charging residents for services they cannot use or understand, including Foxtel and wine.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Authorities are warning hikers against relying on social media influencers for winter bushwalking advice, particularly in Tasmania.",
+          "text": "Two people have died in a collision between a car and a truck on the McIvor Highway at Heathcote, north of Melbourne.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Oil prices surged and global markets experienced drops in stocks and bonds following escalating tensions between the US and Iran, as the US reinstated a blockade on Iranian ships and proposed a 20% charge for all cargo passing through the Strait of Hormuz.",
+          "text": "IBM's shares have dropped 25% due to customers shifting their spending towards AI, with CEO Arvind Krishna admitting the company 'faltered' as clients prioritized servers and storage for AI.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "A top Federal Reserve official has warned that persistently high inflation could lead to further interest rate hikes, impacting market stability.",
+          "text": "Major Wall Street banks like JPMorgan, Goldman Sachs, Citigroup, and BofA have reported record earnings, driven by a stock trading boom fueled by the AI frenzy and the SpaceX IPO.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Citigroup is undergoing a significant restructuring under CEO Jane Fraser, involving asset sales, job cuts, and new hires, as the bank aims to regain its prominence.",
+          "text": "New York has become the first US state to implement a one-year moratorium on new data center construction, signed by Governor Kathy Hochul, amidst growing concerns over infrastructure demands.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
