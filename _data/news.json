@@ -1,22 +1,22 @@
 {
-  "date": "15 July 2026",
-  "generated_at": "2026-07-14T21:00:33.518134+00:00",
+  "date": "16 July 2026",
+  "generated_at": "2026-07-15T21:00:24.875163+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Seven people, including a senior police officer, were killed in an Israeli strike on a police post in north Gaza. Israel's military stated the strike targeted \"terrorists.\"",
+          "text": "French MPs have approved a new assisted dying law, allowing terminally ill adults to seek assisted dying under strict criteria after years of debate.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A new US Ebola patient has arrived in Germany for treatment, while two drugs are being trialled in the Democratic Republic of Congo in a program set up just six weeks after the outbreak was declared.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A new Pew study suggests that more people globally now favor China over the US, with greater confidence expressed in Xi Jinping compared to Donald Trump.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Nigeria's army claims to have killed over 300 bandits in the north-western state of Zamfara, with vigilantes also reportedly participating in the fight.",
+          "text": "A US national who contracted Ebola has arrived in Germany for treatment, as the Trump administration bars Americans from traveling to the US on commercial flights if they have the virus.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "There are concerns over a loophole in Victorian laws that allows unproven charges against councillors to trigger automatic stand-down provisions, potentially halting council operations across the state.",
+          "text": "Former employees of the charity PAWS Darwin are speaking out about being short-changed on their superannuation, with an estimated $150,000 owed.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia's aged care regulator is investigating numerous complaints about providers charging residents for services they cannot use or understand, including Foxtel and wine.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "Two people have died in a collision between a car and a truck on the McIvor Highway at Heathcote, north of Melbourne.",
+          "text": "Adelaide University researchers have developed new laser technology that can test closed alcohol bottles for methanol, a substance responsible for hundreds of deaths annually.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Brisbane's nightlife entertainment sector is experiencing a surge, with a new report indicating the city has more after-hours venues than Sydney or Melbourne.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "IBM's shares have dropped 25% due to customers shifting their spending towards AI, with CEO Arvind Krishna admitting the company 'faltered' as clients prioritized servers and storage for AI.",
+          "text": "Oil traders are warning that the market is nearing depletion as global stockpiles, which previously absorbed shocks from the Iran war, are running low due to the closure of the crucial Strait of Hormuz.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Major Wall Street banks like JPMorgan, Goldman Sachs, Citigroup, and BofA have reported record earnings, driven by a stock trading boom fueled by the AI frenzy and the SpaceX IPO.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "China's trade gap is narrowing, indicating fiscal austerity within the world's second-biggest economy, even as the country faces challenges in funding its ambitious technology development goals.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         },
         {
-          "text": "New York has become the first US state to implement a one-year moratorium on new data center construction, signed by Governor Kathy Hochul, amidst growing concerns over infrastructure demands.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Storm clouds are gathering over America's financial supremacy, with its payments firms potentially being the first casualties, while the liquefied natural gas (LNG) market could face disruptions from war, weather, and outages before winter.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
