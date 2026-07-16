@@ -1,24 +1,24 @@
 {
-  "date": "16 July 2026",
-  "generated_at": "2026-07-15T21:00:24.875163+00:00",
+  "date": "17 July 2026",
+  "generated_at": "2026-07-16T21:00:32.043055+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "French MPs have approved a new assisted dying law, allowing terminally ill adults to seek assisted dying under strict criteria after years of debate.",
+          "text": "Ukrainian President Zelensky's decision to remove a popular defense minister has sparked protests in Ukraine, reportedly due to a rift between the minister and the Commander-in-Chief.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A new Pew study suggests that more people globally now favor China over the US, with greater confidence expressed in Xi Jinping compared to Donald Trump.",
+          "text": "Iran reportedly targeted military bases overnight, with explosions heard across the country, shortly after neighboring Gulf states reported attacks, while the US launched a wave of strikes.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A US national who contracted Ebola has arrived in Germany for treatment, as the Trump administration bars Americans from traveling to the US on commercial flights if they have the virus.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A teenager has been accused by Polish security services of carrying out sabotage actions in Poland for Russia, with the aim of inciting ethnic tensions between Poland and Ukraine.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Former employees of the charity PAWS Darwin are speaking out about being short-changed on their superannuation, with an estimated $150,000 owed.",
+          "text": "The Australian Taxation Office is facing scrutiny over its decision to spend at least $73.4 million to move its Adelaide offices a short distance to a new building.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Adelaide University researchers have developed new laser technology that can test closed alcohol bottles for methanol, a substance responsible for hundreds of deaths annually.",
+          "text": "New South Wales health authorities have reported a significant decline in infant hospitalisations for a serious respiratory virus, attributing the success to a vaccination program.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Brisbane's nightlife entertainment sector is experiencing a surge, with a new report indicating the city has more after-hours venues than Sydney or Melbourne.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Australia is bracing for a potential Super El Ni\n\no, with the Bureau of Meteorology forecasting an increased chance of unusually warm and dry spring conditions for most capital cities, and climatologists warning 2027 could be the hottest year on record.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Oil traders are warning that the market is nearing depletion as global stockpiles, which previously absorbed shocks from the Iran war, are running low due to the closure of the crucial Strait of Hormuz.",
+          "text": "Russian strikes are disrupting Ukraine's Black Sea grain trade, causing wheat prices to surge due to heavy attacks.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "China's trade gap is narrowing, indicating fiscal austerity within the world's second-biggest economy, even as the country faces challenges in funding its ambitious technology development goals.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Emerging market currencies have fallen as increased tensions between the US and Iran strengthen the dollar, with the US launching new strikes.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Storm clouds are gathering over America's financial supremacy, with its payments firms potentially being the first casualties, while the liquefied natural gas (LNG) market could face disruptions from war, weather, and outages before winter.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "A selloff in chipmakers is dragging down stocks amid concerns about whether massive artificial intelligence investments will justify their high valuations, alongside geopolitical risks.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
