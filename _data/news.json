@@ -1,24 +1,24 @@
 {
-  "date": "18 July 2026",
-  "generated_at": "2026-07-17T21:00:28.329670+00:00",
+  "date": "19 July 2026",
+  "generated_at": "2026-07-18T21:00:23.697976+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US military has denied Iranian claims that its latest strikes hit civilian infrastructure, stating that the attacks were intended to degrade Iranian military capabilities.",
+          "text": "Two US troops were killed and one is missing after an Iranian attack in Jordan, as hostilities between Iran and the US re-escalated with Tehran targeting US military facilities across the Gulf region.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Many Ukrainian soldiers have expressed outrage over the removal of the defense minister, Mykhailo Fedorov, with protests erupting and troops criticising the decision.",
+          "text": "Russian online retail warehouses were hit by deadly Ukrainian strikes, with drones targeting Wildberries facilities near Moscow and in Tambov, which Ukraine's leader described as \"major logistics facilities\" supplying \"sanctioned components.\"",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A second tanker in three months has been hijacked off Yemen by suspected Somali pirates, indicating a potential resurgence of piracy in the region.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Seven American aid workers are quarantining at a Kenyan Ebola facility after being in Congo to fight the Ebola outbreak, making them the first known individuals to quarantine at the facility.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Universities in Australia have apologised to Jewish staff and students following an antisemitism inquiry that highlighted distress caused by protest movements on campuses.",
+          "text": "Military aircraft and aviators from 20 countries have arrived in Darwin for Exercise Pitch Black 2026, a biennial war games event set to begin soon.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation leader Pauline Hanson has declined to disclose who funded her recent trip to Italy, where she attended a fashion show and stayed at a five-star resort.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "A robodebt whistleblower alleges she was warned that her royal commission evidence could lead to job loss, according to court hearings, though her department denies these claims.",
+          "text": "Australian MPs are facing increasing security threats, a trend that critics argue is further distancing decision makers from their constituents.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "The Murray Darling Basin Authority is in the final stages of a study to address an increasing sand slug in the Murray River, with First Nations groups advocating for collaborative solutions.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US chip stocks experienced their worst week in over a year, with high-flying semiconductor shares falling due to concerns that AI spending may not justify current valuations.",
+          "text": "Stock markets are showing extreme optimism, ignoring obvious threats, which raises concerns about a potential crash, according to Martin Wolf.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Emerging-market stocks have slumped into a technical correction, fueled by mounting concerns over the inflated valuations within the artificial intelligence industry.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Traders are increasingly betting against SpaceX, with shares of Elon Musk's rockets and AI company slipping below their listing price for the first time.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "China's trade gap is unexpectedly narrowing, as the world's second-biggest economy faces an unplanned shift towards fiscal austerity.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "A type of investment known as CLOs (Collateralized Loan Obligations) is generating vanishing profits, causing investors to exit and leading to infighting over who is to blame.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
