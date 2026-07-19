@@ -1,24 +1,24 @@
 {
-  "date": "19 July 2026",
-  "generated_at": "2026-07-18T21:00:23.697976+00:00",
+  "date": "20 July 2026",
+  "generated_at": "2026-07-19T21:00:25.392335+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Two US troops were killed and one is missing after an Iranian attack in Jordan, as hostilities between Iran and the US re-escalated with Tehran targeting US military facilities across the Gulf region.",
+          "text": "A US soldier was killed and another injured in an Iranian attack in Iraq, following the deaths of two other US soldiers in Jordan.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russian online retail warehouses were hit by deadly Ukrainian strikes, with drones targeting Wildberries facilities near Moscow and in Tambov, which Ukraine's leader described as \"major logistics facilities\" supplying \"sanctioned components.\"",
+          "text": "Russia launched a major ballistic missile attack on Ukrainian cities, resulting in eight deaths and dozens of injuries, while Kyiv continued its own assaults on Russian infrastructure.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Seven American aid workers are quarantining at a Kenyan Ebola facility after being in Congo to fight the Ebola outbreak, making them the first known individuals to quarantine at the facility.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A ferry carrying 133 passengers and crew sank off the coast of Guyana, with 67 people, including 15 children, rescued and dozens still missing.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Military aircraft and aviators from 20 countries have arrived in Darwin for Exercise Pitch Black 2026, a biennial war games event set to begin soon.",
+          "text": "The Northern Territory government's plan to reduce minimum block sizes in low-density suburbs from 800 to 450 square metres is raising concerns among residents.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australian MPs are facing increasing security threats, a trend that critics argue is further distancing decision makers from their constituents.",
+          "text": "A federal government safety net for migrant women experiencing domestic and family violence has been identified as a significant stressor, as it reportedly requires survivors to prove the genuineness of their relationship with abusers.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Australia's life dissatisfaction levels have doubled, with one in ten people reporting they are not satisfied with life, indicating new highs in 'wellbeing poverty' according to ABS data.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "The Murray Darling Basin Authority is in the final stages of a study to address an increasing sand slug in the Murray River, with First Nations groups advocating for collaborative solutions.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Stock markets are showing extreme optimism, ignoring obvious threats, which raises concerns about a potential crash, according to Martin Wolf.",
+          "text": "The EU is encountering diminishing support for new sanctions against Russia, as some national capitals are reluctant to endorse measures that could negatively impact their major companies.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Traders are increasingly betting against SpaceX, with shares of Elon Musk's rockets and AI company slipping below their listing price for the first time.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The Australian dollar's decline against the New Zealand dollar is predicted to slow due to Australia's higher interest rates and a key technical support level, according to strategists.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "A type of investment known as CLOs (Collateralized Loan Obligations) is generating vanishing profits, causing investors to exit and leading to infighting over who is to blame.",
+          "text": "Bond traders and Federal Reserve Chairman Kevin Warsh agree that the central bank's battle against inflation is likely far from over.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
