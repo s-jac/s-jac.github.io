@@ -1,22 +1,22 @@
 {
-  "date": "20 July 2026",
-  "generated_at": "2026-07-19T21:00:25.392335+00:00",
+  "date": "21 July 2026",
+  "generated_at": "2026-07-20T21:00:26.258183+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A US soldier was killed and another injured in an Iranian attack in Iraq, following the deaths of two other US soldiers in Jordan.",
+          "text": "Russian attacks on merchant ships in the Black Sea have intensified, killing ten people, with 28 deaths reported in the Odesa region in July alone.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russia launched a major ballistic missile attack on Ukrainian cities, resulting in eight deaths and dozens of injuries, while Kyiv continued its own assaults on Russian infrastructure.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Seven American aid workers are quarantining at an Ebola facility in Kenya after returning from Congo, following a US travel ban related to the outbreak.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "A ferry carrying 133 passengers and crew sank off the coast of Guyana, with 67 people, including 15 children, rescued and dozens still missing.",
+          "text": "Mexican drug cartel leader Ismael \"El Mayo\" Zambada, co-founder of the Sinaloa Cartel, has been sentenced to life in a US prison and ordered to pay $15bn for drug trafficking.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Northern Territory government's plan to reduce minimum block sizes in low-density suburbs from 800 to 450 square metres is raising concerns among residents.",
+          "text": "The Northern Territory Parliament is preparing to debate contentious child protection laws, which have drawn criticism for their potential impact on the Aboriginal Child Placement Principle.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A federal government safety net for migrant women experiencing domestic and family violence has been identified as a significant stressor, as it reportedly requires survivors to prove the genuineness of their relationship with abusers.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "An alleged 'ISIS bride' has been granted bail in Melbourne after facing terror charges.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Australia's life dissatisfaction levels have doubled, with one in ten people reporting they are not satisfied with life, indicating new highs in 'wellbeing poverty' according to ABS data.",
+          "text": "One Nation leader Pauline Hanson has shared a Seven Network pitch for a 'Spotlight' special, which she says would highlight 'uncontrolled immigration' in Australia.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The EU is encountering diminishing support for new sanctions against Russia, as some national capitals are reluctant to endorse measures that could negatively impact their major companies.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "The Australian dollar's decline against the New Zealand dollar is predicted to slow due to Australia's higher interest rates and a key technical support level, according to strategists.",
+          "text": "The new UK Prime Minister, Andy Burnham, has unsettled investors on his first day in office, causing government bonds to plunge due to concerns about his fiscal approach.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Bond traders and Federal Reserve Chairman Kevin Warsh agree that the central bank's battle against inflation is likely far from over.",
+          "text": "Kevin Warsh, the new US central bank chief, is reportedly reluctant to signal future interest rate moves, leading to uncertainty in how hedge funds will react and how the Federal Reserve will manage its balance sheet.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Netflix plans to raise $1 billion through a US high-grade bond sale, its first in two years, as slowing sales growth brings increased scrutiny on the company's financial future.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
