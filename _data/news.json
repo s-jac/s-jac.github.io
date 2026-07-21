@@ -1,24 +1,24 @@
 {
-  "date": "21 July 2026",
-  "generated_at": "2026-07-20T21:00:26.258183+00:00",
+  "date": "22 July 2026",
+  "generated_at": "2026-07-21T21:00:25.758055+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russian attacks on merchant ships in the Black Sea have intensified, killing ten people, with 28 deaths reported in the Odesa region in July alone.",
+          "text": "Ukrainian President Zelensky has dismissed the country's top army commander, Oleksandr Syrskyi, following days of protests related to the removal of popular Defence Minister Mykhailo Fedorov.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Seven American aid workers are quarantining at an Ebola facility in Kenya after returning from Congo, following a US travel ban related to the outbreak.",
+          "text": "The US has launched new strikes on Iran, with President Trump warning of retaliation after the deaths of American soldiers. Iran claims to have hit two ships in the Strait of Hormuz, as well as targets in Bahrain and Jordan.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "A UN report indicates that a healthy diet remains too expensive for one in three people globally, despite a third consecutive year of decline in global hunger.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "Mexican drug cartel leader Ismael \"El Mayo\" Zambada, co-founder of the Sinaloa Cartel, has been sentenced to life in a US prison and ordered to pay $15bn for drug trafficking.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Northern Territory Parliament is preparing to debate contentious child protection laws, which have drawn criticism for their potential impact on the Aboriginal Child Placement Principle.",
+          "text": "Hollywood star Rebel Wilson awaits a Federal Court judgment today in her defamation case against the lead actor of her film, which could clarify the boundaries of public commentary.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An alleged 'ISIS bride' has been granted bail in Melbourne after facing terror charges.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The mother of a homeless man found dead outside a Sydney train station, unnoticed for days, is appealing for her son's remains to be repatriated to Nepal.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation leader Pauline Hanson has shared a Seven Network pitch for a 'Spotlight' special, which she says would highlight 'uncontrolled immigration' in Australia.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Teachers in Victoria are set to strike this week after failing to reach an agreement with the state government regarding their ongoing dispute.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The new UK Prime Minister, Andy Burnham, has unsettled investors on his first day in office, causing government bonds to plunge due to concerns about his fiscal approach.",
+          "text": "Moody's has upgraded Argentina's credit rating, marking the third sovereign upgrade in under three months, which validates President Javier Milei's economic overhaul plan.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Kevin Warsh, the new US central bank chief, is reportedly reluctant to signal future interest rate moves, leading to uncertainty in how hedge funds will react and how the Federal Reserve will manage its balance sheet.",
+          "text": "Saudi tankers have reversed course following threats from Houthi rebels, as a new threat emerges for Red Sea shipping, with Goldman Sachs warning oil could jump to $120 per barrel if the Strait of Hormuz remains disrupted.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Netflix plans to raise $1 billion through a US high-grade bond sale, its first in two years, as slowing sales growth brings increased scrutiny on the company's financial future.",
+          "text": "Bitcoin has rallied as crypto markets show signs of movement, with indications that Washington is progressing towards a clearer regulatory framework for digital assets.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
