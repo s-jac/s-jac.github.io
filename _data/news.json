@@ -1,22 +1,22 @@
 {
-  "date": "22 July 2026",
-  "generated_at": "2026-07-21T21:00:25.758055+00:00",
+  "date": "23 July 2026",
+  "generated_at": "2026-07-22T21:00:24.035712+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukrainian President Zelensky has dismissed the country's top army commander, Oleksandr Syrskyi, following days of protests related to the removal of popular Defence Minister Mykhailo Fedorov.",
+          "text": "The US is reportedly preparing to announce a deal that would allow Saudi Arabia to develop a nuclear program, a move that could raise concerns in Israel and among some US lawmakers.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US has launched new strikes on Iran, with President Trump warning of retaliation after the deaths of American soldiers. Iran claims to have hit two ships in the Strait of Hormuz, as well as targets in Bahrain and Jordan.",
+          "text": "Donald Trump has threatened to target Iranian bridges and power plants if attacks on ships in the Strait of Hormuz continue, stating the US will respond to any such incidents.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A UN report indicates that a healthy diet remains too expensive for one in three people globally, despite a third consecutive year of decline in global hunger.",
+          "text": "Seven American aid workers are in quarantine at an Ebola facility in Kenya after traveling from the Democratic Republic of Congo, where they were involved in fighting the Ebola outbreak.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Hollywood star Rebel Wilson awaits a Federal Court judgment today in her defamation case against the lead actor of her film, which could clarify the boundaries of public commentary.",
+          "text": "A disability employment agency's impending closure has sparked community action, with locals vowing to fight to keep it open, claiming they paid for its establishment.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The mother of a homeless man found dead outside a Sydney train station, unnoticed for days, is appealing for her son's remains to be repatriated to Nepal.",
+          "text": "The Victorian Coalition has pledged $850 million to construct a new West Gippsland hospital if they are elected in the upcoming November election.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Teachers in Victoria are set to strike this week after failing to reach an agreement with the state government regarding their ongoing dispute.",
+          "text": "Victorian teachers are scheduled to go on strike today, leading to class cancellations in approximately 1600 government schools.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Moody's has upgraded Argentina's credit rating, marking the third sovereign upgrade in under three months, which validates President Javier Milei's economic overhaul plan.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Saudi tankers have reversed course following threats from Houthi rebels, as a new threat emerges for Red Sea shipping, with Goldman Sachs warning oil could jump to $120 per barrel if the Strait of Hormuz remains disrupted.",
+          "text": "Google's AI spending surged last quarter, burning through nearly $6 billion in cash, despite its cloud computing division contributing to strong revenue and profits.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Bitcoin has rallied as crypto markets show signs of movement, with indications that Washington is progressing towards a clearer regulatory framework for digital assets.",
+          "text": "Tesla's profits plunged due to discounts on EV models, with the company significantly increasing capital expenditures to accelerate its focus on semiconductors, autonomous taxis, and humanoid robots.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "The yen rebounded from a four-decade low against the dollar amid speculation that the Bank of Japan may implement faster interest-rate hikes.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
