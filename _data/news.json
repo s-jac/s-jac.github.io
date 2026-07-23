@@ -1,22 +1,22 @@
 {
-  "date": "23 July 2026",
-  "generated_at": "2026-07-22T21:00:24.035712+00:00",
+  "date": "24 July 2026",
+  "generated_at": "2026-07-23T21:00:24.897952+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US is reportedly preparing to announce a deal that would allow Saudi Arabia to develop a nuclear program, a move that could raise concerns in Israel and among some US lawmakers.",
+          "text": "Saudi Arabia must recognize Israel for a nuclear deal to proceed, according to former US President Trump, linking the landmark agreement to the Abraham Accords.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Donald Trump has threatened to target Iranian bridges and power plants if attacks on ships in the Strait of Hormuz continue, stating the US will respond to any such incidents.",
+          "text": "Yemen's Houthis have attacked a Saudi tanker and claimed to hit another vessel, following their announcement of a \"maritime embargo\" against Saudi Arabia.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Seven American aid workers are in quarantine at an Ebola facility in Kenya after traveling from the Democratic Republic of Congo, where they were involved in fighting the Ebola outbreak.",
+          "text": "Two Russian men were jailed in Angola on charges of terrorism and spying, convicted over an alleged plan to stage a coup and organize demonstrations.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A disability employment agency's impending closure has sparked community action, with locals vowing to fight to keep it open, claiming they paid for its establishment.",
+          "text": "A 52-year-old man has been charged in Queensland for allegedly posting fake sexualized images of women, including their full names, in public places across south-east Queensland over five years.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Victorian Coalition has pledged $850 million to construct a new West Gippsland hospital if they are elected in the upcoming November election.",
+          "text": "ACT Labor is facing a significant reckoning following Yvette Berry's resignation, marking a critical moment for a government that has been in power for nearly 25 years.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Victorian teachers are scheduled to go on strike today, leading to class cancellations in approximately 1600 government schools.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Adelaide has become the fourth most expensive capital for buying a house, with median property prices rising 4.8 percent in the June quarter, bucking national housing trends.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Google's AI spending surged last quarter, burning through nearly $6 billion in cash, despite its cloud computing division contributing to strong revenue and profits.",
+          "text": "Intel's shares surged after the chipmaker reported its fastest growth in 15 years, with revenue increasing by 25% in the second quarter.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Tesla's profits plunged due to discounts on EV models, with the company significantly increasing capital expenditures to accelerate its focus on semiconductors, autonomous taxis, and humanoid robots.",
+          "text": "Oil prices have reached $100 per barrel for the first time since May, while US stocks experienced a slide amidst rising Middle East tensions and concerns over the profitability of AI investments.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The yen rebounded from a four-decade low against the dollar amid speculation that the Bank of Japan may implement faster interest-rate hikes.",
+          "text": "Short sellers in Tesla Inc. have profited by $4 billion as the company's stock experienced a significant decline, contributing to the S&P 500's worst day in a month.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
