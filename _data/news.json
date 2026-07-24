@@ -1,22 +1,22 @@
 {
-  "date": "24 July 2026",
-  "generated_at": "2026-07-23T21:00:24.897952+00:00",
+  "date": "25 July 2026",
+  "generated_at": "2026-07-24T21:00:24.687960+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Saudi Arabia must recognize Israel for a nuclear deal to proceed, according to former US President Trump, linking the landmark agreement to the Abraham Accords.",
+          "text": "Ten people were killed in a Russian attack on a drone exhibition near Kyiv, with ballistic missiles hitting the event attended by prominent members of the Ukrainian defence industry.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Yemen's Houthis have attacked a Saudi tanker and claimed to hit another vessel, following their announcement of a \"maritime embargo\" against Saudi Arabia.",
+          "text": "The US and Iran traded more strikes in the Gulf, increasing fears of escalation as Iran condemned the US plan to use frozen Iranian assets for war damages.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Two Russian men were jailed in Angola on charges of terrorism and spying, convicted over an alleged plan to stage a coup and organize demonstrations.",
+          "text": "A health worker is being monitored in a London hospital for Ebola after being evacuated from the Democratic Republic of the Congo, where an outbreak of the disease is occurring.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A 52-year-old man has been charged in Queensland for allegedly posting fake sexualized images of women, including their full names, in public places across south-east Queensland over five years.",
+          "text": "Plans for worker accommodation for a $1.5 billion Queensland wind farm are facing opposition from Kingaroy residents, despite the proposed $68 million investment.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "ACT Labor is facing a significant reckoning following Yvette Berry's resignation, marking a critical moment for a government that has been in power for nearly 25 years.",
+          "text": "Four regional RSL sub-branches in Sunraysia, Victoria, are merging to sustain veterans' services amid declining numbers and increased administrative burdens faced by RSLs across the state.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Adelaide has become the fourth most expensive capital for buying a house, with median property prices rising 4.8 percent in the June quarter, bucking national housing trends.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Australian households may face an interest rate hike and petrol prices exceeding $2 per litre, according to economists, as the escalating Middle East crisis drives global crude oil prices above $US100 a barrel.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Intel's shares surged after the chipmaker reported its fastest growth in 15 years, with revenue increasing by 25% in the second quarter.",
+          "text": "Commodity trading giant Vitol Group distributed $5.9 billion to its executives and senior staff last year through share buybacks, despite its profits halving to $4.2 billion.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "US tech groups have eliminated 140,000 jobs amidst an AI spending boom, indicating a significant reshaping of Silicon Valley while the broader US jobs market remains stable.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Oil prices have reached $100 per barrel for the first time since May, while US stocks experienced a slide amidst rising Middle East tensions and concerns over the profitability of AI investments.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Short sellers in Tesla Inc. have profited by $4 billion as the company's stock experienced a significant decline, contributing to the S&P 500's worst day in a month.",
+          "text": "The dollar concluded its strongest week in a month as investors sought a traditional safe haven due to escalating geopolitical tensions.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
