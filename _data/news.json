@@ -1,22 +1,22 @@
 {
-  "date": "25 July 2026",
-  "generated_at": "2026-07-24T21:00:24.687960+00:00",
+  "date": "26 July 2026",
+  "generated_at": "2026-07-25T21:00:24.608787+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ten people were killed in a Russian attack on a drone exhibition near Kyiv, with ballistic missiles hitting the event attended by prominent members of the Ukrainian defence industry.",
+          "text": "Wildfires are spreading rapidly across France and Spain, forcing over 250,000 people to evacuate their homes. Spanish authorities have warned of 'complex hours' ahead as firefighters battle to contain the blazes.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US and Iran traded more strikes in the Gulf, increasing fears of escalation as Iran condemned the US plan to use frozen Iranian assets for war damages.",
+          "text": "Russian forces launched a missile attack on a drone exhibition near Kyiv, killing ten people, including prominent members of the Ukrainian defence industry. This incident occurred amidst ongoing political challenges for Ukrainian President Zelensky following his decision to remove the defence minister.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A health worker is being monitored in a London hospital for Ebola after being evacuated from the Democratic Republic of the Congo, where an outbreak of the disease is occurring.",
+          "text": "A health worker who had been working in the Democratic Republic of the Congo, where an Ebola outbreak is ongoing, is now being monitored in a London hospital for potential Ebola infection. This highlights the global reach of health concerns.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Plans for worker accommodation for a $1.5 billion Queensland wind farm are facing opposition from Kingaroy residents, despite the proposed $68 million investment.",
+          "text": "An Illawarra family's attempt to build a second modular home on their property has been deemed by authorities to constitute a \"manufactured housing estate,\" leading to a two-year struggle.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Four regional RSL sub-branches in Sunraysia, Victoria, are merging to sustain veterans' services amid declining numbers and increased administrative burdens faced by RSLs across the state.",
+          "text": "Small towns in outback Queensland, such as Yaraka, are facing the disappearance of public pools due to local councils' inability to afford replacements.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australian households may face an interest rate hike and petrol prices exceeding $2 per litre, according to economists, as the escalating Middle East crisis drives global crude oil prices above $US100 a barrel.",
+          "text": "A proposed mega datacentre in outer Melbourne, nearly six times the size of Chadstone shopping centre, is sparking national debate and a petition for careful assessment.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Commodity trading giant Vitol Group distributed $5.9 billion to its executives and senior staff last year through share buybacks, despite its profits halving to $4.2 billion.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "US tech groups have eliminated 140,000 jobs amidst an AI spending boom, indicating a significant reshaping of Silicon Valley while the broader US jobs market remains stable.",
+          "text": "Investors are increasing their bets on a Federal Reserve rate hike following a sharp surge in oil prices, leading many to believe next week's US central bank meeting will be 'live'.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The dollar concluded its strongest week in a month as investors sought a traditional safe haven due to escalating geopolitical tensions.",
+          "text": "Big Tech's demand for AI investment is causing a surge in bond sales, significantly impacting the US corporate bond market.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Fewer investors than ever believe central bankers will successfully bring inflation back to target levels, indicating a shift in market expectations regarding monetary policy.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
