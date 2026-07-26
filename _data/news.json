@@ -1,24 +1,24 @@
 {
-  "date": "26 July 2026",
-  "generated_at": "2026-07-25T21:00:24.608787+00:00",
+  "date": "27 July 2026",
+  "generated_at": "2026-07-26T21:00:23.860715+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Wildfires are spreading rapidly across France and Spain, forcing over 250,000 people to evacuate their homes. Spanish authorities have warned of 'complex hours' ahead as firefighters battle to contain the blazes.",
+          "text": "Ten people were killed in a Russian attack on a drone exhibition near Kyiv, with ballistic missiles hitting the event attended by Ukrainian defence industry members.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russian forces launched a missile attack on a drone exhibition near Kyiv, killing ten people, including prominent members of the Ukrainian defence industry. This incident occurred amidst ongoing political challenges for Ukrainian President Zelensky following his decision to remove the defence minister.",
+          "text": "Israeli settlers reportedly set fire to mosques, cars, and farmland in the West Bank, following a clash that resulted in the deaths of four Palestinians and two Israelis.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A health worker who had been working in the Democratic Republic of the Congo, where an Ebola outbreak is ongoing, is now being monitored in a London hospital for potential Ebola infection. This highlights the global reach of health concerns.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Firefighters are battling wildfires near Bordeaux, France, with over 330,000 people evacuated from blazes across France and Spain.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "An Illawarra family's attempt to build a second modular home on their property has been deemed by authorities to constitute a \"manufactured housing estate,\" leading to a two-year struggle.",
+          "text": "Secret reports have revealed that tunnel workers on major Australian infrastructure projects were repeatedly exposed to silica dust levels far beyond workplace standards.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Small towns in outback Queensland, such as Yaraka, are facing the disappearance of public pools due to local councils' inability to afford replacements.",
+          "text": "Hobart's deputy lord mayor has apologised for taking snacks and drinks from a council lounge over several years, an issue that continues to be a point of contention among councillors.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A proposed mega datacentre in outer Melbourne, nearly six times the size of Chadstone shopping centre, is sparking national debate and a petition for careful assessment.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A nationwide test of the new AusAlert emergency system is scheduled for this afternoon, with a loud siren expected to sound on phones across Australia.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Investors are increasing their bets on a Federal Reserve rate hike following a sharp surge in oil prices, leading many to believe next week's US central bank meeting will be 'live'.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Big Tech's demand for AI investment is causing a surge in bond sales, significantly impacting the US corporate bond market.",
+          "text": "Bond traders anticipate a potential Federal Reserve interest rate hike this week, with risks mounting due to flaring Middle East tensions that have driven up oil prices and boosted inflation concerns.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Fewer investors than ever believe central bankers will successfully bring inflation back to target levels, indicating a shift in market expectations regarding monetary policy.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "China is increasing its funding for green energy deals through its Belt and Road Initiative, capitalizing on the rising demand for renewables as the Middle East conflict impacts oil demand.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Australia's Prime Minister Anthony Albanese plans to directly address former President Donald Trump regarding new tariffs announced by Washington, which Albanese describes as unjustified.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
