@@ -1,24 +1,24 @@
 {
-  "date": "28 July 2026",
-  "generated_at": "2026-07-27T21:00:23.367771+00:00",
+  "date": "29 July 2026",
+  "generated_at": "2026-07-28T21:00:24.529462+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Wildfires continue to devastate parts of Europe, with a blaze near Bordeaux, France, tearing through over 162 square miles in less than four days, leading to concerns about further evacuations.",
+          "text": "Wildfires in south-west France are flaring up again as the region prepares for a new heatwave with temperatures expected to reach 40C, complicating efforts to contain the blazes.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Uganda has initiated emergency food handouts after 19 people died from hunger, following months of drought and crop failures that have left 1.5 million people facing malnutrition.",
+          "text": "Uganda has started emergency food handouts following the deaths of 19 people from hunger, after months of drought and crop failures left 1.5 million people facing malnutrition in the Karamoja region.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Shots were fired near the US consulate in Toronto for the second time this year; no one was injured, and police engaged in a high-speed chase but failed to apprehend the suspect.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Two Russian men have been jailed in Angola after being found guilty of terrorism and spying, in connection with an alleged plan to stage a coup and organize deadly demonstrations over fuel prices last year.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Royal Commission on Antisemitism and Social Cohesion is ongoing in Sydney, focusing on education and training improvements to prevent hate.",
+          "text": "Victoria has a new premier after Ben Carroll was voted in by the Labor party, following Jacinta Allan's resignation.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Police have charged nine teenagers over alleged carjackings in Melbourne's northern suburbs, with the group believed to be responsible for 18 incidents this month.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Victoria Premier Jacinta Allan is facing a leadership challenge, with Ben Carroll nominating himself ahead of a Labor caucus meeting.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "Prime Minister Anthony Albanese has praised Sally McManus and Michele O’Neil as \"giants\" following their surprise announcement to step down from the ACTU.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Hundreds of social housing tenants in Queensland have been evicted after a review found they either owned property or earned more than $80,000 annually.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Investors are increasingly concerned about the rising credit risks for Big Tech companies due to a surge in borrowing to fund massive investments in data centers for AI development.",
+          "text": "Chip stocks experienced a significant sell-off, with the Nasdaq 100 briefly entering correction territory, even as Apple's valuation topped $5 trillion for the first time, benefiting from its lower AI spending and investor flight to safety.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Oil prices tumbled significantly after the US paused daily strikes against Iran and tankers resumed loading at a Kazakh export terminal, easing supply pressures in the market.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "JPMorgan Chase & Co. analysts indicated that an in-house indicator is now flashing a \"buy-signal\" for the S&P 500 Index, suggesting a potential rally.",
+          "text": "Emerging market currencies saw mixed trading as oil prices plunged due to optimism regarding US-Iran talks, and traders adjusted positions ahead of the Federal Reserve's interest rate decision.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "FIFA plans to launch a $20 billion commercial vehicle to attract external investors, with Joshua Kushner expected to lead an investment group, as the governing body seeks to capitalize on the World Cup's commercial potential.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
