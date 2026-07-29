@@ -1,22 +1,22 @@
 {
-  "date": "29 July 2026",
-  "generated_at": "2026-07-28T21:00:24.529462+00:00",
+  "date": "30 July 2026",
+  "generated_at": "2026-07-29T21:01:21.639759+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Wildfires in south-west France are flaring up again as the region prepares for a new heatwave with temperatures expected to reach 40C, complicating efforts to contain the blazes.",
+          "text": "More than 100 aftershocks have hit Japan after a powerful earthquake killed 13 people, with officials urging continued vigilance as aftershocks could reach magnitude 7.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Uganda has started emergency food handouts following the deaths of 19 people from hunger, after months of drought and crop failures left 1.5 million people facing malnutrition in the Karamoja region.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Two firefighters have died in Crete as wildfires threaten parts of southern Europe, with gale-force winds prompting evacuations and other parts of the continent also battling fires.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Two Russian men have been jailed in Angola after being found guilty of terrorism and spying, in connection with an alleged plan to stage a coup and organize deadly demonstrations over fuel prices last year.",
+          "text": "Uganda has begun emergency food handouts after 19 people died from hunger, following months of drought and crop failures that have left 1.5 million people facing malnutrition.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Victoria has a new premier after Ben Carroll was voted in by the Labor party, following Jacinta Allan's resignation.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "Police have charged nine teenagers over alleged carjackings in Melbourne's northern suburbs, with the group believed to be responsible for 18 incidents this month.",
+          "text": "Poultry farmers in South Australia are concerned about the local spread of H5 bird flu, prompting alerts in coastal communities.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Hundreds of social housing tenants in Queensland have been evicted after a review found they either owned property or earned more than $80,000 annually.",
+          "text": "Advocates are calling for a new National Rental Affordability Scheme after thousands of people face significant rent increases as housing subsidies end.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Three people have died in a house fire in Wiley Park, Sydney.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Chip stocks experienced a significant sell-off, with the Nasdaq 100 briefly entering correction territory, even as Apple's valuation topped $5 trillion for the first time, benefiting from its lower AI spending and investor flight to safety.",
+          "text": "The Federal Reserve maintained interest rates, despite concerns about inflation fueled by rising oil prices and geopolitical tensions, with some FOMC members advocating for higher borrowing costs.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Emerging market currencies saw mixed trading as oil prices plunged due to optimism regarding US-Iran talks, and traders adjusted positions ahead of the Federal Reserve's interest rate decision.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Tech giants Meta and Qualcomm reported disappointing sales and profits, with Meta's shares tumbling due to high AI spending, while Microsoft's cloud business saw a boost from its AI investments.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "FIFA plans to launch a $20 billion commercial vehicle to attract external investors, with Joshua Kushner expected to lead an investment group, as the governing body seeks to capitalize on the World Cup's commercial potential.",
+          "text": "Oil markets are increasingly volatile, with prices surging after geopolitical events and US oil inventories falling to 'precariously low' levels, raising concerns about global supply disruptions.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
