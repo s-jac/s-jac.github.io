@@ -1,22 +1,22 @@
 {
-  "date": "30 July 2026",
-  "generated_at": "2026-07-29T21:01:21.639759+00:00",
+  "date": "31 July 2026",
+  "generated_at": "2026-07-30T21:00:36.545520+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "More than 100 aftershocks have hit Japan after a powerful earthquake killed 13 people, with officials urging continued vigilance as aftershocks could reach magnitude 7.",
+          "text": "The US has launched 'heavy' strikes on Iran following an attempted attack on American troops, marking a renewed period of hostilities between the two nations.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Two firefighters have died in Crete as wildfires threaten parts of southern Europe, with gale-force winds prompting evacuations and other parts of the continent also battling fires.",
+          "text": "Hundreds of migrants swam from Morocco to the Spanish enclave of Ceuta, leading its leader to declare resources overwhelmed and call for Spanish government intervention.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Uganda has begun emergency food handouts after 19 people died from hunger, following months of drought and crop failures that have left 1.5 million people facing malnutrition.",
+          "text": "A US government map of Africa mislabeled every country during a global conference on Aids in Brazil, for which the State Department has taken full responsibility.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Poultry farmers in South Australia are concerned about the local spread of H5 bird flu, prompting alerts in coastal communities.",
+          "text": "South Australia is set to launch an Australian-first Veterans Court Pilot Program, which advocates hope will help break the cycle of offending among veterans.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Advocates are calling for a new National Rental Affordability Scheme after thousands of people face significant rent increases as housing subsidies end.",
+          "text": "El Ni\n\n\n\no is predicted to deliver Australia's hottest spring on record, potentially leading to widespread droughts and fires.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Three people have died in a house fire in Wiley Park, Sydney.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The Governor General has warned that a \"growing catastrophe\" threatens to undermine democracy in Australia, citing a widespread failure to understand and engage with the civic underpinnings of the nation's democracy.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Federal Reserve maintained interest rates, despite concerns about inflation fueled by rising oil prices and geopolitical tensions, with some FOMC members advocating for higher borrowing costs.",
+          "text": "Citadel has acquired Situational Awareness's equity holdings following significant AI-related losses, coming after urgent talks between Leopold Aschenbrenner’s firm and its investors.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Tech giants Meta and Qualcomm reported disappointing sales and profits, with Meta's shares tumbling due to high AI spending, while Microsoft's cloud business saw a boost from its AI investments.",
+          "text": "Apple has demonstrated strong iPhone sales, with smartphone revenue increasing by over a fifth, defying a general downturn in the smartphone market where rivals are struggling.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Oil markets are increasingly volatile, with prices surging after geopolitical events and US oil inventories falling to 'precariously low' levels, raising concerns about global supply disruptions.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Chip stocks experienced their largest advance since April 2025, driven by a rebound in major chipmakers as investors bought the dip on speculation that the artificial intelligence trade still has momentum.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
