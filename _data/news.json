@@ -1,22 +1,22 @@
 {
-  "date": "3 August 2026",
-  "generated_at": "2026-08-02T21:00:24.983824+00:00",
+  "date": "4 August 2026",
+  "generated_at": "2026-08-03T21:00:29.592909+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Two crew members, a Danish and a Greek national, were killed after firefighting helicopters collided in Greece; a British pilot and another Greek crew member survived the incident.",
+          "text": "Russia reports that a Ukrainian drone attack on a busy Black Sea resort killed seven people, including three children, and injured 40 others.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "At least 13 people were killed in Israeli strikes on Gaza, which Israel stated targeted military operatives, after Hamas reportedly agreed to a disarmament deal.",
+          "text": "Analysts warn that the threat to oil tankers in the Middle East is at its worst since the start of the Iran war, due to fresh attacks on alternative shipping routes.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The EU plans an urgent meeting of interior ministers to discuss the Ceuta crisis, as divisions remain within the bloc over the mass crossing of migrants into the Spanish territory from Morocco.",
+          "text": "European Commission President Ursula von der Leyen has called for stronger EU borders and action in five areas of migration control following the Ceuta crisis, which saw tens of thousands cross from Morocco into the Spanish enclave.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "New South Wales Opposition Leader Kellie Sloane is under increased scrutiny as the ICAC continues its hearings, with a senior parliamentary colleague expected to provide testimony.",
+          "text": "The leader of a prominent US Jewish organisation has warned Australia faces a critical test in addressing the rise of antisemitism.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Murrumbidgee Council in NSW is set to trial a four-day working week, which will provide staff with 52 long weekends annually starting next year.",
+          "text": "The Queensland government wrote off nearly $140 million in fines last financial year, almost doubling the amount from two years prior.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An exclusive report reveals a record number of First Nations people died in NSW prison custody last year, raising concerns among advocates that this year's figures could be even higher.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Hundreds of people protested a One Nation fundraiser in Hawthorn East, Melbourne, which was attended by Pauline Hanson.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "AstraZeneca is reportedly in talks to acquire Bristol Myers Squibb, a deal that would create one of the world's largest pharmaceutical companies with an estimated value of $400 billion.",
+          "text": "Japan's Finance Minister Satsuki Katayama has confirmed the country's readiness for further yen intervention, including joint action with the US, to counter 'disorderly movements' in the currency market.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "America's largest companies are reporting strong profits, with S&P 500 groups on track for their best earnings in five years, even as consumers face higher costs.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Italy's Prysmian is in advanced discussions to acquire Atkore Inc., an electrical manufacturing company based in the US.",
+          "text": "Williams Companies has agreed to acquire Momentum Midstream LLC for up to $5.5 billion, expanding its natural gas network along the US Gulf Coast.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "AstraZeneca investors have expressed concerns over potential mega-merger talks with Bristol Myers Squibb, citing looming patent cliffs and antitrust risks in a possible $400 billion tie-up.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
