@@ -1,22 +1,22 @@
 {
-  "date": "5 August 2026",
-  "generated_at": "2026-08-04T21:00:24.845656+00:00",
+  "date": "6 August 2026",
+  "generated_at": "2026-08-05T21:00:25.003701+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine has accused Russia of committing a war crime after a video emerged showing a civilian being pursued by a Russian drone in what Ukraine described as a 'human safari' attack.",
+          "text": "Ukraine is facing a critical shortage of Patriot interceptors, leaving its cities vulnerable to Russian missile attacks, according to Ukrainian officials after a deadly strike in Kyiv.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The EU has praised Spain's rapid handling of the Ceuta migrant crisis, with approximately 70,000 of the 72,000 individuals who illegally entered Ceuta last week having been returned to Morocco.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The US State Department plans to close five consulates in various countries, including Canada, Japan, and Cameroon, raising concerns that China might expand its diplomatic presence in these regions.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Anti-LGBTQ+ laws are reportedly increasing across West Africa, with campaigners warning that politicians are using LGBTQ+ individuals as scapegoats to maintain power.",
+          "text": "UN forecasters warn that the El Niño weather phenomenon could drive an additional 50 million people into acute hunger across 45 countries by the end of next year.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "An investigation by regulators has found the founder and two other senior staff members of an alternative Melbourne school unfit for positions of authority within the Victorian education system.",
+          "text": "New South Wales is experiencing its 30th consecutive warmer than average winter, leading to the rapid disappearance of snowy winters in regional areas.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Federal police are investigating the vandalism of a Melbourne defence manufacturer and the torching of nearby cars as a potential terrorist act by 'far-left extremists', with perpetrators facing possible life imprisonment.",
+          "text": "Australian MPs will assess the country's preparedness for war, proposing a formal plan for the first time since World War II amidst growing regional conflict concerns.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Nearly 1,500 properties bought using Australia’s first home buyer's 5% deposit scheme have been converted into investments, with some high-income earners utilizing the program.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
-        },
-        {
-          "text": "The Home Affairs minister has quietly de-prioritised overseas skilled workers to reduce net overseas migration, a move the Coalition criticises as 'managing migration by stealth'.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "SpaceX reported a 92% rise in revenue in its debut earnings report, outperforming analyst expectations for the second quarter, although shares dropped as much as 8%.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The US has suspended government activities in Michoacán, Mexico, jeopardizing avocado imports from the region, the largest producer for the US market.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "US stocks jumped, with the S&P 500 hitting a record high, after reports of an imminent deal to reopen the Strait of Hormuz and strong corporate earnings.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Gold prices surged, marking their biggest jump since February, due to reduced expectations for Federal Reserve rate hikes following prospects of a deal to reopen the Strait of Hormuz.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Toyota plans a $6.3 billion buyback, with a weak yen boosting its outlook and the company expecting to sell over 5 million hybrid electric vehicles this year.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Two private credit funds managed by Blue Owl Capital Inc. bought back a combined $90 million of shares for the second consecutive quarter, aiming to stabilize the vehicles' value.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
