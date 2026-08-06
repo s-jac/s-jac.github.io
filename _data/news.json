@@ -1,22 +1,22 @@
 {
-  "date": "6 August 2026",
-  "generated_at": "2026-08-05T21:00:25.003701+00:00",
+  "date": "7 August 2026",
+  "generated_at": "2026-08-06T21:00:43.003779+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine is facing a critical shortage of Patriot interceptors, leaving its cities vulnerable to Russian missile attacks, according to Ukrainian officials after a deadly strike in Kyiv.",
+          "text": "Ukraine launched strikes on two oil refineries deep within Russian territory, with President Zelenskyy stating the attacks aim to limit Russia's war financing revenues.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US State Department plans to close five consulates in various countries, including Canada, Japan, and Cameroon, raising concerns that China might expand its diplomatic presence in these regions.",
+          "text": "Authorities in the Democratic Republic of Congo are concerned that the Ebola virus responsible for a large outbreak may be mutating, as cases have exceeded 4,000.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "UN forecasters warn that the El Niño weather phenomenon could drive an additional 50 million people into acute hunger across 45 countries by the end of next year.",
+          "text": "Nigerian security forces successfully rescued over 300 hostages in the Kainji Lake national park, an operation hailed as the 'largest single-day recovery' by the president.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "New South Wales is experiencing its 30th consecutive warmer than average winter, leading to the rapid disappearance of snowy winters in regional areas.",
+          "text": "The Bureau of Meteorology has ordered an inquiry following a tumultuous year, as farmers express a loss of trust in the accuracy of weather information crucial for agricultural decisions.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australian MPs will assess the country's preparedness for war, proposing a formal plan for the first time since World War II amidst growing regional conflict concerns.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Nearly 1,500 properties bought using Australia’s first home buyer's 5% deposit scheme have been converted into investments, with some high-income earners utilizing the program.",
+          "text": "The criminal trial of veteran broadcaster Alan Jones has commenced, nearly two years after his arrest on multiple charges of indecent assault and sexual touching, which he denies.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "One Nation leader Pauline Hanson is facing accusations of using party funds to cover the cost of a stay at a five-star hotel in London last month.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US has suspended government activities in Michoacán, Mexico, jeopardizing avocado imports from the region, the largest producer for the US market.",
+          "text": "Japanese beverage maker Kirin Holdings Co. is set to acquire Canadian vitamins and supplements firm Jamieson Wellness Inc. in a deal valued at approximately $1.4 billion.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Gold prices surged, marking their biggest jump since February, due to reduced expectations for Federal Reserve rate hikes following prospects of a deal to reopen the Strait of Hormuz.",
+          "text": "Alphabet Inc. successfully raised $25 billion through a bond sale, which saw strong demand due to generous yield payouts, marking one of the largest order books for AI-related debt this year.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Two private credit funds managed by Blue Owl Capital Inc. bought back a combined $90 million of shares for the second consecutive quarter, aiming to stabilize the vehicles' value.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Jane Street, a secretive trading firm, is reportedly in discussions to move its $11 billion in debt to investors, including Pimco, through a private credit deal that would enable further investments in AI.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
