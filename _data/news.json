@@ -1,22 +1,22 @@
 {
-  "date": "7 August 2026",
-  "generated_at": "2026-08-06T21:00:43.003779+00:00",
+  "date": "8 August 2026",
+  "generated_at": "2026-08-07T21:00:24.460145+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine launched strikes on two oil refineries deep within Russian territory, with President Zelenskyy stating the attacks aim to limit Russia's war financing revenues.",
+          "text": "A 14-year-old in Thailand killed his grandparents and five teachers in a shooting incident at his home and school.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Authorities in the Democratic Republic of Congo are concerned that the Ebola virus responsible for a large outbreak may be mutating, as cases have exceeded 4,000.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Spain will impose border controls against Italy due to an intensifying dispute over a recent influx of approximately 78,000 migrants from Morocco into the Spanish exclave of Ceuta.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Nigerian security forces successfully rescued over 300 hostages in the Kainji Lake national park, an operation hailed as the 'largest single-day recovery' by the president.",
+          "text": "Nigerian security forces have rescued over 300 hostages in what is described as the largest single-day recovery operation, freeing captives held in the Kainji Lake national park.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Bureau of Meteorology has ordered an inquiry following a tumultuous year, as farmers express a loss of trust in the accuracy of weather information crucial for agricultural decisions.",
+          "text": "The Australian Bureau of Statistics is deploying field officers to services assisting people experiencing homelessness to ensure everyone is counted in the upcoming Census.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The criminal trial of veteran broadcaster Alan Jones has commenced, nearly two years after his arrest on multiple charges of indecent assault and sexual touching, which he denies.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Prime Minister Albanese faces a rekindled debate on gambling regulations as an inquiry into proposed crackdowns on wagering advertising garners significant attention.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation leader Pauline Hanson is facing accusations of using party funds to cover the cost of a stay at a five-star hotel in London last month.",
+          "text": "The US Senate has confirmed former Republican congressman David Brat as the new ambassador to Australia, filling a diplomatic vacancy that has persisted for nearly two years.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Japanese beverage maker Kirin Holdings Co. is set to acquire Canadian vitamins and supplements firm Jamieson Wellness Inc. in a deal valued at approximately $1.4 billion.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Alphabet Inc. successfully raised $25 billion through a bond sale, which saw strong demand due to generous yield payouts, marking one of the largest order books for AI-related debt this year.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Jane Street, a secretive trading firm, is reportedly in discussions to move its $11 billion in debt to investors, including Pimco, through a private credit deal that would enable further investments in AI.",
+          "text": "The US economy unexpectedly shed 23,000 jobs in July, a lacklustre figure that prompted traders to scale back bets on further Federal Reserve rate rises.",
           "source": "FT",
           "url": "https://www.ft.com"
+        },
+        {
+          "text": "The dollar fell to its lowest level since May as soft US labor data reduced expectations for near-term Federal Reserve interest rate hikes.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "African countries are increasingly moving away from the dollar, with the Chinese yuan and local currencies poised to benefit from this shift.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
