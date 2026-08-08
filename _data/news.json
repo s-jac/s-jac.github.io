@@ -1,22 +1,22 @@
 {
-  "date": "8 August 2026",
-  "generated_at": "2026-08-07T21:00:24.460145+00:00",
+  "date": "9 August 2026",
+  "generated_at": "2026-08-08T21:00:25.090288+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A 14-year-old in Thailand killed his grandparents and five teachers in a shooting incident at his home and school.",
+          "text": "Oman reported positive talks regarding a new shipping route through the Strait of Hormuz, though a clear breakthrough has not yet been announced.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Spain will impose border controls against Italy due to an intensifying dispute over a recent influx of approximately 78,000 migrants from Morocco into the Spanish exclave of Ceuta.",
+          "text": "The US has offered $1 billion in security aid to Colombia as its new right-wing president, Abelardo de la Espriella, took office, vowing an \"all-out war\" on \"narco-terrorism.\"",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Nigerian security forces have rescued over 300 hostages in what is described as the largest single-day recovery operation, freeing captives held in the Kainji Lake national park.",
+          "text": "Spain will introduce temporary border checks on visitors from Italy, responding to similar measures by Rome following a large influx of migrants into the Spanish exclave of Ceuta.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Australian Bureau of Statistics is deploying field officers to services assisting people experiencing homelessness to ensure everyone is counted in the upcoming Census.",
+          "text": "The number of fur seals on Deen Maar Island, once Australia's largest colony, has significantly declined due to pollution affecting pups.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Prime Minister Albanese faces a rekindled debate on gambling regulations as an inquiry into proposed crackdowns on wagering advertising garners significant attention.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Centrelink is pursuing debts over 40 years old, despite previous agreements to waive old arrears, raising concerns from advocates about accuracy.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "The US Senate has confirmed former Republican congressman David Brat as the new ambassador to Australia, filling a diplomatic vacancy that has persisted for nearly two years.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Experts are raising 'alarm bells' over the hospitality recruitment app Supp, which classifies gig-workers as contractors and requires ABNs, potentially denying them casual work entitlements.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US economy unexpectedly shed 23,000 jobs in July, a lacklustre figure that prompted traders to scale back bets on further Federal Reserve rate rises.",
+          "text": "Berkshire Hathaway's chief, Greg Abel, has ended a three-year selling streak by investing a net $20 billion into stocks, putting Warren Buffett's cash pile to work.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The dollar fell to its lowest level since May as soft US labor data reduced expectations for near-term Federal Reserve interest rate hikes.",
+          "text": "Highly-indebted companies are increasingly shifting from private credit loans to cheaper bank loan markets, driven by the current environment of higher-for-longer interest rates.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "African countries are increasingly moving away from the dollar, with the Chinese yuan and local currencies poised to benefit from this shift.",
+          "text": "African countries are increasingly moving away from the US dollar, with the yuan and local currencies poised to benefit from this shift.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
