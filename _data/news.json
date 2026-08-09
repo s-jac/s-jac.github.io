@@ -1,22 +1,22 @@
 {
-  "date": "9 August 2026",
-  "generated_at": "2026-08-08T21:00:25.090288+00:00",
+  "date": "10 August 2026",
+  "generated_at": "2026-08-09T21:00:24.927792+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Oman reported positive talks regarding a new shipping route through the Strait of Hormuz, though a clear breakthrough has not yet been announced.",
+          "text": "Israel has rejected a 15-point plan for Gaza proposed by Donald Trump, with Prime Minister Netanyahu stating the military will not withdraw until Hamas is disarmed.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US has offered $1 billion in security aid to Colombia as its new right-wing president, Abelardo de la Espriella, took office, vowing an \"all-out war\" on \"narco-terrorism.\"",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A massive outbreak of Ebola in the Democratic Republic of Congo could be mutating, as cases surpass 4,000 and health officials plan to go door-to-door to find patients.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Spain will introduce temporary border checks on visitors from Italy, responding to similar measures by Rome following a large influx of migrants into the Spanish exclave of Ceuta.",
+          "text": "The US State Department is set to close five foreign consulates and missions in Canada, Grenada, Japan, Indonesia, and Cameroon.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The number of fur seals on Deen Maar Island, once Australia's largest colony, has significantly declined due to pollution affecting pups.",
+          "text": "Queensland Deputy Premier Jarrod Bleijie is under scrutiny for personally approving town planning changes that promote house development in an area where landowners included a developer who had recently donated $50,000 for a private event.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Centrelink is pursuing debts over 40 years old, despite previous agreements to waive old arrears, raising concerns from advocates about accuracy.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "The most dysfunctional emergency departments in Victoria are located in regional areas, with doctors reporting overcrowded corridors, patient safety lapses, and burnt-out staff.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Experts are raising 'alarm bells' over the hospitality recruitment app Supp, which classifies gig-workers as contractors and requires ABNs, potentially denying them casual work entitlements.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "An investigation is underway after a woman's body was discovered inside a suitcase near Oallen in the NSW Southern Highlands.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Berkshire Hathaway's chief, Greg Abel, has ended a three-year selling streak by investing a net $20 billion into stocks, putting Warren Buffett's cash pile to work.",
+          "text": "Investors are showing renewed interest in European stocks, with companies in the Stoxx Europe 600 projected to achieve a 22% increase in profits for the second quarter, easing concerns about global tensions.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Highly-indebted companies are increasingly shifting from private credit loans to cheaper bank loan markets, driven by the current environment of higher-for-longer interest rates.",
+          "text": "Upcoming inflation data is crucial for the Federal Reserve's interest rate decisions, as another firm reading could keep a September rate hike on the table.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "African countries are increasingly moving away from the US dollar, with the yuan and local currencies poised to benefit from this shift.",
+          "text": "China is emerging as a significant force in the global oil market, with its influence potentially surpassing that of OPEC, while African countries are increasingly favoring the yuan and local currencies over the dollar.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
