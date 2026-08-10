@@ -1,22 +1,22 @@
 {
-  "date": "10 August 2026",
-  "generated_at": "2026-08-09T21:00:24.927792+00:00",
+  "date": "11 August 2026",
+  "generated_at": "2026-08-10T21:00:26.620727+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Israel has rejected a 15-point plan for Gaza proposed by Donald Trump, with Prime Minister Netanyahu stating the military will not withdraw until Hamas is disarmed.",
+          "text": "Russian officials reported that a Ukrainian drone strike deep within Russia killed at least 13 people and injured 75, marking one of the deadliest such attacks since the full-scale invasion.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A massive outbreak of Ebola in the Democratic Republic of Congo could be mutating, as cases surpass 4,000 and health officials plan to go door-to-door to find patients.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Global oceans experienced their hottest July on record, partly due to developing El Niño conditions, while wildfires continue to spread across western Europe and Canada.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The US State Department is set to close five foreign consulates and missions in Canada, Grenada, Japan, Indonesia, and Cameroon.",
+          "text": "A 7.4-magnitude earthquake in western Colombia has resulted in scores of deaths and the collapse of buildings in several major cities, with people reportedly trapped in Cali.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Queensland Deputy Premier Jarrod Bleijie is under scrutiny for personally approving town planning changes that promote house development in an area where landowners included a developer who had recently donated $50,000 for a private event.",
+          "text": "South Australia is pioneering a royal commission into AI, following its global lead in restricting children's social media access, potentially influencing national policy.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The most dysfunctional emergency departments in Victoria are located in regional areas, with doctors reporting overcrowded corridors, patient safety lapses, and burnt-out staff.",
+          "text": "An accident involving an Australian-contracted aircraft in Antarctica has prompted new safety protocols on the continent, according to internal government documents.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An investigation is underway after a woman's body was discovered inside a suitcase near Oallen in the NSW Southern Highlands.",
+          "text": "Australians across the country are expected to complete the 2026 Census form today as it is officially Census Day.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Investors are showing renewed interest in European stocks, with companies in the Stoxx Europe 600 projected to achieve a 22% increase in profits for the second quarter, easing concerns about global tensions.",
+          "text": "Wall Street giants including Apollo, Blackstone, and Goldman Sachs are partnering with Nvidia to raise $500 billion for AI financing, aiming to fund the booming data center industry.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Upcoming inflation data is crucial for the Federal Reserve's interest rate decisions, as another firm reading could keep a September rate hike on the table.",
+          "text": "Gold prices are nearing $4,400 per ounce as traders assess the standoff in the Strait of Hormuz and await a key US inflation report, contributing to weakening emerging-market currencies.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "China is emerging as a significant force in the global oil market, with its influence potentially surpassing that of OPEC, while African countries are increasingly favoring the yuan and local currencies over the dollar.",
+          "text": "India's IT sector is adapting to artificial intelligence, which is creating challenges for many graduates, while China is emerging as a significant oil power, influencing global energy dynamics.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
