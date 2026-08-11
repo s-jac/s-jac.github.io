@@ -1,24 +1,24 @@
 {
-  "date": "11 August 2026",
-  "generated_at": "2026-08-10T21:00:26.620727+00:00",
+  "date": "12 August 2026",
+  "generated_at": "2026-08-11T21:00:25.094165+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russian officials reported that a Ukrainian drone strike deep within Russia killed at least 13 people and injured 75, marking one of the deadliest such attacks since the full-scale invasion.",
+          "text": "A powerful earthquake in Colombia has resulted in at least 180 deaths, with rescuers continuing efforts to find survivors trapped in collapsed buildings.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Global oceans experienced their hottest July on record, partly due to developing El Niño conditions, while wildfires continue to spread across western Europe and Canada.",
+          "text": "Ukraine's President Zelensky stated that Russia is using North Korean missiles in its strikes, citing an attack in Zaporizhzhia that killed seven people.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A 7.4-magnitude earthquake in western Colombia has resulted in scores of deaths and the collapse of buildings in several major cities, with people reportedly trapped in Cali.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Lebanon's parliament has voted to abolish the death penalty, a move that would make it the first country in the Middle East to end capital punishment if approved by the cabinet.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "South Australia is pioneering a royal commission into AI, following its global lead in restricting children's social media access, potentially influencing national policy.",
+          "text": "The Coalition plans to announce a proposal today aimed at reducing Australia's migration intake to its lowest level since 2008.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
+        },
+        {
+          "text": "A second individual has been identified as an alleged fake doctor in Melbourne's bayside region and has been prohibited from treating patients following a health watchdog investigation.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An accident involving an Australian-contracted aircraft in Antarctica has prompted new safety protocols on the continent, according to internal government documents.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Australians across the country are expected to complete the 2026 Census form today as it is officially Census Day.",
+          "text": "A man has been charged in South Australia after authorities discovered a cache of guns, other weapons, and counterfeit currency in his Adelaide residence.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Wall Street giants including Apollo, Blackstone, and Goldman Sachs are partnering with Nvidia to raise $500 billion for AI financing, aiming to fund the booming data center industry.",
+          "text": "China is tightening its control over Europe's automotive supply chain through acquisitions of local parts manufacturers, a move that is causing concern among EU officials amid resistance to Chinese exports.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Gold prices are nearing $4,400 per ounce as traders assess the standoff in the Strait of Hormuz and await a key US inflation report, contributing to weakening emerging-market currencies.",
+          "text": "Investors are making record short bets against global bonds, increasing the stakes for upcoming US inflation reports this week.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "India's IT sector is adapting to artificial intelligence, which is creating challenges for many graduates, while China is emerging as a significant oil power, influencing global energy dynamics.",
+          "text": "African countries are increasingly moving away from using the dollar, with the yuan and local currencies expected to benefit from this shift.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
