@@ -1,24 +1,24 @@
 {
-  "date": "12 August 2026",
-  "generated_at": "2026-08-11T21:00:25.094165+00:00",
+  "date": "13 August 2026",
+  "generated_at": "2026-08-12T21:00:27.140181+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A powerful earthquake in Colombia has resulted in at least 180 deaths, with rescuers continuing efforts to find survivors trapped in collapsed buildings.",
+          "text": "Major Russian grain export terminals were reportedly hit in a Ukrainian Black Sea port attack, impacting grain exports from both countries as they target each other's shipping facilities.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Ukraine's President Zelensky stated that Russia is using North Korean missiles in its strikes, citing an attack in Zaporizhzhia that killed seven people.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, with rescue operations underway for dozens still missing.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Lebanon's parliament has voted to abolish the death penalty, a move that would make it the first country in the Middle East to end capital punishment if approved by the cabinet.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The virus causing a massive Ebola outbreak in the Democratic Republic of Congo could be mutating, as cases have exceeded 4,000, prompting an escalated response to find patients.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Coalition plans to announce a proposal today aimed at reducing Australia's migration intake to its lowest level since 2008.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "A second individual has been identified as an alleged fake doctor in Melbourne's bayside region and has been prohibited from treating patients following a health watchdog investigation.",
+          "text": "The Telecommunications Industry Ombudsman has recommended a comprehensive review of telco services in regional Australia, citing systemic issues and suggesting a return to 1960s service standards.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A man has been charged in South Australia after authorities discovered a cache of guns, other weapons, and counterfeit currency in his Adelaide residence.",
+          "text": "There is mounting pressure on Prime Minister Albanese to deliver on gambling reform after allegations surfaced that some betting companies offered gamblers drugs and sex workers as incentives.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "ASIO has been urged to investigate after 147 unidentified drones were reportedly flown over Australian air bases, raising security concerns.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "China is tightening its control over Europe's automotive supply chain through acquisitions of local parts manufacturers, a move that is causing concern among EU officials amid resistance to Chinese exports.",
+          "text": "US inflation dropped to 3.4% in July, easing concerns about imminent interest rate hikes by the Federal Reserve and contributing to a rally in gold and stocks.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Investors are making record short bets against global bonds, increasing the stakes for upcoming US inflation reports this week.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "African countries are increasingly moving away from using the dollar, with the yuan and local currencies expected to benefit from this shift.",
+          "text": "China is increasingly influential in global oil markets, with The Economist suggesting its Communist Party now holds significant sway, overshadowing OPEC.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
+        },
+        {
+          "text": "A top Federal Reserve official noted that poorer Americans are struggling financially and indicated she would support an interest rate increase in September if inflation remains high.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
