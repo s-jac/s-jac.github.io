@@ -1,24 +1,24 @@
 {
-  "date": "15 August 2026",
-  "generated_at": "2026-08-14T21:00:48.162936+00:00",
+  "date": "16 August 2026",
+  "generated_at": "2026-08-15T21:00:24.992765+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Afghan women report that their lives have become unrecognizable five years into Taliban rule, citing public floggings, job losses, and life-threatening barriers to healthcare.",
+          "text": "A powerful magnitude 7.7 earthquake has killed at least 47 people in Indonesia, with search and rescue operations underway on the island of Flores.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An American missionary kidnapped in Niger nine months ago has been freed and is reportedly in good health under the care of US officials.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Moroccan authorities have detained dozens of migrants attempting to cross into the Spanish enclave of Ceuta, amidst heightened security.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Ebola outbreak in the Democratic Republic of Congo has spread to a sixth province, with a man dying in Bas-Uele after traveling from Haut-Uele, leading the WHO head to state the outbreak is on track to be the deadliest ever.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Eleven people have been killed in Israeli strikes on southern Lebanon, which Israel's military stated were in response to earlier actions against its soldiers.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A trial project in Australia is allowing everyday locals to settle refugee families in their backyards, as communities nationwide embrace refugee integration amidst ongoing immigration debates.",
+          "text": "Australia is set to launch its largest gun buyback program in decades in New South Wales, following a funding agreement between the state and federal governments. The scheme, announced after a terror attack at Bondi beach, will begin in November.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "A new housing project aims to provide secure rental accommodation for domestic violence survivors, offering a safe place for families who often flee with minimal belongings.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Nationals party is reportedly 'fighting very hard' to win Bendigo, following former Victorian premier Jacinta Allan's departure from politics.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Telstra has reported a profit and its CEO received a pay rise, despite remote areas of Australia experiencing ongoing struggles with service outages, which the company attributes to natural disasters.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A One Nation senator has controversially stated that parents who support their transgender children are engaging in 'child abuse,' claiming 'There’s male, there’s female, and then there’s mental illness.'",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Investors are returning to US stocks, driven by a strong earnings season and decreasing inflation, leading to a rebound in Wall Street.",
+          "text": "OpenAI is reportedly preparing for an IPO amidst executive departures and safety team changes, causing internal unsettlement as the ChatGPT maker moves towards a blockbuster listing.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Gold is approaching $4,400 an ounce as traders assess the Federal Reserve's interest-rate trajectory, following signs of economic cooling.",
+          "text": "Bally’s Corp. has warned investors about “substantial doubt” regarding its ability to continue as a going concern, as the company risks breaching agreements with lenders while seeking new funds.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "China is emerging as the dominant global oil power, with the Chinese Communist Party increasingly influencing decisions in the oil market.",
+          "text": "The world's biggest carry trader, Japan, has begun to exit its position by buying yen, unwinding a potentially dangerous trade.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
