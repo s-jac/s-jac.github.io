@@ -1,22 +1,22 @@
 {
-  "date": "18 August 2026",
-  "generated_at": "2026-08-17T21:00:27.586959+00:00",
+  "date": "19 August 2026",
+  "generated_at": "2026-08-18T21:00:28.791004+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Trump has threatened to bomb Oman, a US ally, if it interferes with an Iran deal, as a 60-day window for peace negotiations expires. He also stated the US would reduce military drills with South Korea after it stayed out of the Iran conflict.",
+          "text": "The UK has reaffirmed its \"100%\" support for Ukraine, with Prime Minister Rishi Sunak vowing assistance in Kyiv's \"hour of need,\" following Russia's accusations that the UK is escalating the conflict by supplying drones.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Ebola outbreak in the Democratic Republic of the Congo has become the deadliest in the country's history, with over 2,325 deaths and the virus spreading to a sixth province.",
+          "text": "The Ebola outbreak in the Democratic Republic of Congo has become the deadliest in the country's history, with over 2,300 deaths reported and the virus spreading to a sixth province.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "Russia and Ukraine have traded more deadly strikes, with Moscow reporting nine deaths and Kyiv reporting four. Additionally, Russia's prominent anti-war politician, Lev Schlosberg, was jailed for 11 years for \"discrediting\" the army.",
+          "text": "The death toll from a ferry accident on Lake Kariba in Zimbabwe has risen to 93, making it the country's deadliest transport disaster, with recovery efforts continuing.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Angus Taylor has issued an ultimatum to the prime minister, stating that the opposition's support for the National Disability Insurance Scheme is dependent on the government eliminating the 'widows' tax'.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "The NDIS reforms have passed the Senate and are expected to save taxpayers $40 billion, though concerns remain about potential impacts on thousands of participants.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "A pygmy blue whale has died after stranding off Groote Eylandt, marking what researchers believe is the first sighting of the species in the Gulf of Carpentaria.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "Alarm has been raised over the 'privacy dilemma' of facial recognition technology being used at Coles and Woolworths, with experts warning it is 'normalising surveillance'.",
+          "text": "New South Wales will implement Australia's largest gun buyback in 30 years, a jointly funded scheme initiated in response to the Bondi beach terror attack.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Police have released CCTV footage related to a Melbourne arson attack, which is linked to a violent $20 million extortion attempt by Bandidos bikie gang members.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "FT analysis indicates that private credit markets are experiencing stress levels not seen since 2017, as troubled loans continue to increase.",
+          "text": "Soaring diesel prices across the US economy threaten a new surge of inflation ahead of November's midterm elections.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Goldman Sachs plans to acquire ETF provider Neos in a deal valued at up to $2.25 billion, expanding its presence in the asset management sector.",
+          "text": "The recent rally in emerging-market assets has stalled due to a surge in long-term US Treasury yields and renewed Middle East tensions, draining demand for risk.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Grupo Casas Bahia SA has filed for bankruptcy protection in Sao Paulo, as an out-of-court debt restructuring failed to resolve its financial difficulties amidst high interest rates and tight credit.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "High tariffs on Chinese goods have led to predictable effects, with the White House's claim of a Chinese transshipment \"scam\" being questioned.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
