@@ -1,22 +1,22 @@
 {
-  "date": "20 August 2026",
-  "generated_at": "2026-08-19T21:00:29.228287+00:00",
+  "date": "21 August 2026",
+  "generated_at": "2026-08-20T21:00:46.137423+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Israel has confirmed its soldiers fired at a car in which five-year-old Hind Rajab was killed in Gaza, and has opened a criminal investigation. The child initially survived the attack and pleaded for help, but her body was later recovered along with those of six relatives.",
+          "text": "The US has announced sanctions intended to \"squash\" Iran's economy, with the Treasury Secretary stating that allies must decide if they are \"with us or against us.\"",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Seven people, including five Americans, died in a safari helicopter crash in Kenya. Among the victims were an intelligence chief from Ecuador and a Telemundo executive.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A boat capsized in north-western Nigeria, resulting in dozens of deaths, with many of the victims feared to be children.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country's history, with official data reporting at least 2,325 deaths from the virus.",
+          "text": "More than 100 people have died after an artisanal goldmine collapsed due to a landslide in the Central African Republic, and the death toll is expected to rise.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Internal Northern Territory Police data reveals a surge in the number of children and teenagers being held in police station cells under the CLP government.",
+          "text": "Police are investigating a fatal fire at a caravan park in Melbourne, where a person died early this morning. A crime scene has been established in Campbellfield.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A police task force has been launched to investigate sexual abuse complaints around Byron Bay's music scene from the early 2000s, following an ABC investigation.",
+          "text": "A High Court decision to admit a secret recording of a man admitting to raping his wife could pave the way for victims of serious crimes to use similar recordings as evidence. Family lawyers believe this opens new avenues for justice.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia's government debt is projected to briefly reach a record $1 trillion today.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Farmers and conservationists in Queensland are united in their opposition to the state parliament's critical minerals bill, calling for its repeal after it was passed without amendments.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The US government debt has reached $40 trillion, indicating a historic rate of borrowing, while the Treasury plans to increase long-term bond purchases to stabilize the market amidst rising borrowing costs.",
+          "text": "US long-term bonds experienced a slide, with the yield on 30-year Treasuries rising, despite the US Treasury's efforts to increase purchases of securities to soothe investors.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Federal Reserve officials have expressed growing concern over persistent inflation, with many policymakers ready to increase borrowing costs further.",
+          "text": "Investors are reducing their bets on interest rate rises in the US and UK, influenced by weaker economic data, even as oil prices have seen a rally.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Moderna's shares doubled after its skin cancer vaccine, developed with Merck, showed positive results in a late-stage trial, leading to significant gains and impacting short sellers.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "A key regional price benchmark for aluminum delivered to the US market declined after indications that the Trump administration would lower tariffs on certain Canadian aluminum exports.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
