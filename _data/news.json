@@ -1,22 +1,22 @@
 {
-  "date": "21 August 2026",
-  "generated_at": "2026-08-20T21:00:46.137423+00:00",
+  "date": "22 August 2026",
+  "generated_at": "2026-08-21T21:00:26.919029+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US has announced sanctions intended to \"squash\" Iran's economy, with the Treasury Secretary stating that allies must decide if they are \"with us or against us.\"",
+          "text": "Israel has re-established a closed West Bank settlement, leading to international protests and concerns from nearby Palestinian residents.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A boat capsized in north-western Nigeria, resulting in dozens of deaths, with many of the victims feared to be children.",
+          "text": "A Russian drone strike on a Ukrainian mall reportedly killed 15 people and injured 130 others, including 23 children.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "More than 100 people have died after an artisanal goldmine collapsed due to a landslide in the Central African Republic, and the death toll is expected to rise.",
+          "text": "Over 100 people have died in a goldmine collapse in the Central African Republic due to a landslide, with the death toll expected to rise.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Police are investigating a fatal fire at a caravan park in Melbourne, where a person died early this morning. A crime scene has been established in Campbellfield.",
+          "text": "Australia is expected to experience its wettest El Niño on record, with another rainband set to bring significant rainfall across the nation this week, despite El Niño typically being associated with drought.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A High Court decision to admit a secret recording of a man admitting to raping his wife could pave the way for victims of serious crimes to use similar recordings as evidence. Family lawyers believe this opens new avenues for justice.",
+          "text": "A year after the Dezi Freeman shootings, the Victorian High Country town of Porepunkah is moving forward, with businesses reporting a recovery in tourism after the lockdowns, though divisions in the community reportedly linger.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Farmers and conservationists in Queensland are united in their opposition to the state parliament's critical minerals bill, calling for its repeal after it was passed without amendments.",
+          "text": "Australia, along with the UK and Canada, has condemned Israel's decision not to pursue criminal investigations into the drone strike in Gaza that killed seven humanitarian workers, including Australian Zomi Frankcom, calling the decision 'shameful'.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US long-term bonds experienced a slide, with the yield on 30-year Treasuries rising, despite the US Treasury's efforts to increase purchases of securities to soothe investors.",
+          "text": "US ranchers are protesting Donald Trump's plan to cut taxes on beef imports, as the former president claims unnamed foreign suppliers will offer a 25% discount ahead of midterm elections, raising concerns about domestic impact.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Investors are reducing their bets on interest rate rises in the US and UK, influenced by weaker economic data, even as oil prices have seen a rally.",
+          "text": "Citadel has offloaded over 80% of the aggregate risk from the Situational Awareness stock portfolio it acquired from the AI hedge fund, with Ken Griffin's firm executing more than $4 billion worth of block trades recently.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "A key regional price benchmark for aluminum delivered to the US market declined after indications that the Trump administration would lower tariffs on certain Canadian aluminum exports.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Bond markets are causing unease among rich-world politicians as yields climb ominously, despite stock indices continuing to rise, highlighting a potential disconnect and renewed link between power and fiscal capacity.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
