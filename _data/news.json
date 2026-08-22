@@ -1,22 +1,22 @@
 {
-  "date": "22 August 2026",
-  "generated_at": "2026-08-21T21:00:26.919029+00:00",
+  "date": "23 August 2026",
+  "generated_at": "2026-08-22T21:00:32.960602+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Israel has re-established a closed West Bank settlement, leading to international protests and concerns from nearby Palestinian residents.",
+          "text": "Fourteen people have been killed in a strike on a monastery in Myanmar, with a rescue worker reporting the site was hit twice while civilians were gathered for a meditation retreat.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A Russian drone strike on a Ukrainian mall reportedly killed 15 people and injured 130 others, including 23 children.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The Ebola outbreak in the Democratic Republic of the Congo has become the deadliest in the country's history, with at least 2,325 deaths reported, and is on track to be the largest outbreak ever.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Over 100 people have died in a goldmine collapse in the Central African Republic due to a landslide, with the death toll expected to rise.",
+          "text": "More than 100 people have died after an artisanal goldmine collapsed due to a landslide in the Central African Republic, with local officials anticipating the death toll will rise as recovery efforts continue.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia is expected to experience its wettest El Niño on record, with another rainband set to bring significant rainfall across the nation this week, despite El Niño typically being associated with drought.",
+          "text": "Traditional owners in Queensland are relieved that a proposed mining project on Pilungah Reserve, which was believed to hold critical minerals, will not proceed, avoiding a potential repeat of the Juukan Gorge disaster.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A year after the Dezi Freeman shootings, the Victorian High Country town of Porepunkah is moving forward, with businesses reporting a recovery in tourism after the lockdowns, though divisions in the community reportedly linger.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A new scheme to replace the NDIS for children with autism, called the Thriving Kids program, is facing questions from the Queensland Premier and many parents, as the state has refused to sign up for it.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Australia, along with the UK and Canada, has condemned Israel's decision not to pursue criminal investigations into the drone strike in Gaza that killed seven humanitarian workers, including Australian Zomi Frankcom, calling the decision 'shameful'.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A three-part documentary series is set to mark 25 years since the Tampa diplomatic stand-off, aiming to provide a nuanced perspective on the event that redefined Australia's border protection policy.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US ranchers are protesting Donald Trump's plan to cut taxes on beef imports, as the former president claims unnamed foreign suppliers will offer a 25% discount ahead of midterm elections, raising concerns about domestic impact.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The upcoming Jackson Hole Symposium will focus on Federal Reserve Chairman Kevin Marsh's first annual address, with market participants closely watching for insights into monetary policy.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Citadel has offloaded over 80% of the aggregate risk from the Situational Awareness stock portfolio it acquired from the AI hedge fund, with Ken Griffin's firm executing more than $4 billion worth of block trades recently.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Companies seeking to finance data center projects are increasingly issuing investment-grade debt to junk bond buyers, attracted by the higher yields.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Bond markets are causing unease among rich-world politicians as yields climb ominously, despite stock indices continuing to rise, highlighting a potential disconnect and renewed link between power and fiscal capacity.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Early labor-market data suggests that Artificial Intelligence's primary impact is currently more evident in wages than in overall employment levels.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
