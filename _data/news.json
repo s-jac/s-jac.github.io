@@ -1,24 +1,24 @@
 {
-  "date": "23 August 2026",
-  "generated_at": "2026-08-22T21:00:32.960602+00:00",
+  "date": "24 August 2026",
+  "generated_at": "2026-08-23T21:00:27.435822+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Fourteen people have been killed in a strike on a monastery in Myanmar, with a rescue worker reporting the site was hit twice while civilians were gathered for a meditation retreat.",
+          "text": "The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country's history, with at least 2,325 deaths, and is on track to become the biggest outbreak ever.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "More than 100 people have died after an artisanal goldmine collapsed in the Central African Republic due to a landslide, with recovery efforts ongoing and the death toll expected to rise.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "DR Congo and M23 rebels have agreed on a roadmap for peace talks following a meeting in Switzerland aimed at resolving the ongoing conflict.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "The Ebola outbreak in the Democratic Republic of the Congo has become the deadliest in the country's history, with at least 2,325 deaths reported, and is on track to be the largest outbreak ever.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "More than 100 people have died after an artisanal goldmine collapsed due to a landslide in the Central African Republic, with local officials anticipating the death toll will rise as recovery efforts continue.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Traditional owners in Queensland are relieved that a proposed mining project on Pilungah Reserve, which was believed to hold critical minerals, will not proceed, avoiding a potential repeat of the Juukan Gorge disaster.",
+          "text": "Councils in NSW face increasing pressure regarding the short-stay accommodation sector, with warnings that current regulations are insufficient to prevent investors from exploiting new developments.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A new scheme to replace the NDIS for children with autism, called the Thriving Kids program, is facing questions from the Queensland Premier and many parents, as the state has refused to sign up for it.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A major Australian study indicates that parents caring for young children with a disability are twice as likely to report poor health, constant demands, and loneliness.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A three-part documentary series is set to mark 25 years since the Tampa diplomatic stand-off, aiming to provide a nuanced perspective on the event that redefined Australia's border protection policy.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A report highlights that apartment rents now exceed half of a typical single worker's take-home pay in all Australian capital cities, raising concerns about widespread housing stress.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The upcoming Jackson Hole Symposium will focus on Federal Reserve Chairman Kevin Marsh's first annual address, with market participants closely watching for insights into monetary policy.",
+          "text": "Economists are criticising Fed Chair Kevin Warsh's communication strategy as policymakers prepare to gather at the Jackson Hole symposium, with bond investors looking for clues on the Federal Reserve chairman's plans.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "The rapid expansion of AI data centers is becoming a political issue in Ohio as residents raise concerns about higher electricity bills, tax incentives, and secrecy around local development deals.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Companies seeking to finance data center projects are increasingly issuing investment-grade debt to junk bond buyers, attracted by the higher yields.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Early labor-market data suggests that Artificial Intelligence's primary impact is currently more evident in wages than in overall employment levels.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Europe has experienced its best reporting season in years, with companies in the benchmark Stoxx Europe 600 index boosting earnings per share by 18% on average in the second quarter compared with a year earlier.",
+          "source": "Marginal Rev",
+          "url": "https://www.marginalrevolution.com"
         }
       ]
     }
