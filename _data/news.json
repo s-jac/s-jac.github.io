@@ -1,24 +1,24 @@
 {
-  "date": "24 August 2026",
-  "generated_at": "2026-08-23T21:00:27.435822+00:00",
+  "date": "25 August 2026",
+  "generated_at": "2026-08-24T21:00:28.870597+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country's history, with at least 2,325 deaths, and is on track to become the biggest outbreak ever.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "More than 100 people have died after an artisanal goldmine collapsed in the Central African Republic due to a landslide, with recovery efforts ongoing and the death toll expected to rise.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "DR Congo and M23 rebels have agreed on a roadmap for peace talks following a meeting in Switzerland aimed at resolving the ongoing conflict.",
+          "text": "The US Treasury Secretary stated that Iran faces the 'greatest financial offensive ever,' with the US planning to sever all economic ties and isolate any nation financially partnering with Iran.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "The UK Prime Minister has pledged continued support for Ukraine, despite 'outrageous threats' from Russia regarding the reported use of British drones.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "A video has emerged showing hundreds of people held captive after a mosque kidnapping in Dekara village, Nigeria, where gunmen attacked worshippers and took women, children, and older individuals.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Councils in NSW face increasing pressure regarding the short-stay accommodation sector, with warnings that current regulations are insufficient to prevent investors from exploiting new developments.",
+          "text": "A former NSW police officer has alleged she was raped by a senior male colleague, who she claims is still in the force and had a reputation for preying on women.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A major Australian study indicates that parents caring for young children with a disability are twice as likely to report poor health, constant demands, and loneliness.",
+          "text": "Prime Minister Anthony Albanese is facing continued pressure from various states to reform the GST distribution, after he affirmed his commitment to Western Australia's current funding arrangement.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A report highlights that apartment rents now exceed half of a typical single worker's take-home pay in all Australian capital cities, raising concerns about widespread housing stress.",
+          "text": "The Ombudsman has criticised police following the wrongful arrest and search of an Indigenous teenager on a bus, expressing concern that police lacked a clear understanding of racial profiling.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Economists are criticising Fed Chair Kevin Warsh's communication strategy as policymakers prepare to gather at the Jackson Hole symposium, with bond investors looking for clues on the Federal Reserve chairman's plans.",
+          "text": "Former US President Donald Trump announced plans to increase tariffs on Canadian cars to 50%, signaling a further escalation in trade tensions between Washington and Ottawa. This move has caused concern among Canadian businesses, who fear economic pain and uncertainty.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The rapid expansion of AI data centers is becoming a political issue in Ohio as residents raise concerns about higher electricity bills, tax incentives, and secrecy around local development deals.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Shein, the fast-fashion retailer, has reportedly listed in Hong Kong at a quarter of its peak value, marking a significant decline from its previous $100 billion valuation. The company has faced several challenges and false starts over the years.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Europe has experienced its best reporting season in years, with companies in the benchmark Stoxx Europe 600 index boosting earnings per share by 18% on average in the second quarter compared with a year earlier.",
-          "source": "Marginal Rev",
-          "url": "https://www.marginalrevolution.com"
+          "text": "UK power equipment rental firm Aggreko Plc has filed for a US initial public offering (IPO), revealing that the private equity-backed company has become profitable as its revenue increased.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
