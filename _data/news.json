@@ -1,22 +1,22 @@
 {
-  "date": "26 August 2026",
-  "generated_at": "2026-08-25T21:00:26.288945+00:00",
+  "date": "27 August 2026",
+  "generated_at": "2026-08-26T21:00:33.752504+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US has imposed new sanctions on Iran and its trading partners, leading to strong criticism from China, which is a major buyer of Iranian oil. This move further escalates tensions and threatens to isolate nations continuing business with Tehran.",
+          "text": "Witnesses at a Pakistani hospital claim the door to a ward where 14 babies died in a fire was locked, while the hospital states it was manned by security guards.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A global crackdown on West African cyber-crime networks has led to mass arrests, including 39 individuals in South Africa for romance and investment scams. This operation targets widespread online fraudulent activities originating from the region.",
+          "text": "Canada has announced 'dollar-for-dollar' retaliatory tariffs on US goods, some as high as 50%, escalating an ongoing trade dispute between the two nations.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "In Nigeria, the president has ordered a manhunt after kidnappers uploaded a video showing dozens of men, women, and children held captive in a forest. This follows an attack on worshippers in Dekara village where hundreds were reportedly taken.",
+          "text": "A French court has recognized a former Air France flight attendant's breast cancer as an occupational disease, linking it to radiation exposure during flights.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Plymouth Brethren Christian Church is seeking to establish its fifth church in Kyneton, Victoria, for 45 members, 87 kilometres north-west of Melbourne.",
+          "text": "Voluntary assisted dying laws are expected to pass the Northern Territory Parliament today, which would legalise the practice across all of Australia.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Two Victorian police officers who were shot dead a year ago in Porepunkah are being honoured with memorial gardens and commemorations.",
+          "text": "Dozens of Australians are among the hundreds of people missing after flash floods swept through mountainous parts of Nepal and Tibet, with nearly 100 confirmed dead.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australia may experience a surge in data centre construction as AI firms aim to circumvent upcoming regulations requiring new sites to incorporate renewable energy and minimise water usage.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Police are investigating the death of a 16-year-old girl found unconscious on Sydney's Northern Beaches.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Canada has announced $20 billion in retaliatory tariffs on hundreds of US goods, escalating a trade dispute with the US, which will take effect on September 8.",
+          "text": "Nvidia's sales more than doubled to $96 billion due to high demand for AI, with its data center division growing by 117% as clients seek computing power.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Foot Locker's owner experienced a significant drop in shares after warning that nervous consumers are cutting back on spending due to the current geopolitical environment.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Oil prices declined amid renewed diplomatic efforts to prevent an escalation of the Iran conflict and discussions regarding the Strait of Hormuz, easing inflation concerns.",
+          "text": "The dollar rose significantly, recovering half its losses from Treasury Secretary Scott Bessent’s bond market intervention, as inflation data shifted focus back to potential Federal Reserve rate hikes.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Russia is deliberately weakening its currency, as a strong rouble was negatively impacting the national budget.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
