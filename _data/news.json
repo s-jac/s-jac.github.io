@@ -1,22 +1,22 @@
 {
-  "date": "27 August 2026",
-  "generated_at": "2026-08-26T21:00:33.752504+00:00",
+  "date": "28 August 2026",
+  "generated_at": "2026-08-27T21:01:34.183451+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Witnesses at a Pakistani hospital claim the door to a ward where 14 babies died in a fire was locked, while the hospital states it was manned by security guards.",
+          "text": "Scientists believe a collapsed glacier likely caused the devastating floods in Nepal and Tibet, which have left hundreds dead or missing. This event highlights the ongoing issue of rapidly melting Himalayan ice.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Canada has announced 'dollar-for-dollar' retaliatory tariffs on US goods, some as high as 50%, escalating an ongoing trade dispute between the two nations.",
+          "text": "A Bosnian Serb war criminal, convicted of genocide and crimes against humanity, has died at the age of 84. He was jailed for life in 2017 for his role in the wars in the former Yugoslavia.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A French court has recognized a former Air France flight attendant's breast cancer as an occupational disease, linking it to radiation exposure during flights.",
+          "text": "The Board of Peace's Gaza envoy has criticized both Israeli strikes and Hamas actions, warning that a collapse of last October's ceasefire would be a \"point of no return\" for the region.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Voluntary assisted dying laws are expected to pass the Northern Territory Parliament today, which would legalise the practice across all of Australia.",
+          "text": "The federal government has pledged $5 million in humanitarian aid to support disaster recovery efforts in the Himalayas following a deadly flood, as the number of Australians missing in the region has risen to 39.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Dozens of Australians are among the hundreds of people missing after flash floods swept through mountainous parts of Nepal and Tibet, with nearly 100 confirmed dead.",
+          "text": "Experts are advocating for increased education on the dangers of strangulation after the death of a Sydney teenage girl, which is believed to be linked to a suspected sexual choking act.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Police are investigating the death of a 16-year-old girl found unconscious on Sydney's Northern Beaches.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A charity named Second Chances, which supports prisoners' children, may be forced to close due to government funding cuts, despite the government directly referring people to their services.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Nvidia's sales more than doubled to $96 billion due to high demand for AI, with its data center division growing by 117% as clients seek computing power.",
+          "text": "US bank regulators are set to narrow their enforcement focus to financial risks as part of a wider deregulatory push under the Trump administration.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The dollar rose significantly, recovering half its losses from Treasury Secretary Scott Bessent’s bond market intervention, as inflation data shifted focus back to potential Federal Reserve rate hikes.",
+          "text": "Nvidia Corp. saw a $442 billion increase in its market value, marking the second-largest one-day gain by any stock in history and fueling a rally in tech stocks amid confidence in the AI trade.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Russia is deliberately weakening its currency, as a strong rouble was negatively impacting the national budget.",
+          "text": "Donald Trump's immigration crackdown is projected to lead to a smaller workforce and slower economic growth in the US, according to an analysis of its economic costs.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
