@@ -1,22 +1,22 @@
 {
-  "date": "28 August 2026",
-  "generated_at": "2026-08-27T21:01:34.183451+00:00",
+  "date": "29 August 2026",
+  "generated_at": "2026-08-28T21:00:30.445210+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Scientists believe a collapsed glacier likely caused the devastating floods in Nepal and Tibet, which have left hundreds dead or missing. This event highlights the ongoing issue of rapidly melting Himalayan ice.",
+          "text": "Norway is mourning the death of King Harald, with his son Haakon VIII ascending to the throne. The mayor of Oslo called off her wedding ceremony following the king's death.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A Bosnian Serb war criminal, convicted of genocide and crimes against humanity, has died at the age of 84. He was jailed for life in 2017 for his role in the wars in the former Yugoslavia.",
+          "text": "A necklace containing 600 diamonds was stolen from a museum in Vienna in broad daylight, with police searching for two suspects who are believed to have bought tickets to the exhibition.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Board of Peace's Gaza envoy has criticized both Israeli strikes and Hamas actions, warning that a collapse of last October's ceasefire would be a \"point of no return\" for the region.",
+          "text": "Western officials state that Russia is increasing its rhetoric but aims to avoid a direct war with NATO, though they anticipate continued \"hybrid activity\" against NATO members.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The federal government has pledged $5 million in humanitarian aid to support disaster recovery efforts in the Himalayas following a deadly flood, as the number of Australians missing in the region has risen to 39.",
+          "text": "Documents allege a former KPMG partner made \"unwanted sexual advances\" and treated \"female members of staff and clients inappropriately\" while at the firm.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Experts are advocating for increased education on the dangers of strangulation after the death of a Sydney teenage girl, which is believed to be linked to a suspected sexual choking act.",
+          "text": "A former Paralympic swimmer and a firefighter are among dozens of Australian workers alleging global workers' compensation firm Gallagher Bassett has failed them.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A charity named Second Chances, which supports prisoners' children, may be forced to close due to government funding cuts, despite the government directly referring people to their services.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "One Nation's influence on Labor's migration policy is under scrutiny following contradictory policy statements regarding immigration and asylum.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US bank regulators are set to narrow their enforcement focus to financial risks as part of a wider deregulatory push under the Trump administration.",
+          "text": "Federal Reserve Chair Kevin Warsh indicated that the Fed might raise interest rates if inflation does not decrease, leading to increased market bets on a September rate hike.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Nvidia Corp. saw a $442 billion increase in its market value, marking the second-largest one-day gain by any stock in history and fueling a rally in tech stocks amid confidence in the AI trade.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "US corporate profits have reached a record high, representing the largest share of national income since World War II, while worker payouts have declined.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Donald Trump's immigration crackdown is projected to lead to a smaller workforce and slower economic growth in the US, according to an analysis of its economic costs.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Economist Gita Gopinath criticized Trump's tariffs as \"straight-out protectionism\" and discussed the potential threats to the dollar, describing the current economic period as a \"great gamble.\"",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
