@@ -1,24 +1,24 @@
 {
-  "date": "29 August 2026",
-  "generated_at": "2026-08-28T21:00:30.445210+00:00",
+  "date": "3 November 2026",
+  "generated_at": "2026-11-02T20:00:27.597797+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Norway is mourning the death of King Harald, with his son Haakon VIII ascending to the throne. The mayor of Oslo called off her wedding ceremony following the king's death.",
+          "text": "Russian bombing has reportedly killed 24 people at a Ukrainian aid centre, with local officials stating that at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A necklace containing 600 diamonds was stolen from a museum in Vienna in broad daylight, with police searching for two suspects who are believed to have bought tickets to the exhibition.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "The Sudanese diaspora and human rights groups have criticized the UAE's nominee for a top UN job, citing her denial of accusations that the UAE is fueling the Sudan war.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Western officials state that Russia is increasing its rhetoric but aims to avoid a direct war with NATO, though they anticipate continued \"hybrid activity\" against NATO members.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Canada and the EU have announced a new 'Alliance for the Future', open to other like-minded countries, conceived for a world facing new challenges.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Documents allege a former KPMG partner made \"unwanted sexual advances\" and treated \"female members of staff and clients inappropriately\" while at the firm.",
+          "text": "Australia's world-first social media ban for users under 16 will face its first major legal challenge in the High Court today, nearly a year after taking effect.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A former Paralympic swimmer and a firefighter are among dozens of Australian workers alleging global workers' compensation firm Gallagher Bassett has failed them.",
+          "text": "Residents living near the new Western Sydney International Airport are campaigning for a curfew due to noise concerns, as its October opening raises fears for the future of their tranquil suburbs.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation's influence on Labor's migration policy is under scrutiny following contradictory policy statements regarding immigration and asylum.",
+          "text": "The Reserve Bank is widely expected to increase interest rates today, with warnings that such a hike could push Australia into a recession.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Federal Reserve Chair Kevin Warsh indicated that the Fed might raise interest rates if inflation does not decrease, leading to increased market bets on a September rate hike.",
+          "text": "A large majority of US voters disapprove of Donald Trump's handling of inflation, with affordability issues topping concerns ahead of the midterm elections.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "US corporate profits have reached a record high, representing the largest share of national income since World War II, while worker payouts have declined.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Alphabet Inc. successfully raised \",6 billion in its second euro bond sale this year, offering higher yields than in May amid concerns about the pace of AI spending.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Economist Gita Gopinath criticized Trump's tariffs as \"straight-out protectionism\" and discussed the potential threats to the dollar, describing the current economic period as a \"great gamble.\"",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The incoming ECB chief faces a challenging environment as Christine Lagarde departs, while global oil markets remain volatile with Brent crude near its Iran-war peak.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
