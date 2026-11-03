@@ -1,22 +1,22 @@
 {
-  "date": "3 November 2026",
-  "generated_at": "2026-11-02T20:00:27.597797+00:00",
+  "date": "4 November 2026",
+  "generated_at": "2026-11-03T20:00:23.451735+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russian bombing has reportedly killed 24 people at a Ukrainian aid centre, with local officials stating that at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+          "text": "Seven flights across Europe were targeted by suspected bomb threats, with planes in Poland, Spain, Bulgaria, and Italy checked for explosives.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Sudanese diaspora and human rights groups have criticized the UAE's nominee for a top UN job, citing her denial of accusations that the UAE is fueling the Sudan war.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "The death toll has risen in Ukraine after Russian attacks on an aid center, hospice, and hospital, with at least 38 people killed in 24 hours.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Canada and the EU have announced a new 'Alliance for the Future', open to other like-minded countries, conceived for a world facing new challenges.",
+          "text": "The Sudanese diaspora and human rights groups have denounced the UAE nominee for a top UN job, citing criticisms of the UAE's alleged role in fueling the Sudan war.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia's world-first social media ban for users under 16 will face its first major legal challenge in the High Court today, nearly a year after taking effect.",
+          "text": "The NSW Liberal party is experiencing an exodus of MPs, coinciding with a surge in popularity for One Nation as the state prepares for next March's election.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Residents living near the new Western Sydney International Airport are campaigning for a curfew due to noise concerns, as its October opening raises fears for the future of their tranquil suburbs.",
+          "text": "The community housing industry is proposing a Victorian-style levy on short-term rentals to the NSW government, aiming to boost community housing construction.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The Reserve Bank is widely expected to increase interest rates today, with warnings that such a hike could push Australia into a recession.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A specialist security squad will be deployed to polling booths in Victoria for the upcoming state election due to rising political tensions.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "A large majority of US voters disapprove of Donald Trump's handling of inflation, with affordability issues topping concerns ahead of the midterm elections.",
+          "text": "Billionaire Mark Walter is reportedly exploring a sale of his $71 billion insurer, Delaware Life, as part of a potential broader restructuring of his holding company, TWG Global.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Alphabet Inc. successfully raised \",6 billion in its second euro bond sale this year, offering higher yields than in May amid concerns about the pace of AI spending.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Binance's internal investigation into a $6.3 billion heist revealed that hackers used fake interviews and social media profiles, highlighting the role of human error in the significant theft.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "The incoming ECB chief faces a challenging environment as Christine Lagarde departs, while global oil markets remain volatile with Brent crude near its Iran-war peak.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "A new type of perpetual derivative contracts linked to equities has received approval from the US Commodity Futures Trading Commission (CFTC) to begin trading.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
