@@ -1,24 +1,24 @@
 {
-  "date": "4 November 2026",
-  "generated_at": "2026-11-03T20:00:23.451735+00:00",
+  "date": "5 November 2026",
+  "generated_at": "2026-11-04T20:02:22.691969+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Seven flights across Europe were targeted by suspected bomb threats, with planes in Poland, Spain, Bulgaria, and Italy checked for explosives.",
+          "text": "Ukraine has reported that bodycam video shows a deadly Russian double-tap bombing, resulting in at least 40 deaths and potentially 30 more under rubble.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The death toll has risen in Ukraine after Russian attacks on an aid center, hospice, and hospital, with at least 38 people killed in 24 hours.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "text": "The Sudanese diaspora and human rights groups have denounced the UAE nominee for a top UN job, citing criticisms of the UAE's alleged role in fueling the Sudan war.",
+          "text": "A British healthcare worker with Ebola has been evacuated from the Democratic Republic of Congo to the UK and is in stable condition.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
+        },
+        {
+          "text": "French blood storage facilities have been impacted by freezer hacks, prompting theories about the culprits.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The NSW Liberal party is experiencing an exodus of MPs, coinciding with a surge in popularity for One Nation as the state prepares for next March's election.",
+          "text": "An Australian skincare brand has been accused of using AI to copy competitors' marketing imagery on social media, sparking concerns about ethical practices in the industry.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The community housing industry is proposing a Victorian-style levy on short-term rentals to the NSW government, aiming to boost community housing construction.",
+          "text": "A regional Victorian council is pioneering the use of AI camera technology to identify and measure potholes, aiming to improve road maintenance efficiency and save costs.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A specialist security squad will be deployed to polling booths in Victoria for the upcoming state election due to rising political tensions.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The Reserve Bank of Australia's assertion of 'excess demand' in the economy is being questioned by households struggling with the cost of living, suggesting a disconnect between economic policy and public experience.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Billionaire Mark Walter is reportedly exploring a sale of his $71 billion insurer, Delaware Life, as part of a potential broader restructuring of his holding company, TWG Global.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Activist investor DGB Investments has successfully gained majority control of furniture maker Ethan Allen Interiors Inc. by winning three board seats.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Binance's internal investigation into a $6.3 billion heist revealed that hackers used fake interviews and social media profiles, highlighting the role of human error in the significant theft.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "FitLab Inc., a cardio equipment manufacturer, has filed for bankruptcy, citing the loss of a key partnership with Nike Inc. and the impact of Trump-era tariffs on its supply chain.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "A new type of perpetual derivative contracts linked to equities has received approval from the US Commodity Futures Trading Commission (CFTC) to begin trading.",
+          "text": "Credit investors are anticipating a slowdown in data center approvals following the Democratic sweep in the US midterm elections, leading to re-evaluations of related companies.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
