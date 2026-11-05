@@ -1,22 +1,22 @@
 {
-  "date": "5 November 2026",
-  "generated_at": "2026-11-04T20:02:22.691969+00:00",
+  "date": "6 November 2026",
+  "generated_at": "2026-11-05T20:04:31.765198+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine has reported that bodycam video shows a deadly Russian double-tap bombing, resulting in at least 40 deaths and potentially 30 more under rubble.",
+          "text": "Hoax bomb threats have targeted European airlines and airports for the second time in a week, affecting at least 21 flights across Europe.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A British healthcare worker with Ebola has been evacuated from the Democratic Republic of Congo to the UK and is in stable condition.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Paraguay's President Santiago Peña resigned following a bank collapse and a vote in the lower house of congress to pursue an impeachment trial against him.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "French blood storage facilities have been impacted by freezer hacks, prompting theories about the culprits.",
+          "text": "French protests have seen a surge in numbers as unions joined strikes over the high cost of living, with estimates of participants ranging from 600,000 to much higher figures.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "An Australian skincare brand has been accused of using AI to copy competitors' marketing imagery on social media, sparking concerns about ethical practices in the industry.",
+          "text": "The Western Australian government has agreed with a mining company to scrap an Indigenous heritage zone, leading to a court challenge from traditional owners.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A regional Victorian council is pioneering the use of AI camera technology to identify and measure potholes, aiming to improve road maintenance efficiency and save costs.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "The Reserve Bank of Australia's assertion of 'excess demand' in the economy is being questioned by households struggling with the cost of living, suggesting a disconnect between economic policy and public experience.",
+          "text": "One Nation is reportedly asking donors at a Sydney fundraiser to sign non-disclosure agreements, raising transparency concerns ahead of the NSW election.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Pauline Hanson will appeal a racial discrimination ruling in the High Court, following a previous ruling against her.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Activist investor DGB Investments has successfully gained majority control of furniture maker Ethan Allen Interiors Inc. by winning three board seats.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The Nasdaq and S&P 500 experienced significant plunges, with chip stocks and other technology shares falling sharply. This market reaction is attributed to investor fears that a 'blue wave' of newly elected Democrats in the US midterms will lead to increased scrutiny and potential regulation of the artificial intelligence industry, slowing data center development.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "FitLab Inc., a cardio equipment manufacturer, has filed for bankruptcy, citing the loss of a key partnership with Nike Inc. and the impact of Trump-era tariffs on its supply chain.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The tech industry is facing a growing backlash against its expansion and power, leading some executives to admit the industry has fueled hostility towards its own growth. This sentiment, coupled with the Democratic success in the midterms, threatens the projected trillion-dollar data center boom.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Credit investors are anticipating a slowdown in data center approvals following the Democratic sweep in the US midterm elections, leading to re-evaluations of related companies.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "China's banking system is grappling with the hangover from years of 'Wild East capitalism,' as indebted tycoons pose a significant risk to lenders. Meanwhile, China's AI stock market struggles are seen as a warning sign of what happens when the supply of new technology catches up with demand.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
