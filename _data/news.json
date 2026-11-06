@@ -1,22 +1,22 @@
 {
-  "date": "6 November 2026",
-  "generated_at": "2026-11-05T20:04:31.765198+00:00",
+  "date": "7 November 2026",
+  "generated_at": "2026-11-06T20:01:45.121835+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Hoax bomb threats have targeted European airlines and airports for the second time in a week, affecting at least 21 flights across Europe.",
+          "text": "A Kenyan doomsday cult leader, Paul Mackenzie, has been sentenced to life imprisonment for the murder of 191 people, including children, whom he ordered to starve to death.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Paraguay's President Santiago Peña resigned following a bank collapse and a vote in the lower house of congress to pursue an impeachment trial against him.",
+          "text": "A new wave of bomb threats has targeted European airlines, following similar threats against media outlets, though no link has been established between the two.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "French protests have seen a surge in numbers as unions joined strikes over the high cost of living, with estimates of participants ranging from 600,000 to much higher figures.",
+          "text": "Pope Leo has commenced a lengthy trip to Latin America, visiting Uruguay, Argentina, and Peru, weeks after undergoing lung cancer surgery.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Western Australian government has agreed with a mining company to scrap an Indigenous heritage zone, leading to a court challenge from traditional owners.",
+          "text": "Australia's booming tallow industry is exploring turning animal by-products into renewable fuels, potentially reducing the nation's reliance on imported fuel.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "One Nation is reportedly asking donors at a Sydney fundraiser to sign non-disclosure agreements, raising transparency concerns ahead of the NSW election.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "An endangered crayfish species is being returned to its habitat months after bushfires caused widespread destruction in Victoria.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Pauline Hanson will appeal a racial discrimination ruling in the High Court, following a previous ruling against her.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "David Jones reportedly fell months behind on payments to some small Australian brands before entering administration, as smaller local businesses are at the bottom of the creditor pile.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Nasdaq and S&P 500 experienced significant plunges, with chip stocks and other technology shares falling sharply. This market reaction is attributed to investor fears that a 'blue wave' of newly elected Democrats in the US midterms will lead to increased scrutiny and potential regulation of the artificial intelligence industry, slowing data center development.",
+          "text": "The US economy surpassed expectations by adding 165,000 jobs in October, strengthening forecasts for a Federal Reserve interest rate hike.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The tech industry is facing a growing backlash against its expansion and power, leading some executives to admit the industry has fueled hostility towards its own growth. This sentiment, coupled with the Democratic success in the midterms, threatens the projected trillion-dollar data center boom.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "US stocks, particularly chipmakers and tech companies, rebounded after a recent rout, despite economic data reinforcing expectations of a December rate hike.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "China's banking system is grappling with the hangover from years of 'Wild East capitalism,' as indebted tycoons pose a significant risk to lenders. Meanwhile, China's AI stock market struggles are seen as a warning sign of what happens when the supply of new technology catches up with demand.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Washington has warned China to immediately fulfill its commitments under the Busan trade deal, specifically regarding the supply of rare earths and other critical products.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
