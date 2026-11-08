@@ -1,24 +1,24 @@
 {
-  "date": "8 November 2026",
-  "generated_at": "2026-11-07T20:00:27.065500+00:00",
+  "date": "9 November 2026",
+  "generated_at": "2026-11-08T20:04:32.005348+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "At least six people were killed in Krakow, Poland, by a gunman in military fatigues who opened fire in the city.",
+          "text": "Seven people were killed and over 100 injured after two trains collided outside Giza, Egypt, prompting a presidential investigation.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Kenya's doomsday sect leader Paul Mackenzie has been sentenced to 200 years in jail for the murder of 190 children and one adult, after ordering his followers to starve themselves and their families.",
+          "text": "Three men were executed in Iran for their alleged involvement in 'armed unrest' during anti-government protests earlier this year.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Paraguay's former president, Santiago Peña, has been charged and placed under house arrest following a banking crisis that left millions unable to access their money.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
-        },
-        {
-          "text": "New Zealand's general election resulted in no clear winner, with preliminary results indicating a highly divided national parliament, likely leading to weeks of coalition talks.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A leading forensic psychiatrist has criticised Corrections NSW, stating it should not manage mental health care for inmates, following an ABC investigation into systemic failures in the treatment of prisoners with mental illness.",
+          "text": "A new housing model aims to provide stable homes for older, single women experiencing housing insecurity, with hopes it will become a widespread solution.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The latest interest rate rise is setting in, shifting attention from the Melbourne Cup to household finances, as the race to tame inflation proves more challenging.",
+          "text": "A 51-year-old man has been charged with murder following the alleged stabbing of a delivery driver in Melbourne.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "The city of Sydney is experiencing its annual 'purple patch' as jacaranda trees bloom across the area, creating picturesque scenes in October and November.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Support for the Labor government has significantly dropped, with Prime Minister Anthony Albanese experiencing a major hit in recent polls.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Berkshire Hathaway increased its share buybacks, purchasing $9.6 billion in stock during the third quarter, even as its operating income declined by 5.8 percent year-on-year due to an insurance slowdown.",
+          "text": "Apple has reportedly saved $2.7 billion in taxes by shifting its profit booking to Singapore, making the city-state its primary tax shelter over Ireland.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Investors are concerned that Democratic dominance in Congress will hinder the growth of the AI sector, a sentiment reflected in market reactions to the US midterms.",
+          "text": "Markets are reacting negatively to the Democratic party's recent electoral successes, with investors concerned that the shift in power could hinder the growth of the AI industry.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         },
         {
-          "text": "Turkish authorities have detained top officials from the country's regulatory bodies as part of an expanding fund scandal investigation.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "China's banking system is facing challenges due to indebted tycoons, highlighting the lingering effects of years of aggressive capitalism.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
