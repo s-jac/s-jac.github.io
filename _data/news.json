@@ -1,22 +1,22 @@
 {
-  "date": "9 November 2026",
-  "generated_at": "2026-11-08T20:04:32.005348+00:00",
+  "date": "10 November 2026",
+  "generated_at": "2026-11-09T20:00:30.302531+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Seven people were killed and over 100 injured after two trains collided outside Giza, Egypt, prompting a presidential investigation.",
+          "text": "At least 39 migrants died after a boat bound for Europe sank off the coast of Senegal, highlighting the dangers of the Atlantic crossing to Spain's Canary Islands.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Three men were executed in Iran for their alleged involvement in 'armed unrest' during anti-government protests earlier this year.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A collision between two trains in al-Ayyat, Egypt, resulted in at least seven deaths and 125 injuries, prompting a presidential investigation.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Paraguay's former president, Santiago Peña, has been charged and placed under house arrest following a banking crisis that left millions unable to access their money.",
+          "text": "The leader of a Kenyan doomsday sect was sentenced to 200 years in prison for the murder of 190 children and one adult, who were ordered to starve themselves.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A new housing model aims to provide stable homes for older, single women experiencing housing insecurity, with hopes it will become a widespread solution.",
+          "text": "Queensland is launching a 'life changing' initiative to close the homelessness gap by providing transitional housing in 37 projects statewide, expected to deliver over 600 places for those sleeping rough.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A 51-year-old man has been charged with murder following the alleged stabbing of a delivery driver in Melbourne.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A major report reveals how alleged rape victims are treated in Queensland, with prosecutors dropping cases because survivors 'didn’t act how a rape victim should', according to an Australian Institute of Criminology review of 19,000 sexual assault cases.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Support for the Labor government has significantly dropped, with Prime Minister Anthony Albanese experiencing a major hit in recent polls.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The NSW Bureau of Crime Statistics and Research found that Aboriginal children are 30 per cent less likely to receive a court diversion from police compared to non-Aboriginal children, highlighting disparities in the justice system.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Apple has reportedly saved $2.7 billion in taxes by shifting its profit booking to Singapore, making the city-state its primary tax shelter over Ireland.",
+          "text": "Nvidia is investigating an alleged Chinese spy scandal involving an individual linked to its chief executive who pitched AI chip deals. Shares in the chipmaker have fallen amid the probe, raising questions about CEO Jensen Huang's future leadership.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Markets are reacting negatively to the Democratic party's recent electoral successes, with investors concerned that the shift in power could hinder the growth of the AI industry.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "US natural gas futures have seen their largest surge in six weeks, jumping by over 8%, driven by forecasts of cooler weather along the Atlantic seaboard. This upward push has triggered a short squeeze, forcing hedge funds to unwind positions.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "China's banking system is facing challenges due to indebted tycoons, highlighting the lingering effects of years of aggressive capitalism.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "China has successfully priced its debut yuan-denominated green bond in Canada, attracting robust demand. This move expands China's offshore debt footprint, aiming to finance sustainable projects and bolster ties between the two nations.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
