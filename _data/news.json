@@ -1,22 +1,22 @@
 {
-  "date": "10 November 2026",
-  "generated_at": "2026-11-09T20:00:30.302531+00:00",
+  "date": "11 November 2026",
+  "generated_at": "2026-11-10T20:00:24.302760+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "At least 39 migrants died after a boat bound for Europe sank off the coast of Senegal, highlighting the dangers of the Atlantic crossing to Spain's Canary Islands.",
+          "text": "Ukraine's President Zelensky stated that the first day of peace talks in the United Arab Emirates, involving delegations from Kyiv, Washington, and Moscow, was constructive.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A collision between two trains in al-Ayyat, Egypt, resulted in at least seven deaths and 125 injuries, prompting a presidential investigation.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Malaysia's former Prime Minister Najib Razak has been released from jail to house arrest after being convicted for his involvement in the 1MDB sovereign wealth fund scandal.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The leader of a Kenyan doomsday sect was sentenced to 200 years in prison for the murder of 190 children and one adult, who were ordered to starve themselves.",
+          "text": "Seven people were killed and at least 125 injured in Egypt when two trains collided in al-Ayyat, about 50km from Cairo, prompting President Sisi to order an investigation.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Queensland is launching a 'life changing' initiative to close the homelessness gap by providing transitional housing in 37 projects statewide, expected to deliver over 600 places for those sleeping rough.",
+          "text": "Australia is considering implementing world-first criminal charges for AI companies that fail to prevent harmful conduct by their models, a move that could set a global precedent.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A major report reveals how alleged rape victims are treated in Queensland, with prosecutors dropping cases because survivors 'didn’t act how a rape victim should', according to an Australian Institute of Criminology review of 19,000 sexual assault cases.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Australian authorities are observing a significant increase in teenage radicalisation, with concerns that some young individuals are nearing the point of carrying out terror attacks.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "The NSW Bureau of Crime Statistics and Research found that Aboriginal children are 30 per cent less likely to receive a court diversion from police compared to non-Aboriginal children, highlighting disparities in the justice system.",
+          "text": "A national survey revealed that approximately one-in-six Australians are consuming potentially dangerous raw milk products, prompting experts to advise against their consumption.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Nvidia is investigating an alleged Chinese spy scandal involving an individual linked to its chief executive who pitched AI chip deals. Shares in the chipmaker have fallen amid the probe, raising questions about CEO Jensen Huang's future leadership.",
+          "text": "Treasury yields surged following higher-than-expected inflation data for October, leading to increased speculation that the Federal Reserve may implement another rate hike.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "US natural gas futures have seen their largest surge in six weeks, jumping by over 8%, driven by forecasts of cooler weather along the Atlantic seaboard. This upward push has triggered a short squeeze, forcing hedge funds to unwind positions.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "A top Federal Reserve official indicated that policymakers might consider a 50 basis point rate increase if US inflation does not show signs of slowing down.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "China has successfully priced its debut yuan-denominated green bond in Canada, attracting robust demand. This move expands China's offshore debt footprint, aiming to finance sustainable projects and bolster ties between the two nations.",
+          "text": "Peloton's debut junk-bond sale garnered strong investor interest, enabling the fitness company to enlarge the deal and reduce its borrowing costs.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
