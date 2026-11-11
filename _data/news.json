@@ -1,22 +1,22 @@
 {
-  "date": "11 November 2026",
-  "generated_at": "2026-11-10T20:00:24.302760+00:00",
+  "date": "12 November 2026",
+  "generated_at": "2026-11-11T20:01:50.016814+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine's President Zelensky stated that the first day of peace talks in the United Arab Emirates, involving delegations from Kyiv, Washington, and Moscow, was constructive.",
+          "text": "Russia-Ukraine talks focused on post-war security concluded in Abu Dhabi without a breakthrough, with US envoys scheduled to meet both Putin and Zelensky.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Malaysia's former Prime Minister Najib Razak has been released from jail to house arrest after being convicted for his involvement in the 1MDB sovereign wealth fund scandal.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murder of 190 children and one adult, after followers were instructed to starve themselves and their families.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Seven people were killed and at least 125 injured in Egypt when two trains collided in al-Ayyat, about 50km from Cairo, prompting President Sisi to order an investigation.",
+          "text": "Lewis Hamilton visited the Rafah border crossing with the Gaza Strip to meet with officials and tour aid facilities operated by the Egyptian Red Crescent.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia is considering implementing world-first criminal charges for AI companies that fail to prevent harmful conduct by their models, a move that could set a global precedent.",
+          "text": "The discovery of One Nation's 'missing' aircraft in an outback city may raise questions for the party regarding the handling of proceeds from its sale.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Australian authorities are observing a significant increase in teenage radicalisation, with concerns that some young individuals are nearing the point of carrying out terror attacks.",
+          "text": "A shortage of the Q fever vaccine is impacting rural Australia, raising health concerns as the vaccine protecting against a serious bacterial infection is expected to run out this week.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Prime Minister Albanese has defended Australia's position as a climate leader after being urged by the UN Secretary-General to increase climate commitments.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
-        },
-        {
-          "text": "A national survey revealed that approximately one-in-six Australians are consuming potentially dangerous raw milk products, prompting experts to advise against their consumption.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Treasury yields surged following higher-than-expected inflation data for October, leading to increased speculation that the Federal Reserve may implement another rate hike.",
+          "text": "US tech stocks are experiencing a surge, with the Nasdaq recovering losses, fueled by strong CoreWeave results and the prospect of a higher valuation for Anthropic's IPO, indicating a revival in the AI trade.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "A top Federal Reserve official indicated that policymakers might consider a 50 basis point rate increase if US inflation does not show signs of slowing down.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "Crunch Fitness is seeking to borrow $800 million through an ABS bond sale backed by franchise revenue, joining other companies utilizing the whole-business securitization market.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Peloton's debut junk-bond sale garnered strong investor interest, enabling the fitness company to enlarge the deal and reduce its borrowing costs.",
+          "text": "H&R Real Estate Investment Trust's $4.7 billion breakup plan is facing significant opposition from major investors, including some of the world's largest pension funds.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
