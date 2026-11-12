@@ -1,22 +1,22 @@
 {
-  "date": "12 November 2026",
-  "generated_at": "2026-11-11T20:01:50.016814+00:00",
+  "date": "13 November 2026",
+  "generated_at": "2026-11-12T20:00:31.932683+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russia-Ukraine talks focused on post-war security concluded in Abu Dhabi without a breakthrough, with US envoys scheduled to meet both Putin and Zelensky.",
+          "text": "US envoys are heading to meet with Ukrainian President Zelensky after talks with Russian President Putin in Moscow, where Putin reportedly agreed to European negotiators joining the next round of Ukraine talks.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murder of 190 children and one adult, after followers were instructed to starve themselves and their families.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "An Israeli strike on a Gaza hospital reportedly killed six Palestinians, according to the health ministry. Witnesses stated a missile hit a building containing surgical wards and intensive care units at Nasser hospital.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Lewis Hamilton visited the Rafah border crossing with the Gaza Strip to meet with officials and tour aid facilities operated by the Egyptian Red Crescent.",
+          "text": "Seven people were killed and at least 125 injured when two trains collided in Egypt, with President Sisi ordering a prompt investigation into the incident.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The discovery of One Nation's 'missing' aircraft in an outback city may raise questions for the party regarding the handling of proceeds from its sale.",
+          "text": "An ABC analysis reveals that only a few government ministers have achieved net savings this year, as the government aims for \"across the board\" savings before the mid-year budget update.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A shortage of the Q fever vaccine is impacting rural Australia, raising health concerns as the vaccine protecting against a serious bacterial infection is expected to run out this week.",
+          "text": "A midwife specializing in homebirths will need to reduce her caseload by half due to a new federal insurance scheme that offers limited coverage for private midwives.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Prime Minister Albanese has defended Australia's position as a climate leader after being urged by the UN Secretary-General to increase climate commitments.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "There has been a surge in teen extremism in Australia, with experts noting young people possessing \"hard drives full of what can only be described as gore.\"",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US tech stocks are experiencing a surge, with the Nasdaq recovering losses, fueled by strong CoreWeave results and the prospect of a higher valuation for Anthropic's IPO, indicating a revival in the AI trade.",
+          "text": "Nvidia CEO Jensen Huang has resigned, causing shares in the chipmaker to slide and raising concerns about the future of the AI industry and its financial dependencies. Colette Kress will take over as interim head.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Crunch Fitness is seeking to borrow $800 million through an ABS bond sale backed by franchise revenue, joining other companies utilizing the whole-business securitization market.",
+          "text": "The US budget deficit widened to $404 billion in October, a 42% increase from the previous year, according to Treasury Department data. This comes as Federal Reserve officials indicate that further interest rate hikes may be necessary to control inflation.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "H&R Real Estate Investment Trust's $4.7 billion breakup plan is facing significant opposition from major investors, including some of the world's largest pension funds.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Italy is considering an 'exit tax' on the capital gains of rich emigrants, a move that is causing significant debate and highlights the challenges of implementing such policies.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
