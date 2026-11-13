@@ -1,22 +1,22 @@
 {
-  "date": "13 November 2026",
-  "generated_at": "2026-11-12T20:00:31.932683+00:00",
+  "date": "14 November 2026",
+  "generated_at": "2026-11-13T20:01:07.609234+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "US envoys are heading to meet with Ukrainian President Zelensky after talks with Russian President Putin in Moscow, where Putin reportedly agreed to European negotiators joining the next round of Ukraine talks.",
+          "text": "Russian President Putin has increased his demands for peace with Ukraine, with discussions now including the question of European security, a development viewed in Moscow as a victory.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An Israeli strike on a Gaza hospital reportedly killed six Palestinians, according to the health ministry. Witnesses stated a missile hit a building containing surgical wards and intensive care units at Nasser hospital.",
+          "text": "Germany has expanded the powers of its foreign and domestic intelligence services to better combat espionage, terrorism, and sabotage, addressing 'hybrid threats' from abroad.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Seven people were killed and at least 125 injured when two trains collided in Egypt, with President Sisi ordering a prompt investigation into the incident.",
+          "text": "Seven people were killed and 125 injured in Egypt when two trains collided in al-Ayyat, approximately 50km from Cairo, prompting a prompt investigation ordered by the President.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "An ABC analysis reveals that only a few government ministers have achieved net savings this year, as the government aims for \"across the board\" savings before the mid-year budget update.",
+          "text": "Australia and the Philippines are poised to sign a significant defence cooperation agreement, addressing increasing tensions with China in the South China Sea.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A midwife specializing in homebirths will need to reduce her caseload by half due to a new federal insurance scheme that offers limited coverage for private midwives.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
-        },
-        {
-          "text": "There has been a surge in teen extremism in Australia, with experts noting young people possessing \"hard drives full of what can only be described as gore.\"",
+          "text": "New tax changes by the Labor government aimed at a fairer Australia face scrutiny as house prices fall and cost-of-living pressures impact voters.",
           "source": "The Guardian AU",
           "url": "https://www.theguardian.com/au"
+        },
+        {
+          "text": "Anti-bikie detectives searched the luxury residence of Finks national president Mark Balsillie, hours after a shooting incident at an aged care facility.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Nvidia CEO Jensen Huang has resigned, causing shares in the chipmaker to slide and raising concerns about the future of the AI industry and its financial dependencies. Colette Kress will take over as interim head.",
+          "text": "Nvidia founder Jensen Huang's departure has created significant market buzz, with speculation arising about the search for a new CEO and the potential sale of his substantial stock holdings.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The US budget deficit widened to $404 billion in October, a 42% increase from the previous year, according to Treasury Department data. This comes as Federal Reserve officials indicate that further interest rate hikes may be necessary to control inflation.",
+          "text": "Barclays' trading desk has adopted a tactically bullish stance on US equities for the first time since mid-March, influenced by a sharp reduction in investor positioning and easing volatility concerns.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Italy is considering an 'exit tax' on the capital gains of rich emigrants, a move that is causing significant debate and highlights the challenges of implementing such policies.",
+          "text": "Italy's proposed exit tax, which would tax the capital gains of wealthy emigrants, is causing considerable debate, highlighting the practical challenges of implementing such a policy despite potential theoretical benefits.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
