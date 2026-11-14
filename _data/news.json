@@ -1,24 +1,24 @@
 {
-  "date": "14 November 2026",
-  "generated_at": "2026-11-13T20:01:07.609234+00:00",
+  "date": "15 November 2026",
+  "generated_at": "2026-11-14T20:00:22.160110+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Russian President Putin has increased his demands for peace with Ukraine, with discussions now including the question of European security, a development viewed in Moscow as a victory.",
+          "text": "The US government is investigating a nationwide flight suspension caused by a copper wire upgrade, with officials questioning whether the chaos resulted from incompetence or faulty equipment.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Germany has expanded the powers of its foreign and domestic intelligence services to better combat espionage, terrorism, and sabotage, addressing 'hybrid threats' from abroad.",
+          "text": "Ukrainian President Zelensky claims the US has suggested Ukraine cede Donbas in exchange for Nato membership as part of efforts to end the war with Russia.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Seven people were killed and 125 injured in Egypt when two trains collided in al-Ayyat, approximately 50km from Cairo, prompting a prompt investigation ordered by the President.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Italy has fined Meta €805 million, accusing the social media giant of failing to inform 20 million users that it had access to their photos.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia and the Philippines are poised to sign a significant defence cooperation agreement, addressing increasing tensions with China in the South China Sea.",
+          "text": "Australia is facing criticism for its high rates of rheumatic heart disease, with global health leaders endorsing a plan to eradicate the illness.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "New tax changes by the Labor government aimed at a fairer Australia face scrutiny as house prices fall and cost-of-living pressures impact voters.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Prime Minister Albanese is navigating the complexities of climate ambition and political realities at the UN climate change conference, aiming to establish Australia as a serious global climate player.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Anti-bikie detectives searched the luxury residence of Finks national president Mark Balsillie, hours after a shooting incident at an aged care facility.",
+          "text": "Families in Brisbane are rallying to prevent the closure of a long-standing daycare center in Acacia Ridge, which is scheduled to shut down by Christmas.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Nvidia founder Jensen Huang's departure has created significant market buzz, with speculation arising about the search for a new CEO and the potential sale of his substantial stock holdings.",
+          "text": "Sam Bankman-Fried, the jailed cryptocurrency mogul, missed out on a nearly $40 billion windfall from an early investment in the AI lab Anthropic, highlighting the financial consequences of his legal troubles.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Barclays' trading desk has adopted a tactically bullish stance on US equities for the first time since mid-March, influenced by a sharp reduction in investor positioning and easing volatility concerns.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Italy is considering an exit tax that would apply capital gains taxes to rich emigrants, a theoretical concept that faces practical challenges and is causing significant debate.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         },
         {
-          "text": "Italy's proposed exit tax, which would tax the capital gains of wealthy emigrants, is causing considerable debate, highlighting the practical challenges of implementing such a policy despite potential theoretical benefits.",
+          "text": "China's banking system is grappling with the aftermath of years of 'Wild East capitalism,' as indebted tycoons pose a significant challenge to the stability of lenders.",
           "source": "The Economist",
           "url": "https://www.economist.com/finance-and-economics"
         }
