@@ -1,24 +1,24 @@
 {
-  "date": "15 November 2026",
-  "generated_at": "2026-11-14T20:00:22.160110+00:00",
+  "date": "16 November 2026",
+  "generated_at": "2026-11-15T20:00:22.206937+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The US government is investigating a nationwide flight suspension caused by a copper wire upgrade, with officials questioning whether the chaos resulted from incompetence or faulty equipment.",
+          "text": "Ukrainian President Zelensky has urged the US and Elon Musk to lift Starlink restrictions, stating that current limitations are hindering efforts to counter Russian attacks.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Ukrainian President Zelensky claims the US has suggested Ukraine cede Donbas in exchange for Nato membership as part of efforts to end the war with Russia.",
+          "text": "Iran reportedly targeted a US military base in Bahrain with a drone attack, marking the second such incident in three days amid ongoing tensions with the US over the Strait of Hormuz.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Italy has fined Meta €805 million, accusing the social media giant of failing to inform 20 million users that it had access to their photos.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "A collision between two trains in Egypt resulted in at least seven fatalities and 125 injuries, prompting an immediate investigation ordered by the President.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia is facing criticism for its high rates of rheumatic heart disease, with global health leaders endorsing a plan to eradicate the illness.",
+          "text": "The ACT government is inviting public feedback on the designs for the new North Canberra Hospital, which reportedly takes inspiration from the local landscape's colours.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Prime Minister Albanese is navigating the complexities of climate ambition and political realities at the UN climate change conference, aiming to establish Australia as a serious global climate player.",
+          "text": "A council in Central West NSW has admitted responsibility and will pay $75,000 for discharging untreated sewage into a river, which serves as a drinking water source, for nine days.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Families in Brisbane are rallying to prevent the closure of a long-standing daycare center in Acacia Ridge, which is scheduled to shut down by Christmas.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Documents reveal that gender-diverse Australian sailors are barred from US submarines despite the AUKUS deal, indicating that the ADF adheres to US directives during training.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Sam Bankman-Fried, the jailed cryptocurrency mogul, missed out on a nearly $40 billion windfall from an early investment in the AI lab Anthropic, highlighting the financial consequences of his legal troubles.",
+          "text": "Anthropic is poised for the largest IPO in history, positioning its CEO, Dario Amodei, as a central figure in the AI boom and placing significant investor hopes on the frontier model maker.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "A new pact signed by the US and its allies aims to protect AI supply chains from China, coming ahead of a meeting between Donald Trump and Xi Jinping at the Asia-Pacific Economic Cooperation forum.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Italy is considering an exit tax that would apply capital gains taxes to rich emigrants, a theoretical concept that faces practical challenges and is causing significant debate.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
-        },
-        {
-          "text": "China's banking system is grappling with the aftermath of years of 'Wild East capitalism,' as indebted tycoons pose a significant challenge to the stability of lenders.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Peru's economy unexpectedly slowed in September, primarily due to a downturn in its mining and agriculture sectors, indicating challenges in key economic drivers.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
