@@ -1,24 +1,24 @@
 {
-  "date": "16 November 2026",
-  "generated_at": "2026-11-15T20:00:22.206937+00:00",
+  "date": "17 November 2026",
+  "generated_at": "2026-11-16T20:00:34.398740+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukrainian President Zelensky has urged the US and Elon Musk to lift Starlink restrictions, stating that current limitations are hindering efforts to counter Russian attacks.",
+          "text": "Five European Union countries, including Germany and Denmark, have announced plans to establish a \"return hub\" in Rwanda for failed asylum seekers, a policy that has faced criticism as a grave moral failing.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Iran reportedly targeted a US military base in Bahrain with a drone attack, marking the second such incident in three days amid ongoing tensions with the US over the Strait of Hormuz.",
+          "text": "Russia reported the largest Ukrainian drone attack of the war, with over 2,000 drones launched in a single day, while Kyiv experienced a record 17 air raid alerts.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A collision between two trains in Egypt resulted in at least seven fatalities and 125 injuries, prompting an immediate investigation ordered by the President.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Two mass shootings in South Africa, one in KwaZulu-Natal and another in Gauteng, have resulted in 17 fatalities, highlighting the nation's ongoing struggle with violent crime.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The ACT government is inviting public feedback on the designs for the new North Canberra Hospital, which reportedly takes inspiration from the local landscape's colours.",
+          "text": "The Medical Board of Australia has imposed conditions on surgeon Stefaan De Clercq following the death of his patient, Joanne Downie, at Bundaberg Hospital in October 2023.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A council in Central West NSW has admitted responsibility and will pay $75,000 for discharging untreated sewage into a river, which serves as a drinking water source, for nine days.",
+          "text": "A man has been arrested in connection with the theft of three Melbourne Cup trophies won by Makybe Diva from Flemington, though the trophies remain missing.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Documents reveal that gender-diverse Australian sailors are barred from US submarines despite the AUKUS deal, indicating that the ADF adheres to US directives during training.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A new poll indicates that the Coalition has moved ahead of Labor in two-party preferred polling for the first time since the federal election.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Anthropic is poised for the largest IPO in history, positioning its CEO, Dario Amodei, as a central figure in the AI boom and placing significant investor hopes on the frontier model maker.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "A new pact signed by the US and its allies aims to protect AI supply chains from China, coming ahead of a meeting between Donald Trump and Xi Jinping at the Asia-Pacific Economic Cooperation forum.",
+          "text": "US tech stocks, including the Nasdaq 100, experienced a significant slide, with investors remaining cautious about the AI trade ahead of Nvidia's earnings and Anthropic's expected IPO.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Peru's economy unexpectedly slowed in September, primarily due to a downturn in its mining and agriculture sectors, indicating challenges in key economic drivers.",
+          "text": "Brazilian financial markets, including the real and corporate bonds, slumped due to increasing concerns over the government's fiscal plans, leading to expectations of sustained high interest rates.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "A group of banks led by Citigroup Inc. withdrew a debt deal for IT provider UST Global Inc. from the syndicated loan market after failing to attract sufficient investor demand.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
