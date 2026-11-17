@@ -1,22 +1,22 @@
 {
-  "date": "17 November 2026",
-  "generated_at": "2026-11-16T20:00:34.398740+00:00",
+  "date": "18 November 2026",
+  "generated_at": "2026-11-17T20:00:27.127641+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Five European Union countries, including Germany and Denmark, have announced plans to establish a \"return hub\" in Rwanda for failed asylum seekers, a policy that has faced criticism as a grave moral failing.",
+          "text": "The strategic Crimean Bridge, a key symbol of Russia's occupation of Ukraine, has suffered major damage after a seven-stage attack by Kyiv, which Ukraine says took weeks to plan.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russia reported the largest Ukrainian drone attack of the war, with over 2,000 drones launched in a single day, while Kyiv experienced a record 17 air raid alerts.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Five EU member states, including Germany and Denmark, have announced plans to establish offshore immigration 'return hubs' in Rwanda, a policy likely to face challenges and criticism.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         },
         {
-          "text": "Two mass shootings in South Africa, one in KwaZulu-Natal and another in Gauteng, have resulted in 17 fatalities, highlighting the nation's ongoing struggle with violent crime.",
+          "text": "A 72-year-old Palestinian woman was reportedly shot dead by Israeli settlers in the West Bank, with Palestinians alleging an attack by settlers, while the Israeli military claims settlers fired after being attacked.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Medical Board of Australia has imposed conditions on surgeon Stefaan De Clercq following the death of his patient, Joanne Downie, at Bundaberg Hospital in October 2023.",
+          "text": "The independent infrastructure authority for the 2032 Paralympics in Australia currently has no employees with disabilities, a fact Paralympians highlight as a missed opportunity.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A man has been arrested in connection with the theft of three Melbourne Cup trophies won by Makybe Diva from Flemington, though the trophies remain missing.",
+          "text": "Researchers in Australia are investigating whether pollution from an abandoned mine could be inadvertently helping an endangered frog population near Canberra survive a deadly fungal disease.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A new poll indicates that the Coalition has moved ahead of Labor in two-party preferred polling for the first time since the federal election.",
+          "text": "Australia has imposed new sanctions targeting illegal Israeli settlements and human rights abuses against Palestinians.",
           "source": "SMH",
           "url": "https://www.smh.com.au"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US tech stocks, including the Nasdaq 100, experienced a significant slide, with investors remaining cautious about the AI trade ahead of Nvidia's earnings and Anthropic's expected IPO.",
+          "text": "Nvidia faces scrutiny as co-founder Jensen Huang is prepared to return as CEO following revelations of extramarital affairs and a board probe into the company's links to Megaspeed, while US tech stocks slide ahead of its earnings report.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Brazilian financial markets, including the real and corporate bonds, slumped due to increasing concerns over the government's fiscal plans, leading to expectations of sustained high interest rates.",
+          "text": "Deutsche Bank is working to manage the fallout from a significant data leak that exposed systemic failures, including details related to payments tied to Jeffrey Epstein and efforts to expand its Russian business.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "A group of banks led by Citigroup Inc. withdrew a debt deal for IT provider UST Global Inc. from the syndicated loan market after failing to attract sufficient investor demand.",
+          "text": "The Federal Reserve's John Williams indicated he does not foresee a need for 'dramatic action' on interest rates, despite observing drivers like AI contributing to inflation, but noted it's not broadly spreading.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         }
