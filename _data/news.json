@@ -1,24 +1,24 @@
 {
-  "date": "18 November 2026",
-  "generated_at": "2026-11-17T20:00:27.127641+00:00",
+  "date": "19 November 2026",
+  "generated_at": "2026-11-18T20:01:10.699053+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The strategic Crimean Bridge, a key symbol of Russia's occupation of Ukraine, has suffered major damage after a seven-stage attack by Kyiv, which Ukraine says took weeks to plan.",
+          "text": "Ukrainian forces are engaging Russian troops in an underground war within an old gas pipeline and a Soviet tunnel in the Kharkiv region, utilizing the subterranean environment to evade Russian drones.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Five EU member states, including Germany and Denmark, have announced plans to establish offshore immigration 'return hubs' in Rwanda, a policy likely to face challenges and criticism.",
+          "text": "Fears are mounting that the US may sanction a Nobel-winning judge following a Myanmar genocide ruling, which could establish a precedent for future international court judgments, including those related to Israel's actions in Gaza.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         },
         {
-          "text": "A 72-year-old Palestinian woman was reportedly shot dead by Israeli settlers in the West Bank, with Palestinians alleging an attack by settlers, while the Israeli military claims settlers fired after being attacked.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/world"
+          "text": "Five EU member states, including Germany and Austria, have announced intentions to establish offshore immigration 'return hubs' in Rwanda, a policy that is expected to face significant challenges and criticism.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The independent infrastructure authority for the 2032 Paralympics in Australia currently has no employees with disabilities, a fact Paralympians highlight as a missed opportunity.",
+          "text": "Video game developers are reportedly leaving New South Wales due to insufficient state funding, seeking better support elsewhere.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Researchers in Australia are investigating whether pollution from an abandoned mine could be inadvertently helping an endangered frog population near Canberra survive a deadly fungal disease.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Cameron Bancroft's recent comments have reportedly cast doubt on Australian cricket captain Pat Cummins' integrity, revisiting the 'Sandpapergate' scandal.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "Australia has imposed new sanctions targeting illegal Israeli settlements and human rights abuses against Palestinians.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "Prime Minister Anthony Albanese participated in a leaders' photo with Vladimir Putin at the Apec summit, despite objections from some pro-Ukraine Australians.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Nvidia faces scrutiny as co-founder Jensen Huang is prepared to return as CEO following revelations of extramarital affairs and a board probe into the company's links to Megaspeed, while US tech stocks slide ahead of its earnings report.",
+          "text": "The Federal Reserve's recent meeting minutes indicate that nearly all officials believe further interest rate hikes will likely be necessary in the coming months to control inflation.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "The rush to implement AI-driven bug fixes is being blamed for recent major US tech outages at companies like Microsoft and JPMorgan, with experts suggesting the rapid patching created system instability.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Deutsche Bank is working to manage the fallout from a significant data leak that exposed systemic failures, including details related to payments tied to Jeffrey Epstein and efforts to expand its Russian business.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "The Federal Reserve's John Williams indicated he does not foresee a need for 'dramatic action' on interest rates, despite observing drivers like AI contributing to inflation, but noted it's not broadly spreading.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Concerns are rising about a potential 'historic parallel' between the current AI borrowing binge and the subprime bubble, as hyperscalers accumulate trillions in off-balance sheet commitments.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
