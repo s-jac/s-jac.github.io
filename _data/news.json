@@ -1,22 +1,22 @@
 {
-  "date": "19 November 2026",
-  "generated_at": "2026-11-18T20:01:10.699053+00:00",
+  "date": "20 November 2026",
+  "generated_at": "2026-11-19T20:00:23.756150+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukrainian forces are engaging Russian troops in an underground war within an old gas pipeline and a Soviet tunnel in the Kharkiv region, utilizing the subterranean environment to evade Russian drones.",
+          "text": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military crackdown, an unprecedented verdict for the top UN court.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Fears are mounting that the US may sanction a Nobel-winning judge following a Myanmar genocide ruling, which could establish a precedent for future international court judgments, including those related to Israel's actions in Gaza.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "A boat carrying between 50 and 100 migrants has sunk off the coast of Senegal, with dozens missing and at least four bodies recovered.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Five EU member states, including Germany and Austria, have announced intentions to establish offshore immigration 'return hubs' in Rwanda, a policy that is expected to face significant challenges and criticism.",
+          "text": "One in four women globally, and almost half in West and Central Africa, are unable to refuse sex within marriage, according to a UN report, with girls being the most affected group.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Video game developers are reportedly leaving New South Wales due to insufficient state funding, seeking better support elsewhere.",
+          "text": "Staffers for NSW politicians are reportedly experiencing 'unprecedented' levels of violence, prompting their union to raise alarms about security.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Cameron Bancroft's recent comments have reportedly cast doubt on Australian cricket captain Pat Cummins' integrity, revisiting the 'Sandpapergate' scandal.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Prime Minister Anthony Albanese is meeting with Chinese President Xi Jinping in Shenzhen to discuss trade and balance Australia's relationship with Beijing.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Prime Minister Anthony Albanese participated in a leaders' photo with Vladimir Putin at the Apec summit, despite objections from some pro-Ukraine Australians.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Five teenage boys have been charged by Queensland Police in connection with an allegedly fatal shooting outside a pub in Logan.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Federal Reserve's recent meeting minutes indicate that nearly all officials believe further interest rate hikes will likely be necessary in the coming months to control inflation.",
+          "text": "AI giant Anthropic has made its Wall Street debut, with its stock beginning to trade after raising $81 billion in a record initial public offering.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Latin American currencies, including the Mexican peso and Brazilian real, experienced a significant sell-off due to mounting rate worries, prompting Brazil's central bank to intervene.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The rush to implement AI-driven bug fixes is being blamed for recent major US tech outages at companies like Microsoft and JPMorgan, with experts suggesting the rapid patching created system instability.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Concerns are rising about a potential 'historic parallel' between the current AI borrowing binge and the subprime bubble, as hyperscalers accumulate trillions in off-balance sheet commitments.",
-          "source": "FT",
-          "url": "https://www.ft.com"
+          "text": "The Federal Reserve has informed employees at its regional branches to anticipate lower pay increases in 2027.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
         }
       ]
     }
