@@ -1,22 +1,22 @@
 {
-  "date": "20 November 2026",
-  "generated_at": "2026-11-19T20:00:23.756150+00:00",
+  "date": "21 November 2026",
+  "generated_at": "2026-11-20T20:00:30.868519+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military crackdown, an unprecedented verdict for the top UN court.",
+          "text": "A Russian missile reportedly hit Poland during a military exercise involving Ukraine's allies, with Warsaw calling it a \"provocation\" though no damage or injuries occurred.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A boat carrying between 50 and 100 migrants has sunk off the coast of Senegal, with dozens missing and at least four bodies recovered.",
+          "text": "Russia launched a major air attack on Kyiv crossings, days after Ukraine targeted the Crimean Bridge, as Russia rejected the possibility of security guarantees for Ukraine.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "One in four women globally, and almost half in West and Central Africa, are unable to refuse sex within marriage, according to a UN report, with girls being the most affected group.",
+          "text": "A UN report states that one in four women globally lack the ability to refuse sex within marriage, with nearly half of women in west and central Africa unable to withhold consent, and girls being the most affected.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Staffers for NSW politicians are reportedly experiencing 'unprecedented' levels of violence, prompting their union to raise alarms about security.",
+          "text": "Prime Minister Anthony Albanese has secured an agreement for new talks with China on artificial intelligence, following his return to Australia.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Prime Minister Anthony Albanese is meeting with Chinese President Xi Jinping in Shenzhen to discuss trade and balance Australia's relationship with Beijing.",
+          "text": "A royal commission investigating corruption in Victoria's construction sector has heard evidence of significant payments to bikies and union officials.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Five teenage boys have been charged by Queensland Police in connection with an allegedly fatal shooting outside a pub in Logan.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "The sale of two major Australian farming properties for carbon credit and forestry projects is sparking concerns about the future of agricultural land.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "AI giant Anthropic has made its Wall Street debut, with its stock beginning to trade after raising $81 billion in a record initial public offering.",
+          "text": "US tech stocks have plummeted, with AI-related investments experiencing heavy selling across Wall Street as investors seek safer haven assets. This downturn has also been linked to reports of a Wall Street regulator probing Nvidia's accounting practices.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Latin American currencies, including the Mexican peso and Brazilian real, experienced a significant sell-off due to mounting rate worries, prompting Brazil's central bank to intervene.",
+          "text": "Anthropic's shares slid almost to their initial public offering price, erasing much of their first-day gains despite the company delivering the largest IPO in history, signaling waning investor confidence in the AI market.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "The Federal Reserve has informed employees at its regional branches to anticipate lower pay increases in 2027.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "Bond yields are rising globally, with the notable exception of China, where the central bank has bucked the trend by cutting interest rates.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
