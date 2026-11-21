@@ -1,22 +1,22 @@
 {
-  "date": "21 November 2026",
-  "generated_at": "2026-11-20T20:00:30.868519+00:00",
+  "date": "22 November 2026",
+  "generated_at": "2026-11-21T20:00:30.879066+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A Russian missile reportedly hit Poland during a military exercise involving Ukraine's allies, with Warsaw calling it a \"provocation\" though no damage or injuries occurred.",
+          "text": "Ukraine's president stated that strikes on the Crimean Bridge were a 'fair response' following 109 Russian aerial attacks on Ukrainian bridges, with a Russia-bound ship also attacked in the Gulf of Finland.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Russia launched a major air attack on Kyiv crossings, days after Ukraine targeted the Crimean Bridge, as Russia rejected the possibility of security guarantees for Ukraine.",
+          "text": "A Mexican drug lord, Fausto Isidro \"Chapo Isidro\" Meza Flores, one of the FBI's 10 most wanted, was arrested after a shootout with authorities, accused of drug trafficking and torture.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A UN report states that one in four women globally lack the ability to refuse sex within marriage, with nearly half of women in west and central Africa unable to withhold consent, and girls being the most affected.",
+          "text": "A UN report states that one in four women globally are unable to refuse sex within marriage, with almost half of women in west and central Africa lacking this power of consent.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com"
         }
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Prime Minister Anthony Albanese has secured an agreement for new talks with China on artificial intelligence, following his return to Australia.",
+          "text": "Australia's emergency services will have reduced time to respond to tsunamis originating from the Southern Ocean, as the Macquarie Island seismic station is no longer operational.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A royal commission investigating corruption in Victoria's construction sector has heard evidence of significant payments to bikies and union officials.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "Prime Minister Anthony Albanese's direct challenge to Russian President Vladimir Putin during a recent foreign policy trip has been highlighted as a notable performance, guided by his middle-power ethos.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         },
         {
-          "text": "The sale of two major Australian farming properties for carbon credit and forestry projects is sparking concerns about the future of agricultural land.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A 'clean' beauty business in Bondi is under investigation after cigarettes were reportedly served on silver platters at a lip gloss launch, raising concerns from health regulators and the federal government.",
+          "source": "The Guardian AU",
+          "url": "https://www.theguardian.com/au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US tech stocks have plummeted, with AI-related investments experiencing heavy selling across Wall Street as investors seek safer haven assets. This downturn has also been linked to reports of a Wall Street regulator probing Nvidia's accounting practices.",
+          "text": "US tech stocks, including shares in Anthropic and Nvidia, experienced their worst week since the Covid-19 crisis, plunging into a bear market amid fears over the AI spending boom on Wall Street.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Anthropic's shares slid almost to their initial public offering price, erasing much of their first-day gains despite the company delivering the largest IPO in history, signaling waning investor confidence in the AI market.",
+          "text": "Goldman Sachs and Apollo have priced $32 billion in SpaceX bonds to fund AI chip purchases, addressing a major challenge in financing the high cost of AI chips for corporations.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Bond yields are rising globally, with the notable exception of China, where the central bank has bucked the trend by cutting interest rates.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "Former President Donald Trump has threatened a \"tremendous\" tax on data centers built outside the US, stating the move is crucial to prevent Beijing from taking the lead in AI development.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
