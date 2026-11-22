@@ -1,17 +1,17 @@
 {
-  "date": "22 November 2026",
-  "generated_at": "2026-11-21T20:00:30.879066+00:00",
+  "date": "23 November 2026",
+  "generated_at": "2026-11-22T20:00:34.905501+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Ukraine's president stated that strikes on the Crimean Bridge were a 'fair response' following 109 Russian aerial attacks on Ukrainian bridges, with a Russia-bound ship also attacked in the Gulf of Finland.",
+          "text": "The COP31 climate summit in Turkey concluded without a major climate deal, as talks exposed deep divisions and a failure to agree on mentioning fossil fuels.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A Mexican drug lord, Fausto Isidro \"Chapo Isidro\" Meza Flores, one of the FBI's 10 most wanted, was arrested after a shootout with authorities, accused of drug trafficking and torture.",
+          "text": "A Russian ship was reportedly attacked by a suspected Ukrainian drone in the Gulf of Finland and later towed away; Libyan officials also reported an explosion on a Russian ship at Benghazi port due to a suspected drone.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Australia's emergency services will have reduced time to respond to tsunamis originating from the Southern Ocean, as the Macquarie Island seismic station is no longer operational.",
+          "text": "The Greens party in Australia is optimistic about reaching an agreement with the government by the end of the week regarding digital duty of care legislation.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Prime Minister Anthony Albanese's direct challenge to Russian President Vladimir Putin during a recent foreign policy trip has been highlighted as a notable performance, guided by his middle-power ethos.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "Families of children with epilepsy are concerned about access to essential care after Canberra Health Services decided not to continue employing a paediatric neurologist.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A 'clean' beauty business in Bondi is under investigation after cigarettes were reportedly served on silver platters at a lip gloss launch, raising concerns from health regulators and the federal government.",
-          "source": "The Guardian AU",
-          "url": "https://www.theguardian.com/au"
+          "text": "A second fire ant nest, potentially a year old, has been discovered in Sydney, following an initial detection of the invasive insects in September.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "US tech stocks, including shares in Anthropic and Nvidia, experienced their worst week since the Covid-19 crisis, plunging into a bear market amid fears over the AI spending boom on Wall Street.",
+          "text": "Tech suppliers including Dell and HPE are increasing AI server prices by up to 45% months after deals are signed, impacting trading firms.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Goldman Sachs and Apollo have priced $32 billion in SpaceX bonds to fund AI chip purchases, addressing a major challenge in financing the high cost of AI chips for corporations.",
+          "text": "The American dream of home ownership is receding as mortgage rates surge, with the benchmark rate now over 7%.",
+          "source": "FT",
+          "url": "https://www.ft.com"
+        },
+        {
+          "text": "Goldman Sachs traders see an attractive entry point in US stocks after a recent selloff, but caution that overall investor positioning remains elevated.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
-        },
-        {
-          "text": "Former President Donald Trump has threatened a \"tremendous\" tax on data centers built outside the US, stating the move is crucial to prevent Beijing from taking the lead in AI development.",
-          "source": "FT",
-          "url": "https://www.ft.com"
         }
       ]
     }
