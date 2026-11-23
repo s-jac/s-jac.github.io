@@ -1,24 +1,24 @@
 {
-  "date": "23 November 2026",
-  "generated_at": "2026-11-22T20:00:34.905501+00:00",
+  "date": "24 November 2026",
+  "generated_at": "2026-11-23T20:00:22.467752+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "The COP31 climate summit in Turkey concluded without a major climate deal, as talks exposed deep divisions and a failure to agree on mentioning fossil fuels.",
+          "text": "A Russian warship was reportedly hit by Ukrainian drones in Libya, according to Ukrainian President Zelensky, prompting warnings from the Kremlin about escalating regional tensions.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A Russian ship was reportedly attacked by a suspected Ukrainian drone in the Gulf of Finland and later towed away; Libyan officials also reported an explosion on a Russian ship at Benghazi port due to a suspected drone.",
+          "text": "Iranian authorities have reportedly flogged a singer who performed without a hijab, with lawyers stating that Parastoo Ahmadi and others received 74 lashes.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A UN report states that one in four women globally are unable to refuse sex within marriage, with almost half of women in west and central Africa lacking this power of consent.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com"
+          "text": "Oxfam reports that Israeli attacks have transformed Gaza into a 'toxic wasteland,' indicating possible widespread contamination across the region.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/world"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "The Greens party in Australia is optimistic about reaching an agreement with the government by the end of the week regarding digital duty of care legislation.",
+          "text": "Prime Minister Anthony Albanese is scheduled to meet with Singaporean counterpart Lawrence Wong in Canberra for discussions on trade, signaling ongoing diplomatic and economic engagements.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Families of children with epilepsy are concerned about access to essential care after Canberra Health Services decided not to continue employing a paediatric neurologist.",
+          "text": "An Adelaide nurse has been found by a tribunal to have deliberately squeezed an 18-year-old patient's genitals while taking a blood sample, raising concerns about professional conduct and patient safety.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A second fire ant nest, potentially a year old, has been discovered in Sydney, following an initial detection of the invasive insects in September.",
-          "source": "SMH",
-          "url": "https://www.smh.com.au"
+          "text": "A new report reveals that over 91,000 child protection reports related to domestic and family violence were made in New South Wales within the past year, highlighting a significant issue affecting children's welfare.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Tech suppliers including Dell and HPE are increasing AI server prices by up to 45% months after deals are signed, impacting trading firms.",
+          "text": "Jensen Huang has been reinstated as Nvidia CEO, a move that surprised many and led to a significant rally in US stocks, particularly in the AI sector, with Nvidia soaring 30%.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "The American dream of home ownership is receding as mortgage rates surge, with the benchmark rate now over 7%.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "Goldman Sachs traders see an attractive entry point in US stocks after a recent selloff, but caution that overall investor positioning remains elevated.",
+          "text": "The Brazilian Real has fallen to a 19-month low as a post-election selloff continues, reflecting investor doubts following President Luiz Inácio Lula da Silva's re-election.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Bond yields are generally rising globally, except in China, where the central bank has cut interest rates, indicating a diverging monetary policy approach.",
+          "source": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics"
         }
       ]
     }
