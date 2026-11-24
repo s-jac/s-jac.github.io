@@ -1,22 +1,22 @@
 {
-  "date": "24 November 2026",
-  "generated_at": "2026-11-23T20:00:22.467752+00:00",
+  "date": "25 November 2026",
+  "generated_at": "2026-11-24T20:00:40.130028+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A Russian warship was reportedly hit by Ukrainian drones in Libya, according to Ukrainian President Zelensky, prompting warnings from the Kremlin about escalating regional tensions.",
+          "text": "Land mine casualties in Syria have significantly increased two years after the war, with nearly 1,000 children among those killed or injured by leftover explosives.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Iranian authorities have reportedly flogged a singer who performed without a hijab, with lawyers stating that Parastoo Ahmadi and others received 74 lashes.",
+          "text": "An Israeli air strike in Gaza has reportedly killed Naeem Abu Nahel, Hamas's internal security chief, along with six other Palestinians.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "Oxfam reports that Israeli attacks have transformed Gaza into a 'toxic wasteland,' indicating possible widespread contamination across the region.",
+          "text": "The Nato chief has pledged to defend against space threats following reports that Russia plans to launch a satellite with a nuclear warhead.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Prime Minister Anthony Albanese is scheduled to meet with Singaporean counterpart Lawrence Wong in Canberra for discussions on trade, signaling ongoing diplomatic and economic engagements.",
+          "text": "A data breach in the National Parks booking system has led to a surge of 4WDs on a critical turtle nesting beach in Queensland, causing concern for wildlife.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "An Adelaide nurse has been found by a tribunal to have deliberately squeezed an 18-year-old patient's genitals while taking a blood sample, raising concerns about professional conduct and patient safety.",
+          "text": "Older Australians are expressing frustration over reassessments for the Support at Home program, with an interim inquiry report expected in parliament this week.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A new report reveals that over 91,000 child protection reports related to domestic and family violence were made in New South Wales within the past year, highlighting a significant issue affecting children's welfare.",
+          "text": "A bipartisan parliamentary committee has recommended reversing changes made in 2021 that limited the powers of South Australia's anti-corruption watchdog.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "Jensen Huang has been reinstated as Nvidia CEO, a move that surprised many and led to a significant rally in US stocks, particularly in the AI sector, with Nvidia soaring 30%.",
-          "source": "FT",
-          "url": "https://www.ft.com"
-        },
-        {
-          "text": "The Brazilian Real has fallen to a 19-month low as a post-election selloff continues, reflecting investor doubts following President Luiz Inácio Lula da Silva's re-election.",
+          "text": "The Nasdaq 100 Index experienced a significant drop, driven by a decline in chipmakers, as investor enthusiasm for AI-related technology stocks waned amid broader market concerns.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Bond yields are generally rising globally, except in China, where the central bank has cut interest rates, indicating a diverging monetary policy approach.",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics"
+          "text": "The Canadian dollar saw its largest gain in over three months after the Bank of Canada warned that rising oil costs are expected to further increase consumer prices, exacerbating existing inflationary pressures.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "text": "Former President Trump is preparing to implement new tariffs on major economies, including China, the EU, Japan, and South Korea, signaling a renewed focus on his protectionist trade strategy.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
