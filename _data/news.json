@@ -1,22 +1,22 @@
 {
-  "date": "25 November 2026",
-  "generated_at": "2026-11-24T20:00:40.130028+00:00",
+  "date": "26 November 2026",
+  "generated_at": "2026-11-25T20:00:26.678050+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "Land mine casualties in Syria have significantly increased two years after the war, with nearly 1,000 children among those killed or injured by leftover explosives.",
+          "text": "The US has announced new tariffs on several of its largest trading partners, including China and the EU, signalling a shift in global trade policies.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "An Israeli air strike in Gaza has reportedly killed Naeem Abu Nahel, Hamas's internal security chief, along with six other Palestinians.",
+          "text": "New images reveal a stadium-sized crater on an asteroid, four years after a spacecraft deliberately crashed into it as part of a test of Earth's planetary defence systems.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "The Nato chief has pledged to defend against space threats following reports that Russia plans to launch a satellite with a nuclear warhead.",
+          "text": "Judges in Israel have recommended dropping the most serious charges against Prime Minister Benjamin Netanyahu, with little chance of conviction in one of his three ongoing cases.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "A data breach in the National Parks booking system has led to a surge of 4WDs on a critical turtle nesting beach in Queensland, causing concern for wildlife.",
+          "text": "South Australian Liberal senator Leah Blyth has defected to One Nation, citing a loss of confidence in the Liberal party's direction.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "Older Australians are expressing frustration over reassessments for the Support at Home program, with an interim inquiry report expected in parliament this week.",
+          "text": "An out-of-control bushfire on Flinders Island has burned approximately 13,000 hectares, with fire services warning of its rapid south-west movement.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A bipartisan parliamentary committee has recommended reversing changes made in 2021 that limited the powers of South Australia's anti-corruption watchdog.",
+          "text": "Gold Coast Mayor Tom Tate reportedly secured a lucrative deal for a prime real estate parcel, taking over the private purchase from a major Australian developer.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,17 +46,17 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Nasdaq 100 Index experienced a significant drop, driven by a decline in chipmakers, as investor enthusiasm for AI-related technology stocks waned amid broader market concerns.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "US stocks experienced a volatile session, with AI-related companies like Nvidia facing pressure, although AI start-up Anthropic saw its shares recover above IPO price.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "The Canadian dollar saw its largest gain in over three months after the Bank of Canada warned that rising oil costs are expected to further increase consumer prices, exacerbating existing inflationary pressures.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The US Treasury's financial crime watchdog, FinCen, was hit by a suspected cyber attack, leading to systems being taken offline amidst growing concerns over technology system vulnerabilities.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         },
         {
-          "text": "Former President Trump is preparing to implement new tariffs on major economies, including China, the EU, Japan, and South Korea, signaling a renewed focus on his protectionist trade strategy.",
+          "text": "US GDP figures were upgraded, with the economy growing at an annualised rate of 4.3% in the third quarter, up from an initial estimate of 3.4%, which could keep a December rate rise in play for the Federal Reserve.",
           "source": "FT",
           "url": "https://www.ft.com"
         }
