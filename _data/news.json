@@ -1,22 +1,22 @@
 {
-  "date": "27 November 2026",
-  "generated_at": "2026-11-26T20:01:41.751181+00:00",
+  "date": "28 November 2026",
+  "generated_at": "2026-11-27T20:00:49.079280+00:00",
   "sections": [
     {
       "heading": "World",
       "bullets": [
         {
-          "text": "A German boat dealer is suspected of supplying Channel smuggling gangs, with nearly a third of migrant crossings in early 2026 allegedly involving boats or engines from his firm, according to a BBC investigation. Marvin Reuter is contesting extradition to France on charges including smuggling and involuntary manslaughter.",
+          "text": "Ukrainian President Zelensky has criticized a 'strange' friendship between Donald Trump and Vladimir Putin, expressing frustration with the US for not pushing Russia harder in peace talks.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A diesel tanker carrying up to 7,000 tonnes capsized near Ibiza, resulting in one fatality. Spanish sea rescue services are currently assessing the potential environmental damage from the incident.",
+          "text": "A Kenyan doomsday cult leader, Paul Mackenzie, has been convicted over an additional 123 deaths, weeks after being jailed for the mass murder of children.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         },
         {
-          "text": "A cheaper, twice-yearly HIV prevention injection, Lenacapavir, has arrived in Africa, offering hope to millions. This new jab is nearly 100% effective at preventing HIV infection.",
+          "text": "Canada's top court has largely upheld Quebec's ban on religious symbols for public servants, a law that faced challenges from groups arguing it violated fundamental rights.",
           "source": "BBC World",
           "url": "https://www.bbc.com/news/world"
         }
@@ -26,17 +26,17 @@
       "heading": "Australia",
       "bullets": [
         {
-          "text": "Over 80 Australians were injured in 2025 due to unsafe products purchased through online marketplaces, prompting consumer watchdog concerns about the true scale of the problem.",
+          "text": "A controversial proposal to convert a decommissioned prison in Victoria's north into a boot camp for young offenders has garnered mixed community reactions.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         },
         {
-          "text": "A remote Australian community is becoming a focal point for the space industry, with a new rocket company, RangeOz, developing a launch site near the existing Koonibba Test Range.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news"
+          "text": "A 13-year-old boy was killed after being struck by a ute in south-west Sydney, with police charging the 59-year-old driver with dangerous driving causing death.",
+          "source": "SMH",
+          "url": "https://www.smh.com.au"
         },
         {
-          "text": "Concerns have been raised about the use of smart glasses by a One Nation volunteer outside an early polling booth in Victoria's west, leading to incidents reported to the state's electoral commission.",
+          "text": "Australia experienced its wettest spring on record for an El Niño year, following frequent rain events over the past two months.",
           "source": "ABC News",
           "url": "https://www.abc.net.au/news"
         }
@@ -46,19 +46,19 @@
       "heading": "Economics",
       "bullets": [
         {
-          "text": "The Federal Reserve is expected to increase interest rates, prioritizing inflation control despite recent stock market volatility and fears of an economic downturn.",
+          "text": "Western economies are facing a wave of cyber incidents, with institutions like the UK Department for Work and Pensions and the US Treasury experiencing outages, raising concerns about AI-driven threats.",
           "source": "FT",
           "url": "https://www.ft.com"
         },
         {
-          "text": "Ghana has bought back $1.1 billion in domestic bonds ahead of schedule to reassure investors, as its economy recovers from a debt restructuring.",
+          "text": "The US dollar is on track for its longest monthly winning streak since 2024, driven by a shift in the artificial intelligence trade and rising interest rates that are boosting demand for safe-haven assets.",
           "source": "Bloomberg",
           "url": "https://www.bloomberg.com/markets"
         },
         {
-          "text": "Global stock markets are rising, driven by a rebound in technology shares, while copper prices also recovered from an 11-month low.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/markets"
+          "text": "The AI trade is causing significant volatility in markets, with US tech stocks experiencing wild swings and copper surging as investors struggle to price future earnings and navigate the impact of technological revolutions.",
+          "source": "FT",
+          "url": "https://www.ft.com"
         }
       ]
     }
